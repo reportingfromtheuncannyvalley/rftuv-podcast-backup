@@ -22,6 +22,14 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 NET = os.path.expanduser('~/workspace/podcast-network/archive')
 REPO_SLUG = 'reportingfromtheuncannyvalley/rftuv-podcast-backup'
 
+def norm_title(t):
+    import re
+    t = (t or '').lower()
+    t = re.sub(r'^(the rftuv briefing|reporting from the uncanny valley|dead air valley)\s*[:,–—-]?\s*', '', t)
+    t = t.strip().strip('"').strip()
+    t = re.sub(r'[^a-z0-9]+', ' ', t)
+    return re.sub(r'\s+', ' ', t).strip()
+
 def release_assets(tag):
     out = subprocess.run(['gh', 'release', 'view', tag, '--repo', REPO_SLUG,
                           '--json', 'assets', '--jq', '[.assets[].name] | @tsv'],
@@ -36,13 +44,26 @@ def main():
     drift = []
     for show in man['shows']:
         slug = show['slug']
-        # layer 1: bundles vs manifest
+        # layer 1: bundles vs manifest. A bundle whose (normalized title,
+        # duration ±2s) matches a carried episode is a duplicate production
+        # copy (e.g. briefing 2026-10-06-ep8 duplicates Ep5) — covered, not drift.
         known = {os.path.normpath(e['bundle_folder']) for e in show['episodes']}
         root = os.path.join(NET, slug)
         if os.path.isdir(root):
             for d in sorted(os.listdir(root)):
                 full = os.path.normpath(os.path.join(root, d))
-                if os.path.isdir(full) and os.path.exists(os.path.join(full, 'metadata.json')) and full not in known:
+                mp = os.path.join(full, 'metadata.json')
+                if not (os.path.isdir(full) and os.path.exists(mp)) or full in known:
+                    continue
+                try:
+                    meta = json.load(open(mp))
+                except Exception:
+                    meta = {}
+                nt = norm_title(meta.get('title') or '')
+                dur = meta.get('duration_seconds') or meta.get('duration_secs') or 0
+                dup = any(norm_title(e['bundle_title']) == nt and abs((e['duration_seconds'] or 0) - dur) <= 2
+                          for e in show['episodes'])
+                if not dup:
                     drift.append(f'{slug}: bundle not in manifest: {d}')
         # layer 2: manifest vs release assets
         assets = release_assets(show['release_tag'])
