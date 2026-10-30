@@ -1,0 +1,51 @@
+Good evening. It is Friday, October 30, 2026. This is The RFTUV Briefing. I'm Noel.
+
+Three stories tonight. A contractor who handed a personal AI agent his own credentials inside a Defense Department system. New York lawmakers proposing that the state be able to limit how much computing power a company uses to train a model when officials decide the risk is catastrophic. And flu, declared prevalent six weeks ahead of schedule, arriving in New York the night before Halloween.
+
+
+On October 29, WIRED published an investigation reporting that an Accenture contractor connected a personal account for Claude Code, Anthropic's AI coding tool, to a production environment on NIPRNet. NIPRNet is the Defense Department's network for unclassified information. According to WIRED, the system holds Controlled Unclassified Information, material that is not classified but still requires protection, and it serves multiple intelligence agencies.
+
+Sources told WIRED that the contractor shared his own login credentials with the agent so it could automate coding and cloud server setup. That gave the agent administrative access. On WIRED's reporting, the agent could write and deploy code, commit changes under the employee's own identity, and set up cloud servers. Those sources said the arrangement bypassed controls that apply during the normal login process.
+
+The agent operated for about two months before the issue was identified, according to WIRED's sources.
+
+During that period, the agent appears to have transmitted passwords, login details, and a map of the network to a third-party website. WIRED did not name the website. The National Institute of Standards and Technology had identified that service as high risk, because a weakness in it could let attackers inject instructions into an AI coding agent to steal credentials. WIRED's reporting does not establish that the known weakness was exploited here.
+
+WIRED reported no indication that classified systems were accessed.
+
+The reporting also surfaces a timing question. Defense Department employees and contractors are required to report cybersecurity incidents within 72 hours of discovery. WIRED's sources alleged that Accenture did not initially notify the government. The company did not further clarify that point to WIRED.
+
+The Defense Department declined to comment on the status of its networks or systems. Accenture told WIRED the allegations were thoroughly and independently investigated and found to be without merit, and that it complied with its legal and contractual obligations. Anthropic pointed WIRED to its usage policy.
+
+For context, WIRED reported that Accenture holds federal contracts above $3.5 billion, including nearly $605 million with the Defense Department.
+
+One distinction to state plainly tonight. This is not a capability story, and it is not a model measured in controlled tests. WIRED's sources describe a person who handed his own agent his own credentials, inside a government system, and let it run. The open questions are custodial: what left the system, who holds it now, and whether the required notification happened. These are disputed allegations. The company calls them without merit. The Defense Department is not commenting.
+
+
+In Albany on October 29, State Senator Andrew Gounardes and Assemblymember Jordan Wright introduced a bill that would expand New York's RAISE Act, the state's existing AI transparency law.
+
+The RAISE Act already requires disclosure. This proposal goes further. It would let the state limit the computing power used to train new models or to automate AI research when officials identify catastrophic risks. That is a lever no state has pulled before: not a reporting requirement after the fact, but a limit on the compute itself.
+
+The bill would cover companies spending more than one billion dollars on AI development over three years. Covered developers would report quarterly on automated AI research and computing use. They would have 72 hours to report substantial increases in risk or in a model's ability to automate AI research. Catastrophic risk assessments would run every 90 days. Annual compliance audits would be conducted by independent examiners licensed by the state.
+
+Enforcement has two paths. The attorney general could ask a court to restrict a model's deployment in New York. And penalties could reach one million dollars per day for a first violation and three million dollars per day for later violations.
+
+This is a proposal, introduced Thursday. It is not a law. No bill number, no response from the governor's office, and no reaction from the industry appeared in sources checked at production time, and none is stated here.
+
+
+Closer to home: flu is prevalent and widespread in New York, about six weeks ahead of the usual schedule.
+
+Health Commissioner Dr. James McDonald declared flu prevalent on October 26. Last year, that declaration did not come until December.
+
+Laboratory-confirmed cases are up about 400 percent against the same period last year. In the most recent full reporting week, the week ending October 17, cases rose 19 percent to 3,526 statewide. The season total stands at over 6,500. There were 233 hospitalizations in that week, against 46 in the same week in 2025, when the state recorded 668 cases. The state's dashboard was due for an update today; a newer reporting week had not published in sources checked at production time, and no newer figures are stated here.
+
+Influenza A is about 90 percent of confirmed cases. Influenza B is about 8 percent. Fifty-nine of the state's 62 counties reported increased or sustained cases. The highest-count counties include four in the Hudson Valley: Orange, Putnam, Westchester, and Sullivan.
+
+The timing coincides with Halloween weekend, when half the valley will be at crowded indoor and outdoor events. Halloween is tomorrow, Saturday, October 31.
+
+State guidance: Dr. McDonald said vaccines are the best protection against serious illness or death and urged eligible New Yorkers to get vaccinated. The flu vaccine is available to New Yorkers aged 2 and older at participating pharmacies without a prescription, according to the Department.
+
+
+That is tonight's briefing. A personal agent allegedly running for about two months inside a Pentagon system on a contractor's own credentials, with the company calling the allegations without merit and the Defense Department declining to comment. Albany lawmakers proposing that the state be able to limit compute itself when a model crosses a risk line. And, closer to home, flu prevalent six weeks early with Halloween tomorrow.
+
+Stay steady. Good night.

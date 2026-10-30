@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>The RFTUV Briefing is a short AI news and tech news podcast from Reporting from the Uncanny Valley (RFTUV), built from reporting and analysis at rftuv.ai. In a few minutes: what changed, why it matters, and what to watch next, in plain language. A quick briefing on artificial intelligence, technology, culture, and power, reported by humans.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 15:46:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 20:24:21 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/briefing.xml" rel="self" type="application/rss+xml" />
     <itunes:author>The RFTUV Briefing</itunes:author>
@@ -20,6 +20,26 @@
     <podcast:guid>dd1b915a-98c8-59c0-a2ce-b5f61f5255a9</podcast:guid>
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
+    <item>
+      <title>A Personal Agent in the Pentagon, a Compute Limit in Albany, and Flu Six Weeks Early</title>
+      <description>A Personal Agent in the Pentagon, a Compute Limit in Albany, and Flu Six Weeks Early. Hosted by Noel.
+
+WIRED reported on October 29, citing sources, that an Accenture contractor connected a personal Claude Code account to a production environment on NIPRNet, the Defense Department's unclassified network, which holds Controlled Unclassified Information and serves multiple intelligence agencies. The sources said the contractor shared his own login credentials, giving the agent administrative access to write and deploy code and set up cloud servers, that it operated for about two months, and that it appears to have transmitted passwords, login details, and a network map to a third-party website WIRED did not name. WIRED reported no indication that classified systems were accessed and does not establish that a known weakness in that service was exploited. Accenture told WIRED the allegations were thoroughly and independently investigated and found to be without merit and that it complied with its legal and contractual obligations; the Defense Department declined to comment. Plus: State Senator Andrew Gounardes and Assemblymember Jordan Wright introduced a bill expanding the RAISE Act that would let New York limit computing power for risky AI models, covering companies spending more than $1 billion on AI development over three years, with quarterly reporting, 90-day risk assessments, annual audits, and penalties up to $1 million per day for a first violation and $3 million per day for later violations. It is a proposal, not a law. And influenza is prevalent and widespread in New York about six weeks ahead of schedule, with 3,526 laboratory-confirmed cases in the week ending October 17, up 19 percent and about 400 percent above the same period last year, and Orange, Putnam, Westchester, and Sullivan among the highest-count counties. Hosted by Noel.
+
+Stories:
+- A personal AI agent allegedly given access to a Pentagon system (WIRED)
+- New York lawmakers propose letting the state limit compute for risky AI models (New York State Senate)
+- Flu arrives six weeks early in New York (New York State Department of Health)</description>
+      <pubDate>Fri, 30 Oct 2026 12:10:00 +0000</pubDate>
+      <guid isPermaLink="false">3e7dfc7d-22a1-58b9-ba19-4683ea7ba883</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep053.mp3" length="3092965" type="audio/mpeg" />
+      <itunes:duration>00:06:26</itunes:duration>
+      <itunes:episode>53</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep053.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep053.txt" type="text/plain" />
+    </item>
     <item>
       <title>Two Charged in Stockport, Beekman Ordered to Open a Sober Home, and GM Pays $220 Million</title>
       <description>Two Charged in Stockport, Beekman Ordered to Open a Sober Home, and GM Pays $220 Million. Hosted by Noel.

@@ -1,0 +1,107 @@
+The Pause That Exempts Its Biggest Project. Episode 28, October 30, 2026. Hosted by Noel.
+
+New York announced the nation's first statewide data center moratorium in July. The largest data center proposal in the state's North Country may never face it. That gap is not a bug someone discovered after the fact. It is written into the order itself, and it is where this episode starts.
+
+Ellis Ward at rftuv.ai published a full landscape examination of New York's data center pause on October twenty-ninth, 2026. That article is the spine of what follows. Ellis covers AI systems and the policy instruments that govern them, and his lens here is precise: what does a moratorium on one agency's discretionary permits actually do to a queue measured in gigawatts? The answer, as you will hear, is less than the headline suggests and more than the industry's loudest critics of the pause will admit.
+
+Three acts: The instrument, the place, and the stakes.
+
+Act One: The Instrument
+
+On July fourteenth, 2026, Governor Kathy Hochul signed Executive Order Number Sixty-Two. The full title is worth saying aloud: "Establishing a Temporary Moratorium on Data Centers in New York While the State Develops Higher Standards for Data Center Development and Benefits Blueprint to Support Localities." Her office described it as the nation's first statewide data center moratorium. The description is accurate and the carve-outs are substantial, and you need both halves to understand what happened.
+
+Here is the mechanism. The Department of Environmental Conservation will not issue new discretionary permits or approvals for data centers that consume, or can consume, fifty megawatts or more. But only for applications not yet deemed complete before the order took effect. Any application the DEC had already deemed complete before July fourteenth escapes the pause entirely. Facilities supporting manufacturing, research, education, or medical care are exempt. A group of facilities on contiguous sites counts as a single data center when calculating whether the fifty-megawatt threshold is crossed.
+
+Three limits stacked together: one agency, one threshold, one application window. The order does not touch local permitting at all. Towns retain full authority to approve or block projects, whatever the state does. The pause binds the DEC. It does not bind a town board.
+
+The pause runs until the Department of Public Service finalizes a Generic Environmental Impact Statement through the Energize NY proceeding, Case Twenty-Six-E-Zero-Zero-Four-Five, the large-load interconnection reform case the PSC opened on February twelfth of this year. On September seventeenth, the PSC issued a positive declaration and a Draft Scope. Public comments were due October twentieth. The GEIS examines energy demand, water use and quality, air quality, disproportionate impacts on disadvantaged communities, and noise.
+
+How long does the GEIS take? The governor's office says up to a year. Jones Day, which analyzed the order's text, notes that the order itself states no one-year cap. The timeline is open.
+
+Energize NY, the doctrine underneath the pause, was announced in Hochul's January thirteenth State of the State address. Its logic is direct: data centers will either pay more for their energy or supply their own.
+
+Now look at what the Legislature tried to do before the governor acted. State Senator Kristen Gonzalez sponsored the Responsible Data Center Development Act. It passed both chambers on June fourth, 2026. The governor did not sign it. What would it have done? A one-year moratorium starting at twenty megawatts, not fifty. Public hearings in host communities. A DEC environmental impact report. New electric and water rate classes for facilities above twenty megawatts. Efficiency goals above five megawatts. A host community benefit program above twenty megawatts. Labor standards above five megawatts.
+
+The bill passed both chambers and has never been signed. The executive order that came instead reaches a higher threshold, binds one agency, and leaves local authority untouched. Senator Gonzalez applauded what followed from the order anyway. In October, Empire State Development released a Community Investment Framework under a sixty-day direction in the order. Gonzalez said: "This summer I visited thirteen communities across the state fighting hyperscale data centers, and it was clear that from Brooklyn to Buffalo, communities are looking for long-term investment and a seat at the table."
+
+The Community Investment Framework from Empire State Development is voluntary. This is not a small detail. The framework is a template that localities may use and modify. Its central benchmark, a recommended community investment of one million dollars per megawatt, means a fifty-megawatt facility carries a recommended fifty-million-dollar investment, potentially through a locally managed Community Investment Fund. The menu covers roads, water and sewer, parks, transit, housing, training, schools, childcare, broadband, public safety, small business support, and vacant property revitalization. Good Neighbor Commitments address water, noise, lighting, and design, with prevailing wages and structured local hiring. The framework advises caution on developer nondisclosure agreements and calls for early resident engagement and annual reporting after opening.
+
+ESD President Hope Knight's stated rationale for the benchmark: data centers "are not major local job generators." The benchmark is how the framework tries to translate infrastructure demand into something a town can point to over time. But the framework recommends. It does not require. No regulatory floor attaches to the one-million-dollar figure.
+
+Governor Hochul, in the release accompanying the framework, said: "In the absence of federal leadership, someone has to write the rules and New York is leading the way."
+
+Separately, the Department of Public Service is considering a New York Grid Acceleration Fund and a requirement that data centers fund new clean generation dedicated to their operations. The governor is also pursuing legislation to repeal state sales tax exemptions for large data centers. That repeal is a pursuit, not a completed action.
+
+Act Two: The Place
+
+To understand what the pause means on the ground, you need to know how large the queue already is.
+
+Ellis Ward's article uses NYISO figures as the primary spine, and so does this episode. Other tallies exist and are not directly comparable; when they appear, the source travels with the number.
+
+According to NYISO, the large-load interconnection queue grew from six projects totaling one thousand and forty-five megawatts in twenty-twenty-two to twenty-nine projects totaling nearly six thousand and fifty-five megawatts as of July twenty-twenty-five. New York's operating base is about two hundred and sixty-four megawatts, compared with more than seventeen gigawatts operating in Virginia. NYISO's Power Trends expects more than two thousand five hundred megawatts of additional large-load demand by twenty-thirty-five. Forecasters anticipate roughly two thousand five hundred to four thousand megawatts of queued demand actually reaching the system by twenty-thirty-five.
+
+For a sense of how other tallies compare: Hardware Busters tallied at least twenty-five proposals totaling roughly nine thousand three hundred and forty megawatts, and a Tribune Content Agency count found thirty-eight proposed projects at roughly eleven thousand nine hundred megawatts. Those figures are not comparable to NYISO's count. They use different methodologies, different stages of development, different definitions of what counts as a proposal. The NYISO numbers are the spine.
+
+The gap between what is queued and what the pause actually catches is where the instrument act and the place act meet. Consider the two cases that define this episode's geography.
+
+Massena, St. Lawrence County. NYDIG and its affiliate North Country Colocation Services, or NCCS, propose a one-point-five-million-square-foot, six hundred and thirty-five-megawatt data center on the former Alcoa East site near the St. Lawrence River. This is, as reported by North Country Public Radio, the largest North Country proposal in the state. Six hundred and thirty-five megawatts is about seventy percent of the Moses-Saunders hydroelectric dam's output.
+
+NCCS projects roughly two hundred permanent jobs and becoming one of the town's largest taxpayers. Massena drew roughly ten data center proposals by May twenty-twenty-six. The town board voted three to two against a six-month local moratorium.
+
+Here is the detail the order's carve-outs make significant: NCCS says it needs no new DEC permits because it applied in twenty-twenty. A twenty-twenty application would place this proposal, the state's largest North Country proposal, inside the complete-application exemption. The pause would never apply. St. Lawrence County Planning Director Jason Pfotenhauer has said the exemption could be legitimate. This is reported and claimed. It has not been adjudicated.
+
+Former Mayor James Hidy supports development. Former public works superintendent Hassan Fayad has noted years of economic struggle in the town. The five votes on the town board split three to two in favor of letting proposals proceed. That vote is a local authority decision, exactly the kind the executive order left untouched.
+
+Now come south and east. East Fishkill, Dutchess County. This show's own county.
+
+Treetop Companies explored a roughly one-gigawatt campus, more than one million square feet on about one hundred and forty-three acres, on a wooded site near homes, a daycare, and a house of worship. The project surfaced in the state grid queue before Treetop made any formal approach to the town. Residents were protesting a project that had not formally arrived at town hall.
+
+East Fishkill is a former IBM semiconductor center. A four-hundred-and-sixty-acre IBM campus operated there for nearly fifty years. The town has about thirty thousand people. One reported comparison put the Treetop campus's projected electricity use at more than the city of Buffalo uses, a city of about two hundred and seventy-five thousand people.
+
+Resident and professor Tanya Radford said: "We're at this moment where things are happening very quickly, we need to get our ducks in a row and think about the various ways in which datacenters and new energy usage will affect our long-term community cohesiveness, environmental quality, and character."
+
+In late June twenty-twenty-six, the East Fishkill town board adopted a unanimous three-year moratorium on data centers over twenty megawatts, running to July twenty-twenty-nine. The board used the authority the executive order explicitly left with towns. In October twenty-twenty-six, Treetop Companies formally challenged that moratorium, according to reporting. The challenge has not been decided.
+
+Brookhaven on Long Island followed East Fishkill with an eighteen-month moratorium of its own.
+
+Same policy from Albany, opposite ends of the state, opposite local outcomes so far. Massena voted against a local moratorium. East Fishkill voted unanimously for one. The complete-application exemption may mean the state pause never applied to Massena's largest proposal at any point. In East Fishkill, the state pause exists in theory, but the town's own three-year moratorium now runs longer and starts lower, at twenty megawatts against the state's fifty.
+
+Massena and East Fishkill are not the whole map. Niagara County has five operating complexes and five more proposed in Niagara Falls alone. Stream Data Centers proposes a six-point-three-billion-dollar, two-hundred-and-fifty-megawatt campus at STAMP in Genesee County, projecting more than one thousand construction jobs and more than one hundred and twenty long-term positions, with closed-loop air cooling. TeraWulf proposes a four-hundred-megawatt Cayuga campus in Lansing on the former Cayuga Power Plant site. Hearings in Lansing drew near-unanimous community opposition, and operations are not expected before roughly twenty-twenty-nine.
+
+Act Three: The Stakes
+
+Behind every megawatt in the queue is an accounting question, and the accounting question is who pays.
+
+Utilities recover infrastructure investment through rates. Grid upgrades built to serve large new loads get spread across all customers unless the rules assign those costs to the load that caused them. Case Twenty-Six-E-Zero-Zero-Four-Five, the Energize NY interconnection proceeding, is built on the beneficiary-pays principle. If you need the grid upgrade, you pay for it.
+
+JD Supra's analysis of the pause notes that as utility bills climbed, data centers became a symbol of the affordability squeeze. The governor framed the pause inside an affordability campaign in the run-up to the November third election. The connection between rate design and politics is direct. Cost allocation is a technical proceeding. It is also a story about who gets the bill.
+
+Water is the other arithmetic. How much a data center uses depends almost entirely on how it cools. Reported ranges put evaporative cooling systems at hundreds of thousands to millions of gallons per day. Closed-loop systems run at roughly twenty-two thousand gallons per day. The GEIS scope covers water use and quality, and the executive order directed an assessment of water withdrawal rules. Stream Data Centers' closed-loop design in Genesee County is a deliberate departure from the evaporative norm. The spread between the two approaches is not a technical footnote; it is several orders of magnitude.
+
+Jobs are where the economic argument for data centers runs into its own limits. A typical hyperscale facility generates a few dozen permanent positions. Construction phases generate hundreds to more than a thousand jobs per project. The tension between those two numbers sits in the middle of every host-community negotiation. In post-industrial towns carrying years of fiscal strain, a major new taxpayer matters in ways permanent headcount does not show. The tax base can outlast the construction crew. The permanent jobs number is real and small.
+
+ESD's Community Investment Framework acknowledges that tension directly. The one-million-dollar-per-megawatt benchmark is not a jobs substitute. It is a mechanism to translate the infrastructure demand a large facility places on a community into durable investment that the community controls. Whether it works as designed depends on whether the framework is used, and it is voluntary.
+
+On the question of who is on which side: Ellis Ward's article at rftuv.ai maps the landscape. For development, developers, host-town officials who see tax base and payroll, including Massena's board majority, and construction labor. Patrick Kelly, speaking for the county industrial development authority, cautions that proposals are potential activity, not commitments.
+
+Against or skeptical: host-community residents in Lansing, East Fishkill, and elsewhere; environmental litigants including Earthjustice in the North Tonawanda proceeding; Senator Gonzalez and the bill's sponsors, whose more stringent measure the order effectively displaced; Representative Alexandria Ocasio-Cortez, who has introduced federal legislation for a national moratorium; and industry critics who warn that permitting uncertainty will redirect investment to states that have not paused.
+
+The governor's posture is conditional welcome. On October sixth, at a roundtable in East Fishkill, she stood with Representative Ocasio-Cortez and Representative Pat Ryan and said: "Our job is not to protect the profits of billion-dollar corporations. My job is to protect New Yorkers."
+
+The roundtable was in East Fishkill, this show's county, where the town had already voted unanimously to pause on its own.
+
+Close: What Did the Pause Pause?
+
+The Generic Environmental Impact Statement has no fixed deadline. The governor's office says up to a year. Jones Day notes the order's text states no cap. The Legislature's Responsible Data Center Development Act passed both chambers and has never been signed. The tax exemption repeal is a pursuit, not an action. The Community Investment Framework is voluntary, and its one-million-dollar-per-megawatt benchmark is persuasive rather than binding. The PSC cost allocation proceedings are ongoing. And the complete-application exemption means some of the largest proposals in the state may never face the conditions the pause is meant to establish, because their paperwork crossed the right desk before July fourteenth.
+
+Ellis Ward's article closes on a question, and it is the right one. What, exactly, did the pause pause?
+
+The honest answer is: some portion of new applications, above fifty megawatts, from one agency's docket, for an undefined period, while a grid reform proceeding runs its course, and while towns decide for themselves whether to go further, stop short, or wait.
+
+East Fishkill went further, three years, twenty megawatts, unanimously. Massena stopped short, three to two against any local pause, and the largest proposal there may carry a twenty-twenty application date that puts it outside the state pause too. New York announced a moratorium and built the exemptions into the instrument. The towns are filling the space between what the order says and what it does.
+
+Whether that is enough, whether the Generic Environmental Impact Statement lands before the queue outgrows the question it was meant to answer, whether the Legislature's bill ever returns from the table where it has been sitting since June fourth, whether the tax exemption repeal clears the chamber, whether Treetop's challenge to East Fishkill's moratorium succeeds, whether NCCS's claim about its twenty-twenty application holds under scrutiny: none of these are settled.
+
+What is settled is the order's text, and the text's limits, and the fact that a queue measured in gigawatts was already in motion when the order was signed. Pausing the permits did not pause the queue. The question the GEIS is meant to answer, who the grid is for and who pays for it, was already the most consequential open question in New York energy policy before July fourteenth. The pause made it official.
+
+This is Reporting from the Uncanny Valley. I'm Noel. The analysis in this episode draws on Ellis Ward's October twenty-ninth landscape examination at rftuv.ai, the governor's office, Jones Day, NYISO, North Country Public Radio, Empire State Development, and JD Supra, as sourced in Ellis's article. We'll be back.

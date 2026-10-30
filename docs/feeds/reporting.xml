@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>Reporting from the Uncanny Valley is a technology and culture podcast hosted by Noel Brown from New York's Hudson Valley. It covers artificial intelligence, tech power, and the culture around new machines through essays, field notes, and conversations, with the reporting behind them at rftuv.ai. Plainspoken and curious, with no hype and no tribal politics. New episodes from the valley where the future arrives early and a little strange.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 15:46:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 20:24:21 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/reporting.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Reporting from the Uncanny Valley</itunes:author>
@@ -21,6 +21,26 @@
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
     <podcast:location>Hudson Valley, New York, USA</podcast:location>
+    <item>
+      <title>The Pause That Exempts Its Biggest Project</title>
+      <description>The Pause That Exempts Its Biggest Project. Hosted by Noel.
+
+On July 14, 2026, Governor Kathy Hochul signed Executive Order No. 62, described by her office as the nation's first statewide data center moratorium. The Department of Environmental Conservation pause covers only discretionary permits for data centers at 50 megawatts or more, only for applications not yet deemed complete before the order, and facilities supporting manufacturing, research, education, or medical care are exempt. The Responsible Data Center Development Act, sponsored by State Senator Kristen Gonzalez, passed both chambers on June 4, 2026 at a 20-megawatt threshold and was not signed. The Generic Environmental Impact Statement runs through the Energize NY proceeding, Case 26-E-0045; the governor's office says up to a year, and Jones Day notes the order's own text states no one-year cap. Empire State Development's Community Investment Framework is voluntary, with a recommended benchmark of one million dollars per megawatt, and ESD President Hope Knight's stated rationale is that data centers are not major local job generators. NYISO's queue grew from 6 projects totaling 1,045 megawatts in 2022 to 29 projects totaling nearly 6,055 megawatts as of July 2025, against an operating base of about 264 megawatts. In Massena, NCCS proposes a 635-megawatt data center on the former Alcoa East site and says it needs no new DEC permits because it applied in 2020, a claimed exemption stated as reported, not decided. In East Fishkill, Dutchess County, Treetop Companies explored a roughly one-gigawatt campus that surfaced in the state grid queue before any formal town application; the town board adopted a unanimous three-year moratorium over 20 megawatts to July 2029, and October reporting indicates Treetop has formally challenged it. The episode follows the instrument, the places, and the stakes: who pays for the grid under the beneficiary-pays principle, water use by cooling design, and jobs, where a few dozen permanent positions sit next to hundreds of construction jobs and a host town's tax base. Ellis Ward lens throughout: what a moratorium on permits does and does not do to a queue measured in gigawatts. Hosted by Noel.
+
+Stories:
+- The instrument act: Executive Order No. 62, the 50-megawatt DEC mechanism, the complete-application and facility-type exemptions, the GEIS and Case 26-E-0045 with the Jones Day no-cap caveat, the unsigned Gonzalez bill, local authority untouched, and the voluntary Community Investment Framework (Ellis Ward at rftuv.ai; the governor's office; Jones Day; Empire State Development)
+- The place act: NYISO queue spine with the not-comparable tally caution, Massena and the 2020 application claim, East Fishkill and the queue-before-town-hall sequence, the unanimous three-year town moratorium to July 2029 and the reported Treetop challenge, plus Niagara, STAMP, and Lansing (NYISO; North Country Public Radio)
+- The stakes act: beneficiary-pays cost allocation, water ranges by cooling design, jobs arithmetic and tax base, the balance of interests including Patrick Kelly's potential-activity caution, and the October 6 East Fishkill roundtable (JD Supra; Empire State Development)</description>
+      <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">c870fafb-7efa-51a4-8465-531cbb37b14c</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-reporting/ep028.mp3" length="8813029" type="audio/mpeg" />
+      <itunes:duration>00:18:21</itunes:duration>
+      <itunes:episode>28</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/reporting/ep028.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/reporting/ep028.txt" type="text/plain" />
+    </item>
     <item>
       <title>No Referee Yet: Two Labs Claim to Disprove the Exponential Time Hypothesis</title>
       <description>No Referee Yet: Two Labs Claim to Disprove the Exponential Time Hypothesis. Hosted by Noel.

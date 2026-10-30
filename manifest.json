@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-30T15:43:20.281239+00:00",
+ "generated": "2026-10-30T20:24:07.916800+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -1489,6 +1489,33 @@
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep052.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep052.txt",
      "artwork_source": "cover.jpg"
+    },
+    {
+     "episode_number": 53,
+     "production_episode_number": 53,
+     "title": "A Personal Agent in the Pentagon, a Compute Limit in Albany, and Flu Six Weeks Early",
+     "bundle_title": "A Personal Agent in the Pentagon, a Compute Limit in Albany, and Flu Six Weeks Early",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/briefing/2026-10-30-ep53",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/briefing/2026-10-30-ep53/audio.mp3",
+     "audio_bytes": 3092965,
+     "duration_seconds": 386,
+     "duration": "00:06:26",
+     "duration_source": "bundle-metadata",
+     "date": "2026-10-30",
+     "feed_match": false,
+     "status_raw": "Released Oct 30, 2026 (corrected release; see correction field) under Noel's verified-scripts-release rule. Script generated in Spiral (chat 1080dfcb-874a-400b-9ea0-5886b6e8ebdf) and downloaded via the draft pane Download options button; download artifact verified on disk at browser_downloads/sess-3207562856 (6,645 bytes) and saved verbatim as the script-best file, with the same text preserved as episodes/briefing-ep53-2026-10-30-script-spiral-original.md. Word counts: Spiral draft pane 1,037 words (6,583 characters per Spiral), desk wc 1,041 including the four separator lines. Desk-verified against the brief and prep (Pentagon facts fully attributed to WIRED and its sources: personal Claude Code account on NIPRNet, Controlled Unclassified Information, multiple intelligence agencies, shared credentials and administrative access including committing code changes under the employee's own identity, about two months, appears to have transmitted passwords, login details, and a network map to an unnamed third-party website NIST had flagged as high risk, exploitation not established, no indication classified systems were accessed, 72-hour reporting allegation stated as alleged, Defense Department declined to comment, Accenture denial carried in full, Anthropic pointed to its usage policy, $3.5 billion federal contracts including nearly $605 million with the Defense Department, access-not-capability distinction stated; Gounardes and Wright RAISE Act expansion: $1 billion over three years coverage, quarterly reports, 72-hour risk reports, 90-day assessments, annual audits by independent state-licensed examiners, attorney general may ask a court to restrict deployment, $1 million per day first violation and $3 million per day later, proposal-not-law framing; flu: prevalent and widespread about six weeks early, declared prevalent October 26 by Commissioner Dr. James McDonald, week ending October 17 named as the most recent full reporting week with 3,526 cases up 19 percent, season total over 6,500, 233 hospitalizations against 46, 668 cases in the same week last year, about 400 percent year over year, Influenza A about 90 percent, 59 of 62 counties, Orange, Putnam, Westchester, and Sullivan named, dashboard-due-today note carried accurately, state vaccination guidance only). Zero em/en dashes. Spoken form converted with spoken_form.py, zero digits remaining, 24 turns, converted output read head, middle, and tail before rendering. Audio rendered with locked voice avocado_v2:MAI_01, 386 seconds. Rebel publish queued for Nov 1 reset (dated tail, metered hours exhausted until then). Refresh this run: fresh intake pull completed cleanly, 51 new items, no errors; no new Defense Department statement, no fuller Accenture statement, and no Anthropic statement beyond the original reporting.",
+     "description": "A Personal Agent in the Pentagon, a Compute Limit in Albany, and Flu Six Weeks Early. Hosted by Noel.\n\nWIRED reported on October 29, citing sources, that an Accenture contractor connected a personal Claude Code account to a production environment on NIPRNet, the Defense Department's unclassified network, which holds Controlled Unclassified Information and serves multiple intelligence agencies. The sources said the contractor shared his own login credentials, giving the agent administrative access to write and deploy code and set up cloud servers, that it operated for about two months, and that it appears to have transmitted passwords, login details, and a network map to a third-party website WIRED did not name. WIRED reported no indication that classified systems were accessed and does not establish that a known weakness in that service was exploited. Accenture told WIRED the allegations were thoroughly and independently investigated and found to be without merit and that it complied with its legal and contractual obligations; the Defense Department declined to comment. Plus: State Senator Andrew Gounardes and Assemblymember Jordan Wright introduced a bill expanding the RAISE Act that would let New York limit computing power for risky AI models, covering companies spending more than $1 billion on AI development over three years, with quarterly reporting, 90-day risk assessments, annual audits, and penalties up to $1 million per day for a first violation and $3 million per day for later violations. It is a proposal, not a law. And influenza is prevalent and widespread in New York about six weeks ahead of schedule, with 3,526 laboratory-confirmed cases in the week ending October 17, up 19 percent and about 400 percent above the same period last year, and Orange, Putnam, Westchester, and Sullivan among the highest-count counties. Hosted by Noel.\n\nStories:\n- A personal AI agent allegedly given access to a Pentagon system (WIRED)\n- New York lawmakers propose letting the state limit compute for risky AI models (New York State Senate)\n- Flu arrives six weeks early in New York (New York State Department of Health)",
+     "description_source": "shownotes",
+     "guid": "3e7dfc7d-22a1-58b9-ba19-4683ea7ba883",
+     "guid_source": "provisional",
+     "pubDate": "Fri, 30 Oct 2026 12:10:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep053.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep053.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep053.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep053.txt"
     }
    ]
   },
@@ -2290,6 +2317,33 @@
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/reporting/ep027.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/reporting/ep027.txt",
      "artwork_source": "cover.jpg"
+    },
+    {
+     "episode_number": 28,
+     "production_episode_number": 28,
+     "title": "The Pause That Exempts Its Biggest Project",
+     "bundle_title": "The Pause That Exempts Its Biggest Project",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/reporting/2026-10-30-ep28",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/reporting/2026-10-30-ep28/audio.mp3",
+     "audio_bytes": 8813029,
+     "duration_seconds": 1101,
+     "duration": "00:18:21",
+     "duration_source": "bundle-metadata",
+     "date": "2026-10-30",
+     "feed_match": false,
+     "status_raw": "Released as a local and Drive bundle Oct 30, 2026. Rebel: queued for Nov 1 reset publish (upload hours exhausted until then).",
+     "description": "The Pause That Exempts Its Biggest Project. Hosted by Noel.\n\nOn July 14, 2026, Governor Kathy Hochul signed Executive Order No. 62, described by her office as the nation's first statewide data center moratorium. The Department of Environmental Conservation pause covers only discretionary permits for data centers at 50 megawatts or more, only for applications not yet deemed complete before the order, and facilities supporting manufacturing, research, education, or medical care are exempt. The Responsible Data Center Development Act, sponsored by State Senator Kristen Gonzalez, passed both chambers on June 4, 2026 at a 20-megawatt threshold and was not signed. The Generic Environmental Impact Statement runs through the Energize NY proceeding, Case 26-E-0045; the governor's office says up to a year, and Jones Day notes the order's own text states no one-year cap. Empire State Development's Community Investment Framework is voluntary, with a recommended benchmark of one million dollars per megawatt, and ESD President Hope Knight's stated rationale is that data centers are not major local job generators. NYISO's queue grew from 6 projects totaling 1,045 megawatts in 2022 to 29 projects totaling nearly 6,055 megawatts as of July 2025, against an operating base of about 264 megawatts. In Massena, NCCS proposes a 635-megawatt data center on the former Alcoa East site and says it needs no new DEC permits because it applied in 2020, a claimed exemption stated as reported, not decided. In East Fishkill, Dutchess County, Treetop Companies explored a roughly one-gigawatt campus that surfaced in the state grid queue before any formal town application; the town board adopted a unanimous three-year moratorium over 20 megawatts to July 2029, and October reporting indicates Treetop has formally challenged it. The episode follows the instrument, the places, and the stakes: who pays for the grid under the beneficiary-pays principle, water use by cooling design, and jobs, where a few dozen permanent positions sit next to hundreds of construction jobs and a host town's tax base. Ellis Ward lens throughout: what a moratorium on permits does and does not do to a queue measured in gigawatts. Hosted by Noel.\n\nStories:\n- The instrument act: Executive Order No. 62, the 50-megawatt DEC mechanism, the complete-application and facility-type exemptions, the GEIS and Case 26-E-0045 with the Jones Day no-cap caveat, the unsigned Gonzalez bill, local authority untouched, and the voluntary Community Investment Framework (Ellis Ward at rftuv.ai; the governor's office; Jones Day; Empire State Development)\n- The place act: NYISO queue spine with the not-comparable tally caution, Massena and the 2020 application claim, East Fishkill and the queue-before-town-hall sequence, the unanimous three-year town moratorium to July 2029 and the reported Treetop challenge, plus Niagara, STAMP, and Lansing (NYISO; North Country Public Radio)\n- The stakes act: beneficiary-pays cost allocation, water ranges by cooling design, jobs arithmetic and tax base, the balance of interests including Patrick Kelly's potential-activity caution, and the October 6 East Fishkill roundtable (JD Supra; Empire State Development)",
+     "description_source": "shownotes",
+     "guid": "c870fafb-7efa-51a4-8465-531cbb37b14c",
+     "guid_source": "provisional",
+     "pubDate": "Fri, 30 Oct 2026 12:00:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep028.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-reporting/ep028.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/reporting/ep028.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/reporting/ep028.txt"
     }
    ]
   },
