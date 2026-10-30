@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-30T20:24:07.916800+00:00",
+ "generated": "2026-10-30T21:11:11.845074+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -3142,6 +3142,33 @@
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep026.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep026.txt",
      "artwork_source": "cover.jpg"
+    },
+    {
+     "episode_number": 27,
+     "production_episode_number": 27,
+     "title": "Dead Air Valley: \"The Fortress That Closes for Halloween\"",
+     "bundle_title": "Dead Air Valley: \"The Fortress That Closes for Halloween\"",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/dead-air-valley/2026-10-30-the-fortress-that-closes-for-halloween",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/dead-air-valley/2026-10-30-the-fortress-that-closes-for-halloween/audio.mp3",
+     "audio_bytes": 9184549,
+     "duration_seconds": 1148,
+     "duration": "00:19:08",
+     "duration_source": "bundle-metadata",
+     "date": "2026-10-30",
+     "feed_match": false,
+     "status_raw": "RELEASED as local + Drive bundle Oct 30, 2026 under Noel's Oct 26 rule; cover.jpg is the show cover fallback, designer episode cover requested and pending, to be replaced in bundle when delivered; Rebel publish queued for Nov 1 reset (remaining leg, with YouTube)",
+     "description": "Tonight, Friday, October 30, is the final show of the season at the Haunted Fortress of Stanford, a volunteer haunted production on Creamery Road that has been running since 1997. Tomorrow night, Halloween, it will be closed. The Town of Stanford states the reason at the top of its Haunted Fortress page: \"We are CLOSED on Halloween so our young actors can trick or treat.\"\n\nThis episode follows the choice in the order a visitor lives the place. Start at the cash-only door, $15 for adults and $10 for children and seniors. Walk the tour the guide lists: the swamp, Train Yard, Carriage House, Crooked House, Caves, Bottomless Pit, Village, a Church with its Graveyard, and the Lab. Then look behind the scenes at sign-ins, costume assignments, makeup, parents stationed in grey robes, and the shared snack table that keeps the cast running. The Fortress also held two sensory friendly daytime shows this season, with scary sounds, actors, and strobe lights off.\n\nSilas Van Wyck hosts Dead Air Valley from the Hudson Valley.\n\nSources:\n- June Mercer, Hudson Valley Halloween Guide 2026, rftuv.ai (published October 23, updated October 29, 2026): https://rftuv.ai/news/hudson-valley-halloween-2026-guide\n- Town of Stanford, Haunted Fortress of Stanford: https://stanfordny.gov/advisory-committees/hauntedfortress/",
+     "description_source": "shownotes",
+     "guid": "d19a25ce-6511-5d2f-b28b-a2e4e9f92811",
+     "guid_source": "provisional",
+     "pubDate": "Fri, 30 Oct 2026 12:00:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep027.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep027.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep027.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep027.txt"
     }
    ]
   }

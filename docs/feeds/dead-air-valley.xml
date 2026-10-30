@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>Dead Air Valley explores the strange history, local legends, forgotten places, and unsettling stories of the Hudson Valley and the regions around it. From Sleepy Hollow and old river towns to neighboring valleys, back roads, abandoned landmarks, and the people who shaped them, each episode finds something worth bringing back into the light. Hosted by a rotating group of voices, with occasional noir-style narration, Dead Air Valley moves between atmospheric storytelling, local history, conversation, and timely discoveries. Episodes may be short, long, solo, or roundtable, but each begins with one question: what's still waiting in the dead air?</description>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 20:24:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 21:11:19 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/dead-air-valley.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Dead Air Valley</itunes:author>
@@ -21,6 +21,27 @@
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
     <podcast:location>Hudson Valley, New York, USA</podcast:location>
+    <item>
+      <title>Dead Air Valley: "The Fortress That Closes for Halloween"</title>
+      <description>Tonight, Friday, October 30, is the final show of the season at the Haunted Fortress of Stanford, a volunteer haunted production on Creamery Road that has been running since 1997. Tomorrow night, Halloween, it will be closed. The Town of Stanford states the reason at the top of its Haunted Fortress page: "We are CLOSED on Halloween so our young actors can trick or treat."
+
+This episode follows the choice in the order a visitor lives the place. Start at the cash-only door, $15 for adults and $10 for children and seniors. Walk the tour the guide lists: the swamp, Train Yard, Carriage House, Crooked House, Caves, Bottomless Pit, Village, a Church with its Graveyard, and the Lab. Then look behind the scenes at sign-ins, costume assignments, makeup, parents stationed in grey robes, and the shared snack table that keeps the cast running. The Fortress also held two sensory friendly daytime shows this season, with scary sounds, actors, and strobe lights off.
+
+Silas Van Wyck hosts Dead Air Valley from the Hudson Valley.
+
+Sources:
+- June Mercer, Hudson Valley Halloween Guide 2026, rftuv.ai (published October 23, updated October 29, 2026): https://rftuv.ai/news/hudson-valley-halloween-2026-guide
+- Town of Stanford, Haunted Fortress of Stanford: https://stanfordny.gov/advisory-committees/hauntedfortress/</description>
+      <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">d19a25ce-6511-5d2f-b28b-a2e4e9f92811</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep027.mp3" length="9184549" type="audio/mpeg" />
+      <itunes:duration>00:19:08</itunes:duration>
+      <itunes:episode>27</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep027.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep027.txt" type="text/plain" />
+    </item>
     <item>
       <title>Dead Air Valley: "The Cloud That Stayed"</title>
       <description>On Sunday night, October 25, 2026, cameras were rolling across Upstate New York when a fireball crossed over Oneonta, in Otsego County, in the Susquehanna Valley. Upstate meteorologist Bill Kardas shared two videos of it, one from a social media follower in Oneonta. Shortly after, a follower posted a photograph of unique clouds in the night sky, in the path where the fireball had been. Kardas explained: "Spotted shortly after the fireball in its path. This cloud is likely debris from the space rock burning in earth's atmosphere."
