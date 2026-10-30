@@ -1,0 +1,125 @@
+PHP2Shell: An A I Helped Find the Flaw in the Language Under seventy Percent of the Web, and Then Everyone Had to Patch at Once
+
+Episode twenty one, October twenty third, twenty twenty six. Hosted by Noel.
+
+On the night of Wednesday, October twenty-first, government websites across Europe and Asia went dark on purpose.
+
+In Britain, some limited government services went offline while work was carried out, according to the prime minister's office as the Associated Press reports it. A spokeswoman told AP that work had already taken place across government to identify and fix potential exposures, and that experts were continuing to work closely with both OpenAI and international partners. No large public-facing critical services were affected, she said.
+
+In Finland, the government's website said the disruption had been resolved but that some content was still missing and being restored, as AP reports it.
+
+In Japan, Osaka prefecture's website said its machine translation service was unavailable due to a system failure, as AP reports it. Prime Minister Sanae Takaichi shared a warning on social media, advising administrators to check whether they use PHP and immediately install a patch released late Wednesday. "If it is difficult to apply the fix patch promptly," Prime Minister Takaichi said, as AP reports her, "temporarily suspending websites and similar measures can be considered an effective way to reduce risk." Chief Cabinet Secretary Minoru Kihara said the government had not received any reports of damage from cyberattacks related to the PHP vulnerability, and that parts of some government websites were taken offline temporarily to minimize risks, as AP reports him.
+
+According to USA Today, the cybersecurity centers for the Dutch and Belgian governments also went dark to perform maintenance and make fixes.
+
+None of these governments went offline because they were breached. They went offline because staying up unpatched was the riskier choice.
+
+What happens when an A I helps human researchers find a flaw in the programming language running under roughly seventy percent of the world's websites, and then everyone, defenders and attackers alike, reads the disclosure at the same moment? That is the question at the center of this episode.
+
+Start with the floor.
+
+PHP stands for PHP: Hypertext Preprocessor. It is a popular open-source server-side scripting language used to develop websites and applications, as USA Today explains it, citing W3Schools. It can generate dynamic page content, work with files on a server, collect form data, work with cookies, add or delete or modify data in a database, and encrypt data.
+
+As of this month, according to W3Techs as USA Today reports it, nearly seventy percent of all websites with a known server-side programming language use PHP. Cloudflare frames the same figure carefully, as USA Today reports the company: that is seventy percent of the websites where anyone has checked, not seventy percent of every page on the internet. The distinction matters, and it comes back.
+
+Some of the sites built on PHP include WordPress, Facebook, Wikipedia, Slack, Etsy, and Upwork, according to a company called Trio as USA Today reports it. Countless other sites run on WordPress specifically, including the White House website and the NASA website, as USA Today reports it.
+
+If you have filled out a form online, read a local news article, paid a bill through a municipal portal, or looked up a school schedule, there is a strong probability the page you were looking at ran on PHP. Most of the people running those pages have no idea what language their site is built on. A language like PHP is infrastructure. You do not think about it the same way you do not think about what kind of pipe is behind the wall when you turn on a faucet.
+
+Ellis Ward, who covers A I systems and is the resident technical lens on this show, describes the distinction this way: a flaw in an application is a problem with something someone built. A flaw in the language is a problem with the floor everything is built on. You can fix your own code perfectly and still be standing on a floor with a crack in it.
+
+The flaw found this year is called PHP2Shell. It is not a bug in one website, one plugin, or one application built on PHP. It is two critical security issues in PHP itself, as the reporting from AP and USA Today establishes.
+
+James Sullivan, director of cyber and tech at the Royal United Services Institute in London, explained what those flaws mean in plain terms when AP reported his comments. The vulnerabilities could allow bad actors to get unauthenticated access, meaning without any password at all, and in theory to take control of a web server remotely, to steal data, to alter data, or to use the compromised system as a platform to launch other attacks. One of the two vulnerabilities corrupts a system's memory, Sullivan told AP. The other means user data is stored on the system rather than being removed, allowing a bad actor to potentially access it, including downloading or wiping it.
+
+Remote code execution. Unauthenticated access. Those phrases appear in every government warning issued this week. What they mean in practice is that an attacker, in the right position, could walk into a web server the same way you would walk into an unlocked building, and once inside, could do almost anything.
+
+Now the discovery. The flaw is decades old, and the finding is new, and the difference between those two facts is the story.
+
+According to USA Today, the issue called PHP2Shell was first caught by researchers at a digital infrastructure defense firm called Calif in July, with help from one of OpenAI's most advanced models, according to OpenAI. A Calif researcher named Ryan Austin initially found the PHP bugs in July while working in collaboration with OpenAI's Patch the Planet initiative, as USA Today reports it. On August first, Calif reported the bugs to security engineer Volker Dusch at the PHP Foundation, according to Calif security researcher Bruce Dang as USA Today reports him. Since August, Calif had been working with OpenAI and Google Wiz to create a patch and coordinate its release, as USA Today reports Dang.
+
+Wiz, Google's cybersecurity team, also independently discovered and reported the vulnerabilities in August, as USA Today reports it. CNN, citing Wiz, reports that Wiz researchers used Google's Gemini four Argon, Wiz Atlas, and OpenAI's GPT-five-point-six Sol during the research process, and that the bugs were discovered in late August in Wiz's work but were not disclosed to the public until Wednesday, after PHP had a fix ready.
+
+The Wiz researchers wrote, as CNN reports them: "With frontier A I models and the right tools, a single researcher completed in a week what previously would have taken a world-class team months of work."
+
+Wiz's explanation of why these flaws lasted as long as they did is worth stating carefully, because it connects directly to why A I changed the picture. According to CNN's reporting of Wiz's account, the underlying flaws had been present for decades. But demonstrating their exploitability required an exceptionally complex chain of steps, at the edge of what human researchers could practically achieve. Frontier A I models substantially reduced that barrier, turning a longstanding theoretical flaw into a practical exploit.
+
+There is a second strand to the history. The Associated Press, citing the PHP Foundation, reports that the vulnerability had been known about since at least twenty-twenty-four, and that the foundation accepted some of the blame for not coming up with a fix sooner. "The delay was a structural failure, caused by both the security team's decision process and its lack of resources," the foundation said, as AP reports it.
+
+These are two different events, two different sources. The show will not collapse them into one.
+
+OpenAI published its own assessment. "Given the severity of these flaws and PHP's widespread use, we consider this one of the most impactful security issues in recent memory," OpenAI said, as USA Today reports the blog post. OpenAI said A I appeared to find the vulnerabilities before any attackers did, as AP reports OpenAI. And in that same blog post, as USA Today reports it, OpenAI wrote that the discovery highlights how A I can uncover security flaws with internet-scale impact, but that the same capabilities can also help attackers rapidly develop offensive tools and exploits.
+
+That sentence is carrying a lot of weight. Hold it for a moment. Then come back to it.
+
+The patch existed weeks before the public knew anything.
+
+Bruce Dang told USA Today that the patch had been done for a few weeks before the disclosure, but that Calif had been testing it before going public. He also said the patch is unusually large, so the chances of a mistake or incomplete fix are higher than usual.
+
+According to USA Today's timeline, the patch was originally planned for public release on Thursday, October twenty-second. The White House had been notified on Friday, October sixteenth, of the PHP vulnerability, which was discovered through A I technology, and said it was working with federal agencies and A I companies to expedite release of the fix, as USA Today reports the White House statement.
+
+Then, on Tuesday, October twentieth, Hacker News leaked news of the patch, two days ahead of schedule. The PHP Foundation disclosed two critical security issues that same day, as USA Today reports it. The emergency fixes were rushed out Wednesday, October twenty-first, according to USA Today, and AP reports the patch was released late Wednesday.
+
+This is the disclosure bargain, and it is worth naming plainly. Coordinated disclosure is the practice of telling a small, trusted group first, giving them time to prepare, and then releasing the information publicly only once a fix is ready. A flaw that is publicly known before a patch exists becomes an open invitation.
+
+Then a leak on a public forum moved the timeline forward by a day, and the announcement that went out late Wednesday reached defenders and attackers simultaneously.
+
+Ryan Austin told USA Today he was pretty confident that all the major things are probably going to be taken care of. He and Bruce Dang also told USA Today they were not aware of any vulnerabilities that were taken advantage of before the patch was released. That is their statement as the reporting carries it. It is not a confirmed finding that no exploitation occurred anywhere before the patch was out.
+
+For the biggest systems, on the accounts available, the bet mostly held. For the long tail of the web, the work was just beginning.
+
+The race started the moment the announcement was public.
+
+The F B I's cyber division warned on Wednesday that the vulnerabilities could allow malicious actors to remotely execute code in PHP, which powers websites and web applications, raising the risk of sensitive data and networks being compromised, as AP reports the F B I warning. The F B I recommended that operators take websites offline if they could not update them immediately.
+
+The National Security Agency's Cybersecurity Collaboration Center advised websites that could not immediately fix the issue to go offline, as USA Today reports it. "Effective Immediately, all organizations using PHP for their systems are advised to be prepared for an update addressing two critical vulnerabilities," the NSA said, as USA Today reports the statement.
+
+ENISA, the European Union cybersecurity agency, also advised organizations to take immediate action, as AP reports it. CERT-E U recommended websites be taken down if fixes could not be implemented immediately, as USA Today reports it.
+
+Take it offline if you cannot patch it now. That is a practical instruction when you are a federal agency with a dedicated I T team. It is a much harder instruction to hear if you are a two-person nonprofit, a town clerk's office, or a small business whose website was built by someone who left three years ago and whose PHP version nobody has looked at since.
+
+While patching was under way, Cloudflare was already watching what was happening in the traffic. "Cloudflare has observed exploit attempts, including spikes of thousands of attempts," Daniele Molteni, director of project management at Cloudflare, told USA Today. "We also saw attackers modifying their tactics to try to bypass protections." Cloudflare's CTO, Dane Knecht, wrote on social media, as USA Today reports it: "We are seeing early attacks emerging and are updating mitigations as new vectors show up."
+
+Molteni was also careful about what those numbers mean, and the show will be equally careful, as USA Today reports his account. Those observations describe attack attempts. They do not, by themselves, establish successful compromises.
+
+The patching will not finish quickly. That is not a forecast. It is what the people who do this work are saying.
+
+Charl van der Walt, head of security research at Orange Cyberdefense, told AP: "The potential blast radius, if you like, of this is frankly, enormous." What is being seen now, he said, is just the very early tremors, and what is still to come over the next few weeks and months is far more significant.
+
+Van der Walt explained why, as AP reports him. PHP could be buried deep in things ranging from online blogs to internet-connected toasters to baby cameras. Companies need to recognize that they are running the software, identify where it is running, identify who owns those systems, and do a risk assessment about when and whether it can be patched. The most intense period will likely be over the next few weeks, but it could be months or years before all the stragglers are reached.
+
+The instruction to patch immediately assumes you know you are running PHP. Many operators do not know. Many will not find out until something goes wrong.
+
+Cybersecurity firm Cisco Talos estimates that about fifty percent of all PHP systems worldwide will not receive an official patch for the two issues, because aging websites rely on outdated, unsupported versions of PHP with no easy path to update, as USA Today reports the estimate. That is a Cisco Talos estimate as USA Today carries it, not a counted fact. But it describes a structural reality: the web has an enormous back catalog of sites built on old software, and coordinated disclosure does not automatically reach them.
+
+The PHP Foundation acknowledged its own resource problem directly. The foundation warned that its security work relies on a small number of developers and a little volunteer help, as USA Today reports it. In the foundation's blog post, as USA Today reports it: "Tools now find bugs faster than ever, for defenders and attackers alike, and the number of reports will keep growing." What tools cannot do, the foundation wrote, is decide on the right fix, weigh compatibility trade-offs, and review the patch. Elizabeth Barron, executive director of the PHP Foundation, told USA Today the organization is underfunded and that increasing support is critical to its survival.
+
+"These are critical vulnerabilities and anyone using PHP should upgrade as soon as possible," Barron told USA Today.
+
+Van der Walt described the attacker's position this way, as AP reports him in a hypothetical framing: right now, he thinks we are in a window where the attacker is getting more advantage from A I than the defender, because a defender's patch needs to be robust, tested, and approved, while an attacker only needs to exploit. That is his assessment via AP, not a finding that any specific attack has succeeded anywhere. But it frames what a window looks like when both sides are reading the same announcement.
+
+James Sullivan, who explained the flaws earlier in this episode, offered the closing caution that belongs here. "We shouldn't turn this into a futuristic scenario where we're all doomed," Sullivan told AP. There are many basic steps: identifying systems that could be compromised, installing updates and patches as soon as they are released, using two-factor authentication.
+
+Sullivan is right. Cybersecurity experts who spoke to AP said the impact would have ripple effects for some time, but that governments were following cyber best practice by taking websites down while they were patched, as AP reports the experts.
+
+What remains is the long tail.
+
+Before this episode ends, there are three questions worth sitting with if you run any website at all, or if you pay anyone to run one on your behalf.
+
+Do you know what programming language your site runs on?
+
+If it needed an emergency security patch tonight, who would you call, and would they know what to do?
+
+And if the F B I and the NSA both said to take it offline until it is fixed, could you do that? Would you know how?
+
+Those are not rhetorical. They are the operational reality that PHP2Shell surfaces for the part of the web that is not a federal agency, not a Fortune five hundred company, and not a major infrastructure provider. A town website. A school portal. A local nonprofit's donation page. A small business. The same advice applies. The capacity to act on it is not equally distributed.
+
+The flaw was old. PHP2Shell had been sitting in the codebase for decades, at the edge of what human researchers could prove was exploitable. A I did not create the flaw. According to the Wiz researchers as CNN reports them, it made demonstrating the flaw practical, for a single researcher in a week, where previously it would have taken a world-class team months. Calif found it in July with OpenAI's help. Wiz found it independently in August. The patch was ready weeks before anyone outside the briefed circle knew. And then a leak moved the disclosure forward by a day.
+
+From that moment, the patch and the announcement went out together. The defenders who were ready, patched. The defenders who were not, learned they had a problem at the same moment everyone else did.
+
+Patching will finish, eventually, for the organizations that can reach it. For roughly half of all PHP systems, according to Cisco Talos's estimate as USA Today reports it, there is no official patch path at all.
+
+The flaw was old. The finding was new. The patching is the part that will take the longest.
+
+This is Reporting from the Uncanny Valley. Episode twenty-one. I'm Noel.

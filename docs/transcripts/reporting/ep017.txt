@@ -1,0 +1,99 @@
+Noel: Reporting from the Uncanny Valley, Episode seventeen October nineteenth, twenty twenty six Hosted by Noel
+
+Noel: Picture the counter at city hall.
+
+Noel: Not an imaginary one. The one you have actually stood at, or that your parents stood at, or that your neighbors drove to on a Tuesday morning because the website was confusing and they needed a real answer. There is a clerk behind that counter who has worked there for eighteen years. She knows the permit categories by memory. She knows which exception applies when your project straddles two zoning districts. She knows where the form went after you left, who signs off at each step, and what to say when the answer is no and you want to appeal it. She is the place where the rules connect to the person standing in front of her.
+
+Noel: Now consider the same counter, staffed by a system that can answer your question immediately, pull your records, validate your documents, and deliver an entire outcome before you finish your coffee.
+
+Noel: That speed is real. The question that arrives with it is also real. Who decided? Under what rule? Where does the appeal go?
+
+Noel: This episode is about that question.
+
+Noel: I am Noel, and this is Reporting from the Uncanny Valley, where we follow what actually happens when A I systems move into the places that matter. Today, that place is city hall. According to reporting from payments on October nineteenth, two thousand twenty six, governments are reaching for agentic A I because the workforce model that ran the counter for decades is showing serious stress, and the pressure is structural. I want to work through what is driving this, what is already running, what the cases actually show, and what oversight looks like when it is real rather than nominal. Ellis Ward, whose work on A I systems and accountability shapes how I think through a lot of this, will be woven in throughout.
+
+Noel: This is not a story about any Hudson Valley municipality. No source I have reviewed establishes that any local government in this region has deployed an agent. What I can offer is a set of questions any resident in this region can bring to any town board facing this procurement decision. We will get to those at the close.
+
+Noel: payments frames the opening condition plainly. Government services have always moved slowly. Long queues, paper forms, manual reviews. That experience, which most citizens dread, was always inefficient. What has changed is that tighter budgets and shrinking workforces are making it harder to sustain even at that slow pace. Agents are arriving in the public sector, as payments puts it, as a structural response to a workforce that can no longer keep up with demand.
+
+Noel: That framing matters. The question, in payments's telling, is no longer whether governments should deploy agents. It is how to do it in a way that is fast enough to matter and careful enough to hold up. That is the piece's framing, not my conclusion. I want to hold those two requirements in the same sentence, because the rest of this episode is about whether they are actually being held together.
+
+Noel: A World Economic Forum article, described by payments as offering the first systematic framework for assessing where governments should start with agentic A I, maps seventy core government functions against two criteria: the potential for agentic A I to add public value and the complexity of deploying it responsibly. Half of those seventy functions fall into high or medium readiness. Appointment management, document validation, and public information provision come out particularly well. payments describes these as high volume, rule-based functions where agents can make a visible difference quickly and without excessive risk. That risk characterization is the article's assessment, tied specifically to those function types, not a general claim about government agents.
+
+Noel: The adoption numbers are striking and the caution that goes with them is equally striking, so I am going to carry them together the way the reporting does. Ninety percent of the three hundred fifty public sector organizations surveyed plan to explore or deploy agentic A I within two to three years. In the same breath, Gartner predicts that over forty percent of agentic A I projects could be cancelled by twenty twenty seven, often because organizations moved without a clear sense of where the value lies.
+
+Noel: Manuel Kilian, managing director for the Global Government Technology Centre in Berlin, told the World Economic Forum that agents allow governments to move from automating individual tasks to delivering entire outcomes. That is a meaningful shift in ambition. The Forum's practical path, as payments reports it, is to assess local conditions honestly, develop risk strategies before deployment, sequence from high-readiness functions first, and test through small pilots before scaling. That path is unglamorous. It is also the one the evidence points toward.
+
+Noel: Ellis Ward's lens on the readiness list is worth sitting with here. Appointment management, document validation, public information provision. These are exactly the front door of the counter I described at the top of the episode. They score well on the framework precisely because they are high volume and rule-based. But that same quality means an error at the front door reaches everyone, quickly, in the government's own voice. The functions that are easiest to automate are also the ones that touch the most residents.
+
+Noel: Three live deployments come up in payments's coverage of a Route Fifty article on the Urban Institute's new playbook for state and local agentic A I adoption. I want to carry each one carefully, because the figures matter and so do their limits.
+
+Noel: Virginia ran a pilot program that used agentic A I to scan regulatory documents. The reporting, attributed to Route Fifty's coverage with the underlying initiative credited to Virginia's Office of Regulatory Management, says the scan uncovered more than one point four billion dollars in annual savings and reduced permit and license processing times by nearly eighty percent. Those are the figures as reported. I am not presenting them as independently audited results. The framing is savings uncovered or identified, and processing times reduced.
+
+Noel: Utah has an autonomous system handling routine prescription renewals in partnership with a health platform called Doctronic. Physicians agreed with ninety one percent of the A I's decisions. I want to be precise about what that figure says. Ninety one percent agreement. Not ninety one percent accuracy, not ninety one percent safety, and not permission for the system to act without a physician. That is the number as reported, and the distinction is not a small one.
+
+Noel: In Boston, Chief Information Officer Santiago Garces integrated agentic A I into the city's open data portal using an Anthropic model context protocol server, as payments reports it, to analyze city data and inform policymaking in real time. Garces and Anthropic are named in the reporting.
+
+Noel: Ellis Ward's question for each of these is: where does the error surface, and who catches it? In Virginia, a misread regulation makes it into the scan. In Utah, a renewal the physician would have flagged differently. In Boston, an analysis a policymaker treats as ground truth when it should be treated as a starting point. The deployments are real and the results are notable. The governance design that makes errors findable and correctable is what determines whether those results hold.
+
+Noel: Here I need to make a correction to how this episode was initially framed in preparation, and I am going to make it plainly.
+
+Noel: The second payments piece published October nineteenth is titled "A I Agents Could Fill Treasury's Looming Talent Gap." When I pulled that piece in full, it is not about the United States Treasury. It is not about a government deployment at all. It is about corporate treasury departments, the back offices that process invoices, reconcile receivables, open accounts, and move payments for companies. I am correcting that here because the story this piece actually tells is more useful to this episode as the honest version of it.
+
+Noel: The workforce problem in corporate treasury is about people who have spent twenty or thirty years making sure the machinery of a company's finances actually runs. They know which systems do not talk to each other. They know which exceptions require a workaround. They know which processes depend on someone remembering what to do next. And they are getting ready to retire.
+
+Noel: Katherine Weislogel, head of Commercial Payments Client Success at Fifth Third, spoke to payments C E O Karen Webster about this. She described one client with a back office where employees had spent an average of thirty years in their positions. The company was not confident it could find people willing to take their places. The question being asked, as Weislogel frames it, was whether A I could help keep the department running.
+
+Noel: That distinction matters. payments frames the immediate opportunity for businesses facing the loss of experienced employees as getting the work done, not the longer argument about what machines might eventually be trusted to do with money.
+
+Noel: Weislogel described a payment traveling through roughly five separate steps, each potentially involving different people, technologies, and decision points. For years, experienced employees have served as the connective tissue holding those processes together. An agent capable of moving a process forward has to communicate with all five parts of the workflow, otherwise companies end up with faster individual tasks and the same bottlenecks between them.
+
+Noel: She also described the account onboarding problem. A customer submits documents through a bank portal, only to discover the information does not necessarily follow the account through the rest of the process. Different departments request the same information. Separate updates go out from separate teams. Weislogel described a different experience, one where the information submitted at the beginning stays with the account as it moves toward implementation. She said, and this is a brief quotation: "The next time I should hear from the bank is when my account number is live." payments says the difference could be measured in days versus hours. Agents can collect information, coordinate workflows, move documents, and advance processes while leaving the actual financial decisions to authorized employees. That boundary is exactly where the piece puts it.
+
+Noel: On the question of authority, Weislogel described what Karen Webster called a dimmer switch, rather than a traditional on-off switch. An agent might be allowed to analyze cash positions, prepare forecasts, or recommend an action. Giving it permission to initiate or execute a payment is a different decision, one that raises questions about fraud, liquidity, entitlements, and reconciliation. Even looking eighteen to twenty four months ahead, Weislogel does not expect businesses to simply hand money movement to A I agents. Human oversight, verification, and spot checks remain part of the process. An agent acting on incomplete information or poorly defined parameters, she noted, can create problems much faster than a manual process.
+
+Noel: payments's framing of where this leads is worth quoting as a frame: the first meaningful return on agentic A I may not be an autonomous treasury department. It may be a treasury department that can keep running when the people who built its processes are no longer there.
+
+Noel: Now bring that logic into government, with one additional factor the private sector does not carry. A resident cannot take their records request to a competitor. A company that loses experienced treasury staff can, in principle, decide to restructure, outsource, or shut down the function. A city cannot decide to stop processing permits or handling benefits. The staffing gap motive is the same. The stakes attached to getting it wrong are different in kind.
+
+Noel: Ellis Ward frames it this way: a staffing gap pitch changes what good deployment actually means. The work is not replacing a person with a model. It is finding the rules, exceptions, and decision points that lived in people's heads, writing them down for the first time, and connecting systems that never talked to each other. If that documentation work is not done, the agent inherits the gaps, not the knowledge. The speed of the new counter is real. What it delivers depends entirely on what you put into it before you open the door.
+
+Noel: Graham MacDonald, Chief Information Officer at the Urban Institute, told Route Fifty something that I think is the clearest test for whether oversight in any of these deployments is real. He said: the governance challenge is real, because human reviewers who do not understand how an agent works cannot meaningfully oversee what it produces.
+
+Noel: Put that test next to the federal numbers that payments carries from Nextgov reporting, and the gap is stark. Fifty three percent of federal I T executives surveyed are exploring or actively planning agentic A I pilots. A I use across federal agencies more than doubled from twenty twenty four, with agencies reporting more than three thousand use cases. The appetite is substantial.
+
+Noel: Here are the oversight figures from the same Nextgov reporting. Only twenty percent of those agencies have defined pre-deployment testing policies. Only eight percent have an incident response framework. Fewer than a third have documented kill-switch procedures. Fewer than a third have oversight frameworks in place.
+
+Noel: Mike Hurt, Global Vice President of United States Public Sector at ServiceNow, told the publication, as payments carries the Nextgov reporting, that seventy seven percent of federal leaders say oversight frameworks are essential, yet fewer than a third have implemented them.
+
+Noel: I want to sit with those two numbers for a moment. Seventy seven percent say oversight is essential. Fewer than a third have built it. That gap, between what leaders say they understand and what organizations have actually done, is where most agentic A I projects will either work or fail.
+
+Noel: Jon Alboum, ServiceNow Federal's Chief Technology Officer, offered the structural answer: bringing data and workflows together in a single environment so policies can be applied and controls enforced across the organization. The Nextgov survey's conclusion, as payments reports it, is that built-in accountability is the prerequisite for any agency serious about deploying agentic A I at mission speed.
+
+Noel: The Urban Institute playbook that Route Fifty covers recommends agencies document each tool's intended purpose, target population, measurable outcomes, and estimated costs before deployment, and establish seven core roles to ensure agents continue operating adequately over time. The playbook names seven roles. I am not going to invent their titles because the source I reviewed for this episode does not list them. What matters for this episode is what the number signals: governance at this level requires dedicated people in defined roles. It does not run itself.
+
+Noel: Return to Weislogel's dimmer switch. Authority over money, in the private sector, grows in increments. Analysis and recommendation first. Initiation and execution last. Human verification and spot checks that do not expire at launch. That model transfers directly to government, and in government the consequences of moving the dimmer too fast are not absorbed by a firm's balance sheet. They are absorbed by residents who had no choice in the counterparty.
+
+Noel: Ellis Ward's point here is precise: MacDonald's test and the dimmer switch are the same test stated twice. Can the reviewer actually see what the agent did? Can authority actually be dialed back when something goes wrong? If the answer to either question is no, the oversight is nominal, and nominal oversight is not oversight.
+
+Noel: No source I have reviewed establishes that any Hudson Valley municipality has deployed an agent. What follows is not a local finding. It is a set of questions any resident can bring to any town board that will face this procurement decision, because every town board in this region will eventually face it.
+
+Noel: What function is the agent taking on, and is it one of the high-volume, rule-based ones the World Economic Forum framework identifies as high or medium readiness? Appointment management, document validation, public information provision. Those are where the evidence points. That is also where the errors reach the most people fastest.
+
+Noel: What is documented about this system's intended purpose, its target population, its measurable outcomes, and its estimated costs? That documentation, per the Urban Institute playbook, should exist before deployment, not after the first problem surfaces.
+
+Noel: Who reviews the agent's work? Do those reviewers understand how the agent works well enough for the review to be real? Graham MacDonald's test is not a bureaucratic formality. It is the line between oversight and the appearance of oversight.
+
+Noel: What is the testing policy before deployment? What is the incident response framework when something goes wrong? Is there a documented procedure for stopping the system, and who holds that authority?
+
+Noel: And when the agent is wrong about a resident, what is the appeal, and who answers it? That question has to be designed in before deployment, or it has no answer at the moment the resident needs it.
+
+Noel: The through line of this episode, from the cold open to here, is not a warning against deployment. The staffing pressure is real. The cases in Virginia, Utah, and Boston are real. The framework for identifying where to start is real. The dimmer switch is a reasonable model for expanding authority incrementally.
+
+Noel: The through line is this: the clerk at the counter was never just a person doing paperwork. She was the place where accountability lived. She could be asked who decided, under what rule, and where to go if the answer was wrong. What the new counter has to do, before anyone stands in front of it, is answer those same questions. Not eventually. Before the door opens.
+
+Noel: The question now is whether accountability still has an address. And whether whoever is deciding on your behalf has made sure that it does.
+
+Noel: I am Noel. This is Reporting from the Uncanny Valley.
+
+Noel: Episode seventeen, October nineteenth, twenty twenty six. Hosted by Noel. Sources: payments, October nineteenth, twenty twenty six; World Economic Forum; Gartner; Manuel Kilian; Route Fifty; Urban Institute and Graham MacDonald; Santiago Garces; Nextgov; Mike Hurt and ServiceNow; Jon Alboum; Katherine Weislogel and Fifth Third; Karen Webster.

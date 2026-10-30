@@ -1,0 +1,95 @@
+Noel: Reporting from the Uncanny Valley, Episode sixteen October eighteenth, twenty twenty six | Host: Noel Brown
+
+Noel: There is a shelf tag in a grocery aisle. It looks like the old ones - white rectangle, black numbers - except this one has no paper. No one printed it. No one walked the aisle to swap it out. The number on the display can change without anyone touching it. A signal goes out, and the price becomes something else. You would not hear it happen.
+
+Noel: That is a product. Digital price tags are rolling out to grocery stores across the United States right now, and the technology has been standard in Europe and Asia for years. The technology brings a question with it, and we are spending this episode on that question. You have learned to expect a moving price when you book a flight. You have learned to expect it when you call a car on a Friday night in the rain. You have made a kind of peace with that, or at least you have made a habit. But the grocery aisle was different. The grocery aisle was the place where everyone in the store saw the same number on the same tag, where the price was a public fact.
+
+Noel: What changes when the shelf price is set for you? And if it is set for you - by software, using data, in a moment you cannot inspect - how would you know?
+
+Noel: Those are the questions AP News reported on this week, and Reporting from the Uncanny Valley is carrying them into the aisle today. My name is Noel Brown. This is Episode sixteen.
+
+Noel: Before we go further, one note on framing. If you heard about this story through social media, you may have seen posts suggesting that Walmart's digital shelf labels scan shoppers' faces or cellphones to set individualized prices. AP News reported that implication is false. That is not what the technology does. The story worth telling is more precise than that, and this episode is for that precision.
+
+Noel: Mara Quinn, whose lens on business and consumer trust has shaped how this show thinks through these questions, will be woven through today as we try to separate what the evidence shows from what people fear - and ask whether those two things are even as far apart as the companies would like.
+
+Noel: This episode can offer a listener vocabulary. There are three different things circulating under one anxiety right now, and the fact that they share a neighborhood does not make them the same thing.
+
+Noel: AP News defines the first as dynamic pricing: adjusting prices in response to changing market conditions, including supply and demand. When an airline raises the price of a seat as the departure date gets closer, that is dynamic pricing. When Uber lifts its fares during rush hour because demand is outpacing the supply of available drivers - what the industry calls surge pricing - that is a form of dynamic pricing. The key feature is that the price responds to the moment, to conditions that apply to whoever is buying right now. It does not require the seller to know anything specific about you.
+
+Noel: The second is personalized pricing, and this is the one that carries the most fear. AP News defines it as offering customers different prices and discounts based on their locations, incomes, web browsing habits, and other information about individuals or groups of shoppers. Some advocacy groups and regulators use the term surveillance pricing for the same practice. The key feature here is that the price moves with the shopper, not just with the market. It requires information about a person.
+
+Noel: The third is the older and broader category. Algorithmic pricing, as AP News defines it, is software used to recommend or automatically set prices. Companies have used such systems for decades. Artificial intelligence adds better pattern recognition: A I can help the software identify patterns in sales, competitors' prices, and other information to predict demand and estimate how different prices would affect sales and profits. Algorithmic pricing is the umbrella. Dynamic pricing and personalized pricing are both things it can support.
+
+Noel: Mara Quinn's lens brings this to that vocabulary problem: most of what the deployed record in AP's reporting actually shows is the first and the third - dynamic pricing and algorithmic pricing. Most of the fear attaches to the second - personalized pricing. The gap between those two things is not small, and closing it prematurely in either direction does a disservice to the listener.
+
+Noel: So what does the deployed record actually show?
+
+Noel: Decodo, a web data company, tracked price changes in twenty twenty five across products ranging from electronics to clothing and home improvement supplies. Gabriele Vitke, a senior product marketing manager at Decodo, told AP News that about half the U.S. changes the company recorded were decreases. That is worth sitting with for a moment. The assumption that dynamic pricing only raises prices is, by Decodo's tracking, wrong about half the time.
+
+Noel: On the specific fear about grocery shelves: AP News reported that researchers who tracked prices at a grocery chain after digital labels were introduced found virtually no surge pricing. Asa Farquhar, of the retail technology company Relex Solutions, told AP News: "Changing prices throughout the day, the way airlines or rideshare apps do, is exceedingly rare in grocery and general merchandise today." Farquhar also noted that retailers typically update electronic shelf prices on a regular schedule, often weekly, because shoppers value consistency.
+
+Noel: That is not nothing. That is a technology expert, on the record, telling AP News that the thing people are most afraid of seeing in the grocery aisle - the price changing because it is a hot afternoon or because the store is crowded - is exceedingly rare today. The word "today" is doing real work in that sentence, and we will return to it.
+
+Noel: The social media posts suggesting Walmart's digital labels scan faces or phones to set individual prices: AP News called that implication false. Keep that in one clear sentence and move on. The fear that drives the posts is real. The specific claim in the posts is not.
+
+Noel: The largest retailer in the United States is Walmart. Walmart is also, right now, the company doing the most visible national rollout of digital price tag technology. As of March, according to AP News, two thousand three hundred Walmart U.S. locations already use digital shelves, and the company expects the technology to be chain-wide within the next year.
+
+Noel: That scale is one reason the statement Walmart C E O John Furner published last month matters. This is Walmart's stated position, on the record, from September. I am going to give it some room, because the specifics are the story.
+
+Noel: Furner vowed, in a statement posted on the company's website, that Walmart is not using personal information - income, shopping history, or a customer's willingness to pay - to set prices, and it will not do so in the future. He wrote, directly: "We don't set different prices based on who you are or the time of day, and we won't." He also wrote that whether a shopper is buying groceries or electronics on a hot afternoon or in a sudden rush for an item, that is never a reason to charge that shopper more.
+
+Noel: In a blog post around the same time, Furner added: "We price the product, not the person." That is the line that has circulated most widely, and it is worth holding onto because it draws a distinction between dynamic pricing, which prices the moment, and personalized pricing, which prices the individual.
+
+Noel: Furner also extended that commitment to Walmart's A I shopping assistant, Sparky. He said Walmart will not use Sparky to raise a customer's price or hide lower-priced options that meet their needs. He said these practices would violate the company's everyday low prices business model. He acknowledged that prices do change at Walmart - lowered when savings can be passed on, raised when an item costs more to buy or to transport. He did not promise prices would never change. He promised specific things they would not change for.
+
+Noel: That is a meaningful distinction for Mara Quinn's lens. What Furner's pledge covers: personal data including income, shopping history, and willingness to pay. Time of day. Demand surges. The A I assistant hiding cheaper options. What it expressly allows: price changes tied to Walmart's own costs and savings. What a shopper standing in the aisle could ever check: essentially none of it. The pricing logic behind a digital tag is not on the tag.
+
+Noel: A promise about software is only as good as the disclosure and testing that supports it. AP News reports that companies are not always transparent about the customer data they collect and how it is used. That is not an accusation against Walmart specifically. It is the condition under which the promise is being made and received. The record raises the question of whether the promise, even a clear one, is checkable by the people it is meant to protect.
+
+Noel: The FTC staff report released in January twenty twenty five gives the clearest evidence that the personalized pricing question is not imaginary, even though its full extent is unclear. That report found that intermediaries offering tools that can tailor prices and promotions worked with at least two hundred fifty clients, including grocery and clothing retailers. Hold that framing carefully. The report was about intermediaries offering tools with that capability, and the clients those intermediaries served. It does not, by itself, prove that each client used personal data to set an individual shopper's price. But two hundred fifty clients is a number. The tools are in the market. Who is using them for what remains, by AP's account, unclear.
+
+Noel: If regulators are moving before the practice is fully measured, that is worth naming as a signal rather than a solution.
+
+Noel: According to the National Conference of State Legislatures, as reported by AP News, legislators in at least thirty states have considered pricing bills this year. Those include measures addressing algorithmic and personalized pricing. Three states have gone further. AP News reports that lawmakers in Maryland, New Jersey, and Connecticut recently enacted restrictions on using shoppers' personal data to determine what they pay. The Maryland and New Jersey laws focus on groceries, with exceptions for certain loyalty discounts and other promotional offers. Connecticut's legislation covers a broader range of retail purchases.
+
+Noel: At the federal level, the Federal Trade Commission has proposed an enforcement policy warning businesses that failing to disclose their use of personal data to set individualized prices could violate consumer protection law. That is a proposed policy, not a settled ban. But a proposed policy from the FTC is also a signal about where the agency believes the law already reaches and where it wants to be able to act.
+
+Noel: The regulatory picture shows that government is arriving at this question before anyone has been able to fully count how widespread the practice is. That is unusual. It suggests the officials involved believe the cost of waiting for complete measurement is higher than the cost of acting on incomplete evidence.
+
+Noel: The civil cases fill in a different part of the picture. Each one matters with its limits attached.
+
+Noel: California prosecutors sued Target in twenty twenty two, alleging the retailer's app displayed lower prices before shoppers entered stores and raised them once they were inside. Target agreed to a five-million-dollar settlement and a ban on using so-called geofencing technology to increase prices. Target said the app functionality at issue was used to provide guests with accurate pricing, which can vary across stores and channels. Target said it did not personalize prices based on a guest's data or behavior and remains committed to clear, transparent pricing. What the settlement shows: geofencing and pricing in combination drew a lawsuit, a settlement, and a prohibition. It does not show a verdict on what Target's intent was, or a ruling that personalized pricing occurred.
+
+Noel: The Instacart case is useful for a different reason. Last year, an investigation by Consumer Reports, Groundwork Collaborative, and More Perfect Union found shoppers on Instacart were shown different prices for identical products at the same stores. Instacart subsequently ended what it described as tests that randomly assigned shoppers to groups rather than setting prices based on their personal information. Carry Instacart's description as its description. What the case illustrates is that different prices do not necessarily mean personal data was used. Group assignment, geographic variation, and testing can all produce price differences without any individual's profile being consulted. The difference matters enormously to a shopper who finds it, and the two explanations are not always easy to tell apart from the outside.
+
+Noel: The Amazon case goes to the competition side of algorithmic pricing. A twenty twenty three anti-monopoly lawsuit the FTC brought against Amazon challenged, among other practices, an algorithmic tool Amazon codenamed Project Nessie. The agency alleged Amazon used the tool to identify products whose prices it could raise with competitors likely to follow, generating more than one billion dollars in excess profits. A trial is scheduled for next year. Amazon said the FTC's allegations grossly mischaracterize the pricing tool. The company said Project Nessie was intended to stop retail price-matching practices from creating unsustainably low prices. Amazon said it tested the tool for a few years, it did not work as intended, and it was scrapped before the agency's lawsuit. An allegation, a company response, and a trial to come.
+
+Noel: The McDonald's case is the newest. A consumer lawsuit alleged McDonald's pricing system used nonpublic sales data from competing locations to coordinate prices. McDonald's said the lawsuit was filled with inaccuracies and that the company makes the tool available to U.S. franchisees to help them set prices at their individual restaurants. Again: an allegation and a response, not a verdict.
+
+Noel: Against that case-by-case picture, the National Retail Federation, which represents large and small stores, offered AP News its industry frame: algorithmic pricing is a new method of doing what retailers have always done, which is monitoring and adjusting prices depending on supply, demand, seasonality, competitors' prices, and other factors. And on the question of how widely A I is being adopted to help set prices, AP reports the picture is still incomplete - but a survey by Simon-Kucher, a global consulting firm, of more than twenty-two hundred business leaders in twenty-eight countries and thirty-nine industries found that forty-one percent said they used A I software to gather market intelligence, including competitors' prices. Another twenty-eight percent said they used it for real-time price optimization - meaning choosing prices that advance business goals such as increasing profits, attracting shoppers, or clearing unsold goods. Those are Simon-Kucher survey figures, from last year, as reported by AP. The adoption trajectory they suggest is one reason the regulatory response is not waiting.
+
+Noel: This episode is not the story from Episode thirteen, where we asked what happens when agents hold wallets and become economic actors in their own right. The tools we are talking about today are pricing tools in the hands of sellers. They are not autonomous shopping agents making decisions on a buyer's behalf. That distinction is worth holding onto, because the two stories can look like the same story from a distance and they are not.
+
+Noel: Let me leave you with something practical.
+
+Noel: Mara Quinn's consumer trust lens keeps returning to a question that the regulatory record and the civil cases together do not fully answer: whether a shopper can tell, after the fact or in the moment, whether a price was set for the market or for them.
+
+Noel: Here is a test for any moment you are standing in an aisle or looking at a price in an app. Four questions.
+
+Noel: Is the price the same for the person next to you? Not a guarantee of fairness, as the Instacart case showed, but a starting point.
+
+Noel: Can the company say, if you ask, what moved the price? Most cannot or will not in any meaningful detail, but a company that has made a public written commitment - the way Walmart has, specifying what data it will not use - is at least checkable against its own words.
+
+Noel: Has the company promised in writing what data it will not use? There is a difference between a company that has put specific exclusions on the record and one that has said nothing. The promise does not make the practice auditable, but the absence of a promise is also information.
+
+Noel: Is there a law or a disclosure rule that would let anyone check later? In Maryland, New Jersey, and Connecticut, the answer is now yes, at least for grocery purchases. In most states, the answer is still no. The FTC proposed policy, if it becomes enforceable, would add a disclosure requirement. Those are not guarantees. They are the infrastructure that makes promises checkable.
+
+Noel: The price tag was, for a long time, a public fact. You walked into a store and the number on the shelf was the same number for everyone in that aisle. It was not always a fair number, and it was not always the same number as the one in the store across town. But it was legible. You could look at it and know what you were being asked to pay, and so could the person standing next to you.
+
+Noel: AP News is reporting this week that the number is becoming a decision. A decision made by software, informed by data about the moment and sometimes about the shopper, returned as a number on a display that looks like the old tag. The number may still be fair. The research on digital labels suggests surge pricing in groceries is, so far, exceedingly rare. The largest retailer in the country has put specific limits in writing. Legislators in thirty states are asking questions and three have written answers into law.
+
+Noel: The decision is no longer visible from where you are standing. The episode title asks what changes when the shelf price is set for you. One clear answer is whether you can read it.
+
+Noel: This is Noel Brown. This is Reporting from the Uncanny Valley. We will be back.
+
+Noel: Episode sixteen. October eighteenth, twenty twenty six. Hosted by Noel Brown. Resident expert lens: Mara Quinn. Sourced to AP News, October eighteenth, twenty twenty six, and AP News, September twenty seventh, twenty twenty six. All factual claims attributed on air to the named sources in the episode.

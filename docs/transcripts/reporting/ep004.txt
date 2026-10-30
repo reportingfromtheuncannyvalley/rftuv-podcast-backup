@@ -1,0 +1,101 @@
+Noel: Two votes. Same county. A few months apart.
+
+Noel: In June, a town board in the Hudson Valley voted unanimously, not a single dissent, every member, to freeze a technology industry out of their community for three years. Dozens of residents had come out to support the decision. The meeting ran nearly two hours.
+
+Noel: In September, a county agency voted five to one to hand a technology giant one of the largest tax-benefit packages in the region's recent history. A motion to tighten the terms was not even seconded.
+
+Noel: Two votes. Same county. Opposite directions.
+
+Noel: Today we are going to walk through both of them, what was decided, who benefits, what the risks are, and what the contrast between them tells us about the moment we are in.
+
+Noel: I'm Noel. This is Reporting from the Uncanny Valley. Two articles came out today on R F T U V: "I B M Is Building a two point five one billion dollars Quantum Facility in Poughkeepsie. The County Is Paying to Help," by Mara Quinn, and "What a Data Center Freeze Actually Does: Inside East Fishkill's Three-Year Moratorium," by Ellis Ward. Those pieces are the backbone of everything you are about to hear, and if you want to read the source documents yourself, they are linked in the show notes.
+
+Noel: Let's start in Poughkeepsie.
+
+Noel: On September twenty-ninth, twenty twenty-six, the board of the Dutchess County Industrial Development Agency voted five to one to approve a benefits package for I B M tied to a construction project at the company's campus at twenty-four fifty-five South Road in the Town of Poughkeepsie.
+
+Noel: The project cost: two billion five hundred nine million seven hundred thousand dollars. Two and a half billion dollars, rounded down.
+
+Noel: The benefit package includes two pieces. First, a sales tax exemption. I B M will not pay sales tax on construction materials, equipment, and certain qualifying purchases over the life of the project. The I D A's own project summary puts that figure at approximately ninety-nine point four million dollars in taxes I B M will not pay. Second, a payment in lieu of taxes, what agencies call a PILOT, a negotiated schedule under which I B M pays less than full assessed property value for a defined period.
+
+Noel: Before I go further, a sourcing note I need to put on the record: the I D A meeting minutes I'm working from are draft minutes, pending approval at the agency's next meeting. The figures are as reported. They are not settled. Keep that in mind.
+
+Noel: So what is I B M building?
+
+Noel: Roughly three hundred thousand square feet of new and renovated space, including a cryogenic plant, dilution refrigerators, and cleanroom tooling. The stated purpose, in the language of the project summary: development, integration, test, and delivery of fault-tolerant quantum-computing systems. Construction is expected to wrap in the first half of twenty twenty-nine. Occupancy at the end of twenty twenty-nine. The capital program runs from twenty twenty-six through twenty thirty-five.
+
+Noel: Let me pause on the phrase "fault-tolerant quantum computing," because it is doing a lot of work in this story and you should understand what it means before we get to the economics.
+
+Noel: Quantum computers exploit the physics of subatomic particles to perform certain kinds of calculations at speeds that conventional silicon processors cannot approach. The applications that get the most attention are drug discovery, materials science, and, critically, cryptography. The encryption standards that protect your bank account, your communications, and classified defense information are premised on the assumption that breaking them would require a conventional computer to run for longer than the age of the universe. A sufficiently powerful quantum computer changes that assumption.
+
+Noel: The problem is that today's quantum systems make too many errors to be reliably useful. The quantum states involved are extraordinarily fragile. You correct for errors, but the corrections themselves introduce errors. Fault tolerance is the engineering threshold where you can correct errors in real time, faster than they accumulate, so the system becomes practically reliable rather than a very expensive laboratory instrument.
+
+Noel: Whoever gets to fault tolerance first gets an asymmetric advantage. They can potentially break encryption standards that everyone else still relies on. I B M, Google, Microsoft, and a growing field of well-funded startups are all in this race. The Department of Defense and the intelligence community have accelerated their quantum procurement programs. This is not a distant theoretical concern. It is a procurement competition happening now.
+
+Noel: I B M has operated in Poughkeepsie for decades. The campus there already manufactures I B M mainframes, the large-scale systems that run much of the world's banking infrastructure and airline reservation systems. Building fault-tolerant quantum capability into that campus deepens its strategic importance considerably.
+
+Noel: Now back to the money.
+
+Noel: The I D A's project summary projects two thousand jobs retained and one hundred forty jobs created. I want to spend a moment on the word "retained," because it carries a different weight than "created." A retained job is not a new job. It is the argument that an existing job would be at risk if the project does not proceed, that without the incentive, I B M might scale back its Poughkeepsie presence, or move work elsewhere. That may be true. I B M is in a global competition and has real options about where to place major capital programs. But retained jobs are a claim I B M controls the evidence for. The county has no independent way to verify whether those two thousand positions were actually at risk, or to what degree.
+
+Noel: The one hundred forty new positions is the harder number to anchor. Against the ninety-nine point four million dollars sales tax exemption alone, that works out to roughly seven hundred ten thousand dollars in foregone tax revenue per new job created, before the PILOT is factored in.
+
+Noel: The defenders of this deal have a coherent argument: without the incentive, the project goes elsewhere, and the county collects nothing. I B M builds its quantum campus in a state that made a better offer, the retained jobs leave, and Dutchess County watches from the sideline as the next phase of computing history happens somewhere else. That argument is worth taking seriously. The I B M campus is a significant anchor employer in this region, and the quantum race is real.
+
+Noel: But the terms of the deal are worth examining. The five-to-one vote suggests the board moved with confidence. The motion to advance the sales tax recapture schedule by three years, a provision that would have let the county recoup some of the exemption sooner, was not seconded. Nobody on the board picked it up. The agency got a deal. Whether it got a good deal is a different question.
+
+Noel: The county's leverage here was not zero. I B M has operated in Poughkeepsie for decades. Moving a cryogenic plant and a cleanroom operation is not a simple relocation. The argument that I B M would have walked entirely is worth pressure-testing. It was not pressure-tested on September twenty-ninth.
+
+Noel: Now let's go to East Fishkill. Same county. Different question.
+
+Noel: On June twenty-fifth, twenty twenty-six, the East Fishkill Town Board voted unanimously to adopt a three-year moratorium on large data centers. Every member voted yes. Dozens of residents spoke in support. The meeting ran close to two hours.
+
+Noel: A moratorium is not a ban. It is a pause. Existing permits continue. Projects already under construction are generally unaffected. What the East Fishkill resolution prohibits is new permits, and new permit applications, for data centers above twenty megawatts, until July first, twenty twenty-nine. The framing the board used is temporary, explicitly tied to completion of federal and state studies on power and water usage, noise, and heat emissions.
+
+Noel: There are carve-outs. Projects ancillary to an already-permitted use and under twenty megawatts are exempt. Projects eligible for an economic-development special permit are also exempt. The moratorium targets large, standalone facilities.
+
+Noel: To put twenty megawatts in context: that is roughly the continuous draw of fifteen thousand to twenty thousand American homes. A facility at the threshold of the moratorium is not a server closet.
+
+Noel: The proposal that preceded this vote was a project called Treetop Companies' proposed A I-processing and cloud-computing center, off Donovan Drive, a one-gigawatt facility. One gigawatt. N Y I S O, the New York Independent System Operator that manages the state's grid, was studying it for interconnection impact across three utilities: Con Ed, Central Hudson, and N Y S E G. To give you a sense of scale, one gigawatt is approximately the generating capacity of Indian Point Unit three, the nuclear reactor that powered much of the Hudson Valley until it closed in twenty twenty-one. The Treetop proposal no longer appears on N Y I S O's interconnection queue.
+
+Noel: The town board's concern was not abstract. The four things the moratorium is waiting for federal and state studies to measure are: power, meaning grid load and the infrastructure upgrades that would be needed to support a facility of that size; water, because a large data center can consume millions of gallons per day for cooling, competing directly with residential wells and agricultural users; noise, the continuous low-frequency hum from industrial-scale cooling systems that residents in communities near existing facilities describe as constant and difficult to habituate to; and heat, because a one hundred-megawatt facility is a one hundred-megawatt heat source, and that heat goes somewhere.
+
+Noel: East Fishkill is not alone in asking these questions. More than one hundred communities across the country have passed data center moratoriums. Governor Hochul issued Executive Order Number sixty-two on July fourteenth, twenty twenty-six, pausing discretionary permits from the state Department of Environmental Conservation for facilities of fifty megawatts or more, for roughly a year. The state legislature passed a bill (S one zero six four two, A one one five six zero) imposing a one-year moratorium at the twenty-megawatt threshold. At the time of reporting, the governor had not signed it.
+
+Noel: The standard planning and zoning frameworks that towns use were not written with gigawatt facilities in mind. A zoning code written in nineteen seventy-five or nineteen ninety-five or even twenty ten was thinking about warehouses, retail, light industrial, maybe a hotel. A data center at scale is a different category of land use, in terms of power draw, water consumption, noise profile, and the degree to which its infrastructure demands get socialized across the grid and the utility ratepayer base while its tax benefits flow to the company that built it.
+
+Noel: A moratorium is how a town board buys time to build the planning framework that existing land-use law was never designed to provide. East Fishkill asked the question first. Three years to study the issue before issuing permits is, on the merits, a reasonable thing to do when you are looking at a proposal measured in gigawatts and the infrastructure consequences are regional.
+
+Noel: Same county. Opposite instincts.
+
+Noel: Dutchess County, through its Industrial Development Agency, is actively courting the build-out of large technology infrastructure with public incentives. The Town of East Fishkill voted unanimously to pause that same build-out and study it before allowing it to continue.
+
+Noel: I want to be precise about one thing before drawing the comparison too tightly. A quantum-computing facility and a data center are not the same thing. I B M's project has a different power and water footprint than the Treetop proposal that prompted East Fishkill's moratorium. The political profile is different too: I B M is an established employer with decades of history in the community. Treetop was a greenfield proposal of extraordinary scale from a company the community had no existing relationship with.
+
+Noel: But the underlying question is identical in both cases. When a large technology company builds on your land, or wants to build on your land, three things have to be decided. Who bears the infrastructure costs? Who captures the financial upside? And how transparent is the public process by which those decisions get made?
+
+Noel: On September twenty-ninth, the Dutchess County I D A answered that question. I B M will receive at least ninety-nine point four million dollars in sales tax exemptions, plus a negotiated reduction in property taxes through the PILOT. The county will retain the jobs that are already there, gain one hundred forty new ones if the projections hold, and book whatever property and sales tax revenue survives the abatement schedule.
+
+Noel: On June twenty-fifth, East Fishkill answered a different version of the same question: not yet. Not until we understand what this actually costs, in grid load, in water, in noise, in the infrastructure upgrades that ratepayers fund and residents live with.
+
+Noel: The throughline between the two decisions is this: in technology infrastructure deals, risk transfers in one direction, and it is not toward the company. The company chooses where to build. The company controls the projections for job retention. The company will operate within whatever permitting framework the public agency establishes, and it will maximize the incentives available within that framework because that is what companies do. The public agency is the one that has to live with the outcome, and the public that the agency represents is the one that absorbs the downside if the projections don't materialize.
+
+Noel: The I D A's job is to attract investment. That is a legitimate function. Economic development agencies exist for a reason, and in a region that has seen manufacturing leave and struggled with population retention, landing a two point five billion dollars capital program from one of the country's most recognized employers is a real win. I am not dismissing that.
+
+Noel: But the five-to-one vote, the unseconded motion to recapture sales taxes on a faster schedule, the absence of public clawback provisions in the approved terms: these suggest a negotiating posture tilted toward getting to yes. The question the public should be able to answer, and currently cannot fully answer because the minutes are draft, is whether the terms reflect the county's actual leverage, or whether they reflect the agency's instinct to close.
+
+Noel: East Fishkill's instinct was to stop. To build a framework before opening the door. That instinct cost that town a specific project: the Treetop proposal is gone from the interconnection queue. It may cost the town future investment if the moratorium signals to developers that East Fishkill is not a willing partner. That is a real trade-off. The residents who packed that June meeting understood it and voted for the pause anyway.
+
+Noel: Three things to follow as this story develops.
+
+Noel: First: the final I D A minutes. The figures we have been working from tonight are draft. When the agency approves the minutes at its next meeting, the record will be settled. Watch for the PILOT length and abatement schedule, and watch specifically for whether any clawback provisions apply, meaning whether there are conditions under which I B M would be required to return some portion of the benefit if it reduces headcount, scales back the capital program, or fails to meet the projected construction timeline. Clawback provisions are one of the few mechanisms by which a public agency protects itself against the scenario where the private investment does not materialize as promised. Their presence or absence is consequential.
+
+Noel: Second: the construction timeline. I B M's project is expected to deliver occupancy at year-end twenty twenty-nine. The capital program runs through twenty thirty-five. If the facility opens on schedule and the one hundred forty new jobs materialize and the quantum program advances, the incentive case strengthens in hindsight. The county bet and the bet paid. If the capital program quietly contracts after the tax benefits have locked in, if construction timelines slip without corresponding adjustment to the abatement schedule, the county will have learned a familiar lesson about anchoring public money to private technology ambitions.
+
+Noel: Third: the state studies, and what they mean for East Fishkill. The moratorium runs to July first, twenty twenty-nine. The federal and state studies it is waiting for are real. N Y I S O is conducting grid-impact work, and Governor Hochul's executive order set a parallel process in motion at the state level. If those studies produce frameworks that give town boards clearer tools for evaluating large data center proposals, on power, water, noise, and heat, East Fishkill may emerge from its pause with a planning process it can apply going forward. If the studies produce recommendations that are vague or permissive, the moratorium will simply expire and the board will face the next proposal without much more than it had in June.
+
+Noel: The thing I keep coming back to is the gap between the speed at which these infrastructure decisions get made and the speed at which the frameworks for evaluating them get built. A county I D A votes in a single meeting on a ninety-nine point four million dollars sales tax exemption. A town board buys itself three years to study something the state has no settled policy on yet. Neither timeline is wrong, exactly. But they are operating at very different paces, and the technology is not slowing down to wait.
+
+Noel: Both of these votes happened in Dutchess County, within a few months of each other, in adjacent municipalities. That is not a coincidence. It is what the machine age looks like from the local level: one board writing a check, and the neighboring board asking what the invoice is going to cost.
+
+Noel: I'm Noel. The full reporting from Mara Quinn and Ellis Ward is at the link in the show notes. Show notes have the source documents. I'll see you next time.

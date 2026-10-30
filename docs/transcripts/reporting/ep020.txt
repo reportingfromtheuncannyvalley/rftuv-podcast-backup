@@ -1,0 +1,107 @@
+Noel: More Money and Fewer Secrets: What the Tech Giants Are Offering Your Town for Its Data Center.
+
+Noel: Episode twenty, October twenty second, twenty twenty six, hosted by Noel.
+
+Noel: Picture a town board meeting. It used to be the kind of meeting where the agenda ran to zoning variances and road resurfacing bids. Twenty people on a good night. Now the room is packed. Residents are lining up at the microphone. They are angry, and what they are angry about is something they found out about too late.
+
+Noel: A company wanted to build a data center in their community. Early talks happened. Permits moved. But residents did not know who the company was, because the company had a code name. They did not know what the project would do to their power bills, because that information was not disclosed. They found out when the item showed up on the municipal board voting agenda.
+
+Noel: That pattern is not a single town's story. According to reporting by Marc Levy and Kaitlyn Huamani for the Associated Press, published today, October twenty second, angry residents continue to flood once sleepy municipal board meetings across the country, pressuring officials to reject data center proposals. More municipalities are passing data center moratoriums. Data Center Watch, a project of A I security consultancy 10a Labs, said it saw sustained local opposition to dozens of projects in the April to June quarter, its latest reporting period, as AP reports it.
+
+Noel: Today's episode is about what happened next. When communities started saying no, the offer on the table changed. America's technology giants are now promising to take fewer taxpayer handouts, keep fewer secrets, or shower more money onto the communities willing to allow the server warehouses. That framing comes from AP.
+
+Noel: This episode asks what changed, what is actually in the new offer, and what is still not on the table.
+
+Noel: If you followed Episode nineteen yesterday, you were inside one company, watching OpenAI agents weaken internal monitoring. Episode eighteen was an outside hacker using agents against company websites. This episode is different in kind. No agent misbehavior, no breach. This is a negotiation between some of the richest companies in the world and small towns, over land, power, water, and taxes. The business of tech resident expert for this show is Mara Quinn, and her lens is deal terms: what each side trades, what each pledge actually covers, and what a community gives away before it knows what it gave.
+
+Noel: To understand why the offer changed, you have to understand what the old bargain looked like from both sides of the table.
+
+Noel: A town offers a company land and permits. It offers power and water capacity. It takes on road and grid work. And, according to a report this month from several Senate Democrats, as AP reports it, it offers tax relief. The Senate Democrats report, which sharply criticized data center giants including Amazon, Google, Meta, and Microsoft, said those companies aggressively seek state and local tax breaks. Nearly forty states offer lucrative sales tax exemptions to data centers, as AP reports the developer Drew Nations saying, and the companies have pursued them hard.
+
+Noel: The Senate Democrats report also said the companies do not cover the entire cost of the electric grid buildout needed for energy-hungry data centers, as AP reports that finding.
+
+Noel: On the company side, the early deal came with a structure that kept the public at a distance. Tech companies often hid their involvement in a project behind a code name and developers who did the legwork with local governments, as AP reports critics and other developers saying. Non-disclosure agreements covered the early conversations. People in host communities may have known little or nothing about a project until it showed up on a municipal board voting agenda, as AP reports the practice.
+
+Noel: Anita Verma-Lallian, a developer with data center projects in Arizona, told AP that this practice, in her words, "raises people's suspicion as to what is truly happening."
+
+Noel: The practical effect: a town would commit before it knew who was building, what that build would draw from the grid, or what it would cost ratepayers. Senate Democrats said in their report that companies used non-disclosure agreements to freeze out the public, as AP reports the Senate findings.
+
+Noel: The breaking point came through utility bills. Data center demand began driving up electric bills last year across a thirteen-state electricity grid stretching from Illinois to New Jersey and Maryland, angering ratepayers, as AP reports it. That backlash gave community opposition a concrete grievance beyond aesthetics and noise. And it turned municipal permit boards into bottlenecks. According to AP, community opposition that blocks municipal permits has become a bottleneck for the industry.
+
+Noel: The companies have known since last fall that this was becoming a serious problem, as AP reports it. The outcry led to promises from the tech giants to pay the cost of the power infrastructure to feed their data centers, and Microsoft rolled out its five-point Community-First A I Infrastructure plan, as AP reports it.
+
+Noel: But the political pressure did not ease. It grew.
+
+Noel: The offer on the table today is different. Not entirely, and we will get to the scope questions. But it is different. Each company has made commitments, attributed as AP reports each commitment.
+
+Noel: On transparency: Google's global head of community development and engagement, Devi Thomas, told AP she would not call resistance to data centers a backlash. There are, she said, "often community questions to be addressed." She added, in the words AP quotes, "Early public consultation is increasingly a very important part of the process. We have done as much as we can to make sure communities are involved early on."
+
+Noel: Amazon this month rolled out what it is calling the Amazon Data Center Commitment. It includes pledges to improve the environmental rating of its backup diesel generators and disclose more about its data centers' energy and water use, as AP reports it. Amazon also said it has stopped requiring government officials to sign non-disclosure agreements. Microsoft and Google have said the same, according to AP.
+
+Noel: Meta's position is more precisely stated. Lindsay Elin, Meta's vice president of public policy and external affairs, said in a statement to AP that Meta is always evaluating how well it shares information with communities. Her words, as AP quotes them: "As part of that work, we are reviewing our use of non-disclosure agreements." Reviewing. Not eliminating. The AP record on Meta is that the review is underway, and nothing beyond that has been confirmed.
+
+Noel: On money: the numbers behind these pledges are worth holding in context. According to AP, Amazon, Google, Meta, and Microsoft project they will spend more than six hundred billion dollars this year combined on capital projects, primarily data center construction in the United States. Those same four companies collectively reported more than three hundred billion dollars in net income in their most recent fiscal year, as AP reports it. Both figures are AP projections and AP reporting, attributed as such.
+
+Noel: Against that scale, the new community commitments: Meta and Amazon each said recently they will spend one billion dollars on financial incentives to host communities in the coming years, on top of millions they already spend to support schools, charities, and job training, as AP reports it. Google says its investments in local programs in data center communities will reach one billion dollars by the end of twenty-twenty-seven, as AP reports it. Microsoft has pointed to a couple of local tax breaks it will forego, as AP reports it.
+
+Noel: On property taxes specifically: Google recently said that for all of its new data center campuses, the company will pay full real property taxes on the buildings and land, as AP reports it. That pledge is Google-specific and it covers real property taxes on buildings and land.
+
+Noel: Mara Quinn's lens applies here. Read every pledge by its scope. Which tax? Google's commitment is to real property taxes on buildings and land. That is not the same as covering the full cost of the grid buildout. Which campus? New campuses, per the Google pledge. Which years? Google's local programs figure reaches one billion dollars by the end of twenty-twenty-seven. What is not in the pledge? The Senate Democrats report said the companies do not cover the entire grid buildout cost. That remains, on the AP record, unresolved.
+
+Noel: A community fund is not a ratepayer guarantee. A pledge to pay full real property taxes on buildings and land is not a commitment to cover power infrastructure costs. The scope of each pledge matters more than the dollar figure attached to it.
+
+Noel: None of this stops the companies from making the case that A I is a positive force for the American economy. They are making that case while also running ads to make it. The Data Center Coalition, a trade association whose members include the tech giants, told AP it has spent more than ten million dollars running pro data center ads in ten states on T V and elsewhere. Data center company QTS and a group called Build American A I, which does not disclose its donors, also began ad campaigns this year, as AP reports it.
+
+Noel: The companies say they have gotten the message. The people who have been fighting them are not persuaded.
+
+Noel: Sam Burleigh helped start Concerned Citizens of Montour County in rural northern Pennsylvania to fight a potential Amazon-backed data center project. He told AP the company commitments amount to propaganda, using that word as AP reports it. In the words AP quotes: "What I see is them realizing they have more resistance than they ever dreamt of. And so now they have to find some way, some method to break through that resistance."
+
+Noel: Kathryn Hoffman, executive director of the Minnesota Center for Environmental Advocacy, which has sued over two prospective Google data centers, told AP she sees Google doing more public relations outreach. She does not see it doing more to disclose critical details about its plans. That is Hoffman's view as AP reports it, not a finding the AP reporting itself establishes independently.
+
+Noel: The distinction Hoffman is drawing matters. Transparency about who is building is not the same as transparency about what the build will draw, what it will cost the grid, and what a community is left with if the operator eventually leaves. Non-disclosure agreements covered the first layer: who is behind the project. Three companies say they have stopped requiring government officials to sign them. Meta says it is reviewing that practice.
+
+Noel: But the AP record does not establish that the new pledges resolve the second layer. What power and water figures can a resident actually read before a vote? What are the grid buildout costs, and who pays them if the company's commitment does not cover the full amount? What document exists, accessible to a town board member before a decision, that answers those questions?
+
+Noel: Mara Quinn's scope question is not rhetorical. It is structural. The information asymmetry between a trillion-dollar company and a rural town board does not disappear when the company agrees to consult earlier. It narrows at one end, the question of who is building, and it may remain wide at the other, the question of what the build costs the community over time.
+
+Noel: The Senate Republicans' national campaign arm sent a memo on August eighteenth that crystallized this. It warned the tech sector that it must fix, in the memo's words as AP quotes them, "the toxic brand of an entire segment of the economy," or risk long-term fallout in elections. The memo framed the problem as three questions: who benefits, who pays, and why a community should want one.
+
+Noel: Those three questions are the same ones a town board should be able to answer before signing anything. On the AP record today, the new pledges address the first more than the second, and they address the second more than the third.
+
+Noel: The industry's about-face did not come from altruism. It came from an election calendar.
+
+Noel: According to AP, anti-data center sentiment has become a potent issue in the midterm elections, with control of Congress and thirty-six governors' offices on the line. Despite backing from President Donald Trump, the data centers powering the artificial intelligence boom have become politically toxic, as AP reports it.
+
+Noel: On Wednesday, October twenty first, Trump posted on social media urging the companies to pay people and communities a dividend if they want to make their data centers popular, as AP reports it. He also wrote, in the words AP quotes directly, "MAKE DEALS, and get them built!!! GREAT FOR THE U.S.A."
+
+Noel: Even some of the companies' allies in the development community are saying the approach has to change. Drew Nations, a developer in North Carolina, told AP that developers need to aggressively address quality of life complaints. That means shielding neighbors from noise and keeping data centers out of public view so they are not an eyesore. On taxes, Nations put it plainly to AP: the sales tax exemptions available in nearly forty states leave regular people thinking that a multi-billion or trillion-dollar company gets tax breaks and they do not.
+
+Noel: Balaji Tammabattula, chief operating officer of BaRupOn, which develops data center campuses, told AP the pressure of the midterms has helped developers understand how crucial community support is to a project's success. His words, as AP quotes them: "It is impossible to build without them."
+
+Noel: The Senate Republicans' August eighteenth memo made clear this was not a fringe concern. A national party campaign arm, working to protect and expand Senate seats, told an industry to fix its image or face electoral consequences. The tech sector heard that.
+
+Noel: The companies have been spending to shift the narrative, as noted: more than ten million dollars in pro data center advertising in ten states from the Data Center Coalition alone, with additional campaigns from QTS and Build American A I, as AP reports. But the advertising has not stopped residents from showing up at board meetings in numbers those meetings were never designed to handle. More municipalities are passing moratoriums, as AP reports. The opposition documented by Data Center Watch in the April to June quarter covered dozens of projects, as AP reports that organization's data.
+
+Noel: The offer changed because the old approach stopped working. The question is whether the new offer is a structural fix or a more expensive version of the same negotiation.
+
+Noel: This show covers the Hudson Valley and the broader region it sits in, and this story has already arrived here, though not yet in the form of a specific data center proposal.
+
+Noel: On October third, twenty-twenty-six, the Poughkeepsie Journal held a candidate session for the District thirty nine state senate race. District thirty nine incumbent Robert G. Rolison and challenger Lisa Kaul were both asked about data centers. Childcare and affordability also came up in that session.
+
+Noel: The desk reviewed the forum transcript and publicly available material for both candidates. Neither Rolison nor Kaul laid out, in that forum or in other material the desk reviewed, a specific legislative plan on data centers that goes meaningfully beyond what the question and answer transcript shows. That is the reviewed record. It is not a claim about their private intentions or positions they may hold but did not articulate in public.
+
+Noel: Early voting opens this Saturday, October twenty fourth. Election Day is Tuesday, November third. This episode goes out two days before early voting begins.
+
+Noel: District thirty nine is not currently a proposed data center site, as the record carries it. But listeners in any community that could become one, here or elsewhere in the state, do not control what Amazon or Google or Meta or Microsoft decides to pledge nationally. They control something narrower and more immediate. They control the questions their town board and their state senator will or will not ask before a deal is signed.
+
+Noel: Those questions, drawn from the AP record and the Mara Quinn framework applied across this episode: Who is the real company behind a code name, and when does the community find out? Can residents read the power and water figures before a vote, not after the agenda is posted? Which taxes does the company pay in full, and which exemptions remain in place? Who pays for the grid buildout, and what is the gap between what the company commits to cover and what AP's account of the Senate Democrats report says remains uncovered? And what happens if the operator leaves?
+
+Noel: These are not hostile questions. They are the questions that should have been answered in Montour County before Sam Burleigh had to start a citizens group to ask them.
+
+Noel: The offer changed because communities said no. Residents flooded meetings and pressured officials to reject proposals. Municipalities passed moratoriums. And the Minnesota Center for Environmental Advocacy has sued over two prospective Google data centers. The companies, facing a permit bottleneck and an election, responded with more money and fewer secrets.
+
+Noel: Whether more money and fewer secrets is enough, whether it answers who benefits, who pays, and why a community should want one, is the decision that now sits in front of boards that used to make it in private, with a non-disclosure agreement covering the early conversations and a code name on the paperwork where the company's name should have been.
+
+Noel: A sleepy meeting is not sleepy anymore. That, at least, has changed.
+
+Noel: This is Reporting from the Uncanny Valley. The AP reporting today is by Marc Levy and Kaitlyn Huamani. Find past episodes and transcripts at the usual places. I'm Noel Brown, and this has been Reporting from the Uncanny Valley.

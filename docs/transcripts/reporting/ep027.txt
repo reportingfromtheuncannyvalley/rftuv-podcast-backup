@@ -1,0 +1,95 @@
+No Referee Yet: Two Labs Claim to Disprove the Exponential Time Hypothesis
+
+Episode 27, October 29, 2026. Hosted by Noel.
+
+Two rival laboratories. The same hypothesis. The same day. And as of this recording, no independent confirmation of either result.
+
+That is where we start, and those limits stay in place for the entire episode. Every result you hear today is a claim, attributed to the lab that made it. No independent body has confirmed either result. No peer review has been completed. The three mathematicians who agreed to examine one of these claims opened their letter with a direct warning: their involvement should not be taken as certification.
+
+I am Noel. This is Reporting from the Uncanny Valley. This episode is different from the last three. Episodes twenty-four, twenty-five, and twenty-six were about agents escaping, intruding, and being handed companies. This one is not about an agent being graded or given access. A research model produced a mathematical claim. The story is the human institution that has to decide whether the claim is true.
+
+There are three acts. First, the stake: what the Exponential Time Hypothesis is and why disproving it would matter, but only in a specific and limited way. Second, the coincidence: two labs, one day, two disproof claims, each treating the other's result as unconfirmed. Third, the referee: the verification system we have, who is running it, and what it cannot yet do.
+
+Act One: The Stake
+
+In nineteen ninety-nine, three theoretical computer scientists published a conjecture that has been a structural load-bearer for the field ever since. Russell Impagliazzo and Ramamohan Paturi, both of UC San Diego, and Francis Zane proposed what became known as the Exponential Time Hypothesis. The claim, stated plainly: three-SAT cannot be solved in subexponential time.
+
+Three-SAT is not an obscure corner problem. It sits at the center of theoretical computer science. Solving three-SAT means determining whether a set of logical constraints, expressed in a particular Boolean form, can all be satisfied at once. It is the kind of problem that shows up at the edge of what computation can do efficiently. The Exponential Time Hypothesis does not settle the P versus NP question, the deepest open problem in the field. But it has become a standard theoretical tool.
+
+According to OpenAI's announcement, as reported by Ellis Ward at rftuv dot ai on October twenty-eighth, the hypothesis has been used in hundreds of papers to derive what researchers call conditional hardness results. If three-SAT cannot be solved quickly, then many other problems provably cannot be solved quickly either. Graph theory, computational biology, databases, computational geometry: a substantial body of results in each of those areas rests on the hypothesis as a foundation.
+
+Disproving it would not break those fields. Both papers are explicit on this. But it would send theorists back to audit a substantial body of conditional results. That audit would not be a small task. For each area that used the hypothesis as a foundation, researchers would need to determine which conclusions still hold on independent grounds and which depended on the hypothesis alone. Finding out which conclusions survive, and on what basis, is the work that a confirmed disproof would open up.
+
+Both papers state clearly, and this episode will not obscure, that both results are purely asymptotic. They say something about the mathematical structure of the problem in a formal, theoretical sense. They say nothing about solving three-SAT faster in practice. Anthropic's repository readme states directly: "The result is purely asymptotic and says nothing about solving formulas in practice." OpenAI adds that turning the theoretical finding into practical improvements will require significant further research. That is the boundary. Everything interesting in this episode happens inside that boundary.
+
+Act Two: The Coincidence
+
+October sixteenth, twenty twenty-six. A research model inside OpenAI found a natural language disproof of the Exponential Time Hypothesis.
+
+The following day, October seventeenth, it formalized the proof in Lean, a programming language used to write machine-checkable mathematical proofs. OpenAI posted the result publicly nine days later, on October twenty-sixth, in a blog post titled "Working with academic communities to build scientific understanding." That post announced discoveries across three fields: harmonic analysis, complexity theory, and quantum field theory. The ETH claim sits in the complexity category.
+
+OpenAI's paper, titled "The Exponential Time Hypothesis is False," runs sixty-seven pages. It is dated October seventeenth and was revised October twenty-fifth. Both the paper and the Lean proof are in OpenAI's public GitHub repository.
+
+In OpenAI's own framing, its manuscripts are, briefly quoted, "a form of raw research data." That phrase matters. A manuscript that functions as raw data is not the same as a peer-reviewed finding. OpenAI is not claiming it is.
+
+There is a documented discrepancy in the materials OpenAI has released. According to a side-by-side analysis published by Papex and reporting by Okay News, as cited in Ellis Ward's article, the running time bound covered by OpenAI's Lean formalization is weaker than the stronger bound presented in the manuscript. The two documents do not say the same thing on their most significant claim. Lean can verify that a proof compiles under certain axioms. It cannot, on its own, resolve a discrepancy between what the formalized proof covers and what the written paper asserts.
+
+There is also a transparency gap. The model that produced OpenAI's result remains proprietary. According to Scientific American on October twenty-seventh, the exact prompts, compute time, and chain of thought outputs for OpenAI's model have not been made public. The Advisory Group on Mathematics and Artificial Intelligence, known as AGMAI, has standing recommendations that include disclosure of model name, number of attempts, and compute cost for AI-generated results. Per Scientific American, as cited in Ward's article, none of those have been provided for the OpenAI claim.
+
+Now, the same day. October sixteenth.
+
+Hours after OpenAI posted publicly on October twenty-sixth, Anthropic deposited its own refutation. Anthropic's paper was deposited October twenty-seventh on Hexagon and in its public formal math GitHub repository.
+
+The title is "A Two-to-the-O-of-N Time Algorithm for Three-SAT." The provenance statement in that paper says, briefly quoted: "The core algorithm was found on October sixteenth by an internal Claude research model with fourteen million output tokens and no human input. Anthropic researchers worked with Claude to improve the presentation."
+
+October sixteenth. The same day OpenAI's model reached its conclusion.
+
+Anthropic's statement continues: "Independently and concurrently, an internal model at OpenAI claims to have proven a similar result." Note the wording. Anthropic treats OpenAI's result as a claim, not a confirmed finding. This episode does the same for both.
+
+Anthropic's paper is more ambitious on its face. It solves the harder counting problem, known as hash-three-SAT, which asks not just whether a solution exists but how many solutions there are. It runs in deterministic time and is formalized in Lean four.
+
+Anthropic's repository is described as a research artifact, licensed under Apache two-point-zero. Its readme carries a notable caveat: no automated check verifies that the short summary statement file accurately reflects what the full paper says. A reader has to confirm the correspondence manually, or by re-running the proofs through a second, independently written proof kernel called nanoda, which Anthropic says it used for verification.
+
+A brief word on what else OpenAI announced on October twenty-sixth, because the ETH claim did not arrive alone. In mathematics, OpenAI says its models proved Sogge's local smoothing conjecture, first proposed in nineteen ninety-one, in every dimension. The local smoothing result was obtained on October eighteenth and formalized in Lean the following day, October nineteenth, before OpenAI posted publicly. OpenAI says the local smoothing proof would also resolve the Kakeya conjecture and Stein's restriction conjecture in all dimensions. Local smoothing had previously been proved only in two dimensions, by Guth, Wang and Zhang in twenty nineteen. Wang and Zahl proved Kakeya in three dimensions in twenty twenty-five. OpenAI says the mathematics results are formalized in Lean and are public.
+
+In physics, OpenAI says its models produced a mathematically rigorous existence proof for certain interacting quantum field theories in four dimensions, including QCD, building on Balaban's approach. A subproblem covers the existence of pure Yang-Mills theory, which is part of a Clay Millennium Prize problem. The Yang-Mills existence proof was produced September ninth, twenty twenty-six, the QCD proof September eighteenth, and the Lean formalization of Yang-Mills finished October sixteenth. The Clay problem also requires proof of a mass gap. That remains open. The claim does not complete the Millennium Prize. The physics materials have not been released publicly. The shepherd group for the physics result, led by Nobel laureate David Gross with Michael Douglas, Arthur Jaffe, Igor Klebanov and Nikita Nekrasov, decided to write the work up themselves first before any release.
+
+Act Three: The Referee
+
+Russell Impagliazzo and Ramamohan Paturi are two of the three people who proposed the Exponential Time Hypothesis in nineteen ninety-nine. Ryan Williams is a theoretical computer scientist at MIT. Together, these three agreed to lead the examination of OpenAI's ETH claim. Their open letter is at ethdiscussion dot blog.
+
+They opened it plainly: "Our involvement should not be taken as certification of the claim. A result of this significance requires careful, independent scrutiny."
+
+That sentence is the spine of this episode. Two of the three people whose conjecture may have been disproved are the ones doing the checking. They agreed to this publicly, and the first thing they said is that agreeing does not mean endorsing.
+
+They wrote that they want the examination to proceed openly, without conferring ownership of the effort on a company or a selected group of researchers, including themselves. That phrase, "including ourselves," is doing real work. They are describing a structural concern: that the very act of being named to a group confers a kind of authority that can distort the examination.
+
+They raised the credit problem directly. AI-produced findings at machine speed create asymmetries. Recognition may go to whoever publishes first or has the most powerful tools. The labor of checking, fixing, simplifying, explaining, and extending those results receives less credit by comparison. The examiners named that gap not as a grievance but as a structural feature of the current moment that the community will have to address. The examination of an AI-produced result is itself a form of intellectual labor, and the existing credit system in mathematics, which depends on authorship and publication, was not designed to account for it. Who gets credited for verifying a result the community did not yet know to check? That question does not have an answer yet. The examiners raised it because it will have to be answered before the next result arrives.
+
+Their letter closes with a conditional: "If the claim is correct, it will change an important part of theoretical computer science." Not when. If.
+
+OpenAI agreed to the examination group's conditions. OpenAI agreed to two conditions only: all raw data made public, and OpenAI funding a conference on the implications. Separately, a virtual meeting of the theoretical computer science community before the end of twenty twenty-six is proposed on the examiners' site. That meeting is a proposal on the examiners' site, not a stated agreed condition. The agreement, as recorded, covers those two conditions and no others.
+
+Operating independently, the Advisory Group on Mathematics and Artificial Intelligence, AGMAI, based out of the Institute for Advanced Study, published a statement on October twenty-fifth recommending that AI companies not designate specific mathematicians to shepherd releases. It named five disadvantages: delayed or unequal access to results, denied agency for researchers not included, the risk of biased selection, borrowed reputation, and the fact that such designation is simply unnecessary. The statement was explicit that this was no criticism of the mathematicians involved. The concern was structural, not personal. AGMAI was not addressing any individual choice. It was describing a pattern it believed the field should avoid going forward.
+
+On October twenty-sixth, AGMAI called on OpenAI to make public without delay the natural language and Lean outputs behind its announced existence proofs for Yang-Mills and QCD. AGMAI's standing recommendations cover several specific points. Results should be posted on scholarly repositories not controlled by the producing lab, with citable identifiers that persist. Labs should disclose the model name, the prompts used, chains of thought, the number of attempts made, compute time, and costs. Those recommendations apply to both labs equally. Per Ellis Ward's reporting, neither lab has fully complied with them. The ETH materials from both OpenAI and Anthropic are public, but on repositories the labs themselves control. The fuller disclosure list, including prompts and compute costs, has not been met by either.
+
+OpenAI has published what it calls its collaboration principles for this examination. It is not requiring nondisclosure agreements. Participants are free to discuss and publish their own conclusions. OpenAI seeks no academic credit for the verification work. Participation is voluntary and unpaid. Participants speak only for themselves. Those five points together are OpenAI's stated framework for how the examination is meant to operate, and they are public.
+
+For each of the three result areas, OpenAI asked external experts to act as shepherds, and those shepherds advised three different release strategies. Publish outright, for the mathematics result. Publish alongside an external working group, for the computer science result. Let the external group decide on release, for the physics result. The three strategies are not uniform because the communities involved are not uniform. Theoretical computer science, mathematics, and physics each carry different norms around preprints, peer review, and public disclosure of contested results. OpenAI says publicly that it does not yet know which approach works best.
+
+OpenAI has also announced a contribution of five million dollars to the Simons Foundation. The foundation will manage and award those funds independently. The intended use is workshops, conferences, and programs to help researchers engage with AI-produced results.
+
+Close
+
+As of October twenty-eighth, per Ellis Ward's reporting, none of the three OpenAI results and neither ETH refutation has been independently confirmed or peer reviewed. Scientific American described reactions among researchers approached for comment as astonished. That word deserves a moment. These are researchers in theoretical computer science and related fields. They work on problems that sometimes take years or decades to resolve. Two AI models, working independently at two separate labs, reached the same conclusion on the same day, on a conjecture that has stood for twenty-seven years. The examination process is still taking shape around results that already exist.
+
+The episode leaves it here.
+
+Lean can verify that a proof compiles under certain axioms. That is genuinely valuable. But it cannot resolve the gap between OpenAI's formalized bound and the stronger assertion in its manuscript. Resolving that gap is precisely the work the examination group agreed to take on, with no guarantee of when or whether it closes. The machinery for deciding what counts as known is being built in real time, under time pressure, in public.
+
+The examiners said it at the start of their letter and it is the right place to end: their involvement should not be taken as certification. Two labs produced claims on the same day. One of those claims has a documented discrepancy between its manuscript and its machine-checked proof. Neither has been through independent review. The examiners are the hypothesis's own authors, working openly, and warning that none of this should be read as confirmation.
+
+What "confirmed" means when the claimant works at machine speed and the checking still works at human speed, that is the open question. This applies not just to these two claims, but to every claim that follows them.
+
+I am Noel. This is Reporting from the Uncanny Valley. Episode twenty-seven. We will be back.

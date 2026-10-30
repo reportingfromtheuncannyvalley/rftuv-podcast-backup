@@ -1,0 +1,55 @@
+RFTUV Briefing - Episode 10
+
+Midday Edition | Friday, October 9, 2026
+
+Good afternoon. I'm Noel, and this is the RFTUV Briefing, midday edition, Friday, October 9th. Four stories today. Let's get into it.
+
+THE ANCHOR: The Federal Dollar Stops in Poughkeepsie
+
+We start local, and we start with the biggest story on the site right now.
+
+Thirty-nine workers at the Children's Home of Poughkeepsie are losing their jobs. The cutoff date is December 28, four days after Christmas. The program shutting down is the Nuevas Alas Home Study and Post Release Services Program, which provided care and case management for unaccompanied migrant children placed in the community after federal processing. That program is closing permanently.
+
+The reason is a federal funding pullback. The Office of Refugee Resettlement declined to renew the grant that paid for it. The Children's Home filed a WARN Act notice with New York State on September 24th. The executive director, Walter J. Joseph, called the shutdown expected to be permanent.
+
+The Children's Home of Poughkeepsie has been part of this community since 1847. That is a long time to be embedded in a place. The Nuevas Alas program is one piece of what the institution does, but 39 jobs is not a small number, and the children the program served will need to find that support somewhere else. The federal government placed them in communities. The federal government is now withdrawing the money that helped keep them there.
+
+A Washington funding decision looks like this when it lands in Dutchess County: A federal grant goes away. A nonprofit absorbs the shock. Workers get termination notices four days before the new year. That is the local read on a national policy move, and it is June Mercer's reporting. Her full piece is live at rftuv.ai right now. There is a longer Reporting episode in the works that goes into this in depth, with June's full reporting and the voices behind this story. Today's Briefing gives you the headline. Go read the piece.
+
+AGENTS IN THE OFFICE: Google Ships Them, Amazon Bans Them
+
+The same week brought two opposite decisions from two of the largest companies in the world.
+
+On Wednesday, Google launched a Gemini workplace agent built to sit alongside ordinary employees. It writes code, runs tasks, and does work that until recently required a person at a keyboard. Google is shipping agents to the workforce, and it is doing it now, not as a pilot for a handful of engineers but as a rollout aimed at regular employees.
+
+On the same day, Amazon went the other direction. According to Barron's, Amazon has banned AI agents on its own internal systems. The company that sells cloud computing and AI tools to everyone else decided not to run agents on its own turf.
+
+Barron's frames the Amazon ban as an opening for rivals, a gap Google and others will push into while Amazon sits it out. That may be right. The plainer observation is this: the corporate world is now split. One camp is moving agents to every employee as fast as the rollout allows. The other camp is keeping the door closed.
+
+This is the adoption question, and it is worth tracking on its own. It is separate from the liability question we covered earlier this week, the question of who pays when an agent makes a costly mistake. Today's question is simpler: Who gets an agent at work, and who does not? As of this week, if you work at Google, something changed. If you work at Amazon, the door is shut.
+
+THE MONEY BEHIND THE BOOM: Manus Raises $500 Million
+
+Here is the money story underneath all of it.
+
+A company called Manus, which builds AI agents, raised more than $500 million this week. The reported valuation is $4 billion. That number comes from SiliconANGLE, citing sources close to the deal.
+
+Think about what that price tag is saying. Investors do not put a $4 billion number on a company because they think agents will be a useful productivity tool. They put $4 billion on it because they believe agents are going to replace a serious portion of white-collar work, enough that the companies building them will become very large businesses very quickly.
+
+The timing sits right next to the previous story. The same week Google ships agents to its employees and Amazon locks them out, the market prices one agent startup at $4 billion. That investment thesis is not neutral on the question. The bet is that the deployment camp wins, and wins at a scale that justifies the number. The money is already on the table.
+
+THE CLOSE: Goodbye to Lil' Deb's Oasis
+
+We end in Hudson.
+
+Lil' Deb's Oasis is closing after ten years. Time Out listed it among the best restaurants in the world. It became one of those places people drove to, planned weekends around, queer-owned and Colombian-American in its cooking, warm and specific in a way that felt like nowhere else in the Valley.
+
+Ten years is a real run for a restaurant. The kind of place Lil' Deb's was is hard to keep going, with a clear point of view, a strong community, and the kind of costs that do not get easier over time. The food press loved it. The regulars loved it. That combination is rarer than it sounds, and it still was not enough to make the numbers work forever. When a place like that closes, it does not get replaced by something equivalent. It just closes.
+
+That is the Briefing close for today. The full story is on Time Out if you want to sit with it.
+
+OUTRO
+
+That's the RFTUV Briefing for the midday of Friday, October 9th. The Children's Home piece is live at rftuv.ai right now. June Mercer's reporting. Read it. The full Reporting episode is coming, and it will go much deeper.
+
+I'm Noel. This is RFTUV.

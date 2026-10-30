@@ -1,0 +1,63 @@
+Noel: Good afternoon. It is Sunday, October eighteenth, twenty twenty six. I am Noel. This is The R F T U V Briefing, midday edition.
+
+Noel: Three stories today. Dutchess County voters have a deadline tomorrow that matters more than the one next Saturday, and the full early voting map is now set. Major websites are deciding whether A I agents get in at all, and several have already answered no. And in Rhinebeck, a man faces charges after police say a license plate camera was set on fire and the fire spread.
+
+Noel: Source: June Mercer, rftuv.ai, October seventeenth, twenty twenty six.
+
+Noel: Start with tomorrow. If you are already registered but you have moved, your address change must be received by the Dutchess County Board of Elections by Monday, October nineteenth, to be processed in time for this election. That is the most urgent date in this story for a Sunday listener.
+
+Noel: The bigger deadline follows. To vote in the November third election, your registration application must be received by the county Board of Elections no later than Saturday, October twenty fourth. Mailing it on the twenty fourth is not enough. It must arrive by that date.
+
+Noel: October twenty fourth carries a name. It is Golden Day, because the registration deadline and the first day of early voting fall on the same date, so a voter can register and cast a ballot on the same day.
+
+Noel: Who qualifies, in brief. You must be a U.S. citizen, at least eighteen years old on Election Day, and a resident of New York State and of your county, city, or village for at least thirty days before the election. You must not be currently incarcerated for a felony conviction, and not be under a court order finding you mentally incompetent to vote. Sixteen- and seventeen-year-olds may pre-register now and vote when they turn eighteen. You do not need to join a political party to register or to vote in a general election.
+
+Noel: There are three ways to register by October twenty fourth. Online, through the New York State Board of Elections online registration portal, with a N Y.gov ID. By mail, using a state voter registration form sent to the Dutchess County Board of Elections, one hundred twelve Delafield Street, Poughkeepsie, N Y one two six zero one, received by October twenty fourth. Or in person, at that same Board of Elections office in Poughkeepsie. To check your registration status, your party enrollment, or your Election Day poll site, use the New York State Voter Lookup.
+
+Noel: Early voting runs Saturday, October twenty fourth through Sunday, November first, nine straight days. Any registered Dutchess County voter may use any of the seven early voting sites. Sites are not assigned by address, and no appointment is needed. Your regular Election Day poll site is not an early voting location, and there is no early voting on Monday, November second.
+
+Noel: The seven sites are: the Pavilion at Brookmeade, thirty four Brookmeade Drive, Rhinebeck; Fishkill Town Hall, eight hundred seven Route fifty two, Fishkill; Boardman Road Library, one hundred forty one Boardman Road, Poughkeepsie; Cornell Cooperative Extension, two thousand seven hundred fifteen Route forty four, Millbrook; the Mid-Hudson Library Auditorium, one hundred five Market Street, Poughkeepsie; the Board of Elections Training Center, four thousand two hundred eighty Albany Post Road, Hyde Park; and Wappinger Town Hall, twenty Middlebush Road, Wappingers Falls. Hours are the same at all seven, mostly nine a.m. to five p.m., with noon to eight p.m. on Monday, October twenty sixth and Wednesday, October twenty eighth.
+
+Noel: Mail ballots, in brief. Any registered voter may request an early mail ballot, with no excuse required. If you apply by mail or online, your application must be received by Saturday, October twenty fourth. In-person applications at the county board are accepted through Monday, November second. A mailed ballot must be postmarked no later than November third and received by the county board no later than November tenth. The county board recommends drop-off over mail because of postal delays. One rule matters here. If you have been issued a mail ballot, you cannot vote on a machine in person, whether or not you returned the ballot. At the polls, you may vote only by affidavit ballot, which is counted only if your mail ballot is not received.
+
+Noel: Election Day is Tuesday, November third. Polls open at six a.m. and close at nine p.m. If you are in line at nine p.m., you must be allowed to vote. Your assigned Election Day poll site is based on your address, and it is likely different from the early voting sites. New York does not require photo ID to vote. Identity is verified by signature, with a narrow exception for some first-time voters who registered by mail.
+
+Noel: What to watch: address-change and registration processing this week, and turnout when early voting opens on October twenty fourth.
+
+Noel: Source: The Verge, October seventeenth, twenty twenty six; follow-on reporting, October eighteenth, twenty twenty six.
+
+Noel: Autonomous agents are the current promise in A I. OpenAI, Meta, Google, Instinct, and others say their agents can work across the internet on your behalf, from booking a dinner reservation and cleaning out an inbox to buying new shoes. In recent weeks, users of services including Meta's Muse, xAI's Grok, OpenAI's Dots, and Instinct have reported blocks preventing their A I agents from performing tasks across major websites, per The Verge.
+
+Noel: Yelp told TechCrunch it only allows A I agents that have paid for access through its data licensing program.
+
+Noel: Delta Air Lines is preventing agents from booking tickets on behalf of users. In the follow-on reporting, Delta said it does not currently have a partnership or integration that lets a third-party agent shop for or book its flights, and that it is continuing to evaluate, while also taking steps to protect customers from unauthorized automated activity. That is Delta's wording. It is softer than a flat ban.
+
+Noel: The banks have been clearer. JPMorgan Chase and Charles Schwab have confirmed they are blocking A I agents from accessing accounts due to security concerns, per The Verge. JPMorgan chief executive Jamie Dimon said on the bank's October thirteenth earnings call, in The Verge's reporting, that JPMorgan is not going to allow just any outside agent inside the company, because it is too risky for clients and for the bank. Charles Schwab chief executive Rick Wurster told investors on October fifteenth, per American Banker reporting carried in the follow-on coverage, that an agent coming to the site and trying to log in on behalf of a client is not safe, and that Schwab is not going to allow it. That reporting says Schwab blocks agents that use a client's login credentials or browser automation.
+
+Noel: Amazon's fight is older. Amazon banned Perplexity's agentic shopping feature last year and sued the A I startup, per The Verge. Amazon said at the time that third-party companies that purchase items on behalf of customers should operate openly and respect service provider decisions about whether or not to participate. A pop-up shown to Muse users said continued access by an unauthorized A I agent violates Amazon's Conditions of Use, per GeekWire reporting in the follow-on coverage.
+
+Noel: Some users say sites that previously worked with their agent are no longer accessible, including Cars.com and Amtrak. Those are user reports, suggesting other companies could be quietly blocking agents. They are not confirmed company blocks.
+
+Noel: Not everyone is closing the door. Some companies are negotiating access instead. Meta has partnered with retailers including Walmart, Gap, Sephora, and Best Buy to allow shopping through its Muse assistant, in the follow-on reporting, and Shopify has opened its network of storefronts to A I agents. Meta's line in that reporting is that turning away a personal agent means turning away the customer behind it.
+
+Noel: This is a prior question to the ones this series has covered before. Not what an agent may do with permission, but whether an agent gets in at all. And even where agents are welcome, login screens, CAPTCHAs, and device checks can treat an automated browser as hostile by default.
+
+Noel: What to watch: whether paid licensing and partnership deals become the normal price of entry, and whether any company that has blocked agents reverses course on the record.
+
+Noel: Source: Patch, October eighteenth, twenty twenty six; Poughkeepsie Journal, October twelfth, twenty twenty six; Dutchess County Sheriff's Office reporting.
+
+Noel: At about eleven fifty P M on Saturday, October tenth, New York State Police and Dutchess County Sheriff's deputies responded to the area of six thousand fifty two Route nine in Rhinebeck for a reported brush fire, according to the Sheriff's Office. After firefighters extinguished the flames, investigators determined that a nearby Flock camera, a license plate camera, had been set on fire, and that the fire led to the brush fire.
+
+Noel: John K. Coleman, twenty six, of Rhinebeck, was arrested during the early morning hours of Sunday, October eleventh, according to the Sheriff's Office.
+
+Noel: He was charged with third-degree criminal mischief, a felony, and fifth-degree arson, a misdemeanor. He was processed and released on appearance tickets. He is scheduled to appear in Rhinebeck Town Court on November fifth. The charges are accusations. He is presumed innocent unless proven guilty in court.
+
+Noel: The investigation involved the Dutchess County Sheriff's Office, the New York State Police, the Dutchess County Fire Investigation Division, and the Rhinebeck Fire Department, per the Sheriff's Office reporting. Authorities said more information may be released at a later time.
+
+Noel: Flock cameras have been a contested topic across Dutchess County in recent weeks.
+
+Noel: What to watch: the November fifth appearance in Rhinebeck Town Court, and any further information the Sheriff's Office releases.
+
+Noel: That is the midday edition for Sunday, October eighteenth. Check an address change by tomorrow, and your registration by October twenty fourth. Major websites are deciding whether A I agents get in at all. And a Rhinebeck man faces charges after police say a Flock camera fire spread to a brush fire.
+
+Noel: I am Noel. Thank you for listening. I will be back with the evening edition.

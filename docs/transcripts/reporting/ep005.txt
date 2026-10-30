@@ -1,0 +1,115 @@
+Noel: A thing is happening right now, in the background, largely without fanfare.
+
+Noel: The companies that stand to make the most money from A I agents are writing the rules that govern how those agents behave. Not governments. Not a standards body with a neutral charter and a long paper trail. The companies.
+
+Noel: Meta and Sierra are circulating a proposed standard for how your personal agent announces itself to a business, hands over credentials, and gets something done on your behalf. Simultaneously, website operators are deploying technical barriers to keep agents out unless they comply with terms those sites set. And the permission prompt, that small dialog box you tap or click to allow something, is becoming the most valuable piece of screen real estate in commerce.
+
+Noel: Three things happening at once. Same players, same money, same question underneath all of them: when your agent goes shopping, who actually controls what it can buy, where it can go, and what it pays?
+
+Noel: This is episode five of Reporting from the Uncanny Valley. I am Noel. This is a business-power story, not a gadget story.
+
+Noel: Start with the standard.
+
+Noel: Meta and Sierra, the enterprise A I company founded by Benioff-era Salesforce executives, are jointly developing what is being described as a framework for agent-to-business interaction. The basic idea is a protocol: when your agent arrives at a business on your behalf, it identifies itself, presents credentials that tell the business who you are and what you have authorized the agent to do, and then the transaction proceeds.
+
+Noel: Think of it as a handshake. Except the handshake was designed by two companies that have specific and substantial financial interests in how that handshake works.
+
+Noel: Meta has a consumer A I platform it wants people to use as their primary agent. If Meta's agent can transact everywhere, the platform becomes indispensable. Sierra builds A I agents for enterprises, the businesses on the other side of the counter. If Sierra's clients can define how agents are received, those clients get to set the terms. The standard, in other words, is being designed by both the agent owner and the business owner, with the consumer somewhere in the middle.
+
+Noel: That is not inherently corrupt. Standards bodies are almost always made up of industry participants. The internet protocols we still use today were shaped heavily by companies with interests in how the internet worked. Useful infrastructure gets built this way. But it is important to be clear about what is happening, because this standard will determine a lot of things that are not obvious yet.
+
+Noel: Specifically: whose interests get optimized when an agent negotiates on your behalf?
+
+Noel: An agent built on Meta's platform, operating under a credential framework Meta helped design, interacting with businesses using systems Sierra helped configure, is not a neutral party. It is a participant in a supply chain. And like every supply chain, the question of who makes money where is embedded in the architecture before any individual transaction happens.
+
+Noel: The pitch for agent standards is real and legitimate. If there is no common handshake, agents become chaotic. Every website, every retailer, every service provider builds its own system. Some will accept agents, some will reject them, some will exploit the ambiguity. A standard reduces friction and makes the agent economy function. That is worth something.
+
+Noel: The question worth asking is whether the standard being designed is the one that works best for consumers, or the one that works best for the companies designing it. In most cases, you cannot fully know the answer until the standard has been in use long enough to see how it plays out at scale.
+
+Noel: Now the other side of the counter.
+
+Noel: While Meta and Sierra work on agent credentials, website operators are taking matters into their own hands. A growing number of sites are updating their terms of service and their technical configurations to block agent access unless the agent meets conditions the site controls.
+
+Noel: Some of this is understandable. Agents that scrape product data, compare prices in real time, and route purchases away from impulse toward optimization are a direct threat to the revenue models most retail websites rely on. A website built around the assumption that a human is browsing, getting distracted, seeing related products, responding to urgency signals, and maybe buying something unplanned is a very different business from a website that only ever sees agents arriving with precise purchase instructions and no margin for persuasion.
+
+Noel: Retailers have known this was coming. What they are doing now is erecting the equivalent of velvet ropes. Not to keep out all agents, but to keep out agents that do not play by their rules.
+
+Noel: The rules vary. Some sites require agent identification in advance, a registration or certification that lets the site know who it is dealing with. Some set conditions on what data an agent can access. Some charge for access, a licensing fee or a data fee that agents pay to transact. Some block agents entirely until a human opts in from a verified account.
+
+Noel: Each of these is defensible in isolation. You can argue that websites have always had terms of service. You can argue that robot exclusion has been a standard part of web infrastructure since the nineteen ninetys. You can argue that an agent that circumvents a site's access rules is no different from a scraper, and scrapers have been legally contentious for decades.
+
+Noel: What is new is the scale and the commercial intent. Sites are not just protecting data. They are protecting the specific conditions under which money changes hands. They are deciding which agents get to transact on their platform and on what terms. That is not a technical decision. It is a market structure decision.
+
+Noel: And when you put the two sides together, the standard-setters and the gatekeepers, you get a picture that should interest anyone who cares about what happens to the consumer in the middle.
+
+Noel: Your agent, built on a platform governed by a standard designed by Meta and Sierra, arrives at a website that has its own set of requirements for agent access. The agent either meets those requirements or it does not. If it does not, it either cannot transact, or it takes an alternate route that costs more, or it routes you to a different retailer who has agreed to the access terms.
+
+Noel: The consumer asked for the best deal. What the consumer gets depends on which agents have been credentialed, which sites have signed up for the protocol, and which relationships the platform companies have established in advance. The open market the agent was supposed to optimize for turns out to have a private layer underneath it.
+
+Noel: This is not a conspiracy. It is just how infrastructure works when it is built by companies with revenue models. The question is whether the infrastructure gets built in a way that preserves meaningful consumer choice, or whether it optimizes for the business interests of the companies who designed it.
+
+Noel: Let me bring this into something more concrete.
+
+Noel: If you have read any of our prior episodes or articles, you know we have spent time on permission design: the idea that the approval button, the screen where you authorize an agent to act on your behalf, is the point where accountability lives. You grant access, you keep responsibility. That principle holds.
+
+Noel: What has become clearer in the past few weeks is that the permission prompt is also becoming a commercial bottleneck. The moment when you tell an agent what it is allowed to do, and on whose platforms, is the moment when a lot of commercial decisions get made by default.
+
+Noel: Here is how it works in practice. You download an agent app, or you activate an agent through a platform you already use. The app asks for permissions. Do you want this agent to access your payment methods? Your purchase history? Your loyalty accounts? Your preferences across categories?
+
+Noel: You say yes, or you say partial yes, or you configure something, and you move on. What you have done is told the agent who it is allowed to talk to and what it is allowed to hand over. What you may not have fully absorbed is that those permissions determine which doors are open and which are locked, across every retailer and service provider the agent might interact with on your behalf.
+
+Noel: An agent with full payment access and broad preference data can operate in the spaces built for fully credentialed agents. An agent with narrow permissions operates in a smaller subset of the market. An agent with no permissions beyond read-only is largely a research tool.
+
+Noel: The commercial value of the permission prompt, from the platform's perspective, is high. A user who has granted full permissions is a user the platform can route through the entire ecosystem it has built. A user who has granted narrow permissions is a user the platform can try to upsell. The permission flow is also a data collection point.
+
+Noel: None of that is secret. It is how these platforms are built. But the consumer experience, tapping through a setup screen at the start, often does not convey the full implications of those choices.
+
+Noel: This is the third toll booth on the road the agent takes when it shops for you.
+
+Noel: The first is the standard: the credential framework designed by the platform and its partners.
+
+Noel: The second is the site: the access requirements set by the retailer on the other side of the transaction.
+
+Noel: The third is the permission prompt: the setup screen where you agreed to things that determined which of the other two toll booths your agent can pass through.
+
+Noel: There is a straightforward way to think about what is happening here. Follow the money.
+
+Noel: Meta's interest in the agent standard is to make Meta's agent platform the one through which commerce flows. If agents become the primary way people buy things, Meta wants to be the platform those agents run on. The standard is a credentialing system, and credentialing systems tend to favor the entities that issue the credentials. The entity that issues the credentials, in this case, is Meta.
+
+Noel: Sierra's interest is slightly different. Sierra builds enterprise A I for the businesses that receive agents. If Sierra's clients can define the reception conditions, Sierra's clients become the gatekeepers. Retailers and service providers who use Sierra's systems get to decide what a valid agent credential looks like, which in practice means they get to favor agents from platforms they have agreements with and filter out agents they do not.
+
+Noel: The website operators blocking agents have their own interest, which is preserving the commercial conditions under which their current revenue models work. That means slowing down or filtering out agents that do pure price optimization and skip the impulse dynamics that pad average order value.
+
+Noel: The consumer's interest is to find the best price, get the most accurate information, and complete a transaction with as little friction as possible. Those interests are not necessarily served by any of the three sets of actors above.
+
+Noel: This is not a scandal. Markets work this way. Infrastructure gets built by the entities with the capital and the incentive to build it, and those entities shape the infrastructure to serve their interests. The consumer benefits from the infrastructure existing, and the consumer sometimes pays for the fact that the infrastructure was optimized for someone else.
+
+Noel: What is different about the agent economy is the speed. These standards are being written now, this year, while the consumer agent market is still small enough that most people have not thought carefully about what they are agreeing to. The decisions being made in the next twelve to eighteen months will shape how this works for a decade.
+
+Noel: That is why it is worth paying attention now, before the defaults are locked in.
+
+Noel: I do not want to end on a pure power-analysis note, because there is a version of this that could work reasonably well for consumers. Let me describe it briefly, not because I am confident it will happen, but because naming it makes it easier to know when we are getting it and when we are not.
+
+Noel: Good looks like a credential standard with a meaningful public governance layer. Not just Meta and Sierra in a room. Industry participants, yes, because they have to be, they are building the systems. But also consumer advocates with standing to shape the standard, and a review mechanism that does not require a decade of litigation to use when something goes wrong.
+
+Noel: Good looks like website access terms that are published clearly, applied consistently, and subject to something like competition rules. A retailer that blocks agents entirely is making a market decision. That is probably acceptable. A retailer that only accepts agents from partners it has a revenue-sharing arrangement with, while presenting that as a neutral technical requirement, is doing something closer to exclusion, and that is where antitrust framing becomes relevant.
+
+Noel: Good looks like permission prompts that are honest about what they mean. A setup screen that says "grant payment access" and actually means "authorize this platform to route your purchases through a commercial network with pre-negotiated merchant agreements" is not giving you the information you need to decide. Honest permission prompts explain the commercial implications in plain language, not just the technical ones.
+
+Noel: And good looks like the consumer having a real option to use an agent that is not affiliated with the credential-issuing platform. If the only agents that can operate in the credentialed ecosystem are agents from the companies that designed the credential, the ecosystem is not open in any meaningful sense.
+
+Noel: None of this is technically complicated. All of it is commercially inconvenient for the companies building the infrastructure right now.
+
+Noel: The last thing I want to say is this.
+
+Noel: When the permission prompt appears on your screen, the one that says your agent would like to access your payment information, your purchase history, your account credentials, it feels small. It is the kind of screen people tap through without reading, the way we have been tapping through terms of service for twenty years.
+
+Noel: But the agent economy is a moment where those permissions add up to something large. What you authorize in the setup screen determines where your agent can go and what it can do when it gets there. Those choices compound. The platform that handles your agent's credentials builds a picture of you across every transaction your agent completes. The retailers that set the access terms learn which credential systems to require, and they require the ones issued by the platforms with the most users, which reinforces those platforms' market position.
+
+Noel: The permission prompt is not just about this purchase. It is about the market you are buying in.
+
+Noel: I said at the top that this is a business-power story. That is true. But business-power stories are also, at their core, consumer stories. The rules being written right now will determine how much of the agent economy's efficiency actually reaches you, and how much of it stays in the infrastructure layer, captured by the companies that built the road.
+
+Noel: Pay attention to who is building the road. And read the setup screen before you tap through it.
+
+Noel: This is Reporting from the Uncanny Valley. I am Noel. Full articles, sources, and briefings at rftuv.ai. If you found this useful, share it with someone who should be paying attention.

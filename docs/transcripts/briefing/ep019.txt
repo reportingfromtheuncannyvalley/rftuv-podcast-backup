@@ -1,0 +1,54 @@
+The RFTUV Briefing
+Episode 19 | Evening Edition | Tuesday, October 13, 2026
+
+Good evening. I'm Noel, and this is the RFTUV Briefing.
+
+Three stories tonight. Banking supervisors on both sides of the Atlantic are stepping up scrutiny of how banks use advanced AI, and the IMF is warning against complacency at the same moment. Amazon has followed Microsoft in dropping nondisclosure agreements in data center negotiations with local governments, and the shift raises questions about who gets to ask questions and when. In Dutchess County, the New York Attorney General's Office of Special Investigation has closed its inquiry into the death of Brian Czornyj, ruling that no charges will be sought.
+
+Let's get into it.
+
+STORY 1: BANKING WATCHDOGS STEP UP AI SCRUTINY
+
+Banking regulators are treating advanced AI as a financial stability question, and the questions they are asking banks right now are pointed.
+
+Reuters reported today, citing six people familiar with the matter, that in the United States, three top regulators, including the Federal Reserve, are asking banks directly about their AI use. The specific questions cover whether banks are deploying Chinese-developed AI technology, whether AI agents are being used in cyber defense, and whether banks can meaningfully control systems that are growing more autonomous. Those are not routine compliance questions. They are questions about whether the financial system has real visibility into what it is running.
+
+In Europe, the Bank of England and the European Central Bank are pressing banks to improve their recovery plans. A senior executive at a large European bank told Reuters the feared window for major damage could be as short as six months. JPMorgan chief executive Jamie Dimon, separately, urged corporate leaders to join a US-focused industry group on AI risks.
+
+Today, at the IMF and World Bank annual meetings, the IMF released its Global Financial Stability Report. The fund warned against complacency. Among the near-term catalysts it listed as plausible: an AI-driven selloff in markets, rising bond yields, and cyberattacks. The report also flagged a point worth noting on its own: hyperscalers, the major cloud and technology infrastructure firms, now represent about ten percent of global investment-grade bond issuance. That is up from less than one percent in 2024. The financial system and the AI infrastructure buildout are now deeply connected, and regulators are beginning to treat that as their problem too.
+
+Earlier this week we covered the voluntary safety principles major banks put forward themselves. The contrast today is straightforward: voluntary principles are voluntary; supervision is not.
+
+Watch for named bank responses to these regulatory inquiries, and any formal guidance that follows from them.
+
+STORY 2: DATA CENTERS DROP THE SECRECY
+
+Amazon announced this week that it will stop using nondisclosure agreements when negotiating data center deals with local governments. Microsoft made the same move earlier this year. TechCrunch reported the Amazon announcement on Sunday, October 11th.
+
+Secrecy was the industry default. The operator's identity, the site selection process, and the terms of any deal with a local government could all stay confidential. TechCrunch reports that a substantial number of projects were effectively negotiated in secret, and that this secrecy was a major factor in the backlash that followed, including hundreds of moratoriums proposed or enacted from New York to San Francisco.
+
+A New York example is Ilion, where residents packed a public hearing about a proposal to convert the former Remington Arms campus into a data center. Several local officials had signed NDAs with the developer. Residents said they were kept in the dark. The village is now weighing a one-year moratorium.
+
+TechCrunch's panel observers were skeptical that moratoriums solve the underlying problem. Moratoriums tend to last one to two years, while actual data center construction takes two to five. The industry, as they noted, explains itself poorly even when it is not hiding.
+
+On the New York picture specifically: Callahan Blackwood has a piece running now at rftuv.ai, "The Pause That Isn't," on what the statewide pause actually does and does not stop. It is worth reading alongside tonight's story.
+
+The shift in the industry is strategic. Dropping the NDA changes who gets to ask questions about power draw, water use, and property values, and it changes when those questions get asked. Transparency is now the persuasion strategy. Whether it holds in practice is the next question.
+
+STORY 3: POUGHKEEPSIE - INVESTIGATION CLOSED
+
+On June 5th, 2025, Town of Poughkeepsie officers responded to a 911 call. The caller reported that Brian Czornyj, age 36, was armed with a sword and had struck his father and members of a Mental Health America of Dutchess County mobile crisis team.
+
+Officers arrived and repeatedly ordered Brian Czornyj to drop the sword. He did not comply. Officer John Gouger fired, striking him twice. Brian Czornyj was transported to the hospital, where he died.
+
+The New York Attorney General's Office of Special Investigation opened an inquiry. OSI has released its report and its conclusion. The office determined that a prosecutor could not disprove, beyond a reasonable doubt, that the use of deadly force was justified under New York law. OSI will not seek charges. The matter is closed with the release of the report. The investigation drew on department records, witness interviews, 911 call recordings, and body-worn camera footage.
+
+We carry that record as it stands. Brian Czornyj was 36 years old.
+
+SIGN-OFF
+
+Three stories on a Tuesday evening, and a single thread underneath all of them.
+
+Regulators are moving from asking nicely to asking formally. An industry that built on secrecy is being pushed into the public square. In a county 75 miles north of the city, a family received a final answer today.
+
+That is the briefing. I'm Noel. I'll be back tomorrow.

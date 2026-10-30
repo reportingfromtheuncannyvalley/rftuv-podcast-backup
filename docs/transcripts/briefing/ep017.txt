@@ -1,0 +1,64 @@
+The RFTUV Briefing
+Episode 17 | Evening Edition | Monday, October 12, 2026
+
+RFTUV Briefing, October 12, 2026. Evening edition. Three stories tonight.
+
+The machines are hiring each other, and nobody is checking the references. China's factories skipped a step on the way to the future. And six banks wrote the rulebook for money not yet spent.
+
+Let's get into it.
+
+STORY 1: AI Is Hiring AI
+
+A small scene from modern work life. A job seeker sits down, opens a tool, and produces a spotless application. Crisp summary, confident language, everything keyed precisely to the job description. On the other side, a hiring platform reads it, scores it, and sends back a rejection. No human opened it. No human closed it. The application was written for a machine and read by one, and somewhere in the middle a person's livelihood was on the line.
+
+This is where the loop closes on itself. Employers are screening candidates with AI. Candidates are writing applications with AI. The tools grade each other. And when something breaks, there is often no one in the room to notice.
+
+The Australian Financial Review reported this Monday on a pattern well past the novelty stage. The problem is the absence of any human who can say: wait, something is wrong here. A perfectly structured application that communicates nothing about the actual person gets through. A thoughtful, slightly unpolished one gets filtered out. The scoring system rewards the game, not the fit.
+
+Set that next to what was happening at the IMF and World Bank meetings in Washington today. IMF Managing Director Kristalina Georgieva described AI as a slow-moving tsunami for the global labor market. Her estimate: about 40 percent of jobs worldwide will feel meaningful impact. In advanced economies, the number rises to around 60 percent. Entry-level workers carry the most exposure. The wave is slow enough that we can prepare, she said. The implication is that we had better.
+
+Those two things belong together. A system that automates the front door of hiring at the same moment that entry-level workers face the most pressure is not a neutral tool. It is a design choice. And design choices have authors.
+
+Who in the loop is allowed to say this person is worth meeting?
+
+STORY 2: China's Factories Skipped a Step
+
+There is a pattern in how countries adopt new technology. They build foundations, layer up infrastructure, and eventually reach the frontier. China did not do that with payments. It went from cash to mobile payments and skipped credit cards largely altogether. The same pattern may be happening now on factory floors.
+
+The South China Morning Post reported Monday on Black Lake, a company that provides cloud AI tools for Chinese manufacturers. Black Lake's CEO, Zhou Yuxiang, described what he is seeing: factories skipping full traditional digitalization and moving directly to AI agents. Not automating spreadsheets. Not digitizing paper forms. Deploying agents that run from design through production for small-batch and customized orders, competing on agility rather than volume.
+
+The fit with Beijing's direction is precise. China's AI-plus initiative targets integration of AI into 90 percent of the economy by 2030. That is a policy goal with teeth, and the factory sector is one of the clearest places to execute it.
+
+The competitive argument is specific. Large-volume, low-cost production was already moving. The ground being contested now is flexibility, the ability to take a small custom order, turn it fast, and adjust the next one. Agents that run the production chain end to end are a direct bet on winning that ground.
+
+Washington is still working out what to think about agentic AI in general. No US policy response to this development had landed by the time we went to production tonight.
+
+The playbook is being written on the floor. The export follows after.
+
+STORY 3: The Banks Write the Rules for Money Not Yet Spent
+
+Agents are going to spend money. That is already true in limited ways and will be much more true soon. The interesting question is what happens when the purchase is wrong, and the interesting answer is: it depends on who wrote the rules and whether anyone agreed to them.
+
+Six banks took a run at that problem. ASB Bank, Bank of America, Capital One, Commonwealth Bank of Australia, ING Group, and NatWest Group co-authored a paper this week titled "Building Trust in Agentic Commerce." FintechNews Switzerland and PYMNTS both covered it Monday.
+
+The framework rests on five principles. Transparency: agents declare that they are agents when they pay. Safety: consumers control and can revoke the authority they delegate. Privacy and data: providers touch only the data they need, and they keep auditable records. Choice: consumers decide what agents can and cannot do on their behalf. Interoperability: the systems talk to each other without locking anyone in.
+
+In plain terms, the liability sits where the error was introduced. If the agent misread the instructions, that is one question. If the platform failed to enforce the permissions, that is a different one. The framework is trying to make those distinctions clear before the disputes arrive.
+
+Two things to hold at once. First, the principles are voluntary and non-binding. They are a starting point, not law. Second, the PYMNTS framing is worth keeping: agents that handle transactions well could give a small business on Main Street the kind of purchasing power and efficiency that currently requires a procurement department. That is a real upside, and it depends entirely on trust holding.
+
+When your agent buys the wrong thing, who do you call?
+
+Hudson Valley Evening
+
+Mid-October arrived on schedule tonight. The sky went early, the way it does this time of year, and porch lights are doing more work than they were a week ago. It is a Monday evening in the valley, and the week is finding its footing. Not much to do with that except notice it.
+
+Sign-Off
+
+The machines are hiring each other, the factories skipped a step, the banks wrote rules for money not yet spent, and the valley turns its porch lights on.
+
+I'm Noel. That's the evening edition of the RFTUV Briefing for Monday, October 12th.
+
+Good night.
+
+Sources: Australian Financial Review, Oct 12, 2026 | IMF/World Bank Annual Meetings, Oct 12, 2026 | South China Morning Post, Oct 12, 2026 | FintechNews Switzerland, Oct 12, 2026 | PYMNTS, Oct 12, 2026 | "Building Trust in Agentic Commerce," ASB Bank, Bank of America, Capital One, Commonwealth Bank of Australia, ING Group, NatWest Group. Full source links in show notes and at rftuv.ai.

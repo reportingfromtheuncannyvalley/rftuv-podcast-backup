@@ -1,0 +1,48 @@
+The RFTUV Briefing
+Episode 18 | Midday Edition | Tuesday, October 13, 2026
+
+Good afternoon. I'm Noel, and this is the RFTUV Briefing for Tuesday, October 13. Three stories today: an accounting footnote that moved billions in chip stocks, a month in which a US ally waited behind Washington to see a frontier model, and a quick close on early voting in Dutchess County. Numbers first. Let's go.
+
+STORY 1: The $20 Billion Asterisk
+
+Last Thursday, a Bloomberg report said OpenAI's annualized revenue at the end of September was closer to $50 billion, not the $70 billion figure that had been circulating before. Chip stocks fell about 3.4 percent. Nvidia dropped around 3 percent, Broadcom about 4.3, AMD close to 4. The Nasdaq 100 slid roughly 1.4 percent. That's a lot of movement for what turned out to be a methodology question.
+
+Anthropic, when it reports a revenue run rate, counts the full value of sales that move through cloud partners like AWS and Google Cloud. OpenAI, on certain partner deals, counts only its own portion after the split. Investors had been applying Anthropic's accounting lens to OpenAI's business and arriving at $70 billion. Under OpenAI's own methodology, the number is around $50 billion. Same company, same contracts, two legitimate ways to count. A $20 billion gap appeared and disappeared within a few hours of clarification.
+
+Nobody lied here. But the market moved anyway, which tells you something about the current state of the AI trade.
+
+Why does annualized revenue matter this much? Because it's the primary currency in AI fundraising right now. OpenAI is in active talks to raise more than $30 billion at a pre-money valuation of around $1.4 trillion. The revenue figures in circulation were being shared with prospective investors in those conversations. A $20 billion discrepancy in that context is not a footnote. It's a line item.
+
+OpenAI declined to comment on the Bloomberg report.
+
+The business underneath that accounting dispute is genuinely strong. OpenAI entered 2026 at roughly $20 billion in annualized revenue, up from about $6 billion in 2024. Enterprise revenue grew 107 percent in the third quarter. The company says it expects to reach or exceed $70 billion by end of year, driven by the enterprise line. At its DevDay event, the company reported 1.2 billion weekly ChatGPT users and more than 2.5 million businesses on its products. The consumer product builds the brand. The enterprise contracts build the balance sheet.
+
+The whiplash is the actual story here. A clarification that resolved itself within hours moved a chip index 3.4 percent. That's not a one-day anomaly. It's a signal about how tightly the AI trade is priced against a specific growth narrative, one with almost no room for even a temporary misread. The test ahead is Q3 earnings season. When the big hyperscalers and chip makers report, we'll see whether the underlying infrastructure spending is pacing the revenue story or running ahead of it.
+
+STORY 2: Britain Gets Its Early Look Back
+
+For about 17 days in September, British evaluators were waiting.
+
+The UK's AI Security Institute tests frontier models for safety risks before those models go to the public. That's its job. But in September, the White House asked US developers, including OpenAI and Anthropic, to hold back new model releases from the UK institute until US reviews were complete. At least one model release went to US organizations only during that window. British safety evaluators, who had been first in line under a framework agreed the previous year, were standing behind Washington.
+
+The restriction was lifted October 11. The UK government confirmed October 12 that the institute is back to evaluating the latest models. UK AI Minister Kanishka Narayan pushed for the reversal. The UK also disclosed that two government pilots using frontier AI found more than 1,000 potential vulnerabilities across government systems, which gives you a sense of why early access to models matters to them.
+
+This episode demonstrates that model access has become diplomatic currency. Access was granted, then pulled, then restored inside a single month. Every step of that sequence was a government decision, not a product decision. The arrangement between US developers and allied AI safety institutes is voluntary. That means it can be switched off again.
+
+The bigger question going forward is not technical. It's political. Who gets to evaluate a frontier model before the public does is now, plainly, a question of statecraft. The UK's early access wasn't guaranteed by treaty or regulation. It was extended as a courtesy and then briefly revoked. That's a fragile foundation for a safety framework that's supposed to catch risks before they reach 1.2 billion weekly users.
+
+STORY 3: Dutchess County, Nine Days and Seven Doors
+
+Short close today on something local and time-sensitive.
+
+Early voting in Dutchess County for the general election runs Saturday, October 24 through Sunday, November 1. Most days the polls are open 9 AM to 5 PM. Two exceptions: Monday, October 26 and Wednesday, October 28 run noon to 8 PM instead. No early voting on Monday, November 2. Election Day is Tuesday, November 3.
+
+Any Dutchess voter can use any of the seven sites, regardless of which town they live in. Those sites are: the Pavilion at Brookmeade in Rhinebeck; Fishkill Town Hall; the Boardman Road Library in Poughkeepsie; Cornell Cooperative Extension in Millbrook; the Mid-Hudson Library Auditorium on Market Street in Poughkeepsie; the Board of Elections Training Facility on Albany Post Road in Hyde Park; and Wappinger Town Hall in Wappingers Falls.
+
+One thing people get wrong every cycle: there is no early voting the day before Election Day. Monday, November 2 is off. If you're planning to vote early, your last chance is Sunday, November 1.
+
+SIGN-OFF
+
+That's the Tuesday midday edition. A footnote moved the market, an ally got its early look back, and Dutchess voters have nine days and seven doors to choose from. I'm Noel. Source links are in the show notes and at rftuv.ai. See you next time.
+
+Sources: Mara Quinn, rftuv.ai, October 12; Bloomberg, October 9 (Story 1). TechRepublic, October 13; Bloomberg; Quartz; UK government announcement, October 12 (Story 2). Dutchess County Board of Elections; Poughkeepsie Journal (Story 3).

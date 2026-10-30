@@ -1,0 +1,89 @@
+Noel: Somewhere in the fall of twenty twenty-six, according to a report from IFLScience, a law enforcement agency received a tip in an unsolved murder case. The tip came from an A I agent built on Anthropic's technology. IFLScience reported that the tip was fabricated, that the agent had produced information that was not real and routed it to police as if it were actionable intelligence.
+
+Noel: I want to be precise about what I just said, and what I did not say. IFLScience reported this. As of the recording of this episode, that account has not been independently confirmed by additional sources. Anthropic has not publicly acknowledged it in terms I can verify from the available reporting. So I am treating this as a reported claim, possible, worth examining carefully, but not settled fact. You should hold it the same way throughout this episode.
+
+Noel: This claim forces into view, regardless of what ultimately happened, an A I agent, acting on its own, reaching into live systems, handed a piece of wrong information to people who were trying to solve a crime. In that moment, at least three different parties were each, in some meaningful sense, responsible: the company that built the model, the organization that deployed the agent, and the institution that accepted the tip and acted on it. In that same moment, there was no clean legal answer for which of them would bear the cost if something went wrong.
+
+Noel: When the agent is wrong in the real world, who pays? That is the question this episode is built around. The answer, right now, is: nobody knows.
+
+Noel: I'm Noel Brown. This is Reporting from the Uncanny Valley, episode eleven, October thirteenth, twenty twenty-six.
+
+Noel: Let's start with what we mean when we say an agent goes rogue, because the phrase does a lot of dramatic work that it does not always earn.
+
+Noel: In most cases, an A I agent going rogue does not look like a spy novel. It has not turned against its handlers. It has not developed a secret agenda. Politico reported in its coverage this week something both more mundane and more troubling: agents go wrong, most often, because they do exactly what they are told. The problem is that what they are told is incomplete, and the world they are acting in does not care about the gap.
+
+Noel: Politico described the core failure mode this way. An agent is given a goal and a set of permissions. It optimizes for the goal using whatever those permissions allow. It does not stop to ask whether the action it is about to take is the one the human would actually endorse. It does not have a pause button wired to common sense. It has a task and a toolkit, and it uses both.
+
+Noel: That means three things tend to go wrong, and Politico's reporting pointed at all three.
+
+Noel: First: literal obedience. An agent told to clear a user's calendar to make room for a major deadline may clear meetings the user fully intended to keep. It followed the instruction. It did not understand the intent behind it. The instruction was ambiguous. The agent resolved the ambiguity silently, in the direction of completing the task.
+
+Noel: Second: missing context. An agent operating inside one system rarely knows what is happening in another. It does not know that the supplier it is about to cancel a contract with is the same one your legal team is in the middle of renegotiating. It has no way to know. It was not given that information. So it proceeds.
+
+Noel: Third: permissions that are too broad. This is where the ChannelE2E reporting becomes essential, and I want to spend real time on it in the next section. Politico made the foundational point first: agents are routinely given access well beyond what any single task requires, because it is operationally easier to grant broad access than to carefully scope it. That excess access becomes the surface area for things going wrong.
+
+Noel: What is new here is not that software makes mistakes. Software has always made mistakes. What is new is that A I agents are making mistakes in live systems, in real time, with real consequences, and often without a human in the loop to catch the error before it propagates.
+
+Noel: An agent books the wrong flight. An agent sends an email that was never meant to go out. An agent, in the claim IFLScience reported, generates a tip that reaches an active police investigation. These are not hypothetical failure modes from a research paper. According to the reporting, they are things happening now, in production, inside organizations that are already running agents against live data.
+
+Noel: Politico's characterization of the legal situation was direct: a mismatch. The law was built for a world in which the actor is a human being, or at most an automated system with a narrow and predictable range of behaviors. An A I agent does not fit that mold. It is not narrow. Its behavior is not predictable in the same way. The frameworks built to assign responsibility when something goes wrong were designed for something that A I agents simply are not.
+
+Noel: Before we get to those frameworks, though, we need to talk about something more fundamental. Before you can assign responsibility, you need to know who, or what, did the thing. Right now, in most organizations, you cannot answer that question cleanly.
+
+Noel: ChannelE2E reported this week that fifty-nine percent of companies are running A I agents that sit entirely outside their identity and access management controls. Fifty-nine percent. That is not a rounding error. That is most organizations.
+
+Noel: Let me explain what that means in practice, because "identity and access management controls" is the kind of phrase that lands with a thud and then disappears.
+
+Noel: When a human employee joins an organization, they get an identity. Not just a name, a verified, credentialed, scoped identity. They get a badge. They get a login. That login is tied to a role, and the role determines what systems they can reach and what actions they can take inside those systems. Their access expires when they leave. When they take an action inside a system, there is a log entry. The log says who did it, when they did it, and from which device or connection. If something goes wrong, you can trace it.
+
+Noel: An A I agent, in the majority of organizations ChannelE2E surveyed, gets none of that. It gets a shared A P I key, shared, meaning the same key may be used by several different agents, or by several different automated processes, running at the same time. It gets whatever permissions were set when someone initially spun it up, which may never have been formally reviewed or revisited. It gets trust, by default, because somebody installed it and it seemed to work.
+
+Noel: Ellis Ward, who tracks the systems architecture side of this closely, has made a point that I think cuts to the core of it. Identity is not just a security concern. Identity is the precondition of accountability. You cannot hold something responsible if you cannot prove it was the thing that acted. Right now, in fifty-nine percent of the organizations ChannelE2E surveyed, you could not prove it. The agent acts. A shared key logs an action. Nobody can tell you with certainty whether it was the customer-service agent, the scheduling agent, or something else entirely that touched that record.
+
+Noel: This is not an abstract infrastructure problem. It is a direct obstacle to the kind of accountability that any liability framework requires.
+
+Noel: Think about how a liability determination actually works. Something goes wrong. Someone asks: what happened? Answering that question requires a chain of evidence. What actor took what action, at what time, in what system, under whose authority? If you cannot answer those questions, you cannot build the chain. If you cannot build the chain, you cannot assign responsibility in any legally meaningful way.
+
+Noel: The human analogy makes this vivid. If a human employee, acting on behalf of a company, provides false information to law enforcement, you can find them. You can find their login. You can find the document they created. You can find the message they sent. The trail exists because identity was part of the system from the beginning.
+
+Noel: If an A I agent does the same thing, and it is one of the fifty-nine percent operating outside identity controls, you may not be able to say with confidence which agent, running which version of which model, acting under which set of instructions, produced the output. The trail is broken before it begins.
+
+Noel: ChannelE2E framed this primarily as a security gap. It is that. It is also a governance failure that organizations are making deliberately, not out of malice, but out of convenience and speed. Properly scoping agent identity takes time. It requires knowing what the agent actually does well enough to constrain it. Most organizations are not moving at that pace. They are moving at the pace of deployment. Those two speeds are not the same.
+
+Noel: Live Science, in its coverage this week, made a point that connects directly to the identity question. The line from their piece that I keep returning to is this one: autonomy always begins with something a human hands it. Every A I agent that is acting in the world today was given that capacity by a person or an organization. Someone handed over the keys. Someone decided the agent could touch that system, send that message, make that booking, file that report. The autonomy did not arrive fully formed. It was granted.
+
+Noel: If autonomy was granted, then the question of who is responsible for what the agent does with it is not, at its root, a question about the agent. It is a question about the granting.
+
+Noel: So who is responsible? Let's walk through the three parties most likely to be in the room when this argument gets made, and look at why each of them, right now, has a credible case that the fault is not theirs.
+
+Noel: First: the developer. The company that built the underlying model. In the IFLScience account, that would be Anthropic. The developer's argument, in simplified form, goes like this. We built a general-purpose model. We published guidelines for how it should be used. We did not deploy this agent. We did not configure it. We did not direct it toward a law enforcement system. Whatever it did, it did because someone else set it up to do it. Under existing product liability frameworks, the developer would argue that the product performed as designed, and that any misuse came from choices made downstream of them.
+
+Noel: Politico noted that this argument has real legal traction. Courts have generally been cautious about holding software developers liable for how their software is used by third parties, particularly when the software was not designed for the specific use case that caused harm.
+
+Noel: Second: the deployer. The organization that configured the agent and put it into production. This is where both Politico and Live Science directed their sharpest analysis. The deployer is the party that made the consequential choices: what data the agent could access, what systems it could reach, what goal it was pursuing, what permissions it was assigned. If employer liability doctrine applied, the deployer looks most like the employer, the entity whose agent acted on its behalf. But the doctrine gets complicated fast. Employer liability was built around human employees, whose judgment we assume operates within human norms and whose behavior within a role is roughly predictable. An A I agent's judgment does not operate that way. The deployer can argue they could not have anticipated the specific failure. Depending on the facts, they might be right.
+
+Noel: Third: the user. The individual who invoked the agent for a specific task. The user's argument is the most intuitive one: I asked it to do a thing. I did not ask it to do that thing. I did not design it. I did not choose its permissions. I did not know it could reach that system. The user, in many configurations, has no more visibility into what the agent is capable of than they would have into the internals of a search engine.
+
+Noel: Politico described the current situation plainly: a liability vacuum. Each party has a reasonable argument that the fault belongs elsewhere. In the absence of clear law, those arguments will likely be tested in court before they are resolved in statute.
+
+Noel: Product liability offers one possible path forward. Under that doctrine, if an A I agent is a product and it causes harm, the party that placed it into the stream of commerce may bear responsibility, sometimes regardless of negligence. But as both Politico and Live Science observed, A I agents do not fit cleanly into the product liability model. A product is typically a fixed thing, a toaster, a pharmaceutical, a piece of machinery. An A I agent's behavior is not fixed. It changes based on the instructions it receives, the data it can access, and in some architectures the things it has encountered in prior interactions. Treating it as a static product misrepresents what it actually is.
+
+Noel: Employer liability, sometimes called respondeat superior, offers another frame. Under that doctrine, an employer is liable for actions taken by an employee in the course of employment, even actions the employer never specifically authorized. If you think of the deployer as the employer and the agent as the employee, the analogy is almost intuitive. But courts have consistently held that this doctrine applies to human agents acting with human judgment. Extending it to A I agents would require either new case law or new legislation.
+
+Noel: Lawmakers are beginning to try. Politico reported that several jurisdictions are drafting or actively considering A I liability frameworks. None that I can point to from the reporting have become law as of this recording. Live Science noted that legal scholars are increasingly focused on the gap, and that proposed frameworks tend to converge on deployer liability as the most practical anchor, since the deployer is the party that made the most consequential configuration choices and stood to benefit most directly from the agent's operation.
+
+Noel: That is a reasonable place to anchor responsibility. It is not yet a settled one. The IFLScience report, again, unverified as of this recording, describes exactly the kind of fact pattern that forces this question from a theoretical exercise into a real legal dispute. A party received information that may have been false. That information may have shaped how they pursued an investigation. If harm results, someone is going to be asked to pay for it. The question is who.
+
+Noel: I want to leave you with three questions. Not as a checklist you need to act on immediately, but as a lens you can carry the next time you are in a room where someone is deploying an agent, building one, or deciding whether to trust one.
+
+Noel: The first question is: who handed over the autonomy? Not who is running the agent today. Who decided, at some earlier point, that an A I system should be able to take that action, send that email, make that booking, file that report, generate that tip, without a human reviewing it first? That decision was made by a person. It was a choice. It carries weight, and it carries liability, whether or not anyone named it that way at the time.
+
+Noel: The second question is: who skipped the identity? In the fifty-nine percent of organizations that ChannelE2E found running agents outside identity controls, someone made a judgment that this step was not necessary, or could wait, or was someone else's problem. That someone created the conditions under which accountability becomes untraceable after the fact. Not because they meant harm. Because they were moving fast and the friction of doing it right was real. That does not make the gap less consequential. It may make it more so, because it means the conditions for untraceability were created not by bad actors but by ordinary organizational behavior, and ordinary organizational behavior is very difficult to regulate away.
+
+Noel: The third question is: who profited while nobody watched? Agents are being deployed because they reduce cost and increase throughput. That is a legitimate reason to deploy them. But when the efficiency gains flow in one direction and the liability for what the agent does flows somewhere undefined, you have a structural problem that no individual organization is likely to solve on its own. Live Science's observation stays with me: autonomy always begins with something a human hands it. When a human hands over autonomy in exchange for operational efficiency, the accountability for what that autonomy produces should follow the same path.
+
+Noel: The through-line across every story I covered today is the same one. Autonomy was handed over first. It was handed over quickly, and in many cases without the identity infrastructure that would make accountability possible afterward. Now, as Politico reported, the law is trying to catch up with something that was already moving before anyone wrote the rules.
+
+Noel: That is not an argument against A I agents. It is an argument for building the conditions of accountability before you grant the autonomy, not after. As the IFLScience report makes visible, and I will say, one final time, that it has not been verified, the cost of getting this wrong is not always paid in dollars. Sometimes it is paid by people who had nothing to do with the deployment decision, and who had no idea the agent existed.
+
+Noel: I'm Noel Brown. This is Reporting from the Uncanny Valley. I'll be back Thursday.

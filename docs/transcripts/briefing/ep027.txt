@@ -1,0 +1,61 @@
+Noel: Good evening. It is Saturday, October seventeenth, twenty twenty six. I am Noel. This is The R F T U V Briefing, evening edition.
+
+Noel: Three stories tonight. An A I lab has quietly pitched Congress a safety bill it wrote itself, with catastrophe thresholds now on the record. No Kings turned from protest to voting plans today, with events across the Hudson Valley and local turnout still unreported. And China has drafted export curbs on forty technologies, twenty three of them in A I. Calm, sourced, and distinct from the midday edition.
+
+Noel: Story one | Anthropic Pitches Its Own A I Safety Bill to Lawmakers
+
+Noel: Source: Politico, reported Friday, October sixteenth, twenty twenty six; Reuters, updated October seventeenth, twenty twenty six.
+
+Noel: Anthropic representatives have quietly pitched Capitol Hill lawmakers on a draft bill to regulate frontier A I safety and security. Politico reported it on Friday, citing three people with knowledge of the efforts, per Reuters. This is a draft being circulated, not a bill introduced in Congress, and no sponsor is named in the reporting used here.
+
+Noel: Under the draft, the government could block a model's release or use only if it poses a foreseeable, imminent risk of more than one billion dollar in damages, or of killing or seriously injuring more than fifty people.
+
+Noel: The risk must stem from one of three things: the creation or release of a biological weapon, a model evading its developer's controls, or a cyberattack.
+
+Noel: Independent evaluators would register with the Department of Commerce and periodically evaluate the lab and its frontier models. Labs could pay the evaluators, provided the payment is not tied to the evaluation's outcome. If evaluators find an imminent enumerated risk, they must report it to Commerce within seventy two hours of completing their assessment.
+
+Noel: An Anthropic spokesperson told Reuters the bill represents proposals in the company's "Advanced A I Framework," released earlier this year. The spokesperson said the bill would give the government the ability to block or deter dangerous deployments of the most powerful models, and would require developers to test frontier models, be transparent about findings, and get them independently evaluated.
+
+Noel: The Commerce Department did not immediately respond to a Reuters request for comment.
+
+Noel: This is not a poll, a voluntary accord, or an audit regime. It is a lab proposing the rules it would live under, with high numeric thresholds. The open questions are which lawmakers pick it up, how rival labs read a competitor writing the draft, and how safety advocates read thresholds that trigger only at catastrophe scale.
+
+Noel: What to watch: any named sponsor or introduction, any rival or advocate response on the record, and the full text if it becomes public.
+
+Noel: Story two | No Kings Vote Early Events Across New York, Hudson Valley Included
+
+Noel: Source: Poughkeepsie Journal, October thirteenth, twenty twenty six; Lohud and Hudson Valley Post, October sixteenth, twenty twenty six; Democrat and Chronicle and Porcupine Soup, October seventeenth, twenty twenty six.
+
+Noel: The No Kings Coalition held a nationwide day of action today under the banner "No Kings: Vote Early." Organizers say this fourth round was built less around a single march and more around helping people make voting plans and cast ballots early where they can, ahead of the November third midterm elections. Organizers state on their site: "Power belongs to the people, but only if we use it." That is the organizers' claim, in their words.
+
+Noel: More than two thousand events were planned nationwide, per the Hudson Valley Post, and hundreds across New York, per Lohud and the Democrat and Chronicle. In the mid-Hudson Valley, twelve events were scheduled, per the Poughkeepsie Journal.
+
+Noel: A prominent gathering, hosted by Indivisible eight hundred forty five and partner groups, was set for noon to two p.m. at Memorial Park in Beacon, with picketing, musical guests, and speakers including Dutchess County Comptroller Dan Aymar-Blair, per the Journal. Other sites today included two in Poughkeepsie, at Hudson Heritage Plaza across from Marist University in the late morning and on Mill Street in the afternoon, Rhinebeck in the late morning, Newburgh at midday, and Warwick and Monroe, with further events listed in Kingston, New Paltz, Goshen, Woodstock, and Monticello.
+
+Noel: In New York, early voting begins October twenty fourth and continues through November first. Ezra Levin, co-founder and co-executive director of Indivisible, said the October seventeenth date was chosen to sit in the middle of the start of early voting around the country. The coalition includes more than two hundred advocacy groups, including Indivisible, MoveOn, and the American Civil Liberties Union, per Porcupine Soup.
+
+Noel: Here is what is not established yet. No Hudson Valley turnout count, crowd estimate, incident report, or official statement about today's local events was in the reporting checked this afternoon. Planned numbers are not turnout. We are not borrowing crowd figures from other states and calling them local. Local turnout reporting had not landed by airtime.
+
+Noel: What to watch: whether local turnout reporting lands tonight or tomorrow, and the New York early voting numbers once voting opens October twenty fourth.
+
+Noel: Story three | China Drafts Export Curbs on forty Technologies, twenty three of Them A I
+
+Noel: Source: AP News, October sixteenth, twenty twenty six; Reuters, October sixteenth, twenty twenty six; Wall Street Journal reporting carried by Morningstar, October sixteenth, twenty twenty six.
+
+Noel: China said Friday it plans to restrict or ban exports of forty technologies spanning artificial intelligence, chips, and solar power. The Ministry of Commerce and the Ministry of Science and Technology jointly published a draft updating China's catalog of technologies subject to export bans or restrictions. A commerce ministry spokesperson said the move was necessary and cited national security as one of the reasons. That is Beijing's stated rationale.
+
+Noel: Twenty-three A I technologies, from advanced large models to agents, are included, per AP. Exports of core technologies of A I large models trained using sensitive national data would be prohibited, along with A I agents designed for highly sensitive environments such as national defense and critical information infrastructure. Several chip design technologies are included. Twelve solar technologies are included, including those tied to polysilicon, and five biomedicine technologies, including cell and gene therapy.
+
+Noel: Most A I technologies will continue to be freely exportable, per the ministry. Technologies already in the public domain through open source publication or academic papers would generally be exempt, and open source A I projects would be eligible for facilitation measures, per the ministry statement.
+
+Noel: Public comment runs until November fifteenth, per Reuters and Morningstar reporting. An interim registration requirement applies in the meantime to exports of the covered technologies, starting Friday, covering transfers of ownership, overseas licensing, and moves to a foreign entity.
+
+Noel: Lian Jye Su, a chief analyst at Omdia, said the move can be seen as a response to Western countries posting sovereignty requirements on A I, robotics, telecommunications, and other key technologies, per AP. Gary Ng, a senior economist at Natixis, said the world is getting more fragmented in trade, investment, and access to technologies. Those are their readings. U S-led restrictions have curbed China's access to the most advanced A I chips and chipmaking machines in recent years, per AP. No U S government or market reaction is established in the reporting used here, and we are not inventing one.
+
+Noel: What to watch: whether the list changes after November fifteenth, any U S government or company reaction on the record, and how interim registration works in practice.
+
+Noel: Sign-off
+
+Noel: That is the evening edition for Saturday, October seventeenth. A lab pitches Congress its own safety bill with catastrophe thresholds. No Kings turns from protest to voting plans across the Hudson Valley, with local turnout still unreported. China drafts export curbs on forty technologies, including twenty three in A I.
+
+Noel: I am Noel. Thank you for listening.

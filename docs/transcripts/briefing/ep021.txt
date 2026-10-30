@@ -1,0 +1,62 @@
+The RFTUV Briefing
+Episode 21 | Wednesday Evening | October 14, 2026
+
+Good evening. This is The RFTUV Briefing. I'm Noel. Wednesday night, and three stories that do not look related until they do. Let's get into it.
+
+Story 1: FBI Arrests OpenAI Employee
+
+We start inside OpenAI.
+
+On September 30, someone at the company found a small recording device plugged into a USB port on the back of a television in an executive conference room in San Francisco. The device was roughly the size of a thumb. According to the FBI complaint, it had a microphone and could connect to a camera. It was concealed inside toilet paper. The data stored on it was encrypted and, investigators say, inaccessible.
+
+Federal agents arrested Abdulrahman Alfozan on October 9. He is 35 years old, a Saudi national, and had been working at OpenAI since July 2025. He is charged with using an electronic device to intercept oral communications. That is a charge. It is not a conviction.
+
+Prosecutors allege the device was installed on or about September 28. They also allege that a similar device was later found inside his personal bag. Those are allegations from the Justice Department, reported by Reuters on October 13 and followed the next day by TechCrunch.
+
+OpenAI put out a statement on October 14. The company says it used its own internal AI models to understand what the device was and to identify the person who placed it. It fired the employee, then contacted the FBI. OpenAI also says it has evidence that Alfozan intended to install additional devices. On what the device may have captured, the company states it has no indications that he inappropriately accessed or exfiltrated model weights, source code, or customer data. That is the company's position, and you should weigh it as such.
+
+FBI Director Kash Patel described the alleged scheme as an effort to capture sensitive communications about superintelligence technology. That framing belongs to him.
+
+The method stands out here. It was not a sophisticated cyberattack, a compromised system, or a rogue model. It was a person, a physical device, a USB port, and a piece of toilet paper as cover. The oldest kind of insider threat. What is new is the detection layer: the company says it used its own AI tools to figure out what the device was and trace it back to the person who put it there. The threat was analog. The investigation was not.
+
+The case moves to court from here.
+
+Story 2: One Debate, No Second Round
+
+Tuesday night, Governor Kathy Hochul and Nassau County Executive Bruce Blakeman shared a stage for their first and only scheduled debate before Election Day on November 3. Three weeks left. No second round.
+
+Hochul is the Democratic incumbent seeking a second full term. Blakeman is the Republican challenger. Polling cited in coverage from News12 Hudson Valley puts Hochul ahead by roughly nine to eleven points.
+
+The sharpest clash was over immigration. A New York City ICE shooting had just occurred, and Blakeman argued it was a direct result of Hochul's sanctuary policies and her limits on local cooperation with federal immigration enforcement. He said Nassau County had cooperated with ICE and had experienced no comparable incident. Those are his claims.
+
+Hochul's response was pointed. She said New York is not a sanctuary for criminals. She said ICE is out of control. She also faulted Blakeman for not condemning the shooting outright. Those are her claims.
+
+On utility bills, Blakeman went after the governor directly. His argument: New York utility rates had been raised 48 times under her watch, Trump had not done that, and a $150 rebate had not come close to covering the difference for most households. Hochul blamed the increases on Trump, on tariffs, on broader energy prices, and on stalled federal approvals. At one point, Blakeman complained that Trump is all she can talk about. Both were playing to their base.
+
+One area where they agreed: both candidates said they support reopening Indian Point nuclear plant.
+
+One area where Hochul went quiet: Blakeman asked directly whether she would sign a bill expanding the data center moratorium in New York. She declined to answer.
+
+For Hudson Valley viewers, the debate landed on concrete ground: utility costs, energy supply, and how local law enforcement interacts with federal immigration agents. One debate. No revision coming.
+
+Story 3: A $19.5 Million House and the Tax Conversation Next Door
+
+We close locally.
+
+A home in the Hudson Valley is listed at $19.5 million and remains active on the market as of tonight. Realtor.com describes it as a 7,773 square foot main residence on 55 private acres, with three guesthouses, a pavilion, and a treehouse. It sits about ten minutes from Rhinebeck village and under two hours from Manhattan. The listing agent at Corcoran Country Living has described it as one of the highest-priced listings in Hudson Valley history.
+
+The house is one of only two standalone homes in the world designed by Aston Martin and partners. The seller is David Ingram, a Canadian wellness entrepreneur who bought the property at the rendering stage in 2020 and saw it completed five years later.
+
+That is one picture of this market.
+
+Bloomberg Tax reported on October 13 that Ulster County property values have risen nearly 95 percent since 2019. That run-up has pushed property tax bills higher for longtime homeowners who have not sold and are not selling. Local Democratic officials have proposed what they are calling the Ulster County for Fair Taxes Act. According to the sponsor's office, as reported, a surcharge on high-value properties would affect roughly one percent of households in the county and raise an estimated nine million to fifteen million dollars a year. Ulster County has about 183,000 residents and a median household income around $86,000.
+
+The county comptroller, March Gallagher, a Democrat, offered a note of caution. She said a surcharge could reduce the appeal for weekend visitors, and that spending by those visitors supplies a significant share of county sales tax revenue. No verdict on the proposal. It is an active debate.
+
+Two housing markets, one valley. That is where we leave it tonight.
+
+Sign-Off
+
+That is Wednesday evening from the Uncanny Valley. An alleged bug in a boardroom, one debate to settle a governor's race, and a $19.5 million listing sitting a few miles from a county tax fight. I'm Noel. Back tomorrow.
+
+End of Episode 21

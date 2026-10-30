@@ -1,0 +1,59 @@
+Noel: Three stories this Monday midday. In Dutchess County, the Flock camera war has moved onto two fronts: one is a legislative demand, and one involved a lighter. In American tech, the three men who built the industry spent the weekend asking governments to regulate it. And a German A I lab just shipped a model that computes like something small and loads like something very large. It's October twelfth, twenty twenty six. I'm Noel. This is the R F T U V Briefing.
+
+Noel: [STORY one: THE FLOCK CAMERA WAR]
+
+Noel: Start with the policy front.
+
+Noel: Dutchess County legislators are calling for the county's unremoved Flock cameras to be covered, visibly covered, so that the public can see the devices are no longer active. This came out of a Spectrum News report dated October ninth. The cameras that were supposed to come down are still standing. The legislature's answer to that is: fine, then cover them. Shroud them, so people driving past can tell the difference between a live camera and a dead one.
+
+Noel: That is the political argument. Then somebody made a different argument.
+
+Noel: John K. Coleman, twenty six, of Rhinebeck, was charged this weekend with Criminal Mischief in the third degree, a felony, and Arson in the fifth degree. According to News12, Coleman allegedly set a Flock camera on fire at six thousand fifty two Route nine late Saturday night. The fire spread to brush before it was contained. He was released on appearance tickets.
+
+Noel: So this is where the Flock thread sits on Monday morning. The legislature wants the surviving cameras draped because the county hasn't taken them down yet. One resident, by the charging documents, decided burning was faster. A felony charge for destroying a piece of surveillance equipment that the county's own legislative body has spent months trying to remove.
+
+Noel: The camera that watches everyone is now the thing everyone is fighting over. The legal process, the legislative process, and now a criminal charge, all stacked on the same street-corner object.
+
+Noel: Who pays for the cleanup here depends on which cleanup you mean. There is the physical one: the brush fire, the melted hardware, the appearance tickets. And there is the political one, which is slower and nobody has budgeted for yet.
+
+Noel: [STORY two: THE REGULATION WEEKEND]
+
+Noel: The single sharpest overnight break of this edition came out of the industry itself.
+
+Noel: Within roughly twenty four hours, Saturday into Sunday, the three most established names in American technology each made the same ask. Brad Smith, president of Microsoft, told the BBC that artificial intelligence has less regulation than a carton of milk. That line ran Saturday. The Guardian followed it Sunday morning with further reporting on Smith's warning.
+
+Noel: Bill Gates, also on Sunday, said A I needs safety rules along the lines of planes, cars, and medicine. His exact framing was this: "We're not where we need to be." Gates chose that comparison on purpose. Planes, cars, and medicine each got their rulebooks only after the disasters that made the need undeniable. He is saying A I is still in the pre-disaster chapter.
+
+Noel: Satya Nadella, Microsoft's C E O, offered the most operational framing of the three. His plan, as reported by The Indian Express, is to treat A I models as already compromised from the moment they are deployed. It's a zero-trust posture applied not to networks but to the models themselves. You build the guardrails assuming the model is already broken.
+
+Noel: Three men. One weekend. One ask.
+
+Noel: These are not outsiders calling for reform. Smith, Gates, and Nadella built the infrastructure this technology runs on. When they spend a weekend telling governments to write the rules, the relevant question is not whether rules are coming. The relevant question is what rules they would actually accept, and who gets to write them.
+
+Noel: The White House has made gestures. Congress has opened hearings. But the next C E O who ships something that changes something significant is not waiting on either. The open question from Sunday morning is who answers first.
+
+Noel: [STORY three: KOLIBRI AND THE EFFICIENCY PARADOX]
+
+Noel: On German Unity Day, October third, twenty twenty six, the German A I lab Aleph Alpha released Kolibri-one as open weights. The license is Apache two point zero. The weights are on Hugging Face. The documentation runs one hundred eighty nine pages.
+
+Noel: Kolibri-one is bilingual German-English, trained entirely on infrastructure in Germany and Finland, and positioned as a sovereign option for regulated European industries that need A I they can audit. The architecture is mixture-of-experts.
+
+Noel: Here are the numbers that matter. Total parameters: seventy eight point one billion. Active parameters per token: roughly three point four six billion. The model has fifty transformer layers. Each layer contains three hundred eighty four routed experts plus one shared expert. A small learned router selects six of those three hundred eighty four for each token. So the compute cost per forward pass works out to something close to a three point five-billion-parameter dense model: fast, efficient, cheap on inference.
+
+Noel: The catch is memory.
+
+Noel: Before the router can route anything, all seventy eight point one billion parameters have to be loaded into GPU memory. The minimum hardware spec is two NVIDIA A100 eighty-gigabyte cards. That is not a workstation. That is a data center slot. The tokenizer, built with a method called UniBPE and covering one hundred twenty eight thousand vocabulary entries, handles German compound words that punish English-first tokenizers. That part works well. The memory floor does not go away.
+
+Noel: This is the efficiency paradox in one package. Inference cheap. Memory expensive. Sovereignty German. Weights open.
+
+Noel: While American labs are raising capital at scales the briefing covered yesterday, Aleph Alpha ships open weights and a one hundred eighty nine-page technical report and bets that regulated industries across Europe will pay for the paradox. It is a different answer to the same capital race, and it landed on a national holiday on purpose.
+
+Noel: [HUDSON VALLEY MIDDAY CLOSE]
+
+Noel: Before you get into your week: Patch has a roundup of Spooktacular Oktoberfest events and volunteer opportunities opening across the valley this week. It is a warm, practical Monday look-ahead. The valley is giving its time. That is a decent way to open a week.
+
+Noel: [SIGN-OFF]
+
+Noel: The cameras are burning, the CEOs want rules, the models get smaller and bigger at once, and the valley gets on with its week. I'm Noel. That's the midday edition of the R F T U V Briefing for Monday, October twelfth. We'll be back this evening.
+
+Noel: [END OF EPISODE sixteen - MIDDAY]

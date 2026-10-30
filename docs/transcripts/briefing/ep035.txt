@@ -1,0 +1,39 @@
+Good evening. This is The RFTUV Briefing, Episode 35, Wednesday, October 21, 2026. I'm Noel Brown.
+
+Tonight: two state senate races in one county with almost nothing in common, a fatal apartment fire in Woodstock with an investigation underway and no name and no cause yet released, and a frontier AI company that has privately handed Congress a draft bill to regulate itself.
+
+We start in Dutchess County, where the district boundary is not where many voters expect. Poughkeepsie and Beacon are in District 39. District 41 covers northern Dutchess, Columbia and Greene counties, and most of Ulster County. State senators serve two-year terms, and both seats are on the November 3 ballot. Early voting opens this Saturday, so confirm your district now.
+
+District 39 is the close one. Incumbent Robert G. Rolison, Republican and Conservative, won in 2024 by 50.7 to 49.3 percent over Yvette Valdes Smith. He won the seat in 2022 with 53 percent, served as mayor of Poughkeepsie, and is seeking a third term. He faces Lisa Kaul, Democrat and Working Families, a Dutchess County legislator. Kaul won a three-candidate Democratic primary in June 2026, beating Gay Lee and Evan Menist.
+
+Senate Democrats currently hold 41 of 63 seats. Forty-two is a veto-proof supermajority, enough to override a governor's veto without a single Republican vote. That one-seat gap is why the Democratic Legislative Campaign Committee named District 39 one of six priority races in the country.
+
+At a Poughkeepsie Journal forum on October 3, Rolison pointed to community college funding and the seventy-five-million-dollar Newburgh Free Academy Career and Technical Education Center, and said the state spends too much and needs to re-evaluate its priorities. Kaul backed apprenticeship programs and SUNY Reconnect, and said those programs have to account for barriers including transportation and housing. Neither candidate presented a specific legislative plan on other issues in the reporting reviewed.
+
+District 41 is the rematch. Incumbent Michelle Hinchey, Democrat and Working Families, beat Patrick Sheehan, Republican and Conservative, 58.6 to 41.3 percent in 2024, a 17-point margin, and Sheehan is running again. Hinchey was first elected in 2020, beat Sue Serino 52.7 to 47.3 in 2022 after redistricting, and chairs the Senate Agriculture Committee. A supportive advocacy organization credits her with more than 50 bills signed into law on broadband, rural health care, farmland protection, and food access. That count is from an aligned source and is her claimed record, not an independently verified total. The reporting found no reliable detail for Sheehan beyond his 2024 result, and that absence is worth noting.
+
+The money picture has one dated snapshot. As of July 15, 2026, more than three months ago, Kaul had thirty-seven thousand five hundred eleven dollars on hand and Rolison had eight thousand eight hundred forty-seven. For District 41, no verified 2026 fundraising figures were found for either campaign.
+
+Early voting runs October 24 through November 1. October 24 is also Golden Day, when an unregistered voter can register and cast a ballot on the same visit. Election Day is November 3, 2026. Polls open at 6 in the morning and close at 9 in the evening.
+
+Our second story is from Woodstock, where a Friday morning fire killed one person, displaced five others, and left investigators without a public cause.
+
+According to the New York State Police, as reported by Lohud, responders were called to White Birch Apartments on White Birch Lane in Woodstock at about 5:25 in the morning on Friday, October 16. Firefighters from multiple departments worked the 15-unit building and found one person dead inside. A second suffered smoke inhalation and was taken to Health Alliance Hospital in Kingston. State Police have not released the name of either person.
+
+Five people were displaced, according to town officials. The American Red Cross provided shelter and assistance to five adults from four households. Woodstock Town Supervisor Anula Courtis said, in Lohud's reporting, that the town's hearts are with everyone affected and that residents have come forward with kindness and support well past the immediate emergency.
+
+Ulster County fire investigators, New York City Department of Environmental Protection Police, the Woodstock Police Department, and the Ulster County Medical Examiner's Office all assisted State Police. No name has been released and no cause has been established. If you have information, call the Kingston Bureau of Criminal Investigation at 845-344-5300.
+
+Tonight's final story moves to Washington. The White House AI safety accord covered in earlier reporting was voluntary, a commitment by the labs to police themselves. Politico's October 16 report is different: Anthropic has privately pitched lawmakers a draft bill on frontier AI safety. Per Politico, the draft is confidential and unpublished and has not been introduced in Congress. A company spokesperson said, per follow-up coverage, that the text converts Anthropic's Advanced AI Framework into statutory language.
+
+Per Politico's reporting, the draft would let the government block a model only when facing a foreseeable and imminent risk of more than one billion dollars in damage, or more than 50 people killed or seriously injured, from one of three situations: the creation or release of a biological weapon, a model slipping out of its developer's control, or a cyberattack. Below that threshold, the power to suspend a model would not apply.
+
+Only the Secretary of Commerce could seek a blocking order, from a federal judge in Washington, D.C. An order would last up to 45 days, and the government would have to show no less restrictive measure would achieve the same result. Independent evaluators registered with the Commerce Department would assess covered developers every 180 days and publish findings, with a duty to notify Commerce within 72 hours of identifying any listed risk. The draft would also, per Politico, preempt some state laws on AI disclosure, evaluation, and incident reporting.
+
+Follow-up reporting notes that OpenAI supports the proposal. Safety groups and some Democratic lawmakers see it as locking in favorable terms while the industry still controls the definitions. Supporters say the threshold must be high enough to hold up in court. Critics say that by the time harm is foreseeable at the scale of 50 deaths, the window to prevent it has typically already closed. No congressional sponsor had been identified in the sourcing reviewed.
+
+From a voluntary commitment to a proposed statute with a numeric trigger, drafted by the company that would be regulated under it. Who sets the threshold, who proves it in court, and why the regulated company holds the pen are questions the reporting raises and leaves open.
+
+That is Wednesday, October 21. Two senate races sharing a county line and almost nothing else, a Woodstock community holding five displaced neighbors while investigators have no public cause and no released name, and in Washington, a frontier AI lab that has drafted the bill that would determine when its own models can be stopped.
+
+I'm Noel Brown. We'll be back with the next edition of The RFTUV Briefing.

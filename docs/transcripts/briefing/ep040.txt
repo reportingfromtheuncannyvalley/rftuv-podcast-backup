@@ -1,0 +1,39 @@
+Good afternoon. This is The R F T U V Briefing, Episode forty, Saturday, October twenty fourth, twenty twenty six. I'm Noel Brown, with early voting open in New York this morning. Three stories today.
+
+On Thursday this desk reported that Route 9G in Rhinebeck had closed, with the nature of the incident not yet released. This is the follow-up. The first verified account came Friday night through rftuv.ai, sourced to a Dutchess County Sheriff's Office release dated October twenty third, twenty twenty six.
+
+The release states the following. At approximately eleven:forty five in the morning on Thursday, October twenty second, law enforcement received a report of an armed suicidal person traveling through northern Dutchess County. Officers located the vehicle and conducted a traffic stop on State Route 9G just south of its intersection with Route nine, in the Town of Rhinebeck. At approximately twelve:forty in the afternoon, during the stop, as officers were attempting to establish a dialogue with the operator and check on his welfare, the man died of a self-inflicted gunshot wound.
+
+The Sheriff's Office stated there is no indication at this time that any law enforcement force was used or contributed to the death. That is a Sheriff's Office statement, preliminary, with the investigation ongoing. This desk is not treating it as an independent finding.
+
+The identity of the deceased has not been released. No name, age, or hometown has been made public. The release states that additional information may be released at a later date.
+
+Because law enforcement was present at the scene, the New York State Attorney General's Office was notified, as required by New York State law. The Attorney General's Office is leading the investigation, with assistance from the Dutchess County Sheriff's Office, the New York State Police, and the Dutchess County Medical Examiner.
+
+Some headlines this week said Ulster County banned Flock cameras. The order is narrower than that. The narrower version is the story.
+
+County Executive Jen Metzger issued Executive Order five of twenty twenty six on Thursday, October twenty second. It prohibits all departments and employees under her authority from purchasing, contracting for, or deploying Flock cameras or any similar A I-assisted surveillance technologies. It also bars county departments from allowing vendors or contractors to use such technologies on the county's behalf. The county currently does not use these technologies.
+
+Metzger said, in the county release, that protecting public safety and individual rights go hand in hand in a democracy, and that Flock cameras and other A I-assisted surveillance technologies threaten that balance.
+
+The order does not apply to county law enforcement, which is under the jurisdiction of the Sheriff. Sheriff Juan Figueroa said, in the county release, that he supports the order and will issue a separate statement on his department's approach to surveillance technologies. That statement is still to come.
+
+On the sheriff's own decisions, this run read Daily Freeman reporting carried by GovTech on October twenty third. The Sheriff's Office decided not to move forward with Axon Draft One, the A I-assisted report writing tool that drafts police reports from body camera audio, after a ninety-day pilot that concluded October ninth. Lieutenant Collin Reynolds said the decision came down to cost and benefit. Metzger said she supported the decision and was highly opposed to first draft technology, per that reporting.
+
+On license plate readers, the Sheriff's Office will continue using its existing Motorola automatic license plate readers but has dropped plans to add additional cameras. Reynolds said the decision was influenced by concerns raised by the public, and that this is just not the time, per that reporting.
+
+This is distinct from Episode thirty six, which covered the City of Poughkeepsie: a city that already has Flock cameras, a council vote to end contracts, and a mayor who said she would veto. This is a county executive barring adoption in advance, in a county that says it does not currently use these tools, with a sheriff separately dropping an A I report drafting pilot and a reader expansion while keeping existing Motorola readers. Three different governments, three different decisions.
+
+The third story is about a distinction the AP makes carefully: hands-free is not eyes-off.
+
+The Associated Press reported on October twenty third, twenty twenty six, from Warren, Michigan, with authors Alexa St. John and Mike Householder. Since twenty seventeen, GM has sold vehicles with Super Cruise, a hands-free assisted driving system available on over six hundred thirty thousand roads in the United States and Canada.
+
+No passenger vehicle in production has eyes-off technology now, per AP. GM says its eyes-off version will be possible by twenty twenty eight, launching the next Super Cruise on the Cadillac Escalade IQ, a luxury electric sport utility vehicle. Tyson Becker, GM executive director for autonomous vehicle strategy and product, said the technology is meant to be so safe that it allows a driver to take eyes off the road while active and do other things in the cabin, per AP. That is a twenty twenty eight target. It is not available to buyers today.
+
+GM is testing it at the GM Global Technical Center in Warren, Michigan, where hundreds of volunteer drivers sit in real GM vehicles inside a three hundred sixty-degree immersive simulator. The vehicle is real. The world around it is not. Drivers face road conditions including hills, construction, rain, and nearby traffic, while GM measures eye movement, heart rate, and stress from a nearby control room. One attention test involves inviting drivers to play Candy Crush, because it engages people who want the highest score, and then researchers have to pull them away from the task, per Maureen August, senior manager at GM Research and Development, through AP.
+
+Sam Abuelsamid, vice president of market research at Telemetry, told AP that eyes-off is the turning point where consumers will be more willing to pay, because it gives the driver back time. He also noted that little real regulation governs these systems today, automakers are going state by state for approvals, and where GM will be able to offer eyes-off in twenty twenty eight remains to be seen, per AP.
+
+That is Episode forty. A Route 9G follow-up with the Sheriff's account attributed, the identity still withheld, and the Attorney General leading the investigation. Ulster County barring Flock before adoption, with a fuller sheriff statement still to come. GM targeting eyes-off in twenty twenty eight, on the Cadillac Escalade IQ, with no eyes-off car on sale today.
+
+I'm Noel Brown. Thank you for listening.

@@ -1,0 +1,63 @@
+RFTUV Briefing - Episode 13
+
+Evening Edition | Saturday, October 10, 2026
+
+Good evening. I'm Noel, and this is the RFTUV Briefing, evening edition, Saturday, October 10th. Three stories tonight, and a Hudson Valley close to send you into the weekend. This is the consent edition. Who gets to reach your phone. Who gets to reach your vote. And who is asking to be left alone.
+
+Twenty-four days until November 3rd. Let's get into it.
+
+THE ANCHOR: The FCC, AI Robocalls, and the Consent Question
+
+A federal proceeding underway right now could change what lands on your phone before Election Day, and most people have not heard of it.
+
+The short version: a conservative political group called Club for Growth has asked the FCC for a waiver and an exemption that would let it call wireless numbers with an AI-generated voice, without the recipient's prior consent. Federal law currently bans most robocalls to cellphones unless you have already agreed to receive them. Club for Growth wants that rule lifted for political calls.
+
+The group is planning to spend $175 million this midterm cycle. It says its system is not really a robocall operation because a human has to click a button first, then an AI agent takes over and conducts the call. The FCC's own public notice described that system with unusual dryness. It called it "a perfunctory human being for the sole purpose of clicking on a 'send' button to transmit thousands of text messages per hour." That is a federal agency quoting back an applicant's argument and letting the description do the work.
+
+The docket is FCC 02-278. The Consumer and Governmental Affairs Bureau issued Public Notice DA 26-940 on September 4th. Initial public comments were due October 5th. Reply comments are due October 19th. A ruling could come as soon as late October, which is days before the election that decides which party controls Congress for the remaining two years of President Trump's term.
+
+FCC Commissioner Anna Gomez, the commission's Democratic member, said that letting a dark money group flood Americans' phones with AI-generated calls they never agreed to receive would bring chaos close to Election Day. She said consumers expect the rules to stay steady while they decide how to vote, not for the commission to change them at the last hour to unleash what she called a "deluge of political AI slop." Club for Growth's president, David McIntosh, wants political speech treated like the automated calls about package deliveries and doctor's appointments that already reach wireless phones without consent.
+
+Advocates keep repeating the warning of New Hampshire, January 2024. Thousands of voters received a robocall carrying an AI-generated voice of then-President Joe Biden telling them not to vote in the primary. State and federal laws against deception and voter intimidation would still apply under Club for Growth's requested waiver. The deterrent, though, weakens when the underlying consent rule is gone.
+
+This is not a done deal. It is a live proceeding with an active comment window. The timing is the story. A federal agency is weighing whether AI voices need your permission to reach your phone, and the deadline for that decision sits inside the final month of a federal election. Watch the docket.
+
+THE NUMBERS: Two Polls, One Crack in the Hochul Lead
+
+Two surveys dropped this week on the New York governor's race, and they tell the same story from two different angles.
+
+The Marist poll, conducted October 1st through 4th with 1,361 registered voters, has Governor Kathy Hochul at 53 percent and Nassau County Executive Bruce Blakeman at 42 percent. An 11-point lead. The Emerson College and PIX11 survey, conducted October 3rd through 5th with 900 likely voters, has Hochul at 52 and Blakeman at 40, with 8 percent undecided. A 12-point lead. Two different methodologies, two different voter pools, same shape.
+
+Hochul was in Hopewell Junction on October 6th. She said that being ahead by double digits "means something." It does. It also hides something.
+
+The crack is in the independents. Marist has Blakeman carrying independent voters 49 to 42. Emerson has him up 55 to 34 among independents. Emerson's Spencer Kimball noted that as a contrast with other statewide races this cycle, where independents typically break Democratic. The suburbs are essentially tied at 48 to 48 in the Marist read. Hochul's margin comes from New York City, where she leads 69 to 24, and that number is wide enough to hold the statewide lead even as the suburbs split. Hochul's job approval in the Emerson poll sits at 40 percent favorable, 46 percent unfavorable. Blakeman called the Marist numbers woke. His own campaign's internal polls claim the race is much closer.
+
+Also in the race this week: the state Democratic Party filed a campaign-finance complaint asking the Public Campaign Finance Board to audit Blakeman's payments now, before Election Day, not after. Blakeman's campaign had not responded at the time of reporting, per lohud and the USA TODAY Network.
+
+Dutchess County sits in the suburbs that are deadlocked. That is where this plays out locally. Twenty-four days out, the lead is real, and the swing voters in the suburbs that make up Hochul's own region are breaking the other direction. Polls are snapshots, not predictions. That one is worth holding onto.
+
+THE INDUSTRY'S ANSWER: We'll Handle It
+
+One more story before the close, and it connects to both of the stories above.
+
+AI founders are cheering President Trump's calls for the industry to police itself on safety. That is the AP's read this morning. No outside guardrails. No federal mandate. The industry sets its own standards and enforces them.
+
+That position lands against a specific backdrop. A federal agency is currently deciding whether AI-generated voices need your consent to reach your phone. A midterm campaign season is beginning, where AI-generated political content will appear in ads, in calls, and in content your neighbors share. Senator Patty Murray is pushing safety guardrails and has said she expects federal action in 2027. House liability proposals are in draft. The UK is already aiming safety law at autonomous agents.
+
+The founders' message is: trust us to draw the line. The week's policy events are a version of the question back: what happens when the line is the one protecting your phone from a call you never agreed to take?
+
+That is the tension this edition leaves with you. One government body weighing whether AI voices need less consent. An election 24 days out. And the industry saying it will handle the safety question itself.
+
+THE CLOSE: Two Hudson Valley Notes for Saturday Night
+
+Quick ones before you go.
+
+If you have been meaning to stop by the New Corn Crib Greenhouse on Salt Point Turnpike, the window is closing. November 1st is the seasonal close. A few weeks left.
+
+And a flag from this morning: Dutchess County's gas sales tax cap extension is, according to WRRV, now in progress. Thin detail so far. The news desk will carry it when there is more to know. For now, it is something to watch.
+
+OUTRO
+
+That is the RFTUV Briefing for the evening of Saturday, October 10th. The FCC docket is 02-278 if you want to track it yourself. Reply comments close October 19th.
+
+I'm Noel. This is RFTUV. Have a good Saturday night.

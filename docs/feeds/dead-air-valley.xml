@@ -1,0 +1,474 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <title>Dead Air Valley</title>
+    <link>https://rftuv.ai</link>
+    <description>Dead Air Valley explores the strange history, local legends, forgotten places, and unsettling stories of the Hudson Valley and the regions around it. From Sleepy Hollow and old river towns to neighboring valleys, back roads, abandoned landmarks, and the people who shaped them, each episode finds something worth bringing back into the light. Hosted by a rotating group of voices, with occasional noir-style narration, Dead Air Valley moves between atmospheric storytelling, local history, conversation, and timely discoveries. Episodes may be short, long, solo, or roundtable, but each begins with one question: what's still waiting in the dead air?</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 30 Oct 2026 15:46:06 +0000</lastBuildDate>
+    <generator>RFTUV Backup Feed Generator</generator>
+    <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/dead-air-valley.xml" rel="self" type="application/rss+xml" />
+    <itunes:author>Dead Air Valley</itunes:author>
+    <itunes:category text="History" />
+    <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/cover.jpg" />
+    <itunes:owner>
+      <itunes:name>Dead Air Valley</itunes:name>
+      <itunes:email>willowbrookandmonarch@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <podcast:guid>2cc053a0-fe92-53ea-8d06-dbf69c1e94f2</podcast:guid>
+    <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
+    <podcast:medium>podcast</podcast:medium>
+    <podcast:location>Hudson Valley, New York, USA</podcast:location>
+    <item>
+      <title>Dead Air Valley: "The Cloud That Stayed"</title>
+      <description>On Sunday night, October 25, 2026, cameras were rolling across Upstate New York when a fireball crossed over Oneonta, in Otsego County, in the Susquehanna Valley. Upstate meteorologist Bill Kardas shared two videos of it, one from a social media follower in Oneonta. Shortly after, a follower posted a photograph of unique clouds in the night sky, in the path where the fireball had been. Kardas explained: "Spotted shortly after the fireball in its path. This cloud is likely debris from the space rock burning in earth's atmosphere."
+
+The same night, over 200 miles away in Carlton, New York, another fireball was caught on camera. Kardas shared that one too, from a follower named Rick. Whether the Oneonta and Carlton sightings were one widely visible event or two is a question the sources do not settle, and this episode says so.
+
+Dead Air Valley follows the evidence in the order a viewer lived it: the streak, the second town, the cloud that stayed, and what it means when a fireball, defined by disappearing, leaves something behind in the frame. Silas Van Wyck narrates. Sources in show notes.
+
+Sources:
+- 94.3 Lite FM, October 28, 2026: https://943litefm.com/ixp/706/p/fireball-on-camera-upstate-ny/
+- American Meteor Society, Meteor Activity Outlook for October 24-30, 2026: https://www.amsmeteors.org/2026/10/meteor-activity-outlook-for-october-24-30-2026/</description>
+      <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">f9969337-7827-5160-8793-24c92b808807</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep026.mp3" length="8355877" type="audio/mpeg" />
+      <itunes:duration>00:17:24</itunes:duration>
+      <itunes:episode>26</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep026.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep026.txt" type="text/plain" />
+    </item>
+    <item>
+      <title>Dead Air Valley: "The Town Was the Set"</title>
+      <description>In the week of October 19, 2026, Main Street in Beacon, in Dutchess County, was dressed for Halloween more dramatically than usual, according to Hudson Valley Country. Then a horse-drawn carriage with the Headless Horseman rode down the street with the cast of Netflix's The Four Seasons on board. A Little Beacon Blog published a video of the ride on October 20th. Hudson Valley Country says the production must be working on a Halloween episode for season 3, though Netflix has confirmed no episode or air date. Central Casting had already posted a call seeking Newburgh and Beacon locals of all ages, genders, and ethnicities as paid background actors for the show, with no filming dates given. The City of Beacon then hosted a film production on the night of October 27th through the morning of the 28th, closing sidewalks from 4 pm to 5 am and deploying police to reroute traffic. The city named no production. Hudson Valley Country believes it was The Four Seasons. The real Halloween is Saturday, October 31st. Sources in the show notes at Dead Air Valley.
+
+Sources:
+- Hudson Valley Country, October 23, 2026: https://hudsonvalleycountry.com/four-seasons-headless-horseman-beacon/
+- Hudson Valley Country, Jackie Corley, road closures account, October 2026: https://hudsonvalleycountry.com/beacon-closed-roads-filming/
+- A Little Beacon Blog on Vimeo, October 20, 2026: https://vimeo.com/1237744814
+- 94.3 Lite FM, October 16, 2026: https://943litefm.com/ixp/706/p/four-season-mansion-newburgh-filming/</description>
+      <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ef5191ea-a5a1-5fa6-b31d-4fd5125f1670</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep025.mp3" length="8407525" type="audio/mpeg" />
+      <itunes:duration>00:17:30</itunes:duration>
+      <itunes:episode>25</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep025.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep025.txt" type="text/plain" />
+    </item>
+    <item>
+      <title>Dead Air Valley: "Four Days Loose in Carmel"</title>
+      <description>For four days, a cow in Carmel could not be found, persuaded, or caught. Maggie, a four-year-old Highland cow, arrived at Little Cabin's Farm in the towns of Carmel and Kent, Putnam County, from a farm in Massachusetts on Tuesday, October 20, got spooked, jumped out, and went to the woods. The farm searched behind her for four days while the suburb's ordinary weekend ran in parallel. Then she was on a public road: a driver encounter on Route 6, a procession of cars and Carmel police, an officer's lasso attempt in the middle of the road, and on Saturday, October 24, a successful lasso and a guided walk into a trailer. By Monday, October 26, Maggie was back at the farm alongside her calf, safe, with a new calf on the way. No injuries were reported. Silas Van Wyck narrates.
+
+Sources:
+- ABC7 New York (WABC), Joe Torres, October 26, 2026: https://abc7ny.com/post/carmel-police-wrangle-maggie-runaway-cow-wild-chase-putnam-county/19981061/
+- New York Post, News 12 reporting, October 25, 2026: https://nypost.com/2026/10/25/us-news/runaway-cow-sparks-police-chase-through-ny-town/</description>
+      <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">c0db7061-df07-5c2a-8727-32117d2d4c95</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep024.mp3" length="8278117" type="audio/mpeg" />
+      <itunes:duration>00:17:14</itunes:duration>
+      <itunes:episode>24</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep024.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep024.txt" type="text/plain" />
+    </item>
+    <item>
+      <title>Dead Air Valley: "The Last Weekend to Get Lost on Purpose"</title>
+      <description>The corn maze season in Dutchess County is in its final days. Families drive out, hand money to someone at a gate, walk into a field, and spend some time turning left and right with no particular idea where they are. The product being sold is disorientation. Silas looks at what a corn maze actually is, how the Hudson Valley farms build and staff them, and what happens when Halloween passes and the field goes back to being a field. Narrated by Silas Van Wyck.
+
+Sources:
+- Hudson Valley corn maze guides (Lohud, Oct 2026)
+- Barton Orchards, Poughquag</description>
+      <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">acc33ec4-c132-513e-bb71-57fdc2403600</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep023.mp3" length="8420005" type="audio/mpeg" />
+      <itunes:duration>00:17:32</itunes:duration>
+      <itunes:episode>23</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep023.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep023.txt" type="text/plain" />
+    </item>
+    <item>
+      <title>Dead Air Valley: "The Town Auctioned Its Dogs Today"</title>
+      <description>On Sunday, October 25, 2026, Saugerties auctioned the thirty-six painted fiberglass dogs that spent the season on its sidewalks. The Barkin' Around Saugerties Auction proceeds help fund a new animal shelter building: the current shelter operates out of an old equipment garage beside the transfer station, has been managing a ringworm outbreak since May, and has raised three and a half million dollars toward the new building, with about two and a half million more to go. Silas tells the story of the statues, the shelter, and the exchange rate between them. Narrated by Silas Van Wyck.</description>
+      <pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">a467499f-3b00-5b01-beb7-935f458102d5</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep022.mp3" length="8561125" type="audio/mpeg" />
+      <itunes:duration>00:17:50</itunes:duration>
+      <itunes:episode>22</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep022.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep022.txt" type="text/plain" />
+    </item>
+    <item>
+      <title>Dead Air Valley: "The Water Behind Scarborough Station Turned Bright Red"</title>
+      <description>On Wednesday, October 21, 2026, the water behind Scarborough station in Ossining turned bright red. It was dye from a tidal study, placed there on purpose, and for a few hours the creek ran the color of an emergency anyway. Silas tells the story of the study, the color, and what the people who saw it thought they were looking at. Narrated by Silas Van Wyck.</description>
+      <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">8a2bbba5-3516-5f5b-9d8d-fcfab55893b2</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep021.mp3" length="8618917" type="audio/mpeg" />
+      <itunes:duration>00:17:57</itunes:duration>
+      <itunes:episode>21</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep021.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep021.txt" type="text/plain" />
+    </item>
+    <item>
+      <title>Dead Air Valley: "The Groundhog of Lepore Park"</title>
+      <description>A groundhog in Lepore Park, Westchester County, tested positive for rabies after an encounter on October 20, 2026. Silas walks through what happened, what the county health department says to do about wildlife that behaves strangely, and why the Rabies Infoline exists. The practical guidance is stated once, late, the way the show does it. Narrated by Silas Van Wyck.
+
+Sources:
+- Westchester County Department of Health, rabies advisory (Oct 2026)
+- Rabies Infoline: (914) 813-5010</description>
+      <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">80847d96-a020-5a2f-a8c9-8e2d6da7464b</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep020.mp3" length="9636133" type="audio/mpeg" />
+      <itunes:duration>00:20:05</itunes:duration>
+      <itunes:episode>20</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep020.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep020.txt" type="text/plain" />
+    </item>
+    <item>
+      <title>Dead Air Valley: "The Great Cooking Oil Heist"</title>
+      <description>## Show notes, Episode 19, October 22, 2026
+
+New Rochelle Police called in the state Department of Environmental Conservation, and ECOs Franz and Shuck found a van carrying two containers with about 550 gallons of used cooking oil, some discharged onto the ground. The driver and passenger were ticketed for unlawful disposal of solid waste and depositing a noisome and unwholesome substance on a public highway, under Public Health Law Section 1300-A, with charges to be addressed in New Rochelle City Court. The driver was also held on an outstanding New Jersey warrant, pending extradition, and the van was impounded. The incident is dated September 28. Talk of the Sound republished the account on October 20, 2026, and Patch followed on October 21. This episode traces how spent fryer oil became a biodiesel and renewable diesel feedstock, why the North American Renderers Association estimates U.S. theft at $300 to $500 million a year, and what a federal case out of Pittsford shows about the trade at scale. Practical guidance and sources are in these notes.
+
+Sources: Talk of the Sound, Patch, North American Renderers Association, RFD-TV, Rochester Democrat and Chronicle.
+
+## SEO
+- SEO title: Used Cooking Oil Theft in New Rochelle: 550 Gallons, an Old Statute, and a $300 to $500 Million Problem | Dead Air Valley
+- SEO description: New Rochelle police called in state environmental conservation officers over a van carrying about 550 gallons of used cooking oil, and the tickets were written under Public Health Law Section 1300-A for depositing a noisome and unwholesome substance on a public highway. Dead Air Valley traces how spent fryer oil became a biodiesel feedstock worth stealing, the renderers association estimate of $300 to $500 million in annual U.S. theft, warnings to roughly 30,000 Northeast restaurants, and a federal case out of Pittsford involving 45,000-pound shipments to a Pennsylvania refinery.
+- Excerpt: A van in New Rochelle held about 550 gallons of used cooking oil, some of it on the ground. The tickets called it a noisome and unwholesome substance on a public highway. The oil was not waste anymore. That is the whole story.
+- Tags: New Rochelle, Westchester County, Hudson Valley, used cooking oil, grease theft, biodiesel, renewable diesel, NYSDEC, Environmental Conservation Officer, Public Health Law 1300-A, North American Renderers Association, Buffalo Biodiesel, Dead Air Valley, Silas Van Wyck</description>
+      <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">8c993c19-6d15-536e-a331-388912bfb900</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep019.mp3" length="11546341" type="audio/mpeg" />
+      <itunes:duration>00:24:03</itunes:duration>
+      <itunes:episode>19</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep019.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep019.txt" type="text/plain" />
+    </item>
+    <item>
+      <title>Dead Air Valley: "The Moose on the Interstate"</title>
+      <description>## Show notes, Episode 18, October 21, 2026
+
+A large bull moose was caught on video near the interchange of Interstate 684 and 84 in Brewster, eastern Putnam County, this week. Connecticut Meteorologist Jack Drake shared a viewer's video of the animal. Moose are the largest land mammal in New York State, native to it, weighing between 500 and 1,200 pounds and standing up to six feet at the shoulder. Most live in the Adirondacks and the Taconic Highlands; this is only the second area sighting reported in 2026, with the first in the Pawling area.
+
+The sighting falls inside the October-through-December peak breeding window, when moose wander well outside their usual range.
+
+If you are driving in the valley this season, NYSDOT guidance is worth knowing: slow down when you see a deer or moose near the roadside, because the animal may bolt into the road without warning; expect another animal behind the first; and if one runs in front of your vehicle, brake firmly but do not swerve. Full NYSDOT deer-and-moose season guidance is available at the New York State Department of Transportation website.
+
+Sources: Hudson Valley Country, Mid-Hudson News Network, NYSDOT.
+
+## SEO
+- SEO title: Moose Spotted Near Interstate 684/84 Interchange in Brewster, NY | Dead Air Valley
+- SEO description: A large bull moose was caught on video near the interchange of Interstate 684 and 84 in Brewster, Putnam County, New York, this week. Dead Air Valley covers the sighting, the animal's range, the fall rut, and what drivers need to know this season.
+- Excerpt: A large bull moose, up to 1,200 pounds, was caught on video near the 684/84 interchange in Brewster, eastern Putnam County. It is only the second area moose sighting reported in 2026. This is what happens when the rut walks south out of the Adirondacks and into commuter country.
+- Tags: Brewster, Putnam County, Hudson Valley, moose, wildlife, Interstate 684, Interstate 84, fall rut, DEC, NYSDOT, New York wildlife, Dead Air Valley, Silas Van Wyck</description>
+      <pubDate>Wed, 21 Oct 2026 21:58:16 GMT</pubDate>
+      <guid isPermaLink="false">fa5c19ce-08b1-44d8-869b-20108a5be7d1</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep018.mp3" length="8511205" type="audio/mpeg" />
+      <itunes:duration>00:17:44</itunes:duration>
+      <itunes:episode>18</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep018.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep018.txt" type="text/plain" />
+    </item>
+    <item>
+      <title>Dead Air Valley: "The Hamlet That Put Its Ghosts, and Its Saucers, on Main Street"</title>
+      <description>Dead Air Valley: "The Hamlet That Put Its Ghosts, and Its Saucers, on Main Street"
+
+This week on Dead Air Valley, Silas Van Wyck visits Pine Bush, a farming hamlet of 1,659 people in the Town of Crawford, Orange County, billed by the Haunted History Trail of New York State as the UFO Capital of the East Coast. From the 1980s boom in alleged sightings to a Main Street institution with numbered exhibits, a MUFON collaboration, and an alien abduction photo-op, Pine Bush turned the unexplained into a very organized local fact.
+
+Two Haunted History Lantern Tour dates remain this October. The tour is guided by lantern through the hamlet's haunted locations, with findings from paranormal author Linda Zimmermann and Pine Bush historians, and ends with Victorian tea and dessert.
+
+Pine Bush UFO and Paranormal Museum
+86 Main Street, Pine Bush, NY 12566
+Phone: (845) 524-4272
+Email: pinebushmuseum@townofcrawford.org
+
+Remaining Lantern Tour Dates:
+Saturday, October 24 and Friday, October 30
+Start time: 9:00 PM at the museum
+Advance booking required online
+Approximately two hours, largely outdoors, weather dependent
+No photos, videos, or recording permitted
+
+Sources: The Pine Bush UFO and Paranormal Museum (pinebushmuseum.com), Haunted History Trail of New York State, Hudson Valley Magazine.
+
+SEO Title: Pine Bush UFO Museum: The Hamlet That Put Its Ghosts and Saucers on Main Street | Dead Air Valley
+SEO Description: Pine Bush, New York's UFO Capital of the East Coast, turned forty years of unexplained sightings into a museum, an annual fair, and a lantern ghost walk that ends with Victorian tea. Dead Air Valley visits the hamlet that answered an unanswerable question the way small towns answer everything: with a building, a schedule, and a door anyone can walk through.
+Tags (Rebel has no tags field; recorded here only): Pine Bush, Hudson Valley, Orange County, Town of Crawford, UFO, paranormal, haunted history, Dead Air Valley, New York, Halloween, October, UFO museum, lantern tour, ghost walk, MUFON, Linda Zimmermann, Pine Bush UFO Fair</description>
+      <pubDate>Tue, 20 Oct 2026 21:34:06 GMT</pubDate>
+      <guid isPermaLink="false">ac057b0f-1ce5-4224-9f49-7f3b08ca304c</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep017.mp3" length="8143909" type="audio/mpeg" />
+      <itunes:duration>00:16:57</itunes:duration>
+      <itunes:episode>17</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep017.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep017.txt" type="text/plain" />
+    </item>
+    <item>
+      <title>Dead Air Valley: "The 'Accidental' Deaths in the Tavern Basement"</title>
+      <description>Dead Air Valley: "The 'Accidental' Deaths in the Tavern Basement"
+Share URL: https://app.rebelaudio.ai/e/qh46jm
+
+In Rhinebeck, Dutchess County, the county historian is taking a roomful of diners into the basement of Foster's Coach House Tavern to read the official record of how their neighbors died by accident. On Wednesday, October 28, 2026, at 6 PM, Dutchess County Historian William P. Tatum III leads a Historic Tavern Trail: Halloween Edition program on "accidental" deaths, including drownings and falls, drawn from the Dutchess County Ancient Documents Collection, the surviving court filings from 1721 to 1889, now 167,000 pages online. Foster's Coach House Tavern, 6411 Montgomery Street, Rhinebeck, NY 12572, phone 845-876-8052. Dinner reservations before or after are recommended, per the listing; no ticket price or registration term was stated in the listing. The archive is free to search at dutchessny.gov/ancientdocuments. Silas Van Wyck tells it straight: Wally Foster and the equestrian tavern, Tatum and the Tavern Trail he built, the inquisition form behind the word accidental, and the tavern records that live in the same files. Sources: Rural Intelligence, Dutchess County, the New York State Museum, Historic Rhinebeck, and the Rhinebeck Historical Society.
+
+Desk notes: Spiral draft 2,391 words, 9 words under the 2,400 floor; Spiral flagged this itself and deliberately did not pad, and the draft was kept whole. One desk factual fix, disclosed: Spiral's cold open said "nine days before Halloween itself," which is wrong on any reading (the program is October 28, today is October 19, Halloween is October 31); the clause was changed to "in the run up to Halloween itself" and nothing else in the copy was altered. Audio script verified clean of headings, segment labels, and production notes before TTS (46 turns).</description>
+      <pubDate>Mon, 19 Oct 2026 21:19:46 GMT</pubDate>
+      <guid isPermaLink="false">d8ca19a4-067e-401d-876c-e88aae452b86</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep016.mp3" length="8619109" type="audio/mpeg" />
+      <itunes:duration>00:17:57</itunes:duration>
+      <itunes:episode>16</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep016.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep016.txt" type="text/plain" />
+    </item>
+    <item>
+      <title>Dead Air Valley: "The Eight-Sided House and the Lady in White"</title>
+      <description>Dead Air Valley: "The Eight-Sided House and the Lady in White"
+
+In Irvington, Westchester County, the eight-sided Armour-Stiner Octagon House at 45 West Clinton Avenue is staging its own ghost story. Author Carl Carmer lived in the house from 1946 to 1976 and wrote the Lady in White tale of a Hudson steamboat disaster. This fall the house performs that story as an immersive tour through its own rooms, October 16 to November 1, tickets $58, followed by the Remember You Must Die Memento Mori exhibition. Silas Van Wyck tells it straight: Fowler's octagon idea, the Armour and Stiner house, the fragrant ghost that followed the Carmers from Manhattan, and Carmer's full story of the elopement, the steamboat race, and the boiler explosion at the Palisades. Sources: Hudson Valley Tourism, Visit Sleepy Hollow, Sleepy Hollow Country, and the Armour-Stiner Octagon House.
+
+Cover photo: DutchTreat / Wikimedia Commons, CC BY-SA 4.0</description>
+      <pubDate>Mon, 19 Oct 2026 18:21:12 GMT</pubDate>
+      <guid isPermaLink="false">7b48ec89-5581-45ac-ae00-339be125edeb</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep015.mp3" length="9674725" type="audio/mpeg" />
+      <itunes:duration>00:20:09</itunes:duration>
+      <itunes:episode>15</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep015.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep015.txt" type="text/plain" />
+    </item>
+    <item>
+      <title>Dead Air Valley: "The Society That Has Caught No One in 230 Years"</title>
+      <description>Dead Air Valley: "The Society That Has Caught No One in 230 Years"
+
+In Red Hook, Dutchess County, a society formed on October 10, 1796 to catch horse thieves is still meeting 230 years later. About 100 riders pay $5 a year and gather on the first Tuesday of October. The popular account says there is no record of it ever catching a horse thief, which a past president explained in 1990 as thieves being too terrified to try. Silas Van Wyck tells it straight: the 1796 bulletin, the deterrent and insurance model, the Klose barn meetings, and the archive clippings found by The Daily Catch that complicate the legend, including an 1888 conviction, a 1936 recovery, a 1941 hobby horse payout, and the 1955 report whose riders had no horse. Sources: Townsquare via Q105.7 and The Daily Catch, Red Hook.</description>
+      <pubDate>Sat, 17 Oct 2026 21:27:02 GMT</pubDate>
+      <guid isPermaLink="false">a8045994-7b26-45d9-8575-be4a8dd90523</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep014.mp3" length="9123877" type="audio/mpeg" />
+      <itunes:duration>00:19:00</itunes:duration>
+      <itunes:episode>14</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep014.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep014.txt" type="text/plain" />
+    </item>
+    <item>
+      <title>Dead Air Valley: "Kingston Burned"</title>
+      <description>On October 16, 1777, British troops under General John Vaughan burned more than 300 buildings in Kingston, New York, then the newly established capital of New York State, in a matter of hours. Today is the 249th anniversary. Silas Van Wyck tells the story straight: the capital that lasted months, the militia away at Saratoga, the stone buildings of the Stockade District that survived, the rebuilding, and the four day Burning of Kingston Commemoration, October 15 to 18, with reenactments, walking tours, the Capital to Capital 5K from Kingston to Hurley, and tonight's Black Patriots program at the Old Dutch Church, 272 Wall Street. Full schedule at burningofkingston.com. Source: Silas Van Wyck, "Kingston Burned," rftuv.ai.</description>
+      <pubDate>Fri, 16 Oct 2026 20:21:30 GMT</pubDate>
+      <guid isPermaLink="false">038910b4-57ef-49de-ac2a-3f5758e0f0b2</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep013.mp3" length="9561829" type="audio/mpeg" />
+      <itunes:duration>00:19:55</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep013.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep013.txt" type="text/plain" />
+    </item>
+    <item>
+      <title>Dead Air Valley: "The General Came Back"</title>
+      <description>A bronze statue of George Washington at Washington's Headquarters State Historic Site in Newburgh was taken down in March 2020 for a scabbard repair that was finished by May 2020. It did not come back for more than six years. Silas Van Wyck tells the story of the long absence: the 1887 statue modeled from Washington's life mask, its earlier departures from the Tower of Victory, the multi-year rebuilding of the site around its empty pedestal, the Newburgh artist across the street who joked that the president had gone out for a cleaning, and the quiet return in late September 2026. The repair took two months. The return took a rebuilt site. Sources: Hudson Valley Country, October 14, 2026, updated October 15, 2026 with responses from the New York State Office of Parks, Recreation and Historic Preservation.</description>
+      <pubDate>Thu, 15 Oct 2026 20:23:16 GMT</pubDate>
+      <guid isPermaLink="false">16ec98a1-70df-41eb-9ac2-b997e350883c</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep012.mp3" length="9967333" type="audio/mpeg" />
+      <itunes:duration>00:20:46</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep012.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep012.txt" type="text/plain" />
+    </item>
+    <item>
+      <title>Dead Air Valley: "The Curse List at Ballston Spa"</title>
+      <description>Double M Haunted Hayrides in Ballston Spa has been frightening people on purpose since 1991. This October, the attraction says a guest pushed past one of its actresses, took a prop, and left with it. Double M answered in public, not with a stern warning alone, but with a list of small lifelong curses wished on that guest: a pillow warm on both sides, damp socks, flat soda, and actors in every future haunted house who know exactly who they are. Silas Van Wyck works the plain strangeness of etiquette enforcement at a haunted attraction in peak season. Sources: Hudson Valley Country, October 13, 2026; 104.5 The Team; Q105.7.</description>
+      <pubDate>Wed, 14 Oct 2026 20:40:06 GMT</pubDate>
+      <guid isPermaLink="false">c9920b65-439a-40cb-ab5a-364fa1baa6a5</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep011.mp3" length="9809509" type="audio/mpeg" />
+      <itunes:duration>00:20:26</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep011.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep011.txt" type="text/plain" />
+    </item>
+    <item>
+      <title>Dead Air Valley: "The Haunted House That Is Just a House for Sale"</title>
+      <description>A Kingston mansion built in 1773 is for sale the ordinary way, with a listing, a local real estate agent, and a price a buyer learns at the end of the tour. It is also the latest stop on HGTV's Would You Buy This Haunted House?, where psychic Steffi Hill tours the first floor, works her dowsing rods, and treats the house as haunted. Silas Van Wyck works the double life of one property: what a 1773 date means in the town that became New York's first capital and was burned in October 1777, what New York's stigmatized property law actually requires a seller to say, what the 1991 Ghostbusters ruling in Nyack settled, and how a market prices a reputation that no appraisal form has a line for. The valley keeps the story. The buyer gets the keys.</description>
+      <pubDate>Tue, 13 Oct 2026 20:25:28 GMT</pubDate>
+      <guid isPermaLink="false">d576592b-e0cc-48df-bb37-de14f6718fd5</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep010.mp3" length="10401637" type="audio/mpeg" />
+      <itunes:duration>00:21:40</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep010.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep010.txt" type="text/plain" />
+    </item>
+    <item>
+      <title>Dead Air Valley: "The Castle That Was a Warehouse"</title>
+      <description>Every commuter on the Metro-North Hudson Line knows the castle in the middle of the river. Almost none of them know it was never a castle. Francis Bannerman, the surplus king of 501 Broadway, needed somewhere to store Spanish-American War gunpowder he could not keep in Manhattan, so in 1900 he bought Pollepel Island and built a Scottish baronial warehouse, part arsenal, part family seat, part billboard. Silas Van Wyck tells the story of the 1920 powder house explosion, the 1969 fire, and the trust that keeps the walls standing today.</description>
+      <pubDate>Mon, 12 Oct 2026 20:25:35 GMT</pubDate>
+      <guid isPermaLink="false">78c0ee86-e5f1-4840-b400-b8675fd33a26</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep009.mp3" length="8714149" type="audio/mpeg" />
+      <itunes:duration>00:18:09</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep009.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep009.txt" type="text/plain" />
+    </item>
+    <item>
+      <title>Dead Air Valley: "The Spaghetti Eating Contest"</title>
+      <description>October 11, 2026. The Ulster County Italian Festival returned to the Kingston waterfront, at T.R. Gallo Park on the Strand, in the drizzle: the 1:25 spaghetti eating contest reported like a census, a scheduled Discussion of Southern Italian Folk Beliefs given a time slot between a world-music set and the pasta contest, homemade ravioli and homemade wine rituals, a fire breather and a stilt walker on the waterfront, the annual awards with a posthumous honor for Dr. Philip DiNovo, and the Rondout at dusk after the 7 PM close. Silas Van Wyck tells the story.</description>
+      <pubDate>Sun, 11 Oct 2026 20:53:15 GMT</pubDate>
+      <guid isPermaLink="false">79dcb392-7728-4608-b857-0203d5ca93f1</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep008.mp3" length="9087205" type="audio/mpeg" />
+      <itunes:duration>00:18:56</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep008.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep008.txt" type="text/plain" />
+    </item>
+    <item>
+      <title>Dead Air Valley: "The World's Smallest Pumpkin Patch"</title>
+      <description>October 10, 2026. LEGOLAND New York's Brick-or-Treat Monster Party in Goshen: the build-your-own pumpkin patch that claims to be the world's smallest, zombie cheerleader tryouts, and a ghost census in Mini-Manhattan. Silas Van Wyck tells the story.</description>
+      <pubDate>Sat, 10 Oct 2026 20:26:40 GMT</pubDate>
+      <guid isPermaLink="false">93095ec9-2b28-4593-97f5-21387f867b14</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep007.mp3" length="10332901" type="audio/mpeg" />
+      <itunes:duration>00:21:31</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep007.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep007.txt" type="text/plain" />
+    </item>
+    <item>
+      <title>Dead Air Valley: "The Backyard Mastodon"</title>
+      <description>October 9, 2026. SUNY Orange students keep digging up a mastodon in an Orange County backyard. Ribs, vertebrae, foot bones, and a growing list of students who can say they helped dig it up. Silas Van Wyck tells the story.</description>
+      <pubDate>Fri, 09 Oct 2026 20:25:45 GMT</pubDate>
+      <guid isPermaLink="false">81582432-826a-4820-96c2-379f632ac917</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep006.mp3" length="8099173" type="audio/mpeg" />
+      <itunes:duration>00:16:52</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep006.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep006.txt" type="text/plain" />
+    </item>
+    <item>
+      <title>Dead Air Valley: "The Ghost of Newburgh Brewing"</title>
+      <description>October 8, 2026. The old brewery on the Newburgh waterfront keeps its own hours. Staff hear footsteps after close, a figure by the kettles, and the security camera caught something. Silas Van Wyck tells the story of the ghost of Newburgh Brewing.</description>
+      <pubDate>Thu, 08 Oct 2026 21:23:53 GMT</pubDate>
+      <guid isPermaLink="false">53bc6bd6-a852-4151-899a-520d605c1626</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep005.mp3" length="8040229" type="audio/mpeg" />
+      <itunes:duration>00:16:45</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep005.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep005.txt" type="text/plain" />
+    </item>
+    <item>
+      <title>The Fire Contract: Rhinebeck Votes on Who Shows Up</title>
+      <description>Rhinebeck's fire contract heads to a public hearing on October 13. What a fire contract is, why a town votes on it, and what's at stake when the people who show up at your worst moment are funded by a line item. Narrated by Silas Van Wyck.</description>
+      <pubDate>Wed, 07 Oct 2026 15:18:50 GMT</pubDate>
+      <guid isPermaLink="false">67705634-6100-402f-a1f1-f9e80f839d54</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep004.mp3" length="10709797" type="audio/mpeg" />
+      <itunes:duration>00:22:19</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep004.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep004.txt" type="text/plain" />
+    </item>
+    <item>
+      <title>The Witches of Kingsland Point</title>
+      <description>Dead Air Valley. The seventh annual SUP Witches Festival takes over Kingsland Point Park in Sleepy Hollow on Saturday, October 10, from noon to 5 PM, rain date October 11. Witches on paddleboards on the Hudson. Everything to know before you go. Reported by June Mercer, narrated by Silas Van Wyck.</description>
+      <pubDate>Wed, 07 Oct 2026 00:45:30 GMT</pubDate>
+      <guid isPermaLink="false">ae9149c6-e3ee-42e9-ae89-3614090e16fe</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep003.mp3" length="9037285" type="audio/mpeg" />
+      <itunes:duration>00:18:50</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep003.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep003.txt" type="text/plain" />
+    </item>
+    <item>
+      <title>The Schoolhouse That Learned to Be Quiet: Bulls Head-Oswego</title>
+      <description>On Bulls Head Road in Clinton Corners, a one-room schoolhouse that sat empty for years was picked up and moved about a quarter mile in 1957 and became the Bulls Head-Oswego Friends Meeting House, where Quakers still worship in silence on Sundays. An episode about displacement and quiet: consolidation, the Taconic Parkway remaking the valley, and the eerie absence where everyone expects a graveyard.
+
+Narrated by Silas Van Wyck.</description>
+      <pubDate>Wed, 07 Oct 2026 00:44:09 GMT</pubDate>
+      <guid isPermaLink="false">289b6387-91c9-4826-a4d7-edd0b4ac8aff</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep002.mp3" length="11290597" type="audio/mpeg" />
+      <itunes:duration>00:23:31</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep002.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep002.txt" type="text/plain" />
+    </item>
+    <item>
+      <title>The Horseman Was Real Enough: Sleepy Hollow's True Story</title>
+      <description>Silas Van Wyck sorts the paperwork in Sleepy Hollow.
+
+Washington Irving invented the Headless Horseman. But the war underneath the story was real: a Hessian decapitation reported by an American general, a British spy stopped near Tarrytown with West Point in his boot, a colonial churchyard from 1685, and a woman named Hulda who became a headstone in 2019 without leaving a documented life. Then, in 1996, the village voted to rename itself after the ghost.
+
+Dead Air Valley covers the Hudson Valley: its history, its legends, and the paperwork underneath both. Stay boring, but keep it bizarre.
+
+Sources and further reading:
+
+Britannica, The Sketch Book: https://www.britannica.com/print/article/547468
+
+Library of Congress, Books That Shaped America: https://www.loc.gov/item/prn-13-005/books-that-shaped-america-on-amazon/2013-01-22/
+
+Smithsonian Magazine, Irving and the yellow fever summer: https://www.smithsonianmag.com/history/what-legend-sleepy-hollow-tells-us-about-contagion-fear-and-epidemics-180953192/
+
+City of White Plains, Battle Hill walking guide: https://www.cityofwhiteplains.com/DocumentCenter/View/2182/Historic-Walking-Loop---Battle-Hill?bidId
+
+New York State Archives, pass found on Major John Andre: https://digitalcollections.archives.nysed.gov/index.php/Detail/objects/10641
+
+Historic Hudson Valley, Old Dutch Church: https://hudsonvalley.org/explore-area/listing/listing/old-dutch-church
+
+Sleepy Hollow Cemetery, famous interments: https://sleepyhollowcemetery.org/about-us/famous-interments/
+
+Sleepy Hollow Country, Hulda the Witch: https://sleepyhollowcountry.com/hulda-the-witch/
+
+Village of Sleepy Hollow NY Forward Strategic Investment Plan (Dec 2023): https://ar.ny.gov/sites/default/files/2024-05/NYF_1_Sleepy_Hollow_Strategic_Investment_Plan.pdf
+
+WAMC, Elizabeth Bradley interview (Oct 24, 2020): https://www.wamc.org/2020-10-24/washington-irvings-headless-horseman-of-sleepy-hollow-turns-200</description>
+      <pubDate>Sun, 04 Oct 2026 20:33:22 GMT</pubDate>
+      <guid isPermaLink="false">6964468b-e91f-43a7-8588-9be8d54450ef</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep001.mp3" length="11632933" type="audio/mpeg" />
+      <itunes:duration>00:24:14</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep001.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep001.txt" type="text/plain" />
+    </item>
+  </channel>
+</rss>
