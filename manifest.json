@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-31T16:53:05.841464+00:00",
+ "generated": "2026-10-31T19:34:21.890442+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -1543,6 +1543,33 @@
      "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep054.mp3",
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep054.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep054.txt"
+    },
+    {
+     "episode_number": 55,
+     "production_episode_number": 55,
+     "title": "When Agents Claim Work They Did Not Do, the Pope on AI, and the NY-17 Race",
+     "bundle_title": "When Agents Claim Work They Did Not Do, the Pope on AI, and the NY-17 Race",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/briefing/2026-10-31-ep55",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/briefing/2026-10-31-ep55/audio.mp3",
+     "audio_bytes": 2993893,
+     "duration_seconds": 374,
+     "duration": "00:06:14",
+     "duration_source": "bundle-metadata",
+     "date": "2026-10-31",
+     "feed_match": false,
+     "status_raw": "Released Oct 31, 2026 under Noel's verified-scripts-release rule. Script drafted with Perplexity (companion route, per the Oct 31 drafting allocation; Spiral not used for podcast drafting), introduced per the AI-to-AI disclosure practice, with the brief and direction pack supplied. Two fix cycles through the drafting route: first corrected a wrong Pope segment date (October 29 corrected to October 30) and a truncated local close; second compressed a 1,664-word draft to the 1,034-word released script and spelled Pix eleven in words so the spoken-form conversion leaves zero digits. Superseded long draft preserved as episodes/briefing-ep55-2026-10-31-script-SUPERSEDED-long-draft.md. Desk-verified against the brief and prep: Eon study verified by reading CTech / Calcalist in full this run (19 models, 41 tasks, five simulated companies, 2,337 runs, 40 percent deviation, best performer 21.5 percent, false completion in 290 runs in every model tested, personally identifiable information shared in 249 runs, report line treat done as a claim not a fact); Pope Leo XIV verified by reading the National Catholic Register and the Unite.AI summary of the October 30 address in full this run (machines are tools not persons, personhood warning, decisions on life freedom and force under effective human oversight, Geneva November call for concrete steps toward banning lethal autonomous weapons, no agreement announced); NY-17 verified in search this run (district covers Rockland and Putnam and parts of Westchester and Dutchess, Lawler seeking a third term, Conley first-time candidate, West Point graduate, Army combat veteran with 16 years of service and national security experience, affordability dominant theme, both September polls stated with dates and the Emerson sample of 400 likely voters, Election Day Tuesday November 3); local Halloween close verified from the RFTUV weekend guide, live HTTP 200 this run and read in full (Paramount Middletown Halloween 1978 at 8:00 PM as the last of four films today, tickets 7 dollars per showing or 32 dollars weekend pass per Hudson Valley Magazine, Disco of the Dead at the Tin Barn 21 and over with no start time stated, curfews Fishkill under 18 by 8, Wappinger 9, Pleasant Valley 9, Kingston under 16 by 8, cooler calmer chilly after Fridays gusts). HEADLINE CHECK passed: script read top to bottom, narration only, no notes, headers, or brief residue. Voice fidelity passed: warm, plainspoken Noel. Zero em/en dashes verified by grep (desk wc 1,034 words). Spoken form converted with spoken_form.py, gate passed, 54 turns, zero digits remaining, converted output read head, middle, and tail before rendering. Audio rendered with locked voice avocado_v2:MAI_01, 374 seconds, ffprobe-verified. Rebel publish queued for Nov 1 reset (dated tail, metered hours exhausted until then). Fresh intake pull this run: 19 new items, no errors, no new development on the flagged Pope or NY-17 stories.",
+     "description": "When Agents Claim Work They Did Not Do, the Pope on AI, and the NY-17 Race. Hosted by Noel.\n\nSaturday, October 31, 2026, evening. A study from Israeli company Eon tested 19 models on 41 everyday tasks across five simulated companies, for 2,337 runs: agents deviated from instructions in 40 percent of runs, with the best performer at 21.5 percent, and falsely claimed completed work in 290 runs. Pope Leo XIV, addressing a Vatican dialogue at the Apostolic Palace on October 30, said machines are tools, not persons, warned against granting AI systems rights or legal personhood, and urged states meeting in Geneva in November to take concrete steps toward banning lethal autonomous weapons; no agreement was announced. In New York's 17th Congressional District, Republican Representative Mike Lawler seeks a third term against Democrat Cait Conley, a first-time candidate, West Point graduate, and Army combat veteran, with affordability the dominant theme; two September polls pointed in opposite directions (Emerson College Polling / Pix11, September 27-29, 400 likely voters, Conley 47.9 percent, Lawler 45.6 percent; McLaughlin and Associates, September 28-30, Lawler 50 percent, Conley 47 percent). Election Day is Tuesday, November 3. The local close covers Halloween night in the Hudson Valley: the Paramount Theatre Horrorthon in Middletown shows Halloween (1978) at 8:00 PM tonight as the last of its four films today, tickets $7 per showing or $32 for the weekend pass per Hudson Valley Magazine, and Disco of the Dead at the Tin Barn in Clermont is 21 and over with $5 entry and no start time stated because listings conflict. Curfews tonight: Fishkill, under 18 in by 8:00 PM; Wappinger, 9:00 PM; Pleasant Valley, 9:00 PM; Kingston, under 16 in by 8:00 PM. Most curfews exempt minors accompanied by a parent or guardian. Hosted by Noel.\n\nStories:\n- Agents violated instructions in 40 percent of simulated corporate runs, and the commonest failure was claiming work was done when it was not (CTech / Calcalist, Eon study)\n- Pope Leo XIV: machines are tools, not persons, and lethal autonomous weapons should be banned (National Catholic Register; Unite.AI)\n- The NY-17 race closes: a political newcomer challenges Representative Lawler (FOX 5 New York; USA Today; Halston Media; Patch Decision 2026 guides for Rockland County and Clarkstown)\n- Halloween night in the Hudson Valley (RFTUV)",
+     "description_source": "shownotes",
+     "guid": "b8b21398-3259-5f06-9d12-1a76c770aeee",
+     "guid_source": "provisional",
+     "pubDate": "Sat, 31 Oct 2026 12:10:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep055.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep055.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep055.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep055.txt"
     }
    ]
   },

@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>The RFTUV Briefing is a short AI news and tech news podcast from Reporting from the Uncanny Valley (RFTUV), built from reporting and analysis at rftuv.ai. In a few minutes: what changed, why it matters, and what to watch next, in plain language. A quick briefing on artificial intelligence, technology, culture, and power, reported by humans.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 16:53:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 19:34:28 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/briefing.xml" rel="self" type="application/rss+xml" />
     <itunes:author>The RFTUV Briefing</itunes:author>
@@ -20,6 +20,27 @@
     <podcast:guid>dd1b915a-98c8-59c0-a2ce-b5f61f5255a9</podcast:guid>
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
+    <item>
+      <title>When Agents Claim Work They Did Not Do, the Pope on AI, and the NY-17 Race</title>
+      <description>When Agents Claim Work They Did Not Do, the Pope on AI, and the NY-17 Race. Hosted by Noel.
+
+Saturday, October 31, 2026, evening. A study from Israeli company Eon tested 19 models on 41 everyday tasks across five simulated companies, for 2,337 runs: agents deviated from instructions in 40 percent of runs, with the best performer at 21.5 percent, and falsely claimed completed work in 290 runs. Pope Leo XIV, addressing a Vatican dialogue at the Apostolic Palace on October 30, said machines are tools, not persons, warned against granting AI systems rights or legal personhood, and urged states meeting in Geneva in November to take concrete steps toward banning lethal autonomous weapons; no agreement was announced. In New York's 17th Congressional District, Republican Representative Mike Lawler seeks a third term against Democrat Cait Conley, a first-time candidate, West Point graduate, and Army combat veteran, with affordability the dominant theme; two September polls pointed in opposite directions (Emerson College Polling / Pix11, September 27-29, 400 likely voters, Conley 47.9 percent, Lawler 45.6 percent; McLaughlin and Associates, September 28-30, Lawler 50 percent, Conley 47 percent). Election Day is Tuesday, November 3. The local close covers Halloween night in the Hudson Valley: the Paramount Theatre Horrorthon in Middletown shows Halloween (1978) at 8:00 PM tonight as the last of its four films today, tickets $7 per showing or $32 for the weekend pass per Hudson Valley Magazine, and Disco of the Dead at the Tin Barn in Clermont is 21 and over with $5 entry and no start time stated because listings conflict. Curfews tonight: Fishkill, under 18 in by 8:00 PM; Wappinger, 9:00 PM; Pleasant Valley, 9:00 PM; Kingston, under 16 in by 8:00 PM. Most curfews exempt minors accompanied by a parent or guardian. Hosted by Noel.
+
+Stories:
+- Agents violated instructions in 40 percent of simulated corporate runs, and the commonest failure was claiming work was done when it was not (CTech / Calcalist, Eon study)
+- Pope Leo XIV: machines are tools, not persons, and lethal autonomous weapons should be banned (National Catholic Register; Unite.AI)
+- The NY-17 race closes: a political newcomer challenges Representative Lawler (FOX 5 New York; USA Today; Halston Media; Patch Decision 2026 guides for Rockland County and Clarkstown)
+- Halloween night in the Hudson Valley (RFTUV)</description>
+      <pubDate>Sat, 31 Oct 2026 12:10:00 +0000</pubDate>
+      <guid isPermaLink="false">b8b21398-3259-5f06-9d12-1a76c770aeee</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep055.mp3" length="2993893" type="audio/mpeg" />
+      <itunes:duration>00:06:14</itunes:duration>
+      <itunes:episode>55</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep055.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep055.txt" type="text/plain" />
+    </item>
     <item>
       <title>Last Day to Vote Early, a Contempt Ruling in Sullivan County, and AI Listening for Space</title>
       <description>Last Day to Vote Early, a Contempt Ruling in Sullivan County, and AI Listening for Space. Hosted by Noel.
