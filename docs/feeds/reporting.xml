@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>Reporting from the Uncanny Valley is a technology and culture podcast hosted by Noel Brown from New York's Hudson Valley. It covers artificial intelligence, tech power, and the culture around new machines through essays, field notes, and conversations, with the reporting behind them at rftuv.ai. Plainspoken and curious, with no hype and no tribal politics. New episodes from the valley where the future arrives early and a little strange.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 14:43:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 16:53:20 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/reporting.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Reporting from the Uncanny Valley</itunes:author>
@@ -21,6 +21,26 @@
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
     <podcast:location>Hudson Valley, New York, USA</podcast:location>
+    <item>
+      <title>Anthropic Opens Its Books: What the First AI Lab S-1 Actually Shows</title>
+      <description>Anthropic Opens Its Books: What the First AI Lab S-1 Actually Shows. Hosted by Noel.
+
+On October 26, 2026, Anthropic, PBC publicly filed Form S-1 with the U.S. Securities and Exchange Commission (CIK 0002130357, registration file No. 333-299633) for a proposed Nasdaq Global Select Market listing of Class A common stock under the symbol ANT, with Goldman Sachs and Morgan Stanley as lead underwriters. The share count and price range are blank in the preliminary filing, and the registration statement was not yet effective, so this is a filing milestone, not the start of trading. The filing reports first-half 2026 revenue of $16.286 billion, up from $4.585 billion for all of 2025 and $41 million in 2023, with second-quarter 2026 operating income of $974 million, the first operating profit in its quarterly table. The first-half net loss of $80.748 billion is stated together with the operating loss of $693 million and positive operating cash flow of $3.929 billion, because a $72.388 billion non-cash fair value charge on convertible notes, derivative liabilities, and SAFEs drives the headline loss. Cash, cash equivalents, and short-term investments at June 30, 2026 were $131.651 billion, and as of September 30, 2026 the company reported more than 11,900 customers at $100,000 or more in trailing twelve-month revenue, more than 1,900 at $1 million or more, and approximately 250 at $10 million or more. The aggregate compute commitment total is blank in the public filing; the filed specifics are at least $110 billion committed to Amazon between May 2026 and April 2036 regardless of usage, up to $120.5 billion to SpaceXAI over terms into 2029, and an estimated $125 billion to $150 billion of additional compute payments the filing says are not in its commitments table. The risk section, beginning on page 26 of a 335-page filing, covers catastrophic and existential risk in the company's own words, a warning that a catastrophic AI incident may exceed insurance capacity, an unresolved dispute with the Department of War told as the filing presents it, and a governance structure in which the Long-Term Benefit Trust holds the single Class T share and elects the board majority, making Anthropic a controlled company whose public buyers will not control the board. Mara Quinn lens throughout: what an S-1 is for, what the blank fields mean, and what a public buyer is being asked to price. Hosted by Noel.
+
+Stories:
+- The money act: the filing basics (October 26, 2026, ANT, Nasdaq Global Select Market, blank price and share count, not yet trading), the revenue curve from 2023 through the second quarter of 2026, compute falling from more than revenue in 2025 to a little over half of revenue in the first half of 2026, the operating loss collapsing to $693 million, the first quarterly operating profit, the $72.388 billion fair value charge behind the headline loss, positive operating cash flow, the cash position, and the customer tiers (Anthropic, PBC Form S-1 on SEC EDGAR)
+- The buildout act: the blank aggregate commitment total as a filed fact, the Amazon commitment of at least $110 billion over ten years regardless of usage, SpaceXAI up to $120.5 billion into 2029, the $125 billion to $150 billion estimated outside the commitments table, the Broadcom lease and Fluidstack arrangements with no figures given, the four chip families and three clouds, and the compute-constrained admission (Anthropic, PBC Form S-1)
+- The risk act: catastrophic and existential risk in the company's own words, the insurance capacity warning, the Department of War dispute presented strictly as the filing presents it, and the Long-Term Benefit Trust governance experiment a Class A buyer is purchasing (Anthropic, PBC Form S-1)</description>
+      <pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">812e901b-c16f-5c80-b940-bd5bbc12d4e7</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-reporting/ep029.mp3" length="8253157" type="audio/mpeg" />
+      <itunes:duration>00:17:12</itunes:duration>
+      <itunes:episode>29</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/reporting/ep029.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/reporting/ep029.txt" type="text/plain" />
+    </item>
     <item>
       <title>The Pause That Exempts Its Biggest Project</title>
       <description>The Pause That Exempts Its Biggest Project. Hosted by Noel.
