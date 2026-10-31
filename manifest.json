@@ -3259,7 +3259,7 @@
      "source": "network-bundle",
      "bundle_folder": "/home/hatch/workspace/podcast-network/archive/dead-air-valley/2026-10-31-the-teeth-under-the-plant",
      "audio_local_path": "/home/hatch/workspace/podcast-network/archive/dead-air-valley/2026-10-31-the-teeth-under-the-plant/audio.mp3",
-     "audio_bytes": 9007909,
+     "audio_bytes": 9009829,
      "duration_seconds": 1126,
      "duration": "00:18:46",
      "duration_source": "bundle-metadata",

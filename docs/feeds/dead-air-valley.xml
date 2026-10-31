@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>Dead Air Valley explores the strange history, local legends, forgotten places, and unsettling stories of the Hudson Valley and the regions around it. From Sleepy Hollow and old river towns to neighboring valleys, back roads, abandoned landmarks, and the people who shaped them, each episode finds something worth bringing back into the light. Hosted by a rotating group of voices, with occasional noir-style narration, Dead Air Valley moves between atmospheric storytelling, local history, conversation, and timely discoveries. Episodes may be short, long, solo, or roundtable, but each begins with one question: what's still waiting in the dead air?</description>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 21:11:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 21:17:35 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/dead-air-valley.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Dead Air Valley</itunes:author>
@@ -35,7 +35,7 @@ Sources:
 - New York State Education Department announcement, December 17, 2024, as reproduced by SUNY Orange.</description>
       <pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
       <guid isPermaLink="false">f701f2d8-c6db-5c79-bfed-6bd407c40758</guid>
-      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep028.mp3" length="9007909" type="audio/mpeg" />
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep028.mp3" length="9009829" type="audio/mpeg" />
       <itunes:duration>00:18:46</itunes:duration>
       <itunes:episode>28</itunes:episode>
       <itunes:season>1</itunes:season>
