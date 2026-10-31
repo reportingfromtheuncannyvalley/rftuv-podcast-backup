@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-31T19:34:21.890442+00:00",
+ "generated": "2026-10-31T21:10:55.614356+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -3250,6 +3250,33 @@
      "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep027.mp3",
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep027.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep027.txt"
+    },
+    {
+     "episode_number": 28,
+     "production_episode_number": 28,
+     "title": "Dead Air Valley: \"The Teeth Under the Plant\"",
+     "bundle_title": "Dead Air Valley: \"The Teeth Under the Plant\"",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/dead-air-valley/2026-10-31-the-teeth-under-the-plant",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/dead-air-valley/2026-10-31-the-teeth-under-the-plant/audio.mp3",
+     "audio_bytes": 9007909,
+     "duration_seconds": 1126,
+     "duration": "00:18:46",
+     "duration_source": "bundle-metadata",
+     "date": "2026-10-31",
+     "feed_match": false,
+     "status_raw": "RELEASED as local + Drive bundle Oct 31, 2026 under Noel's Oct 26 rule; cover.jpg is the show cover fallback, designer episode cover requested and pending, to be replaced in bundle when delivered; Rebel publish queued for Nov 1 reset (remaining leg, with YouTube)",
+     "description": "On Halloween night, Silas Van Wyck tells the story that begins with two large teeth half hidden under a plant near Scotchtown in Orange County in the fall of 2024. A few inches into the topsoil were two more teeth, and a complete mastodon jaw already protruding from the ground, the first complete mastodon jaw recovered in New York State in more than 11 years, according to the New York State Education Department.\n\nThe episode follows the chain from the family to SUNY Orange, where Sugar, the Sugar Loaf mastodon, has stood at the entrance of the Bio-Tech building in Middletown since the 1980s, and on to the New York State Museum. Then it widens: Orange County as the state's premier mastodon hotspot, the Claverack tooth fragment of 1705, the Cohoes Mastodon of 1866, the Hyde Park mastodon recovered from a Dutchess County pond dig in 1999 and 2000, and the Museum of the Earth in Ithaca, which houses Hyde Park and was rescued from foreclosure by community giving in late 2025. It closes with the practical point: if you find a very large tooth or bone in the Hudson Valley, do not keep digging, call the New York State Museum or a local college.\n\nSilas Van Wyck hosts Dead Air Valley from the Hudson Valley.\n\nSources:\n- Mr. Brown, \"Ancient Discovery: Complete Mastodon Jaw Unearthed in Hudson Valley Backyard,\" rftuv.ai, October 30, 2026: https://rftuv.ai/news/ancient-discovery-complete-mastodon-jaw-unearthed-in-hudson-valley-backyard\n- SUNY Orange, \"Original 2024 Discovery\": https://sunyorange.edu/mastodon/original-2024-discovery.html\n- New York State Education Department announcement, December 17, 2024, as reproduced by SUNY Orange.",
+     "description_source": "shownotes",
+     "guid": "f701f2d8-c6db-5c79-bfed-6bd407c40758",
+     "guid_source": "provisional",
+     "pubDate": "Sat, 31 Oct 2026 12:00:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep028.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep028.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep028.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep028.txt"
     }
    ]
   }
