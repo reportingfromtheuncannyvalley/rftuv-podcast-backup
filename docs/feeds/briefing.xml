@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>The RFTUV Briefing is a short AI news and tech news podcast from Reporting from the Uncanny Valley (RFTUV), built from reporting and analysis at rftuv.ai. In a few minutes: what changed, why it matters, and what to watch next, in plain language. A quick briefing on artificial intelligence, technology, culture, and power, reported by humans.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 21:17:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 15:32:45 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/briefing.xml" rel="self" type="application/rss+xml" />
     <itunes:author>The RFTUV Briefing</itunes:author>
@@ -20,6 +20,27 @@
     <podcast:guid>dd1b915a-98c8-59c0-a2ce-b5f61f5255a9</podcast:guid>
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
+    <item>
+      <title>Red Hook Eats New York, Flock Cameras Face a Cover Deadline, and a Pipeline Sentence</title>
+      <description>Red Hook Eats New York, Flock Cameras Face a Cover Deadline, and a Pipeline Sentence. Hosted by Noel.
+
+Sunday, November 1, 2026, midday. Red Hook Central School District begins New York November today, its third year of sourcing every fruit, vegetable, and protein on school lunch trays from New York producers, several in the Hudson Valley, run by Food Service Director Sam Pride. The month's landmarks: a November 5 kickoff menu designed by Culinary Institute of America (Hyde Park) students, New York Pizza Palooza every Friday, a first in-house pork roast on November 19, and a Thanksgiving meal on November 24. The state reimburses 25 cents per meal at the 30 percent New York-sourcing threshold, up from 5.9 cents, and a 2025 Comptroller audit found only 73 of nearly 762 eligible authorities outside New York City participated in 2024-25. In Dutchess County, La Voce di New York reported October 31 that Flock cameras are still up despite the pledge to remove them in 30 days; the county's 65 cameras were deactivated September 25, the county attorney demanded removal by October 30, and Resolution No. 2026160 requires any county camera still installed on November 1 to be covered with opaque, non-damaging material until removed. The resolution covers only the county's 65 cameras, not the 372 other license plate readers in the county on private, state, or municipal roads. And Michael Vasconcellos, 45, of Mahopac, was sentenced October 29 in White Plains federal court to 30 months in prison, three years of supervised release, and over $64 million in restitution after pleading guilty to conspiring to commit wire fraud: from 2016 to 2023 he and Liam Treibert fabricated radiographic inspections of hundreds of natural gas pipeline welds in New York City and Westchester County for Con Edison, a fraud that has cost over $64 million in remediation; Treibert's case is still pending. The local close covers Dutchess County's new 24/7 animal cruelty hotline, live today at (845) 867-5055 for non-emergency reports (call 911 for an emergency involving an animal), and the last day of early voting in Dutchess County, today until 5:00 PM at seven sites (Pavilion at Brookmeade, Rhinebeck; Fishkill Town Hall; Boardman Road Library, Poughkeepsie; Cornell Cooperative Extension, Millbrook; Mid-Hudson Library Auditorium, 105 Market Street, Poughkeepsie; Board of Elections Training Center, Hyde Park; Wappinger Town Hall), with the GOTV rally at the Bardavon, 35 Market Street, Poughkeepsie, tonight, doors 5:00 PM, program 6:00 to 8:00 PM. Election Day is Tuesday, November 3. Hosted by Noel.
+
+Stories:
+- Red Hook schools begin New York November, for the third year running (RFTUV)
+- Flock cameras and the November 1 cover deadline in Dutchess County (La Voce di New York; RFTUV)
+- Pipeline inspector Michael Vasconcellos sentenced for fabricated weld inspections (U.S. Attorney, Southern District of New York; Rockland/Westchester Journal News)
+- Animal cruelty hotline's first day, and the last day of early voting (RFTUV)</description>
+      <pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">23882bc8-f22d-51b4-8358-753b52b2fd12</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep056.mp3" length="2918245" type="audio/mpeg" />
+      <itunes:duration>00:06:05</itunes:duration>
+      <itunes:episode>56</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep056.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep056.txt" type="text/plain" />
+    </item>
     <item>
       <title>When Agents Claim Work They Did Not Do, the Pope on AI, and the NY-17 Race</title>
       <description>When Agents Claim Work They Did Not Do, the Pope on AI, and the NY-17 Race. Hosted by Noel.
