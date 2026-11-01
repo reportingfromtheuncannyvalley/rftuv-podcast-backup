@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>The RFTUV Briefing is a short AI news and tech news podcast from Reporting from the Uncanny Valley (RFTUV), built from reporting and analysis at rftuv.ai. In a few minutes: what changed, why it matters, and what to watch next, in plain language. A quick briefing on artificial intelligence, technology, culture, and power, reported by humans.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Nov 2026 17:24:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 20:27:39 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/briefing.xml" rel="self" type="application/rss+xml" />
     <itunes:author>The RFTUV Briefing</itunes:author>
@@ -20,6 +20,27 @@
     <podcast:guid>dd1b915a-98c8-59c0-a2ce-b5f61f5255a9</podcast:guid>
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
+    <item>
+      <title>The Binance Heist, Who Pays When Agents Read, and Three Peekskill Arrests</title>
+      <description>The Binance Heist, Who Pays When Agents Read, and Three Peekskill Arrests. Hosted by Noel.
+
+Sunday, November 1, 2026, evening. More than $6 billion in virtual assets was stolen from Binance, the world's largest crypto exchange, on Thursday, October 29; the New York Post estimates $6.3 billion, the largest crypto heist in history, taken in about 20 minutes through multiple breach points including an engineer's computer. The FBI said Saturday that North Korea was responsible and that the group TraderTraitor carried out the theft, the same group blamed for the $1.5 billion Bybit theft in February 2025; the bureau says the actors are converting the assets into Ethereum and urges companies to block transactions tied to the laundering addresses. President Trump cast doubt on North Korea's involvement on Saturday. Binance has set aside more than $6.34 billion in company funds, says it will fully cover the impact, and had replenished 90 percent of the stolen funds by Saturday; withdrawals, suspended after the attack, resumed in phases on Sunday, with $4.65 billion withdrawn and $1.01 billion deposited by mid-afternoon GMT. The Post's "Black October" framing, a month of AI-enhanced hacking, is carried as that paper's reporting and its experts' concern; the FBI has not said AI carried out this theft. In Forbes, Aaron Stanley asks who pays when AI agents read content online: video platforms and ad-supported publishers earn from human attention an agent never gives them, Rumble's Glenn Rothwell says agents could come to account for most of Rumble's consumption, and Tempo and Stripe's Machine Payments Protocol would let agents pay per use, by card or stablecoin, with bar-tab style sessions settling sub-cent charges; the author notes this solves collection, not valuation, not the author's share, and not the risk to subscriptions. In Peekskill, Westchester County Police say Omar Travis, 59, Rodney Jones, 57, and Kristopher Gaffney, 57, were arrested Thursday after a search at a home on Highland Avenue ended a three-month investigation into suspected narcotics activity at the Dunbar Heights complex; police say the search found six ounces of cocaine, 34 grams of oxycodone, multiple rounds of ammunition, and drug paraphernalia, with no firearm reported found. Travis and Jones are each charged with second-degree and third-degree criminal possession of a controlled substance; Gaffney is charged with tampering with physical evidence. The charges are accusations, not convictions, and no arraignment information has been published. The local close covers the Hudson Valley Renegades and Heritage Financial Credit Union fourth annual Veterans Day Food Drive, collecting non-perishable food through November 11 for the Castle Point VA Medical Center in Wappingers Falls, with drop-offs at Heritage Financial Park, 1500 NY-9D, Wappingers Falls, and the Heritage Financial Credit Union branch at 1476 NY-9D, Wappingers Falls; Dutchess County's animal cruelty hotline, live today around the clock at (845) 867-5055 for non-emergency reports (call 911 for an emergency involving an animal); and the end of early voting in Dutchess County today, with Election Day on Tuesday, November 3. Hosted by Noel.
+
+Stories:
+- The Binance theft is confirmed, and withdrawals have resumed (AFP via TechXplore; New York Post; FBI statement as quoted by AFP)
+- When AI agents read content online, who pays? (Forbes)
+- Three Peekskill men arrested after a three-month narcotics investigation (News 12 Hudson Valley)
+- A food drive for veterans, a hotline's first day, and the polls ahead (Hudson Valley Renegades; RFTUV)</description>
+      <pubDate>Sun, 01 Nov 2026 12:10:00 +0000</pubDate>
+      <guid isPermaLink="false">eab8d66f-eb1a-5f08-b7bf-23d150f189d3</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep057.mp3" length="2976421" type="audio/mpeg" />
+      <itunes:duration>00:06:12</itunes:duration>
+      <itunes:episode>57</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep057.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep057.txt" type="text/plain" />
+    </item>
     <item>
       <title>Red Hook Eats New York, Flock Cameras Face a Cover Deadline, and a Pipeline Sentence</title>
       <description>Red Hook Eats New York, Flock Cameras Face a Cover Deadline, and a Pipeline Sentence. Hosted by Noel.

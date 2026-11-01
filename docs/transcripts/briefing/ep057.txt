@@ -1,0 +1,75 @@
+Good evening. It is Sunday, November 1, 2026. This is The RFTUV Briefing. I'm Noel.
+
+Tonight, withdrawals have resumed at Binance after a theft of more than six billion dollars. The FBI has named North Korea as responsible. Then, a question for publishers: when an AI agent reads or watches something for you, who pays for it? And in Peekskill, three men face charges after a three-month narcotics investigation.
+
+We begin with Binance, the world's largest cryptocurrency exchange.
+
+More than six billion dollars in virtual assets was stolen on Thursday, October twenty-ninth. The New York Post estimates the loss at six point three billion dollars and describes it as the largest crypto heist in history. Its account says the theft took about twenty minutes, through multiple breach points, including an engineer's computer.
+
+According to an AFP report, the FBI said Saturday that North Korea was responsible and identified the group TraderTraitor as carrying out the theft. That is the same group blamed for stealing one point five billion dollars from Bybit in February of last year.
+
+The bureau says the actors have been converting stolen assets into Ethereum. It is urging companies to block transactions connected to the addresses being used to move the money.
+
+President Trump cast doubt on North Korea's involvement Saturday, saying, "We don't know if it's North Korea."
+
+Binance says it has set aside more than six point three four billion dollars in company funds and will fully cover the financial impact. By Saturday, it had bought tokens to replenish ninety percent of the stolen funds. The remaining ten percent involves less liquid tokens, which may take longer to source.
+
+Withdrawals were suspended after the attack. They resumed in phases today. By mid-afternoon Greenwich Mean Time, Binance had processed four point six five billion dollars in withdrawals and one point zero one billion dollars in deposits.
+
+There is also an AI angle here, but it needs a clear boundary.
+
+The Post calls October "Black October," describing a month of AI-enhanced hacking. Experts quoted by the paper warn that AI tools have lowered the skill barrier for attackers and that traditional banks are exposed.
+
+That is the Post's framing and its experts' concern. The FBI has not said AI carried out the Binance theft.
+
+The exchange is using its own money to cover the loss. Whether other institutions could absorb a theft on that scale is a separate question.
+
+Now, from money stolen to money collected, and a different problem for the online economy.
+
+Video platforms and advertising-supported publishers make money from human attention. But an agent can retrieve and summarize content without its user ever visiting the page. The publisher supplies the material and may receive no advertising revenue.
+
+Writing in Forbes, Aaron Stanley describes how that could change the business of publishing.
+
+On Stabledash Live on October twenty-ninth, Rumble's Glenn Rothwell said agents searching for and consuming videos on people's behalf could eventually account for most of Rumble's content consumption. That could flip its advertising model on its head.
+
+The proposed answer is to sell access itself, one use at a time.
+
+Brendan Ryan, an engineer at the payments blockchain Tempo, described the Machine Payments Protocol, built by Tempo with Stripe.
+
+Here is the basic exchange. An agent requests something. The service replies with a payment request. The agent authorizes payment and receives the resource.
+
+It supports cards and stablecoins, so the customer does not have to hold cryptocurrency.
+
+Ryan described it as "the Stripe payment form collapsed into a machine readable protocol."
+
+His example involved an agent buying an AI response through OpenRouter without first creating an account. The same pattern could let an agent buy an article or recording while researching, provided the publisher offers it and the agent has permission and a budget.
+
+Tiny payments create their own problem: collecting each one can cost more than the purchase.
+
+So sessions work like a bar tab. The buyer deposits funds, sends signed payment vouchers as it uses the service, and settles the total with the final voucher. That allows charges of less than a cent without separately settling every use.
+
+Stanley's caveats matter. This solves collection, not valuation. It does not establish what an article is worth to an agent, or how much of the payment reaches its author. And while individual purchases could attract people who would never subscribe, publishers must weigh that against subscribers switching to buying only what they need.
+
+A payment mechanism answers how the bill gets paid. It does not settle the price, the author's share, or the effect on subscriptions.
+
+Closer to home, Westchester County Police say three Peekskill men were arrested Thursday after a search at a home on Highland Avenue.
+
+According to Katie Nedder's reporting for News Twelve Hudson Valley, police say the arrests followed a three-month investigation into suspected narcotics activity at the Dunbar Heights complex.
+
+The men are Omar Travis, fifty-nine; Rodney Jones, fifty-seven; and Kristopher Gaffney, fifty-seven.
+
+Police say the search found six ounces of cocaine, thirty-four grams of oxycodone, multiple rounds of ammunition, and drug paraphernalia. No firearm was reported found.
+
+Travis and Jones are each charged with second-degree and third-degree criminal possession of a controlled substance. Gaffney is charged with tampering with physical evidence.
+
+These are accusations, not convictions. All three are presumed innocent. The report provides no arraignment or court information and does not say whether the investigation continues.
+
+Before we go, a few local practicals, with details in the show notes.
+
+The Hudson Valley Renegades and Heritage Financial Credit Union are holding their fourth annual Veterans Day Food Drive through November eleventh. Non-perishable food goes to the Castle Point VA Medical Center in Wappingers Falls. Drop-offs are at Heritage Financial Park or the credit union branch next door, both on Route Nine D in Wappingers Falls.
+
+Dutchess County's animal cruelty hotline began operating today, as reported in June Mercer's blotter at RFTUV dot AI. For non-emergency reports, it operates around the clock at eight four five, eight six seven, five zero five five. For an emergency involving an animal, call nine one one.
+
+Early voting in Dutchess County ended at five this afternoon. There is no early voting tomorrow. Election Day is Tuesday, November third.
+
+That's our Sunday evening briefing. I'm Noel. Thank you for spending part of your evening with me.
