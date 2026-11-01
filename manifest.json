@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-01T20:27:27.629631+00:00",
+ "generated": "2026-11-01T21:36:36.478869+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -3358,6 +3358,33 @@
      "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep028.mp3",
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep028.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep028.txt"
+    },
+    {
+     "episode_number": 29,
+     "production_episode_number": 29,
+     "title": "Dead Air Valley: \"The Hell Chicken That Ate Fruit\"",
+     "bundle_title": "Dead Air Valley: \"The Hell Chicken That Ate Fruit\"",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/dead-air-valley/2026-11-01-hell-chicken",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/dead-air-valley/2026-11-01-hell-chicken/audio.mp3",
+     "audio_bytes": 9525925,
+     "duration_seconds": 1191,
+     "duration": "00:19:51",
+     "duration_source": "bundle-metadata",
+     "date": "2026-11-01",
+     "feed_match": false,
+     "status_raw": "RELEASED as local + Drive bundle Nov 1, 2026 under Noel's Oct 26 rule; cover.jpg is the show cover fallback, designer episode cover requested and pending, to be replaced in bundle when delivered; Rebel publish not performed in this run (November Rebel allowance is Noel's pending decision per rebel-plan-status-inquiry-2026-11-01.md: 60 minutes total for Nov 1 to Dec 1, daily production alone would exhaust it in about two days)",
+     "description": "The day after Halloween, Silas Van Wyck takes up a name that promises menace and delivers a fruit diet. Infernogallus jamesi, described by a team led by Stony Brook University paleontologist Gregory Funston, with the Royal Ontario Museum and the North Dakota Geological Survey, is reported as the first known dinosaur specialized for eating fruit. The paper appeared in Nature Communications and the discovery was announced on October 28, 2026.\n\nThe animal was a small oviraptorosaur and caenagnathid, turkey-sized at about twenty-five pounds, toothless and beaked, living about sixty-six million years ago in a subtropical coastal floodplain in the Hell Creek Formation alongside Tyrannosaurus, Triceratops, and Ankylosaurus. With no preserved last meal, the case rests on the machinery of the mouth: CT scans show palatal bones arched downward, chewing muscles running front to back, a mobile sliding jaw joint, and ridges and grooves on the beak, a combination the researchers compare in part to fruit-eating parrots today. The episode follows that anatomy, the meat-eating lineage it came from, the rise of flowering plants and bigger fruit, and the seed-dispersal role the authors propose, with lead author Funston's own caution that more evidence is needed before that link is drawn confidently. The skull and partial skeleton are on display at the Royal Ontario Museum in Toronto. This is not a Hudson Valley find; the New York connection is the Stony Brook research team, and the episode says so plainly.\n\nSilas Van Wyck hosts Dead Air Valley from the Hudson Valley.\n\nSources:\n- Stony Brook University, \"Stony Brook Dinosaur Discovery Reveals a Specialized Fruit Eater,\" October 28, 2026: https://news.stonybrook.edu/university/stony-brook-paleontologist-dinosaur-discovery-reveals-a-specialized-fruit-eater/\n- Royal Ontario Museum, \"Rare fossil discovery reveals new dinosaur species that were specialized fruit-eaters,\" October 28, 2026: https://www.rom.on.ca/news-releases/rare-fossil-discovery-reveals-new-dinosaur-species-were-specialized-fruit-eaters\n- Reuters, Will Dunham, \"Strange beaked 'hell chicken' is the first fruit-eating dinosaur,\" October 30, 2026.\n- Funston et al., \"Fruit-eating adaptations in a Late Cretaceous oviraptorosaur (Theropoda),\" Nature Communications, DOI 10.1038/s41467-026-78343-w.\n- News 12 Hudson Valley, \"Stony Brook Led Team Discovers First Known Fruit Eating Dinosaur Nicknamed Hell Chicken,\" October 31, 2026 (prep lead).",
+     "description_source": "shownotes",
+     "guid": "5c0ef1a3-34e8-5dc4-b3c4-cd0d6116aef3",
+     "guid_source": "provisional",
+     "pubDate": "Sun, 01 Nov 2026 12:00:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep029.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep029.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep029.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep029.txt"
     }
    ]
   }

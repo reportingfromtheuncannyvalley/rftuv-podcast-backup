@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>Dead Air Valley explores the strange history, local legends, forgotten places, and unsettling stories of the Hudson Valley and the regions around it. From Sleepy Hollow and old river towns to neighboring valleys, back roads, abandoned landmarks, and the people who shaped them, each episode finds something worth bringing back into the light. Hosted by a rotating group of voices, with occasional noir-style narration, Dead Air Valley moves between atmospheric storytelling, local history, conversation, and timely discoveries. Episodes may be short, long, solo, or roundtable, but each begins with one question: what's still waiting in the dead air?</description>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Nov 2026 20:27:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 21:36:50 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/dead-air-valley.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Dead Air Valley</itunes:author>
@@ -21,6 +21,30 @@
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
     <podcast:location>Hudson Valley, New York, USA</podcast:location>
+    <item>
+      <title>Dead Air Valley: "The Hell Chicken That Ate Fruit"</title>
+      <description>The day after Halloween, Silas Van Wyck takes up a name that promises menace and delivers a fruit diet. Infernogallus jamesi, described by a team led by Stony Brook University paleontologist Gregory Funston, with the Royal Ontario Museum and the North Dakota Geological Survey, is reported as the first known dinosaur specialized for eating fruit. The paper appeared in Nature Communications and the discovery was announced on October 28, 2026.
+
+The animal was a small oviraptorosaur and caenagnathid, turkey-sized at about twenty-five pounds, toothless and beaked, living about sixty-six million years ago in a subtropical coastal floodplain in the Hell Creek Formation alongside Tyrannosaurus, Triceratops, and Ankylosaurus. With no preserved last meal, the case rests on the machinery of the mouth: CT scans show palatal bones arched downward, chewing muscles running front to back, a mobile sliding jaw joint, and ridges and grooves on the beak, a combination the researchers compare in part to fruit-eating parrots today. The episode follows that anatomy, the meat-eating lineage it came from, the rise of flowering plants and bigger fruit, and the seed-dispersal role the authors propose, with lead author Funston's own caution that more evidence is needed before that link is drawn confidently. The skull and partial skeleton are on display at the Royal Ontario Museum in Toronto. This is not a Hudson Valley find; the New York connection is the Stony Brook research team, and the episode says so plainly.
+
+Silas Van Wyck hosts Dead Air Valley from the Hudson Valley.
+
+Sources:
+- Stony Brook University, "Stony Brook Dinosaur Discovery Reveals a Specialized Fruit Eater," October 28, 2026: https://news.stonybrook.edu/university/stony-brook-paleontologist-dinosaur-discovery-reveals-a-specialized-fruit-eater/
+- Royal Ontario Museum, "Rare fossil discovery reveals new dinosaur species that were specialized fruit-eaters," October 28, 2026: https://www.rom.on.ca/news-releases/rare-fossil-discovery-reveals-new-dinosaur-species-were-specialized-fruit-eaters
+- Reuters, Will Dunham, "Strange beaked 'hell chicken' is the first fruit-eating dinosaur," October 30, 2026.
+- Funston et al., "Fruit-eating adaptations in a Late Cretaceous oviraptorosaur (Theropoda)," Nature Communications, DOI 10.1038/s41467-026-78343-w.
+- News 12 Hudson Valley, "Stony Brook Led Team Discovers First Known Fruit Eating Dinosaur Nicknamed Hell Chicken," October 31, 2026 (prep lead).</description>
+      <pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">5c0ef1a3-34e8-5dc4-b3c4-cd0d6116aef3</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep029.mp3" length="9525925" type="audio/mpeg" />
+      <itunes:duration>00:19:51</itunes:duration>
+      <itunes:episode>29</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep029.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep029.txt" type="text/plain" />
+    </item>
     <item>
       <title>Dead Air Valley: "The Teeth Under the Plant"</title>
       <description>On Halloween night, Silas Van Wyck tells the story that begins with two large teeth half hidden under a plant near Scotchtown in Orange County in the fall of 2024. A few inches into the topsoil were two more teeth, and a complete mastodon jaw already protruding from the ground, the first complete mastodon jaw recovered in New York State in more than 11 years, according to the New York State Education Department.
