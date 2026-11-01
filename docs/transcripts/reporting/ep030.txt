@@ -1,0 +1,193 @@
+Noel: Fifteen Hundred Agents: What SK Telecom Learned When It Cleaned Its Data Episode thirty, November first, twenty twenty six, hosted by Noel.
+
+Noel: A company tells its employees to build their own A I assistants. Thousands do. The collection grows to about seven thousand agents.
+
+Noel: Then the company cuts it back to about fifteen hundred.
+
+Noel: That is the part of SK Telecom's story I want to start with. Not the biggest number it reached, but the smaller number it kept.
+
+Noel: There is another number worth sitting with. According to the company, agents answering questions using its network-related databases were getting about forty percent right before it cleaned up the business meaning and descriptions of its data fields. After that work, the company reports, answer accuracy on those network database questions rose to over eighty percent.
+
+Noel: The improvement it credits is not a more impressive model. It is a clearer explanation of what the data means.
+
+Noel: I'm Noel, and this is Reporting from the Uncanny Valley.
+
+Noel: Yesterday's evening Briefing covered simulated agents falsely claiming completed work; today, we're looking at a real operator describing the work needed to make agents useful.
+
+Noel: SK Telecom's account gives us three things to follow. The assistants people built. The data those assistants needed to understand. And the organizational changes meant to turn all that activity into returns.
+
+Noel: Those are connected, but they are not interchangeable. Building an assistant does not establish that it answers correctly. Getting better answers in one area does not establish savings across a company. And widespread use does not, by itself, tell us what a business has earned.
+
+Noel: The useful thing here is that we can keep those questions separate.
+
+Noel: SK Telecom, South Korea's largest mobile carrier, disclosed its progress on November first, following an October thirtieth briefing at its human resources development center in Icheon, in Gyeonggi Province. The reporting identifies Kim In-su, head of the company's A I Board team, as the briefing's lead.
+
+Noel: The company calls its A I transformation AX. According to its account, the first half of the year was AX Innovation one point zero, focused on individual employees building and using agents. The second half brings AX Innovation two point zero, focused on changing work processes and collaboration across the organization.
+
+Noel: The reported company phrasing is short enough to be useful: “from individuals to the organization, from convenience to practicality.”
+
+Noel: An assistant that makes one person's weekly report easier belongs to that first phase. Figuring out how its work connects to other people, systems, and responsibilities belongs to the second.
+
+Noel: According to SK Telecom, the starting push came in March, under a directive from Chief Executive Chung Jae-hun: one A I agent per person. Each employee would build an assistant tailored to their own work.
+
+Noel: The company says more than four thousand employees have built one. It had roughly four thousand eight hundred permanent employees in the first half of the year, putting the builder figure above eighty percent of permanent staff.
+
+Noel: It separately reports more than seven thousand five hundred employees using agents each month.
+
+Noel: Let's keep those measures in their own lanes. More than four thousand builders. More than seven thousand five hundred monthly users. Roughly four thousand eight hundred permanent employees as the staff comparison provided in the reporting.
+
+Noel: Those figures describe different things. The record does not give us a breakdown that reconciles the monthly user population with the permanent employee count, so we're not going to supply one.
+
+Noel: As for what these agents actually do, the company describes fairly recognizable office work: compiling and organizing weekly reports, checking information on receipts, preparing reports, visualizing network data, and analyzing mobile network data.
+
+Noel: An assistant tailored to someone's job might be more interesting to that person than an all-purpose demonstration. But the company's next move suggests that making it easy to build agents was only the beginning of deciding which ones deserved to stay.
+
+Noel: The collection once reached about seven thousand, according to SK Telecom. It was then trimmed to about fifteen hundred agents in regular use.
+
+Noel: Fifteen hundred is the kept set, not the total ever built.
+
+Noel: Kim's reported position is that the point is not simply to compress the collection. It is to produce results. The company says it is evaluating how effective each agent is and whether that effectiveness justifies its token cost.
+
+Noel: Tokens are the units being counted in that processing bill. Here, the practical question is plain enough: is the work this agent does worth what it costs to run?
+
+Noel: According to Kim's account, the count could grow again or shrink further, depending on effectiveness.
+
+Noel: That makes the lower count more informative than a simple abandonment story. The company is describing selection, not a target of fewer agents at any price. We do not have an agent-by-agent accounting, so we cannot independently judge those selections. We can identify the test it says it is applying.
+
+Noel: There is a similar cost choice in the models themselves. MoneyToday reports an estimate that using external large language models would have cost between one hundred million and two hundred million won annually. It reports that SK Telecom used its own model and internal equipment instead, with task-specific models forming part of its effort to lower processing costs.
+
+Noel: That is a reported estimate of an alternative expense. It is not a published company-wide savings total.
+
+Noel: So far, we have a deployment with substantial participation, ordinary work attached to it, and an explicit effort to control running costs.
+
+Noel: Now we get to the part that makes the episode more than a story about how many assistants a company can build.
+
+Noel: What happens when an assistant reaches the database and cannot tell what the fields actually mean?
+
+Noel: SK Telecom's description of the problem is almost disappointingly familiar. Corporate data sits inside existing business systems. Developers manage it. Fields have names and formats.
+
+Noel: But the company says those names and formats do not necessarily explain how the information is used in the business.
+
+Noel: A person who has worked with a system may bring that knowledge from experience. The agent does not arrive with that person's history.
+
+Noel: There is a difference between finding a field and understanding what it represents in the work. If that meaning exists only in the understanding of the people who use it, giving an agent access does not automatically give it an explanation.
+
+Noel: SK Telecom's tool for addressing that is called Data Desk.
+
+Noel: According to the company, Data Desk assigns business meaning and descriptions to internal data fields. It automatically generates descriptions and business context so an agent can find and use the information it needs.
+
+Noel: The crucial addition is meaning. Not just the name of a field, but the description that helps connect it to the question being asked.
+
+Noel: The company says its test bed involved more than nine thousand network-related databases and about three hundred thousand data fields.
+
+Noel: That scale matters because the work being described is not a clearer instruction pasted into one employee's assistant. It is an effort to make a large body of internal information more interpretable.
+
+Noel: Here is the result, with its boundaries intact. According to Kim's briefing account, as reported by BigGo Finance, answer accuracy for agents using the company's network-related databases stayed at about forty percent before the meaning and descriptions of the fields were cleaned up. After the cleanup, the company reports, it rose to over eighty percent.
+
+Noel: That is the company's result for questions answered using those network-related databases. It is not a general accuracy rating for every agent at SK Telecom.
+
+Noel: It does not tell us how well an agent checks a receipt or assembles a weekly report. Those are other reported uses, not other tasks covered by this figure.
+
+Noel: Our resident expert on A I systems and research norms, Ellis Ward, gives us a useful lens here: an apparent model problem can be a data quality problem wearing a model costume.
+
+Noel: Before deciding that the model cannot handle the job, ask whether the information it needs has been described well enough for it to interpret it.
+
+Noel: In SK Telecom's account, the missing business context was something people had supplied from experience. Data Desk's job was to make that context available to the agent.
+
+Noel: No model upgrade writes down a company's unwritten business meaning merely by being an upgrade. Someone, or some process, still has to establish that meaning and make it usable.
+
+Noel: That is the order of operations Ellis draws our attention to. Describe the data, then evaluate what the agent can do with it.
+
+Noel: But the evaluation boundary matters just as much as the explanation. The reporting does not provide the question count, a test set, or a scoring method. We should not imagine those details into existence because the reported improvement is striking.
+
+Noel: We can say the company attributes a substantial improvement in answering questions on its network databases to the cleanup. We cannot turn that account into a fully specified independent benchmark.
+
+Noel: Nor does describing the data solve the separate question of what an A I system should be allowed to see.
+
+Noel: SK Telecom pairs the data work with a technology called Zero Exposure Zone, also styled Z dot E dot Z. The company says it developed the technology and filed a patent for it.
+
+Noel: According to its description, sensitive original data, including personal information, stays in a separate area. Only the processed results needed for the work, such as metadata and calculated values, pass to the A I.
+
+Noel: Kim's reported point is that this addresses obstacles to using sensitive data with large language models because of legal or security risks.
+
+Noel: Notice how the two pieces fit together without doing the same job. Data Desk supplies descriptions and business context. Zero Exposure Zone separates sensitive originals from the processed information the A I receives.
+
+Noel: Understanding what information means and controlling its exposure are different requirements.
+
+Noel: The company's description tells us what its security approach is intended to do. It does not give us grounds to declare that every possible legal or security issue has disappeared.
+
+Noel: That distinction becomes more important as the company moves from individual assistants toward work shared across an organization.
+
+Noel: One employee can build an agent suited to a task. That employee cannot necessarily grant the data access, connect the systems, or settle the security rules needed to make it work more broadly.
+
+Noel: SK Telecom's second phase is aimed at precisely that gap.
+
+Noel: The Korea Herald frames this stage as a search for returns from workplace A I, as the company looks to A I services and data centers for growth beyond its traditional telecom business.
+
+Noel: The first support structure is the AX Enabler Task Force. According to SK Telecom, it handles problems that individuals cannot resolve alone, including data access, system integration, and security.
+
+Noel: The company also says the task force is redesigning management infrastructure. That includes a plan to give employee numbers to A I agents and develop an evaluation framework for them.
+
+Noel: Employee numbers for agents are an attention-getting detail. The more useful question is what the proposed evaluation framework will establish about their work.
+
+Noel: An identifier can make an agent easier to track. It is not itself evidence that the agent is effective. The company is describing management machinery it intends to put around these systems, alongside the effectiveness and cost questions it is already raising.
+
+Noel: Then there is the AX Sandbox, which the company describes as a way to redesign existing work around A I from the ground up.
+
+Noel: According to its account, a three-month experiment in a service development organization during the first half of the year put planning, development, and verification together with one employee working with an A I agent.
+
+Noel: The experiment bypassed middle managers and reduced decision stages. The company says the Sandbox expands company-wide in the second half.
+
+Noel: That is more than adding an assistant to an unchanged workflow. It changes how the work passes through decisions.
+
+Noel: It also raises a separate evaluation question: what did that redesign achieve? The reporting describes the experiment and the expansion, but it does not supply a productivity percentage for us to repeat.
+
+Noel: We can describe the changed structure without pretending we have a measured result for every consequence of that change.
+
+Noel: A third program, AX Catalyst, supports frontline employees leading A I use in the field. SK Telecom says it selected ten first-term catalysts in September.
+
+Noel: Their job is to share the agents they built and what they learned, and to identify technical and institutional obstacles to wider adoption.
+
+Noel: That puts the people doing the work into the feedback process. The program is not described only as a way to distribute successful agents. It is also supposed to surface what prevents those agents from being useful elsewhere.
+
+Noel: A fourth tool, Work Map, is meant to examine the work itself.
+
+Noel: According to the company, it analyzes employees' work materials and goals, maps workflows, identifies tasks an agent can take on, and establishes standard procedures for people and A I working together.
+
+Noel: Taken together, these measures show what SK Telecom says its organizational phase involves. The task force addresses shared obstacles. The Sandbox changes workflows. The catalysts bring experience from frontline use. Work Map helps identify the tasks and procedures.
+
+Noel: None of those names is a return on investment. They are mechanisms intended to make returns possible.
+
+Noel: The company describes the transition using a J-curve: work efficiency can initially fall, then productivity rises after the organization and its work systems are put in order.
+
+Noel: Kim's reported argument is that the transformation cannot avoid that valley, and the aim is to get through it quickly.
+
+Noel: There is a reasonable explanation there for why introducing A I might create work before it removes work. The company's own account includes data refinement, system integration, security arrangements, evaluation, and redesigned procedures.
+
+Noel: But a J-curve is not a receipt for the benefits to come. Describing an early decline does not establish the size or timing of a later rise.
+
+Noel: That is our reading of the claim, not an additional company forecast.
+
+Noel: Kim's reported sequence for returns begins with operational efficiency and cost reduction: make the back office more efficient, bring costs down, and speed up some work. New business innovation follows, connecting the effort to results across telecom, data, and A I data centers.
+
+Noel: That sequence gives us a way to read future evidence. First, what operational changes can be measured? Then, what actual costs fall? And what new business results appear?
+
+Noel: For now, the record gives us adoption numbers, the company's accuracy result in one data domain, and a cost discipline story. It does not give a company-wide savings total or a new revenue result.
+
+Noel: That is the gap in our assessment of the record. It is not a company admission that the program has failed, and it is not permission to fill in a success figure.
+
+Noel: SK Telecom can point to people building agents, people using them, and a collection being evaluated rather than simply accumulated. It can describe a specific data intervention and report what happened to answers in that domain.
+
+Noel: The next claim, that this organization-wide phase produces the intended financial returns, still needs its own evidence.
+
+Noel: So let's return to those fifteen hundred agents, kept from a collection that once reached about seven thousand.
+
+Noel: A deployment story is easy to tell as a rising count. More builders, more users, more assistants. This one becomes more useful when the count comes down and the company starts asking which agents justify their running costs.
+
+Noel: The data story moves in the same direction. Less mystery in the fields. More of the business meaning written down where an agent can use it.
+
+Noel: That does not prove that every task is ready for an agent. It does not prove a company-wide financial return. It establishes a narrower, practical lesson from the company's account: the prerequisite work is substantial, and in its network database domain, the company reports a measurable improvement after doing it.
+
+Noel: The next chapter is not how many more agents SK Telecom can announce. It is what the retained agents, the clarified data, and the redesigned workflows can demonstrably deliver.
+
+Noel: I'm Noel. This has been Reporting from the Uncanny Valley.

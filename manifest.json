@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-01T15:32:35.090896+00:00",
+ "generated": "2026-11-01T17:24:16.450122+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -2452,6 +2452,33 @@
      "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-reporting/ep029.mp3",
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/reporting/ep029.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/reporting/ep029.txt"
+    },
+    {
+     "episode_number": 30,
+     "production_episode_number": 30,
+     "title": "Fifteen Hundred Agents: What SK Telecom Learned When It Cleaned Its Data",
+     "bundle_title": "Fifteen Hundred Agents: What SK Telecom Learned When It Cleaned Its Data",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/reporting/2026-11-01-ep30",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/reporting/2026-11-01-ep30/audio.mp3",
+     "audio_bytes": 7572325,
+     "duration_seconds": 946,
+     "duration": "00:15:46",
+     "duration_source": "bundle-metadata",
+     "date": "2026-11-01",
+     "feed_match": false,
+     "status_raw": "Released as a local and Drive bundle Nov 1, 2026. Rebel publish to follow under the standing queue. Backup RSS mirror synced this run under dual maintenance.",
+     "description": "Fifteen Hundred Agents: What SK Telecom Learned When It Cleaned Its Data. Hosted by Noel.\n\nSK Telecom, South Korea's largest mobile carrier, disclosed its AI transformation progress on November 1, 2026, following an October 30, 2026 briefing at its human resources development center in Icheon, Gyeonggi Province, led by Kim In-su, head of the company's AI Board team. Under a one AI agent per person project running since March, more than 4,000 employees have built their own agent, more than 80 percent of the company's roughly 4,800 permanent employees, and more than 7,500 employees use agents each month. About 1,500 agents are in regular use, trimmed from a collection that once grew to about 7,000, with the company now evaluating each agent's effectiveness against its token cost. The agents compile and organize weekly reports, check receipt information, prepare reports, and visualize and analyze mobile network data. The company's Data Desk tool assigned business meaning and descriptions to internal data fields across more than 9,000 network-related databases and about 300,000 fields, and the company reports that answer accuracy on questions using those network databases rose from about 40 percent to over 80 percent after the cleanup, a result scoped to that data domain and attributed to the company throughout. Its Zero Exposure Zone technology, for which a patent has been filed, keeps sensitive original data in a separate area and passes only processed results such as metadata and calculated values to the AI. The second phase, AX Innovation 2.0, rebuilds work processes around AI through the AX Enabler Task Force, the AX Sandbox, the AX Catalyst program, and Work Map, with agent employee numbers and an evaluation framework planned. The reporting gives no company-wide savings total and no new revenue result, and proving returns beyond productivity gains remains the task ahead. Ellis Ward lens throughout: agent accuracy is usually a data quality problem wearing a model costume. Hosted by Noel.\n\nStories:\n- The deployment act: the October 30 briefing and November 1 disclosure, AX Innovation 1.0 and 2.0, the one agent per person project since March, the builder, monthly user, and permanent staff counts kept distinct, what the agents do day to day, and the trim from about 7,000 agents to about 1,500 with its token cost test (SK Telecom briefing as reported by The Korea Herald, BigGo Finance, MoneyToday, Seoul Economic Daily, and Digital Today, November 1, 2026)\n- The data act: why field names and formats alone fail an agent, Data Desk and the business meaning it writes down, the more than 9,000 network databases and about 300,000 fields, the company-reported move from about 40 percent to over 80 percent answer accuracy on that data, and Zero Exposure Zone as the security half of the same data discipline (SK Telecom briefing as reported, November 1, 2026)\n- The returns act: the AX Enabler Task Force, the three-month Sandbox experiment and its company-wide expansion, the ten first-term Catalysts selected in September, Work Map, agent employee numbers and evaluation, the J-curve, and the gap between counted adoption and unpublished returns (SK Telecom briefing as reported, November 1, 2026)",
+     "description_source": "shownotes",
+     "guid": "d53dd744-9e1f-5030-aae3-b98b4e72e41e",
+     "guid_source": "provisional",
+     "pubDate": "Sun, 01 Nov 2026 12:00:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep030.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-reporting/ep030.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/reporting/ep030.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/reporting/ep030.txt"
     }
    ]
   },

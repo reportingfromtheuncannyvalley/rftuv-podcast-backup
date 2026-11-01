@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>Reporting from the Uncanny Valley is a technology and culture podcast hosted by Noel Brown from New York's Hudson Valley. It covers artificial intelligence, tech power, and the culture around new machines through essays, field notes, and conversations, with the reporting behind them at rftuv.ai. Plainspoken and curious, with no hype and no tribal politics. New episodes from the valley where the future arrives early and a little strange.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Nov 2026 15:32:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 17:24:27 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/reporting.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Reporting from the Uncanny Valley</itunes:author>
@@ -21,6 +21,26 @@
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
     <podcast:location>Hudson Valley, New York, USA</podcast:location>
+    <item>
+      <title>Fifteen Hundred Agents: What SK Telecom Learned When It Cleaned Its Data</title>
+      <description>Fifteen Hundred Agents: What SK Telecom Learned When It Cleaned Its Data. Hosted by Noel.
+
+SK Telecom, South Korea's largest mobile carrier, disclosed its AI transformation progress on November 1, 2026, following an October 30, 2026 briefing at its human resources development center in Icheon, Gyeonggi Province, led by Kim In-su, head of the company's AI Board team. Under a one AI agent per person project running since March, more than 4,000 employees have built their own agent, more than 80 percent of the company's roughly 4,800 permanent employees, and more than 7,500 employees use agents each month. About 1,500 agents are in regular use, trimmed from a collection that once grew to about 7,000, with the company now evaluating each agent's effectiveness against its token cost. The agents compile and organize weekly reports, check receipt information, prepare reports, and visualize and analyze mobile network data. The company's Data Desk tool assigned business meaning and descriptions to internal data fields across more than 9,000 network-related databases and about 300,000 fields, and the company reports that answer accuracy on questions using those network databases rose from about 40 percent to over 80 percent after the cleanup, a result scoped to that data domain and attributed to the company throughout. Its Zero Exposure Zone technology, for which a patent has been filed, keeps sensitive original data in a separate area and passes only processed results such as metadata and calculated values to the AI. The second phase, AX Innovation 2.0, rebuilds work processes around AI through the AX Enabler Task Force, the AX Sandbox, the AX Catalyst program, and Work Map, with agent employee numbers and an evaluation framework planned. The reporting gives no company-wide savings total and no new revenue result, and proving returns beyond productivity gains remains the task ahead. Ellis Ward lens throughout: agent accuracy is usually a data quality problem wearing a model costume. Hosted by Noel.
+
+Stories:
+- The deployment act: the October 30 briefing and November 1 disclosure, AX Innovation 1.0 and 2.0, the one agent per person project since March, the builder, monthly user, and permanent staff counts kept distinct, what the agents do day to day, and the trim from about 7,000 agents to about 1,500 with its token cost test (SK Telecom briefing as reported by The Korea Herald, BigGo Finance, MoneyToday, Seoul Economic Daily, and Digital Today, November 1, 2026)
+- The data act: why field names and formats alone fail an agent, Data Desk and the business meaning it writes down, the more than 9,000 network databases and about 300,000 fields, the company-reported move from about 40 percent to over 80 percent answer accuracy on that data, and Zero Exposure Zone as the security half of the same data discipline (SK Telecom briefing as reported, November 1, 2026)
+- The returns act: the AX Enabler Task Force, the three-month Sandbox experiment and its company-wide expansion, the ten first-term Catalysts selected in September, Work Map, agent employee numbers and evaluation, the J-curve, and the gap between counted adoption and unpublished returns (SK Telecom briefing as reported, November 1, 2026)</description>
+      <pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">d53dd744-9e1f-5030-aae3-b98b4e72e41e</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-reporting/ep030.mp3" length="7572325" type="audio/mpeg" />
+      <itunes:duration>00:15:46</itunes:duration>
+      <itunes:episode>30</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/reporting/ep030.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/reporting/ep030.txt" type="text/plain" />
+    </item>
     <item>
       <title>Anthropic Opens Its Books: What the First AI Lab S-1 Actually Shows</title>
       <description>Anthropic Opens Its Books: What the First AI Lab S-1 Actually Shows. Hosted by Noel.
