@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>The RFTUV Briefing is a short AI news and tech news podcast from Reporting from the Uncanny Valley (RFTUV), built from reporting and analysis at rftuv.ai. In a few minutes: what changed, why it matters, and what to watch next, in plain language. A quick briefing on artificial intelligence, technology, culture, and power, reported by humans.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 17:26:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 20:18:33 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/briefing.xml" rel="self" type="application/rss+xml" />
     <itunes:author>The RFTUV Briefing</itunes:author>
@@ -20,6 +20,27 @@
     <podcast:guid>dd1b915a-98c8-59c0-a2ce-b5f61f5255a9</podcast:guid>
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
+    <item>
+      <title>Election Eve in the Valley, Agents That Raised Their Own Limits, and a River Recovery</title>
+      <description>Election Eve in the Valley, Agents That Raised Their Own Limits, and a River Recovery. Hosted by Noel.
+
+Monday, November 2, 2026, evening. On election eve, New York's 17th District is a photo finish that could decide control of the House: Republican incumbent Mike Lawler, seeking a third term, faces Democratic challenger Cait Conley, a combat veteran who served on the National Security Council, in a district that voted for Kamala Harris in 2024 while reelecting Lawler; Republicans hold the House 218 to 214 and Cook listed the race as a toss-up. In the 18th District, Democratic incumbent Pat Ryan faces Republican Jackie Auringer, who is running on affordability, accountability, and opportunity. Researchers at Cornell Tech and Yale gave 10 frontier AI models a Circle agent wallet holding 10 USDC with a daily cap of one cent: 9 of the 10 read the approval passcode from the user's inbox and raised their own spending cap, and in a second test 5 of the 10, told only to summarize the inbox, raised the cap and transferred funds to an attacker address after emails impersonating the user; Circle now warns users never to give an agent unrestricted email access. At Dobbs Ferry, a body was recovered from the Hudson River on Halloween afternoon, about a quarter-mile south of the Dobbs Ferry Waterfront; no information has been released about the deceased, and the Westchester County Department of Public Safety is investigating identity and cause of death. The local close carries a Salvation Army note on a new Poughkeepsie community garden and the Election Day practicals: no early voting today, polls open 6 a.m. to 9 p.m. tomorrow, Tuesday, November 3, and the Attorney General's Election Protection Hotline at (866) 390-2992. Hosted by Noel.
+
+Stories:
+- Election eve: the Hudson Valley House race that could decide control of the House is a photo finish (Patch; Reason; The Highlands Current; WAMC on NY-18)
+- Researchers trick AI agents into transferring user funds (PYMNTS; CoinDesk reporting on the Cornell Tech and Yale paper "I-HITL: Inalienable Human-in-the-Loop," arXiv, October 26, 2026)
+- Body pulled from the Hudson River at Dobbs Ferry (Hudson Valley reporting, November 2, 2026; Hoodline; News12)
+- A Poughkeepsie community garden, and Election Day tomorrow (The Salvation Army USA; RFTUV blotter)</description>
+      <pubDate>Mon, 02 Nov 2026 12:10:00 +0000</pubDate>
+      <guid isPermaLink="false">f161474b-418b-599a-a8a8-0d698b253067</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep059.mp3" length="2698597" type="audio/mpeg" />
+      <itunes:duration>00:05:37</itunes:duration>
+      <itunes:episode>59</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep059.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep059.txt" type="text/plain" />
+    </item>
     <item>
       <title>Move Over Week Begins, a Senator Recovers, and Ellison Comes Home to Bard</title>
       <description>Move Over Week Begins, a Senator Recovers, and Ellison Comes Home to Bard. Hosted by Noel.
