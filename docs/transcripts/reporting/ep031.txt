@@ -1,0 +1,203 @@
+Noel: Putting Words in People's Mouths, in Real Time Episode Thirty One, November Second, Two Thousand Twenty Six, hosted by Noel
+
+Noel: A speaker says a word. A few seconds later, on your screen, that person appears to say a different word. Their voice carries the replacement. Their mouth moves to match it. The sentence flows through without a visible repair.
+
+Noel: And the reason for the change is not that the speaker asked for another take. It is that your viewing profile called for something different.
+
+Noel: That is a description of an idea in a published Microsoft patent application. It is not a product. It is not a demonstration. It is not evidence that Microsoft has built or deployed this system on television, or anywhere else. That distance matters before we go another sentence.
+
+Noel: I'm Noel. This is Reporting from the Uncanny Valley.
+
+Noel: Today, we're looking at a filing that describes personalizing the words coming out of somebody else's mouth, and a detection system announced the same week that looks for automated visitors by watching how they move around a website.
+
+Noel: Those are different technologies. One would alter a live presentation. The other identifies browsing agents. But together, they raise a question: when the thing presented to you can be generated to fit the occasion, what can you check against it?
+
+Noel: The filing comes from Microsoft Technology Licensing. Patentlyze flagged it, and Futurism reported on it on November first, two thousand twenty six. Its title is Near Real-Time Artificial Intelligence Enhancement of Video or Augmented Reality Presentations of Live Events.
+
+Noel: The application was filed on April twenty ninth, two thousand twenty five, and published on October twenty ninth, two thousand twenty six. Its publication number is U S, two thousand twenty six, slash, zero three four one three zero nine, A one.
+
+Noel: That is the document we are discussing. A patent application is a legal description of an idea an applicant wants the right to exclude others from using. It is not a release date. Futurism reported that Microsoft did not immediately respond to its request for comment.
+
+Noel: So what does the filing describe?
+
+Noel: Start with cameras and microphones capturing a live event. According to the claims as reported by Patentlyze, an A I agent scans the spoken words and identifies words to modify. That selection follows parameters and a user profile.
+
+Noel: Here, the user is the viewer. Keep that in mind.
+
+Noel: A generative system then produces replacement speech and changes the video so the speaker's face and mouth movements agree with the new words. The filing also describes editing the audio and video immediately before and after a replacement, so it joins smoothly with the surrounding speech.
+
+Noel: It is not just a word dropped into a soundtrack. The proposed edit includes the little stretch of performance that would otherwise give the substitution away.
+
+Noel: The filing calls this near real time. The reporting defines that as a few seconds, roughly one to ten seconds. Not instantaneous. Not zero delay.
+
+Noel: Within that short window, the described system would have to identify a candidate for replacement, choose the replacement, generate the speech, redraw the relevant video, and smooth the joins. That is what the application lays out, not a performance we have been shown.
+
+Noel: The list of possible changes starts with things that might sound like straightforward cleanup.
+
+Noel: The filing describes removing fillers such as um and ah. It includes mumbled words, mispronunciations, misused words, misspoken words, stutters, and speech impediments.
+
+Noel: Then the categories widen.
+
+Noel: The reporting includes colloquial language, with examples from the filing such as y'all and chew the bullet. It also includes words judged offensive, insensitive, or inappropriate.
+
+Noel: Those categories cover different kinds of decisions. A repeated syllable and an offensive statement are not the same editorial problem. The filing places them within a system that can replace speech and make the picture agree.
+
+Noel: Where would replacement words come from?
+
+Noel: According to the reporting, the filing allows for internet searches or databases about the subject. It also floats fact checking as a use.
+
+Noel: Picture that distinction. A correction could appear beside a speaker, leaving the original statement available for you to hear. Here, the filing describes a route by which a replacement could be spoken in the speaker's voice, with the speaker's mouth altered to match.
+
+Noel: The correction would become part of the apparent performance.
+
+Noel: There is also translation. A second independent claim, Claim Sixteen in the reporting, describes replacing speech in a language outside the viewer's profile with translated words the viewer understands. Again, the video would be redrawn, lips included, to fit the translated speech.
+
+Noel: The appeal is easy to understand. A viewer could follow a presentation in a familiar language while watching a face whose movements fit what they hear.
+
+Noel: But translation also makes the mechanism clear. This is not merely adding information beneath a picture. It is generating a different version of the picture and sound.
+
+Noel: The devices named in the reporting include augmented reality glasses, phones, tablets, and video cameras, using their own chips. The possible footage includes lectures, presentations, television productions, awards ceremonies, sports, and cooking shows.
+
+Noel: Those are settings named in a filing, not announced deployments.
+
+Noel: Now, the question that changes how the whole thing reads: who gets to choose?
+
+Noel: According to the claims as reported, the viewer's profile drives the changes. Examples drawn from the filing include age, languages spoken, location, and preferences.
+
+Noel: The person on the screen is not the person setting those parameters.
+
+Noel: No claim described in this reporting requires that speaker's agreement. We should not fill in a consent process because we would expect one, or because a future product might include one. The record we have does not describe that requirement.
+
+Noel: That creates a one-way arrangement. A viewer can receive a presentation tailored to them, while the person apparently delivering it has not been given a corresponding choice in the claims as reported.
+
+Noel: Imagine two viewers watching the same event through this proposed system. Their profiles differ. One receives a particular word. The other receives a replacement. Each sees lips that fit the version delivered to them.
+
+Noel: They can both accurately describe what appeared on their screens and still disagree about what the speaker said.
+
+Noel: That is the personalization consequence of the filing. The shared event would produce separate editions, each carrying the appearance of a direct record.
+
+Noel: It helps to separate the kinds of changes rather than treating all of them as polishing.
+
+Noel: Removing an um may make a sentence move faster. Removing a stutter changes part of how somebody speaks. Replacing y'all can change the regional character of a voice. Substituting a factual correction changes the substance of what the person appears to have asserted.
+
+Noel: A viewer preference can therefore reach beyond clarity. It can decide which parts of another person's manner of speaking survive the trip to the screen.
+
+Noel: And a search-derived correction raises another question. Even if the replacement is right, whose statement is it?
+
+Noel: The original speaker did not say it. The system supplied it. But the proposed presentation gives that supplied word the speaker's voice and face.
+
+Noel: An on-screen note would leave the disagreement visible. The speaker said one thing; the correction says another. Redrawing the performance can collapse those two contributions into a single apparent statement.
+
+Noel: That is where the lip movement matters most.
+
+Noel: Our resident A I systems expert, Ellis Ward, brings a useful distinction to this story. An audience needs a cue that it is looking at an intervention before it can judge that intervention separately from the original.
+
+Noel: With a caption, you can see a second layer of language. With a visibly mismatched dub, you can recognize a substitution. The filing describes working on the mouth itself, and on the transitions around the changed word.
+
+Noel: The aim of those operations is a smoother presentation. The consequence is that the viewer loses a visible seam that might otherwise invite a question.
+
+Noel: And according to the reporting's analysis, Claim One says nothing about telling viewers an edit happened.
+
+Noel: That is a specific limit in the record. It does not prove that a future service would never disclose an edit. It means the main claim does not require that disclosure.
+
+Noel: There is a safeguard elsewhere in the filing, and its wording deserves care. In a dependent claim, the original live video and audio may be recorded and stored for what the filing calls ground truth.
+
+Noel: May be recorded and stored.
+
+Noel: Not a requirement in Claim One. Not a promise that the viewer will receive the original. Not a promise that the speaker will be shown the altered version.
+
+Noel: Keeping a recording could preserve the evidence needed to settle a disagreement. But preserving it and making it available are different decisions.
+
+Noel: Suppose those two viewers compare notes. One heard a phrase the other never heard. A stored original could resolve what happened at the event. Yet nothing in the described safeguard promises either viewer access to it, or even knowledge that it exists.
+
+Noel: That is why the optional recording is not a complete answer to the consent problem.
+
+Noel: It could preserve what the speaker said without telling the speaker what viewers were shown. It could preserve the original without revealing which replacement any particular viewer received.
+
+Noel: The filing describes a way to retain an anchor. It does not, in the claims reported here, establish a shared route back to it.
+
+Noel: Now, on the same day that application was published, Resemble A I announced a different kind of system.
+
+Noel: The Mountain View, California, company released Resemble Agent Detection, powered by a model it calls RAD-S-one, short for Resemble Agent Detection System One.
+
+Noel: This is not a detector for the Microsoft proposal. It does not inspect lip movements to catch rewritten speech. It is designed to identify A I agents browsing websites.
+
+Noel: That distinction matters because the connection here is about evidence, not compatibility.
+
+Noel: According to Resemble's launch post, its system distinguishes people, bots, and A I agents visiting a website or product. The company says that includes agents operating in real browsers, inside a customer's signed-in session, or using tools intended to disguise their automation.
+
+Noel: One difficult case is a session that begins with a person and is taken over by an agent partway through. The browser may still look like the same browser. The account may still be signed in.
+
+Noel: So Resemble says it looks at behavior.
+
+Noel: Its launch post describes a small script, about twenty five kilobytes, that reads pointer movement, clicking, typing patterns, scrolling, and browser and environment signals.
+
+Noel: The company says keys are logged by type, not by the identity of the key. It says the system does not collect typed text or passwords.
+
+Noel: Scoring happens on Resemble's servers. According to the company, batches are sent every one point two seconds, and a server check takes about one hundred twenty milliseconds at the median.
+
+Noel: The idea is to judge the pattern of an interaction rather than accept the visitor's presentation of itself.
+
+Noel: Resemble says its training data included sessions from Claude, Codex, Grok, ChatGPT, Browser Use, Playwright, and Muse, among others. It says the model is versioned and updated as agents and stealth tools change, without a fixed retraining schedule.
+
+Noel: Then comes the performance claim, which needs its attribution attached.
+
+Noel: In Resemble A I's own internal testing, the company sent the same agent visits to its system and six widely used bot detection tools. The benchmark covered more than two thousand agent visits.
+
+Noel: The comparison tools were Cloudflare Turnstile, BotD, F five, Google reCAPTCHA, Akamai, and Vercel BotID.
+
+Noel: Resemble says all seven tools performed well against agents that did not hide their automation.
+
+Noel: Against agents that did hide it, Resemble reports that RAD-S-one identified ninety eight point eight percent or more of visits. In the company's testing, the other six tools identified between three point one and fourteen point eight percent.
+
+Noel: That is a company-reported result. It is not an independently verified accuracy figure.
+
+Noel: And the next piece belongs directly beside it.
+
+Noel: According to Resemble's own post, every visit in that benchmark came from an agent. That makes it a test of how much agent traffic the tools catch. It does not measure how often they mistakenly identify a person as a machine.
+
+Noel: For that, the company provides a separate limitation. At its default balanced setting, Resemble says the model flags around five to six percent of human visits as agents.
+
+Noel: A person can therefore receive the machine label. That is not a footnote if a website intends to use the label to decide who gets through.
+
+Noel: Resemble recommends labeling traffic before deciding what to block. Its system does not block visitors on its own. The website receives a verdict and chooses whether to allow the visit, reroute it to an application programming interface, restrict it, or block it.
+
+Noel: The benchmark also did not include declared agents, the ones that identify themselves.
+
+Noel: These limits tell us what the launch evidence supports. The company reports strong detection of disguised agents in its internal test. It also acknowledges false alarms on people, and leaves the consequences of a verdict to the site.
+
+Noel: We should resist turning that into a cleaner story than the company itself tells.
+
+Noel: Behavior is another signal, not an untouched source of certainty. Resemble acknowledges that some commercial agents already add human-like mouse movement and typing.
+
+Noel: That means the channel being measured can also be imitated.
+
+Noel: Ellis's lens helps connect the two stories without confusing their functions. In the filing, generated speech and altered lips would make a replacement fit the visible performance. In the detection launch, a browser that presents itself as ordinary is checked against the pattern of its actions.
+
+Noel: In each case, the surface alone is not enough to settle the question.
+
+Noel: That does not mean a face tells you nothing, or that every visitor is suspect. It means a convincing presentation is not, by itself, proof of who produced it or what happened before it reached you.
+
+Noel: Resemble moves to behavior because the browser's apparent identity can be disguised. The patent filing points toward an original recording because the delivered performance could contain substitutions.
+
+Noel: Neither route removes the need for judgment. A behavioral verdict can misclassify a person. A stored original can sit somewhere the viewer cannot reach.
+
+Noel: And those are different failures. One concerns an inference about who is acting. The other concerns access to a record of what was said.
+
+Noel: The connection is not that detection has caught up with generation. This browsing detector cannot authenticate the proposed live video. The connection is that both stories move the important evidence away from the thing immediately presented.
+
+Noel: For the website, the useful evidence may be the rhythm of clicks and scrolling rather than what the browser reports about itself.
+
+Noel: For the viewer, it may be a recording made before substitutions, rather than the smoothness of the face delivering them.
+
+Noel: So return to that speaker at the beginning. A word is spoken. A replacement reaches your screen a few seconds later. The mouth agrees. Your viewing profile helped select the change.
+
+Noel: The Microsoft application describes that possibility. It does not demonstrate it, announce it as a product, or establish that it has been deployed.
+
+Noel: But its own safeguard gives us a precise place to finish.
+
+Noel: The original live video and audio may be recorded and stored.
+
+Noel: Somewhere behind the personalized versions, there could be a copy in which the speaker still says what they actually said. Its value would depend on whether it was kept, whether it remained untouched, and whether anyone resolving a dispute could see it.
+
+Noel: In a live feed that can be re-edited for each viewer, the most valuable object in the room is no longer the broadcast. It is the untouched copy, and who is allowed to see it.

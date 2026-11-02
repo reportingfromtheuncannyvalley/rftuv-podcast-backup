@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>Reporting from the Uncanny Valley is a technology and culture podcast hosted by Noel Brown from New York's Hudson Valley. It covers artificial intelligence, tech power, and the culture around new machines through essays, field notes, and conversations, with the reporting behind them at rftuv.ai. Plainspoken and curious, with no hype and no tribal politics. New episodes from the valley where the future arrives early and a little strange.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 15:22:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 17:26:31 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/reporting.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Reporting from the Uncanny Valley</itunes:author>
@@ -21,6 +21,26 @@
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
     <podcast:location>Hudson Valley, New York, USA</podcast:location>
+    <item>
+      <title>Putting Words in People's Mouths, in Real Time</title>
+      <description>Putting Words in People's Mouths, in Real Time. Hosted by Noel.
+
+A published Microsoft patent application, US 2026/0341309 A1, applicant Microsoft Technology Licensing, filed April 29, 2025 and published October 29, 2026, describes a system that would scan the spoken words in a live event, identify words to modify according to parameters and a profile of the user, meaning the viewer, and have a generative system replace them in near real time, defined in the reporting as roughly one to ten seconds, in both the audio and the video, redrawing the speaker's face and mouth to match and smoothing the joins before and after each change. The categories in the filing as reported run from filler words, mumbled and mispronounced words, and stutters to colloquialisms such as "y'all" and words judged offensive or inappropriate, with replacements drawn from internet searches or databases and fact checking floated as a use. A second independent claim covers translation, with the video redrawn, lips included, to match translated words. No claim described in the reporting requires the speaker's agreement, and Claim 1 says nothing about telling viewers an edit happened; a dependent claim provides only that the original live video and audio may be recorded and stored as "ground truth." The episode states plainly that a published application is not a product or a demonstration, and that Microsoft did not immediately respond to Futurism's request for comment. On the same day the application was published, Resemble AI released Resemble Agent Detection, powered by its RAD-S1 model, which classifies website visitors as person, bot, or AI agent from behaviour: pointer movement, clicks, typing flow, and scrolling, plus browser and environment signals. In the company's own internal benchmark of more than 2,000 agent visits, RAD-S1 identified 98.8 percent or more of agents that hide their automation, while six widely used bot detection tools identified between 3.1 and 14.8 percent; the company also states the benchmark used agent visits only and that at its default balanced setting the model flags around 5 to 6 percent of human visits as agents, and the product never blocks anyone on its own. Ellis Ward lens throughout: once the delivered content can be generated convincingly, the evidence moves to side signals and to whoever holds the untouched copy. Hosted by Noel.
+
+Stories:
+- The patent act: the application, its title, number, filing and publication dates; the Claim 1 mechanism; the viewer profile as the rule setter; the categories of words, from fillers and stutters to colloquialisms and offensive words; search drawn replacements and floated fact checking; the Claim 16 translation claim; devices and kinds of live events named; near real time defined as roughly one to ten seconds; and the distance between a published application and a product (patent application US 2026/0341309 A1 as reported by Patentlyze, October 2026, and Futurism, November 1, 2026)
+- The consent act: the viewer sets the parameters and the speaker is not asked in the claims as reported; two viewers receiving two editions of the same mouth; cleaning speech versus erasing a regional voice versus putting a correction in the speaker's mouth; no disclosure requirement in Claim 1; the ground truth dependent claim and what it does and does not promise; lip sync removing the visible seam an audience uses to discount an edit (patent application as reported by Patentlyze and Futurism)
+- The detection act: Resemble AI and RAD-S1, launched October 29, 2026; what it detects, browsing agents rather than synthetic speech; how behaviour scoring works; the company reported benchmark, hidden agents at 98.8 percent or more against 3.1 to 14.8 percent for Cloudflare Turnstile, BotD, F5, Google reCAPTCHA, Akamai, and Vercel BotID; and the limits in the same act, an agent only benchmark, 5 to 6 percent of human visits flagged at the default setting, declared agents not benchmarked, labelling before blocking (Resemble AI launch post and release, October 29, 2026)</description>
+      <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">b3717ec5-dcbd-5e13-b0fe-c7f778e95a31</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-reporting/ep031.mp3" length="7374565" type="audio/mpeg" />
+      <itunes:duration>00:15:21</itunes:duration>
+      <itunes:episode>31</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/reporting/ep031.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/reporting/ep031.txt" type="text/plain" />
+    </item>
     <item>
       <title>Fifteen Hundred Agents: What SK Telecom Learned When It Cleaned Its Data</title>
       <description>Fifteen Hundred Agents: What SK Telecom Learned When It Cleaned Its Data. Hosted by Noel.
