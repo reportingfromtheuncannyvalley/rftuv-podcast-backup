@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-02T20:18:18.735103+00:00",
+ "generated": "2026-11-02T21:38:52.772961+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -3466,6 +3466,33 @@
      "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep029.mp3",
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep029.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep029.txt"
+    },
+    {
+     "episode_number": 30,
+     "production_episode_number": 30,
+     "title": "Dead Air Valley: \"The Castle That Was Called a Folly\"",
+     "bundle_title": "Dead Air Valley: \"The Castle That Was Called a Folly\"",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/dead-air-valley/2026-11-02-lyndhurst",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/dead-air-valley/2026-11-02-lyndhurst/audio.mp3",
+     "audio_bytes": 9897445,
+     "duration_seconds": 1237,
+     "duration": "00:20:37",
+     "duration_source": "bundle-metadata",
+     "date": "2026-11-02",
+     "feed_match": false,
+     "status_raw": "RELEASED as local + Drive bundle Nov 2, 2026 under Noel's Oct 26 rule; cover.jpg is the show cover fallback, designer episode cover requested and pending, to be replaced in bundle when delivered; Rebel publish not performed in this run (November Rebel allowance is Noel's pending decision per rebel-plan-status-inquiry-2026-11-01.md: 60 minutes total for Nov 1 to Dec 1, daily production alone would exhaust it in about two days)",
+     "description": "On the Monday after Halloween, Silas Van Wyck takes up Lyndhurst Mansion in Tarrytown, the Gothic Revival castle above the Hudson that critics nicknamed Paulding's Folly. Designed in 1838 by Alexander Jackson Davis for former New York City mayor William Paulding Jr. and completed in 1842 as Knoll, the house was doubled in size by second owner George Merritt between 1864 and 1867, bought by railroad tycoon Jay Gould in 1880, and held by Helen Gould and then Anna Gould, Duchess of Talleyrand, until 1961, when the estate was donated to the National Trust for Historic Preservation.\n\nThe episode follows the survival mechanism that makes Lyndhurst unusual among house museums: it was successively sold with its contents and almost continually occupied from 1842 to 1961, so it still holds the preponderance of furnishings from all three families, including all three parlor suites, installed about 1841, 1865, and 1882. It also covers Davis's integrated design of building, furniture, and landscape, Ferdinand Mangold's grounds and the 1865 greenhouse, the Gould-era Tiffany windows and Grand Picture Gallery, Helen Gould's bowling pavilion, Roman bath pool building, laundry, and Rose Garden, and the 1942 garden film that corrected the record on Anna Gould's stewardship. No haunting is claimed; Sleepy Hollow appears only as literary geography, with Washington Irving's Sunnyside next door.\n\nPracticals, stated once on air: the fall Classic Mansion Tour season ended November 1, 2026; Daily Grounds Passes for the 67 acres run through December 27; the Holiday Grand Re-opening is November 27, with a Holiday Market Weekend November 27 and 28 and Holiday Classic Mansion Tours November 29 through December 27, tours every half hour from 10 a.m., last entry 3 p.m., closed Wednesdays except December 23. Tickets run ten to twenty-nine dollars plus service fees, with five-dollar EBT and SNAP admission through Museums for All, and mansion tour tickets must be bought online in advance. Lyndhurst is at 635 South Broadway, Tarrytown, New York; there is no elevator and only the first floor is accessible. Full details at https://lyndhurst.org.\n\nSilas Van Wyck hosts Dead Air Valley from the Hudson Valley.\n\nSources:\n- Lyndhurst Mansion, lyndhurst.org: homepage; Historic Buildings; Collection: Three Parlors; History of the Landscape; Fall Classic Mansion Tour; Holiday Classic Mansion Tour; Tours and Tickets. All read November 2, 2026.\n- National Trust for Historic Preservation, savingplaces.org: Lyndhurst place page; \"Discovery of the Lyndhurst Garden Film\"; \"Lyndhurst's Designer of Dreams: 5 Facts about Alexander Jackson Davis.\" All read November 2, 2026.\n- Islands, \"This Tourable Gothic Castle Is An Ornate Gem Of America's Gilded Age Nestled In New York's Hudson Valley,\" October 15, 2025 (the AOL-syndicated prep lead): https://www.islands.com/1990912/lyndhurst-mansion-tourable-gothic-castle-ornate-gem-americas-gilded-age-nestled-new-yorks-hudson-valley/",
+     "description_source": "shownotes",
+     "guid": "ebc19aa1-c294-5e2a-92a4-5633265c9ccf",
+     "guid_source": "provisional",
+     "pubDate": "Mon, 02 Nov 2026 12:00:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep030.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep030.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep030.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep030.txt"
     }
    ]
   }

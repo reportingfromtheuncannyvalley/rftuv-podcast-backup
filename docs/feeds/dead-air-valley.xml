@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>Dead Air Valley explores the strange history, local legends, forgotten places, and unsettling stories of the Hudson Valley and the regions around it. From Sleepy Hollow and old river towns to neighboring valleys, back roads, abandoned landmarks, and the people who shaped them, each episode finds something worth bringing back into the light. Hosted by a rotating group of voices, with occasional noir-style narration, Dead Air Valley moves between atmospheric storytelling, local history, conversation, and timely discoveries. Episodes may be short, long, solo, or roundtable, but each begins with one question: what's still waiting in the dead air?</description>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 20:18:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 21:39:14 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/dead-air-valley.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Dead Air Valley</itunes:author>
@@ -21,6 +21,30 @@
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
     <podcast:location>Hudson Valley, New York, USA</podcast:location>
+    <item>
+      <title>Dead Air Valley: "The Castle That Was Called a Folly"</title>
+      <description>On the Monday after Halloween, Silas Van Wyck takes up Lyndhurst Mansion in Tarrytown, the Gothic Revival castle above the Hudson that critics nicknamed Paulding's Folly. Designed in 1838 by Alexander Jackson Davis for former New York City mayor William Paulding Jr. and completed in 1842 as Knoll, the house was doubled in size by second owner George Merritt between 1864 and 1867, bought by railroad tycoon Jay Gould in 1880, and held by Helen Gould and then Anna Gould, Duchess of Talleyrand, until 1961, when the estate was donated to the National Trust for Historic Preservation.
+
+The episode follows the survival mechanism that makes Lyndhurst unusual among house museums: it was successively sold with its contents and almost continually occupied from 1842 to 1961, so it still holds the preponderance of furnishings from all three families, including all three parlor suites, installed about 1841, 1865, and 1882. It also covers Davis's integrated design of building, furniture, and landscape, Ferdinand Mangold's grounds and the 1865 greenhouse, the Gould-era Tiffany windows and Grand Picture Gallery, Helen Gould's bowling pavilion, Roman bath pool building, laundry, and Rose Garden, and the 1942 garden film that corrected the record on Anna Gould's stewardship. No haunting is claimed; Sleepy Hollow appears only as literary geography, with Washington Irving's Sunnyside next door.
+
+Practicals, stated once on air: the fall Classic Mansion Tour season ended November 1, 2026; Daily Grounds Passes for the 67 acres run through December 27; the Holiday Grand Re-opening is November 27, with a Holiday Market Weekend November 27 and 28 and Holiday Classic Mansion Tours November 29 through December 27, tours every half hour from 10 a.m., last entry 3 p.m., closed Wednesdays except December 23. Tickets run ten to twenty-nine dollars plus service fees, with five-dollar EBT and SNAP admission through Museums for All, and mansion tour tickets must be bought online in advance. Lyndhurst is at 635 South Broadway, Tarrytown, New York; there is no elevator and only the first floor is accessible. Full details at https://lyndhurst.org.
+
+Silas Van Wyck hosts Dead Air Valley from the Hudson Valley.
+
+Sources:
+- Lyndhurst Mansion, lyndhurst.org: homepage; Historic Buildings; Collection: Three Parlors; History of the Landscape; Fall Classic Mansion Tour; Holiday Classic Mansion Tour; Tours and Tickets. All read November 2, 2026.
+- National Trust for Historic Preservation, savingplaces.org: Lyndhurst place page; "Discovery of the Lyndhurst Garden Film"; "Lyndhurst's Designer of Dreams: 5 Facts about Alexander Jackson Davis." All read November 2, 2026.
+- Islands, "This Tourable Gothic Castle Is An Ornate Gem Of America's Gilded Age Nestled In New York's Hudson Valley," October 15, 2025 (the AOL-syndicated prep lead): https://www.islands.com/1990912/lyndhurst-mansion-tourable-gothic-castle-ornate-gem-americas-gilded-age-nestled-new-yorks-hudson-valley/</description>
+      <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ebc19aa1-c294-5e2a-92a4-5633265c9ccf</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep030.mp3" length="9897445" type="audio/mpeg" />
+      <itunes:duration>00:20:37</itunes:duration>
+      <itunes:episode>30</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep030.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep030.txt" type="text/plain" />
+    </item>
     <item>
       <title>Dead Air Valley: "The Hell Chicken That Ate Fruit"</title>
       <description>The day after Halloween, Silas Van Wyck takes up a name that promises menace and delivers a fruit diet. Infernogallus jamesi, described by a team led by Stony Brook University paleontologist Gregory Funston, with the Royal Ontario Museum and the North Dakota Geological Survey, is reported as the first known dinosaur specialized for eating fruit. The paper appeared in Nature Communications and the discovery was announced on October 28, 2026.
