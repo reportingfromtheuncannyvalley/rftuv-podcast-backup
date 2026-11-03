@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-02T21:38:52.772961+00:00",
+ "generated": "2026-11-03T15:18:06.300631+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -1678,6 +1678,33 @@
      "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep059.mp3",
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep059.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep059.txt"
+    },
+    {
+     "episode_number": 60,
+     "production_episode_number": 60,
+     "title": "A Crash at a Taconic Rest Stop, Election Day in the Valley, and a Measles Death",
+     "bundle_title": "A Crash at a Taconic Rest Stop, Election Day in the Valley, and a Measles Death",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/briefing/2026-11-03-ep60",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/briefing/2026-11-03-ep60/audio.mp3",
+     "audio_bytes": 2545765,
+     "duration_seconds": 318,
+     "duration": "00:05:18",
+     "duration_source": "bundle-metadata",
+     "date": "2026-11-03",
+     "feed_match": false,
+     "status_raw": "Released Nov 3, 2026 under Noel's verified-scripts-release rule. Drafting route: Perplexity, engaged first per the Oct 31 route with the brief and the direction pack content and the standing AI-to-AI introduction, delivered a complete script in one pass; no fix cycle was needed and the released script-best is that draft verbatim (the Perplexity original is preserved at episodes/briefing-ep60-2026-11-03-script-perplexity-original.md, identical to the released script-best). Spiral was not used for podcast drafting, per the Oct 31 allocation. Desk-verified against the brief and prep: anchor article https://rftuv.ai/news/blotter-monday-november-2-2026 verified live HTTP 200 this run (Taconic rest stop: State Police dispatched about 2:20 p.m. October 30 to the Taste of New York rest area at mile marker 46.6 in LaGrange; Charles W. Schaubhut, 84, of Hudson, parking a 2014 Subaru, hit the gas instead of the brake, went over the curb onto the sidewalk and struck two pedestrians, 67 and 71, both of Hillsdale; all three transported, injuries believed non-life-threatening; names not released; investigation ongoing; no charges reported and none implied). Election Day segment is service only: no candidate names scripted because the Freeman ballot list surfaced in desk search appears to be a prior-year edition page; offices named are the kinds listed in the prep (county offices, legislature seats, town offices, judgeships, state and congressional seats); practicals from the anchor blotter stated once (polls today until 9 p.m., in line before 9 p.m. must be allowed to vote, last day to postmark or hand-deliver an absentee ballot, Attorney General Election Protection Hotline (866) 390-2992 open today until 9 p.m.); no results exist at midday and none are scripted. Measles verified in search this run from Reuters reporting carried by Insurance Journal and CNN, November 2, 2026: Department of Health said Monday November 2 that a child in Lewis County died in connection with the ongoing outbreak, first known measles-associated death in New York in more than 30 years; joint state and county statement, condolences, privacy requested, no further information about the child released and none scripted; 178 cases statewide as of October 24 (170 outside New York City, 8 in the city); Department offered Lewis County outreach and vaccination resources; Hochul disaster emergency declared last month carried as background only; Lewis County stated as North Country, not Hudson Valley. Move Over close is one line only (campaign through Friday November 6); it headlined Ep58 and does not headline again. Fresh intake pull attempted twice this run and failed both times (DNS resolution failure, then Google News RSS HTTP 503 on multiple sources, the same outage family the prep run recorded at 03:06 EST before its successful 09:42 UTC pull of 99 items); desk searches found no confirmed turnout figure, polling-place problem, or hotline development, so the prep's midday flag is carried as no confirmed update found before scripting. HEADLINE CHECK passed: script read top to bottom, narration only, no notes, headers, or brief residue. Voice fidelity passed: warm, plainspoken Noel. Zero em/en dashes verified by grep (desk wc 974 words). Spoken form converted with spoken_form.py, gate passed, 38 turns, no digit warnings; converted output read at head, hotline turn, and tail before rendering. Audio rendered with locked voice avocado_v2:MAI_01; ffprobe duration 318 seconds, matching the TTS render record. Rebel publish was not attempted this run: November Rebel allowance is 60 minutes for the month and its direction is Noel's pending decision (Nov 1 triage); this run's release is the local bundle, the Drive sync, and the backup RSS sync. Bundle transcript.txt is the narration script until the episode publishes on Rebel, when Rebel's automatic transcription becomes the transcript of record.",
+     "description": "A Crash at a Taconic Rest Stop, Election Day in the Valley, and a Measles Death. Hosted by Noel.\n\nTuesday, November 3, 2026, midday. According to New York State Police, on October 30 at about 2:20 p.m., Charles W. Schaubhut, 84, of Hudson, was parking a 2014 Subaru at the Taste of New York rest area at mile marker 46.6 on the Taconic State Parkway in LaGrange when he hit the gas pedal instead of the brake; the vehicle went over the curb onto the sidewalk and struck two pedestrians, ages 67 and 71, both of Hillsdale. All three were taken to local hospitals with injuries believed to be non-life-threatening; the pedestrians' names were not released and the investigation is ongoing. Election Day voting is under way in Dutchess and Ulster counties, with county offices, legislature seats, town offices, judgeships, and state and congressional seats on the ballot; polls are open until 9 p.m., voters in line before 9 p.m. must be allowed to vote, today is the last day to postmark or hand-deliver an absentee ballot, and the Attorney General's Election Protection Hotline is (866) 390-2992 until 9 p.m. The New York State Department of Health said Monday that a child in Lewis County, in the North Country, died in connection with the ongoing measles outbreak, the state's first known measles-associated death in more than 30 years; officials released no further information about the child, and as of October 24 New York had reported 178 measles cases this year, 170 outside New York City and 8 in the city. Plus one line on Move Over enforcement week, running through Friday, November 6. Hosted by Noel.\n\nStories:\n- Two pedestrians struck at a Taconic rest stop in LaGrange (RFTUV blotter, November 2, 2026, citing New York State Police)\n- Election Day in Dutchess and Ulster: voting under way, practicals stated once (RFTUV blotter; Daily Freeman race list in the day's intake)\n- A Lewis County child is New York's first measles-associated death in over 30 years (New York State Department of Health as reported by Reuters and CNN, November 2, 2026)\n- Move Over enforcement week, day two (New York State Police via the RFTUV blotter)",
+     "description_source": "shownotes",
+     "guid": "af42db2c-a43f-5aba-9b91-39a0e37a7784",
+     "guid_source": "provisional",
+     "pubDate": "Tue, 03 Nov 2026 12:00:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep060.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep060.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep060.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep060.txt"
     }
    ]
   },

@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>The RFTUV Briefing is a short AI news and tech news podcast from Reporting from the Uncanny Valley (RFTUV), built from reporting and analysis at rftuv.ai. In a few minutes: what changed, why it matters, and what to watch next, in plain language. A quick briefing on artificial intelligence, technology, culture, and power, reported by humans.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 21:39:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 15:18:25 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/briefing.xml" rel="self" type="application/rss+xml" />
     <itunes:author>The RFTUV Briefing</itunes:author>
@@ -20,6 +20,27 @@
     <podcast:guid>dd1b915a-98c8-59c0-a2ce-b5f61f5255a9</podcast:guid>
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
+    <item>
+      <title>A Crash at a Taconic Rest Stop, Election Day in the Valley, and a Measles Death</title>
+      <description>A Crash at a Taconic Rest Stop, Election Day in the Valley, and a Measles Death. Hosted by Noel.
+
+Tuesday, November 3, 2026, midday. According to New York State Police, on October 30 at about 2:20 p.m., Charles W. Schaubhut, 84, of Hudson, was parking a 2014 Subaru at the Taste of New York rest area at mile marker 46.6 on the Taconic State Parkway in LaGrange when he hit the gas pedal instead of the brake; the vehicle went over the curb onto the sidewalk and struck two pedestrians, ages 67 and 71, both of Hillsdale. All three were taken to local hospitals with injuries believed to be non-life-threatening; the pedestrians' names were not released and the investigation is ongoing. Election Day voting is under way in Dutchess and Ulster counties, with county offices, legislature seats, town offices, judgeships, and state and congressional seats on the ballot; polls are open until 9 p.m., voters in line before 9 p.m. must be allowed to vote, today is the last day to postmark or hand-deliver an absentee ballot, and the Attorney General's Election Protection Hotline is (866) 390-2992 until 9 p.m. The New York State Department of Health said Monday that a child in Lewis County, in the North Country, died in connection with the ongoing measles outbreak, the state's first known measles-associated death in more than 30 years; officials released no further information about the child, and as of October 24 New York had reported 178 measles cases this year, 170 outside New York City and 8 in the city. Plus one line on Move Over enforcement week, running through Friday, November 6. Hosted by Noel.
+
+Stories:
+- Two pedestrians struck at a Taconic rest stop in LaGrange (RFTUV blotter, November 2, 2026, citing New York State Police)
+- Election Day in Dutchess and Ulster: voting under way, practicals stated once (RFTUV blotter; Daily Freeman race list in the day's intake)
+- A Lewis County child is New York's first measles-associated death in over 30 years (New York State Department of Health as reported by Reuters and CNN, November 2, 2026)
+- Move Over enforcement week, day two (New York State Police via the RFTUV blotter)</description>
+      <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">af42db2c-a43f-5aba-9b91-39a0e37a7784</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep060.mp3" length="2545765" type="audio/mpeg" />
+      <itunes:duration>00:05:18</itunes:duration>
+      <itunes:episode>60</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep060.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep060.txt" type="text/plain" />
+    </item>
     <item>
       <title>Election Eve in the Valley, Agents That Raised Their Own Limits, and a River Recovery</title>
       <description>Election Eve in the Valley, Agents That Raised Their Own Limits, and a River Recovery. Hosted by Noel.
