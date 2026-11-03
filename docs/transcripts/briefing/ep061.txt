@@ -1,0 +1,69 @@
+Good evening. It is Tuesday, November third, twenty twenty-six. This is The RFTUV Briefing. I'm Noel.
+
+It's election night in New York, and we begin with what to watch when the counting starts. The first numbers will not tell the whole story. Counties tend to release early voting and most mail results first. Those are votes counted, not a final picture. We are not calling any races tonight.
+
+And in Westchester County, there's a specific reason some results may take longer: ballots that voters filled out today will need to be scanned after voting ends.
+
+That follows a programming failure this morning. Across the county, ballot scanners rejected pre-printed Election Day ballots.
+
+The New York State Board of Elections traced the trouble to an update. A contest changed in one municipality, and the county's election programming was updated. Scanners still carrying the original programming could not recognize the ballots.
+
+The distinction matters here. The scanners rejected ballots they couldn't recognize. The state board says no votes were incorrectly tallied. Officials describe a programming fault, not fraud.
+
+So what happened when someone arrived to vote?
+
+Voting continued on paper. Tens of thousands of voters put their completed ballots into orange emergency bags. When those bags ran short, the state supplied blue ones. The ballots are secured under bipartisan oversight and will be counted after voting ends.
+
+Meanwhile, technicians went out through the day to reprogram one scanner at each of Westchester's three hundred thirty polling places.
+
+County Executive Ken Jenkins called the failure unacceptable. He urged people to stay in line and said every vote would count. As of Tuesday afternoon, the county Board of Elections had not indicated that voting hours would be extended, because people had remained able to cast ballots. Attorney General Letitia James says her office is monitoring the issue.
+
+Both candidates in New York's seventeenth House district, Mike Lawler and Cait Conley, urged voters not to leave without voting.
+
+Part of that district lies in Westchester. That means these emergency ballots may delay a clear picture of that race. It does not tell us which candidate benefits, or who will win. It tells us there's another batch of ballots to process.
+
+Now, from ballots to a very different kind of accounting: what does it cost to put artificial intelligence to work all day?
+
+For Y Combinator chief executive Garry Tan, the answer is a substantial range.
+
+Speaking with Walter Isaacson on The Builders, in an episode set to publish Tuesday, Tan said, quote, “I spend about maybe one hundred thousand to two hundred thousand dollars a year on tokens.”
+
+That “about maybe” is worth keeping. This is his rough estimate, not an exact annual bill. And tokens are the units used to measure and bill for AI work.
+
+Tan uses agents for countless work projects and coding tasks. He was an early adopter of OpenClaw and is now a power user. He's also shared a collection of twenty-three Claude Code skills on GitHub, called gstack.
+
+But the part that caught my attention wasn't just the spending. It was what he has allowed the agent to read.
+
+In his telling, it has read all his email, all his Dropbox, and all his Apple Notes. That includes therapy notes going back twenty years.
+
+That's a much broader arrangement than asking a chatbot to tidy up a paragraph. He's describing an agent with access to work correspondence, stored files, and deeply personal material, all as part of the information it can draw on.
+
+Y Combinator also runs an internal agent called Stray Light. Tan describes it as rebuilding how the company operates, with a personality and a company brain.
+
+His verdict on the cost is straightforward: “It's too expensive right now.” He calls his own level of spending “a crazy privilege that not everyone can do.”
+
+Most listeners will never face an AI bill in that range. But the access question doesn't require a six-figure budget.
+
+What are you letting the agent read?
+
+The promise Tan describes is help informed by everything it knows about you. The trade is that, to provide that help, it gets to read the material you give it. In his case, that reaches from coding projects to two decades of therapy notes.
+
+Closer to home, there's a house now open in Montrose with a very practical purpose: giving veterans' families somewhere to stay while someone they love receives care.
+
+It's the Fisher House at VA Hudson Valley Health Care, on the Franklin Delano Roosevelt Hospital campus.
+
+The house was dedicated on September thirtieth by Medical Center Director Dawn M. Schaal and Fisher House President David Coker. The Fisher House Foundation built it and gifted it to the VA.
+
+Inside its eleven thousand four hundred square feet are twelve wheelchair-accessible suites, a spacious kitchen, shared living, dining and family rooms, and a laundry room. There's a patio, too.
+
+Lodging is free for families of veterans receiving medical care, with a particular welcome for families of veterans in inpatient mental health care and residential rehabilitation treatment.
+
+It's New York's fourth Fisher House, joining one in Albany and two in the Bronx.
+
+The rooms and the kitchen serve a simple purpose. A veteran's family can stay beside the hospital instead of driving home from it. There's a place to make a meal, do the laundry, and spend the night nearby while treatment continues.
+
+And one local sports result before we go: Marist men's basketball lost its season opener to Dartmouth, sixty-nine to sixty-two, Monday night at McCann Arena in Poughkeepsie, after leading by nine midway through the second half.
+
+Finally, the practical reminder for tonight: polls close at nine p.m. across New York, and any voter in line before nine p.m. must be allowed to vote.
+
+I'm Noel. Thanks for spending part of your evening with me, and thanks for listening to The RFTUV Briefing. Have a good night.

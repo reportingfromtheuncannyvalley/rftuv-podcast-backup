@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>The RFTUV Briefing is a short AI news and tech news podcast from Reporting from the Uncanny Valley (RFTUV), built from reporting and analysis at rftuv.ai. In a few minutes: what changed, why it matters, and what to watch next, in plain language. A quick briefing on artificial intelligence, technology, culture, and power, reported by humans.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 17:37:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 20:28:40 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/briefing.xml" rel="self" type="application/rss+xml" />
     <itunes:author>The RFTUV Briefing</itunes:author>
@@ -20,6 +20,27 @@
     <podcast:guid>dd1b915a-98c8-59c0-a2ce-b5f61f5255a9</podcast:guid>
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
+    <item>
+      <title>Election Night in New York, a $200,000 Token Bill, and a House for Veterans</title>
+      <description>Election Night in New York, a $200,000 Token Bill, and a House for Veterans. Hosted by Noel.
+
+Tuesday, November 3, 2026, evening. Election night in New York leads with the Westchester County ballot scanner failure: scanners rejected pre-printed Election Day ballots after a programming update left some machines unable to recognize them, voting continued on paper with tens of thousands of ballots placed in orange and then blue emergency bags to be counted after the 9 p.m. close, technicians worked to reprogram one scanner at each of the county's 330 polling places, and the state Board of Elections said no votes were incorrectly tallied. Y Combinator CEO Garry Tan told Walter Isaacson on The Builders that he spends about $100,000 to $200,000 a year on AI agent tokens, that his agent has read his email, Dropbox and Apple Notes including therapy notes going back 20 years, and that the cost is too expensive right now. And the Fisher House at VA Hudson Valley in Montrose, dedicated September 30, offers 12 free wheelchair-accessible suites so veterans' families can stay beside the hospital. Plus one line on Marist men's basketball, 69 to 62 to Dartmouth, and the polls-close practical. Hosted by Noel.
+
+Stories:
+- Election night in New York and the Westchester County scanner failure (New York State Board of Elections and Westchester County as reported by Lohud, Patch, USA Today and the Highlands Current, November 3, 2026; practicals from the RFTUV blotter, November 2, 2026)
+- Garry Tan spends up to $200,000 a year on AI agent tokens (TechCrunch, November 3, 2026, reporting The Builders podcast)
+- A Fisher House in Montrose for veterans' families (VA Hudson Valley and Fisher House Foundation announcement, September 30, 2026)
+- Marist men's basketball falls to Dartmouth in its opener (Times Herald-Record and Marist Athletics, November 2-3, 2026)</description>
+      <pubDate>Tue, 03 Nov 2026 12:10:00 +0000</pubDate>
+      <guid isPermaLink="false">6ac3c618-2b20-53cf-8099-1627393c98f3</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep061.mp3" length="2620069" type="audio/mpeg" />
+      <itunes:duration>00:05:27</itunes:duration>
+      <itunes:episode>61</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep061.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep061.txt" type="text/plain" />
+    </item>
     <item>
       <title>A Crash at a Taconic Rest Stop, Election Day in the Valley, and a Measles Death</title>
       <description>A Crash at a Taconic Rest Stop, Election Day in the Valley, and a Measles Death. Hosted by Noel.
