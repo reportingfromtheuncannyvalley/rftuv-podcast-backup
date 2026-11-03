@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>Dead Air Valley explores the strange history, local legends, forgotten places, and unsettling stories of the Hudson Valley and the regions around it. From Sleepy Hollow and old river towns to neighboring valleys, back roads, abandoned landmarks, and the people who shaped them, each episode finds something worth bringing back into the light. Hosted by a rotating group of voices, with occasional noir-style narration, Dead Air Valley moves between atmospheric storytelling, local history, conversation, and timely discoveries. Episodes may be short, long, solo, or roundtable, but each begins with one question: what's still waiting in the dead air?</description>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 20:28:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 21:48:07 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/dead-air-valley.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Dead Air Valley</itunes:author>
@@ -21,6 +21,32 @@
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
     <podcast:location>Hudson Valley, New York, USA</podcast:location>
+    <item>
+      <title>Dead Air Valley: "The Therapy Dogs Take the Runway"</title>
+      <description>On Election Day in the valley, Silas Van Wyck takes up Runway Unleashed, a therapy dog fashion show coming to Vassar Brothers Medical Center in Poughkeepsie. According to 94.3 Lite FM, reporting an announcement shared by Northwell Health, the show is scheduled for Saturday, November 7, 2026, from 1 p.m. to 3 p.m., in the O'Shea Conference Room in the New Pavilion, with parking in Garage A, and the therapy dogs come from Hudson Valley Paws for a Cause.
+
+The episode follows what a therapy dog actually is, from the organisation's own account: a personal pet, not an assistance or service dog, trained, tested, and evaluated with its handler to provide affection and comfort in hospitals, nursing homes, retirement homes, hospices, schools, and disaster areas. Hudson Valley Paws for a Cause is an all-volunteer nonprofit founded in 2011 by Judy Audevard, whose teams also visit libraries, assisted living facilities, and agencies serving people with disabilities, and whose history includes work with soldiers and military families at the United States Military Academy at West Point. The heart of the episode is the organisation's own trait and training list: no pulling, no jumping, calm while strangers touch paws, mouth, ears, and tail, no reaction to strange noises, smells, walkers, canes, or wheelchairs, elevator manners, the leave it and drop it commands in a hospital corridor, and the handler's standing duty to watch for stress and withdraw a dog that is stressed. A runway reverses the direction of notice for animals whose professional strength is not making a fuss, and the same steadiness that makes a visit work is what the audience will watch on Saturday.
+
+Practicals, stated once on air: Runway Unleashed, Saturday, November 7, 2026, 1 p.m. to 3 p.m., O'Shea Conference Room in the New Pavilion, Vassar Brothers Medical Center, 9 Livingston Street, Poughkeepsie, as given in the announcement reported by 94.3 Lite FM; parking in Garage A; attendees can enjoy time with the dogs and photo opportunities and support the volunteer-based programs at Vassar Brothers Medical Center and Hudson Valley Paws for a Cause; Northwell Health shared the announcement and is the pointer for further information. No admission price is stated in the sources.
+
+Silas Van Wyck hosts Dead Air Valley from the Hudson Valley.
+
+Sources:
+- 94.3 Lite FM, "Adorable Therapy Dog Fashion Show Coming To Dutchess County," November 2, 2026: http://943litefm.com/therapy-dog-fashion-show-dutchess-county/?trackback=fbshare_mobile
+- Hudson Valley Paws for a Cause, Therapy Dogs page, hudsonvalleypawsforacause.org, read November 3, 2026.
+- Hudson Valley Paws for a Cause, article in ARC of Rockland Magazine, ARC Lights, on hudsonvalleypawsforacause.org, read November 3, 2026.
+- PetMD, "Therapy Dogs at Hudson Valley Paws for a Cause Offer Stress Relief for the Military and Their Families," read November 3, 2026: https://www.petmd.com/dog/therapy-dogs-hudson-valley-paws-cause-offer-stress-relief-military-and-their-families
+- American Red Cross Greater New York, press release honoring Judy Audevard, November 12, 2024, read November 3, 2026.</description>
+      <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2450f06e-4af4-5e42-92f8-c99ef24efb55</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep031.mp3" length="9055909" type="audio/mpeg" />
+      <itunes:duration>00:18:52</itunes:duration>
+      <itunes:episode>31</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep031.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep031.txt" type="text/plain" />
+    </item>
     <item>
       <title>Dead Air Valley: "The Castle That Was Called a Folly"</title>
       <description>On the Monday after Halloween, Silas Van Wyck takes up Lyndhurst Mansion in Tarrytown, the Gothic Revival castle above the Hudson that critics nicknamed Paulding's Folly. Designed in 1838 by Alexander Jackson Davis for former New York City mayor William Paulding Jr. and completed in 1842 as Knoll, the house was doubled in size by second owner George Merritt between 1864 and 1867, bought by railroad tycoon Jay Gould in 1880, and held by Helen Gould and then Anna Gould, Duchess of Talleyrand, until 1961, when the estate was donated to the National Trust for Historic Preservation.
