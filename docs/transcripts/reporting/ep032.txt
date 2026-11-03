@@ -1,0 +1,199 @@
+Noel: The Agent in the Cockpit: Saab Flies Its Own A I on Gripen E Episode Thirty Two, November Third, Twenty Twenty Six, hosted by Noel.
+
+Noel: An agent has taken control of a fighter aircraft in the air and flown it through combat scenarios beyond visual range. Not an agent sorting messages or moving money. Software making tactical decisions while controlling a real aircraft.
+
+Noel: That is what Saab says it has done with its own artificial intelligence aboard Gripen E.
+
+Noel: Before we go further, here is what this story rests on. Saab made one announcement today, November third, twenty twenty six. Breaking Defense and Aviation International News reported that announcement and information from a company briefing. Those are different accounts of the same company disclosure, not separate demonstrations independently confirming the result.
+
+Noel: And the result Saab describes is a flight test. Not a combat deployment. Not an operational squadron using these agents as an established capability. Not an agent releasing a weapon.
+
+Noel: Those distinctions are going to matter throughout this story.
+
+Noel: I'm Noel, and this is Reporting from the Uncanny Valley.
+
+Noel: We've been following agents that act on screens, wallets, and words. This time, the software has acted in the air. The useful question is not whether that sounds impressive. It is what the flight establishes, how the agent was prepared for it, and where human authority sits when software starts making decisions at machine speed.
+
+Noel: According to Saab's release, its Advanced Programs business unit, within Aeronautics, developed this family of agents in-house. Peter Nilsson heads that Advanced Programs unit. His description is short: "We have not only built our own A I agents, but we have also flown them."
+
+Noel: The ownership is part of the news. Saab says it developed the agents, their training environments, and the supporting development tools itself. Its argument is that owning that chain gives it control over how the agents operate, how they are verified, and how they continue to change.
+
+Noel: That is a claim about control of development. We should not quietly turn it into a description of who holds control in the cockpit. The release is much more specific about the first than the second.
+
+Noel: What happened in the air?
+
+Noel: Saab says that during flight trials, an agent autonomously controlled the aircraft in beyond visual range combat scenarios. You will hear that shortened to BVR. The company says that capability has now been validated under real flight conditions.
+
+Noel: It does not give a date for these flights. It does not give a flight count, a location, or an opponent aircraft. So we cannot tell you those things. Nor does it publish a score that would let us compare the agent with another system or a human pilot.
+
+Noel: What we have is a bounded statement: Saab says its own agent controlled Gripen E in the scenarios flown.
+
+Noel: That boundary does not make the test meaningless. It tells us which conclusion the public record can carry.
+
+Noel: Ellis Ward, our resident expert on A I systems and research, brings a useful distinction to stories like this. Getting software into a real aircraft and having it control that aircraft in a test establishes something different from showing that it will make dependable decisions across situations its developers have not anticipated.
+
+Noel: The first is an integration and flight-testing achievement. The second requires evidence about behavior across a much wider range of conditions. One successful category of test cannot stand in for all the others.
+
+Noel: Saab describes these agents as systems that use various A I techniques for tactical decision-making in complex environments. They are intended to learn, adapt, and collaborate with pilots and operators across different mission tasks.
+
+Noel: According to the release, that could mean supporting a pilot inside the cockpit. It could also mean operating alongside pilots from an unmanned aircraft.
+
+Noel: Those are intended roles, not evidence that every role has already been demonstrated.
+
+Noel: The aircraft matters here, too. Saab says Gripen E's software-defined architecture allows new A I software to be integrated and flown without building a dedicated experimental platform.
+
+Noel: Aviation International News describes the arrangement more specifically: mission software is segregated from flight-critical functions. Saab says its architecture supports rapid integration and testing, including in civilian airspace.
+
+Noel: That helps explain how the company can put new software into a fighter for testing. It does not tell us every permission that software receives once it is there.
+
+Noel: There is an earlier flight story that belongs beside this one, but not inside it.
+
+Noel: According to the separate record of Saab's work with the defence A I company Helsing, a Gripen E trials aircraft first flew with Helsing's Centaur agent installed on May twenty eighth, twenty twenty five.
+
+Noel: That work was part of Project Beyond. Reporting on the companies' announcement described flights over the Baltic Sea in May and June of that year. Centaur autonomously executed complex manoeuvres in a beyond visual range combat environment.
+
+Noel: It also cued the pilot to fire.
+
+Noel: The pilot. Not the agent.
+
+Noel: The public account of those flights described a safety pilot who could take back control at all times.
+
+Noel: That was Helsing's agent integrated into Saab's aircraft. Today's announcement concerns Saab's own agents. Different developer, different announcement, different public detail.
+
+Noel: We cannot borrow the safety arrangement from the earlier flights and attach it to the new ones. We cannot borrow their dates or their location either.
+
+Noel: The comparison is useful because it shows what a public description can contain. In the earlier case, the record named a human control arrangement. In today's release, Saab names a development principle. We will come back to that difference.
+
+Noel: First, we need to visit the school.
+
+Noel: Saab calls it the A I Fighter Pilot Academy. The name sounds like a place where an agent completes a course and receives its wings. The company's description is more interesting than that.
+
+Noel: It is an initiative for developing agents while building the infrastructure to create, train, and evaluate them across scenarios and platforms.
+
+Noel: According to Saab, the agents accumulate millions of simulated flight hours across a wide range of operational situations. Their actions are continuously evaluated against defined objectives, allowing them to adapt and improve.
+
+Noel: The important words there are "defined objectives."
+
+Noel: An evaluation needs something to measure. But a good result tells us how well a system performed against the measure that was chosen. We still need to ask whether that measure captures the behavior people actually want.
+
+Noel: That is Ellis's lens again. Millions of simulated hours establish that training and evaluation can happen at scale inside environments the builders defined. The number alone does not establish how the agent behaves in a situation nobody thought to include.
+
+Noel: Imagine the difference between asking how many practice runs a system completed and asking what happened when the practice conditions changed. Those are different questions. An impressive answer to the first does not remove the need for the second.
+
+Noel: Saab says its infrastructure is reusable. New capabilities, scenarios, and platforms can be added without rebuilding the whole development framework.
+
+Noel: That makes the Academy less like a single training course and more like an ongoing testing operation. The agent changes. The scenarios can change. The evaluation has to keep following both.
+
+Noel: There is a practical distinction here between building another agent and rebuilding everything needed to test it. Saab says its framework is designed so that the second job does not have to start over each time. That is the reuse claim: carrying the development infrastructure forward while adding new things for it to train and assess. It does not mean a capability demonstrated on one platform has automatically been demonstrated on another.
+
+Noel: In the briefing reported by Breaking Defense, Nilsson described the harder question as turning this success into a dependable capability that can learn, improve, and remain relevant over time.
+
+Noel: That is a more demanding ambition than getting one agent through one set of flight scenarios. It makes continued evaluation part of the product, rather than something completed before the product is delivered.
+
+Noel: Breaking Defense also reports Nilsson arguing that strategic advantage increasingly comes from reducing the distance between experience, learning, and field-led capability. In that account, the Academy is meant to connect those stages, not just produce a large total of simulated hours. The development chain matters because Saab wants lessons to travel through it. Whether that produces dependable capability still has to be established by evaluation, rather than assumed from the speed of the process.
+
+Noel: The computing behind that effort is another part of Saab's announcement.
+
+Noel: The company identifies Sferical A I as a Swedish sovereign A I initiative providing secure, large-scale computing capacity. Saab is a founding partner.
+
+Noel: "Sovereign" can sound abstract. In the briefing reported by Breaking Defense, Nilsson made the concern practical: relying instead on companies such as Google or Amazon would mean paying for their computing and potentially not having full control over the data.
+
+Noel: That is Saab's stated reason for wanting this capacity under a different ownership arrangement. It concerns where the work happens and who controls the information used to do it.
+
+Noel: Aviation International News supplies more detail about the facility in Linkoping. It reports that Sferical A I is part-owned by Saab, Ericsson, and AstraZeneca, and uses Nvidia's DGX SuperPOD architecture.
+
+Noel: The same report gives the scale as one thousand one hundred fifty two Nvidia Grace Blackwell G B three hundred graphics processing units.
+
+Noel: That is a lot of hardware to put behind simulated flying. But the most useful question remains what the hardware is being asked to teach.
+
+Noel: Aviation International News reports that the Academy can train reinforcement learning agents at large scale and support development of large language models, with the approaches capable of being combined in hybrid agents.
+
+Noel: The public account does not give us enough detail to reconstruct the specific agent that flew. We should not fill that space by imagining a chatbot strapped into a fighter.
+
+Noel: What Saab describes is a family of agents using different A I techniques. The announcement does not provide names for individual members of that family or a detailed recipe for each one.
+
+Noel: And computing capacity is not itself a performance score.
+
+Noel: It provides room to run more training and evaluation. Whether those runs reveal a weakness depends on the scenarios and tests being used. A billion repetitions of an easy question would still leave the hard question unanswered.
+
+Noel: That is an illustration of the evaluation problem, not a description of what Saab has done.
+
+Noel: The company's own description of the Academy leaves room for that problem: create, train, evaluate, expand. Those are continuing activities.
+
+Noel: A flight test adds something simulation cannot supply on its own: evidence from the software operating in an actual aircraft under the conditions of that flight. Simulation adds something an individual pilot's experience cannot supply: repeated exposure to a much larger collection of constructed situations.
+
+Noel: The value lies in how those kinds of evidence are connected, and in how failures change the next round of work.
+
+Noel: The Academy should therefore be read as infrastructure for continuing scrutiny, not as a certificate that makes further scrutiny unnecessary.
+
+Noel: That is why a test regime is not the same thing as trust. A regime describes how evidence is produced. Trust requires judging what that evidence supports, including its limits. Ellis's distinction keeps the flight result intact without asking it to answer questions the flight account does not address.
+
+Noel: Which brings us back to the person beside the agent.
+
+Noel: In Saab's release, Nilsson describes a future of networks of crewed and uncrewed systems working together as a coordinated force, rather than individual platforms acting alone.
+
+Noel: Breaking Defense reports that Saab is developing three unmanned aircraft, A one, A two, and A three, on a path toward a new loyal wingman drone design.
+
+Noel: Aviation International News reports that agents developed for Gripen E will also be adapted for autonomous collaborative platforms, and that development can run in the other direction. It also describes possible adaptation for other force assets, including the GlobalEye airborne early warning aircraft.
+
+Noel: Those are reported development directions. They are not a list of fielded agent capabilities.
+
+Noel: But they explain why authority is the spine of this story. The ambition is not simply to make one aircraft fly a particular encounter. It is to coordinate systems with different roles, some carrying people and some not.
+
+Noel: As an analytical question, that raises more than whether a human can press a button. It raises what the system is allowed to decide before anybody needs to press it.
+
+Noel: Saab says A I for fighter aircraft must be trusted. It says safety and control are integrated into development from the outset, rather than added afterwards.
+
+Noel: That is a clear statement of principle. The public announcement does not turn it into a cockpit arrangement.
+
+Noel: It does not say who can override Saab's in-house agent during flight.
+
+Noel: It does not say how quickly an override takes effect.
+
+Noel: It does not describe what the agent is authorised to do beyond the reported control of the aircraft in beyond visual range scenarios.
+
+Noel: And it does not explain who answers for a choice the agent makes.
+
+Noel: Those are unanswered questions in this announcement. They are not evidence that Saab has no answers internally, and they are not evidence of something sinister. A company announcement is not a doctrine document.
+
+Noel: Still, the difference between a principle and an arrangement is something we can report plainly.
+
+Noel: The earlier Centaur account helps make that difference visible. There, the public record specified a safety pilot able to take back control at all times. It also specified that the agent cued the pilot to fire.
+
+Noel: For the new in-house trials, the release gives us safety and control from the outset. It does not give us those same operational details.
+
+Noel: So when we say a human remains in charge, we need to know what "in charge" means in the situation being described. Otherwise, the phrase can carry more reassurance than the evidence supports.
+
+Noel: Ellis's point is that supervision has to be specific enough to work.
+
+Noel: If a system flies an engagement while a pilot supervises it, that pilot's task differs from directly flying the engagement. The person needs a usable way to exercise authority before the situation outruns the opportunity to intervene.
+
+Noel: That is the standard the authority question needs to address. It is not a claim that we know Saab's arrangement fails it.
+
+Noel: The public evidence here supports a narrower conclusion: Saab says an agent controlled the aircraft, and its announcement does not explain the particular human override arrangement for those flights.
+
+Noel: The same care applies to timing.
+
+Noel: Aviation International News reports Nilsson suggesting deployable agents could take just months, or single digits of years.
+
+Noel: That is a company official's estimate, not a commitment. And it is a wide range. Months or single digit years tells us something about the direction of development, but it does not give us a deployment date.
+
+Noel: There is no basis in this record for announcing a customer order, a Swedish Air Force adoption decision, or an operational unit using the agents.
+
+Noel: What Saab says it is doing now is expanding their capabilities and flying them in a broader range of scenarios.
+
+Noel: That gives us a practical way to read the next announcement. Does it identify what changed? Does it describe the conditions tested? Does it explain the limits, and the authority arrangements, more precisely?
+
+Noel: Those questions let us follow progress without treating every demonstration as the final destination.
+
+Noel: Saab's announcement contains a real technical claim: its own agent has controlled Gripen E in beyond visual range combat scenarios under real flight conditions. It also describes an in-house system for training and evaluating agents beyond a single demonstration.
+
+Noel: The Academy is the part worth keeping in view. A school for agents cannot finish its job by producing one successful flight. Its usefulness depends on continuing to find the situations where the next flight should not proceed, or where the system needs to behave differently.
+
+Noel: Saab has built that school and says it has flown a graduate. What will decide where this goes is the evaluation that continues after the flight, and the authority arrangements that become specific enough to examine.
+
+Noel: Who can stop the agent. How quickly. What it may decide. Who answers.
+
+Noel: That is where the next evidence belongs.
+
+Noel: I'm Noel. This is Reporting from the Uncanny Valley.

@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>Reporting from the Uncanny Valley is a technology and culture podcast hosted by Noel Brown from New York's Hudson Valley. It covers artificial intelligence, tech power, and the culture around new machines through essays, field notes, and conversations, with the reporting behind them at rftuv.ai. Plainspoken and curious, with no hype and no tribal politics. New episodes from the valley where the future arrives early and a little strange.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 15:18:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 17:37:05 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/reporting.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Reporting from the Uncanny Valley</itunes:author>
@@ -21,6 +21,26 @@
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
     <podcast:location>Hudson Valley, New York, USA</podcast:location>
+    <item>
+      <title>The Agent in the Cockpit: Saab Flies Its Own AI on Gripen E</title>
+      <description>The Agent in the Cockpit: Saab Flies Its Own AI on Gripen E. Hosted by Noel.
+
+Saab announced on November 3, 2026 that it has developed a family of AI agents in-house, within its Advanced Programs business unit, and has flown them on Gripen E. According to the company, during the flight trials an agent autonomously controlled the aircraft in beyond visual range combat scenarios, and that capability has now been validated under real flight conditions. Saab's release gives no date, flight count, location, or opponent for those in-house trials, publishes no performance score, and establishes no combat deployment, no operational unit, and no weapons release by an agent. The agents were developed together with their training environments and supporting tools inside Saab, which the company says gives it control over how they operate, how they are verified, and how they evolve. A central part of the programme is the AI Fighter Pilot Academy, Saab's initiative for creating, training, and evaluating agents across scenarios and platforms; agents accumulate millions of simulated flight hours and are continuously evaluated against defined objectives. The work is supported by Sferical AI, a Swedish sovereign AI initiative in which Saab is a founding partner; Aviation International News reports its Linkoping facility is part-owned by Saab, Ericsson, and AstraZeneca and runs on 1,152 Nvidia Grace Blackwell GB300 GPUs. The episode keeps the separate 2025 precedent distinct: Helsing's Centaur agent first flew on a Gripen E trials aircraft on May 28, 2025 under Project Beyond, executed beyond visual range manoeuvres over the Baltic Sea, cued the pilot to fire rather than firing itself, and flew with a safety pilot able to take back control at all times. Saab's 2026 release describes no equivalent cockpit arrangement for its in-house flights; it states that safety and control are integrated into development from the outset. Aviation International News reports Peter Nilsson suggesting deployable agents could take months, or single digits of years, presented in the episode as a company official's wide estimate, not a schedule. Ellis Ward lens throughout: a test regime is not the same thing as trust, and supervision is only real when human authority is specific, who can stop the agent, how quickly, what it may decide, and who answers. Hosted by Noel.
+
+Stories:
+- The flight act: the November 3, 2026 announcement; the in-house family of agents from Saab Advanced Programs under Peter Nilsson; tactical decision-making in complex environments; cockpit support or operation alongside pilots in an unmanned platform; the agent autonomously controlling Gripen E in beyond visual range scenarios, validated under real flight conditions as Saab's claim; Gripen E's software-defined architecture segregating mission software from flight-critical functions; and the clearly separate 2025 Helsing Centaur precedent, dated May 28, 2025, with its safety pilot and its cue to the pilot to fire (Saab press release, November 3, 2026; Breaking Defense, November 3, 2026; Aviation International News, November 3, 2026; Saab and Helsing announcement reporting, June 2025)
+- The academy act: the AI Fighter Pilot Academy as initiative and infrastructure for creating, training, and evaluating agents; millions of simulated flight hours; continuous evaluation against defined objectives; reusable infrastructure; Nilsson's harder question about turning a flight success into a dependable, learning capability, as reported by Breaking Defense; Sferical AI as sovereign compute and the data control reasoning behind it; and why a test regime is not the same thing as trust (Saab press release, November 3, 2026; Breaking Defense, November 3, 2026; Aviation International News, November 3, 2026)
+- The command act: networks of crewed and uncrewed systems as Saab's stated future; reported development directions including the A1, A2, and A3 unmanned aircraft and adaptation of agents to platforms such as GlobalEye; the release's trust principle stated fairly; and the unanswered authority questions named plainly, override, speed of override, authorisation beyond beyond visual range control, and accountability, with the 2025 safety pilot arrangement as the careful contrast (Saab press release, November 3, 2026; Breaking Defense, November 3, 2026; Aviation International News, November 3, 2026)</description>
+      <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">0499e633-ba02-58e8-aaf2-21da4cfee87b</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-reporting/ep032.mp3" length="7742437" type="audio/mpeg" />
+      <itunes:duration>00:16:07</itunes:duration>
+      <itunes:episode>32</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/reporting/ep032.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/reporting/ep032.txt" type="text/plain" />
+    </item>
     <item>
       <title>Putting Words in People's Mouths, in Real Time</title>
       <description>Putting Words in People's Mouths, in Real Time. Hosted by Noel.
