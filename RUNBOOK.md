@@ -187,3 +187,9 @@ before syncing).
 - Adam Curry, hyperlocal podcasting notes — http://hyperlocal.noagendanotes.com/
   ("Your RSS feed is your direct connection to your listeners" — the reason
   this failover exists and must stay rehearsed, not improvised.)
+
+---
+
+## Addendum — 2026-11-03 (GUID preservation; agreed with Codex cross-check)
+
+The 51 backlog episodes' provisional GUIDs are no longer internal: they are live in the backup feeds, held by direct subscribers and the Podcast Index. The reconciliation step above (rewrite a manifest GUID to Rebel's when Rebel publishes the episode) therefore carries a backup-side cost Codex flagged and the desk accepts: changing a GUID that listeners already hold forks that episode's identity on the backup side too. **Rule until Noel approves an explicit identity plan: provisional GUIDs are PRESERVED as-is. Do not reconcile them to Rebel GUIDs after any capacity relief, and do not regenerate them, unless Rebel confirms it can accept/assign the existing GUIDs or Noel rules otherwise.** New episodes under a restored Rebel-first flow are unaffected (they take Rebel's GUID from birth, as dual maintenance intends).
