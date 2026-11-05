@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-05T02:26:30.811015+00:00",
+ "generated": "2026-11-05T02:43:06.744790+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -3682,6 +3682,33 @@
      "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep031.mp3",
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep031.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep031.txt"
+    },
+    {
+     "episode_number": 32,
+     "production_episode_number": 32,
+     "title": "The Film Crew That Never Comes to White Plains",
+     "bundle_title": "The Film Crew That Never Comes to White Plains",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/dead-air-valley/2026-11-04-ep32",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/dead-air-valley/2026-11-04-ep32/audio.mp3",
+     "audio_bytes": 8030245,
+     "duration_seconds": 1003,
+     "duration": "00:16:43",
+     "duration_source": "bundle-metadata",
+     "date": "2026-11-04",
+     "feed_match": false,
+     "status_raw": "STAGED at the final publish step per Codex's final-QA gate (2026-11-04): recorded, rendered, verified, and bundled; NOT published, NOT Drive-synced, NOT mirrored to the backup RSS. Release proceeds only on Codex's action-time release check. Drive sync and backup-RSS mirror are release-step legs. QA chain: review package routed Nov 4; APPROVED at the final QA gate after the source record was updated with the now-directly verified News 12 report (Nov 3, 2026): https://westchester.news12.com/fake-filming-location-offers-target-white-plains-property-owners - it directly confirms the scam, the banking-information ask, the paid-role and location offers, city-clerk verification, and the Filmwp address. Opening election timing revalidated before recording (evening, Nov 4): the Westchester emergency-ballot count that began Wednesday morning in Ardsley was still running, so the opening stands unchanged; no other narration change. No victim counts, losses, or named complainants appear anywhere in the episode; none are in the record. Spoken-form conversion passed the fail-closed gate (18 turns, narration only). Render: TTS ok, 1,003 s, 8,030,245 bytes; silence scan clean, max volume -4.4 dB (no clipping). Episode GUID generated once under the established deterministic rule; never regenerated. No meter, quota, or limit event in this run.",
+     "description": "The Film Crew That Never Comes to White Plains. Told by Silas Van Wyck.\n\nWhite Plains police are warning homeowners about scammers posing as a film crew: location fees and paid background roles offered up front, banking details requested to send the payments, and no production behind any of it. Silas sets the warning against the shoots that really did come to the city, and against the paper trail a genuine production leaves behind.\n\nStories:\n- The Department of Public Safety warning, and what a film-permit scam asks for\n- Real cameras in White Plains: Disclosure Day on Hamilton Avenue, and the earlier shoots\n- The paper trail: permits, notices, and the five business days\n\nSources:\n- Lohud, \"White Plains film permit scam warning,\" November 4, 2026: https://www.lohud.com/story/news/2026/11/04/white-plains-film-permit-scam-warning/92607459007/\n- News 12 Westchester, \"Fake filming location offers target White Plains property owners,\" November 3, 2026: https://westchester.news12.com/fake-filming-location-offers-target-white-plains-property-owners\n- Lohud, Disclosure Day in Westchester, June 17, 2026: https://www.lohud.com/story/entertainment/movies/2026/06/17/did-you-spot-westchester-in-steven-spielberg-disclosure-day-movie-emily-blunt/90576357007/\n- City of White Plains, Business Notification form and Form B (cityofwhiteplains.com DocumentCenter)",
+     "description_source": "shownotes",
+     "guid": "6146dae7-72f2-5fe6-8b2a-9b818bda8d61",
+     "guid_source": "provisional",
+     "pubDate": "Wed, 04 Nov 2026 12:00:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep032.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep032.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep032.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep032.txt"
     }
    ]
   }
