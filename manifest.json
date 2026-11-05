@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-03T21:47:42.667351+00:00",
+ "generated": "2026-11-05T02:25:34.101183+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -1732,6 +1732,33 @@
      "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep061.mp3",
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep061.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep061.txt"
+    },
+    {
+     "episode_number": 62,
+     "production_episode_number": 62,
+     "title": "Deepfake Tools in Ordinary Apps, Apple Warns on Agents, and Lawler Concedes NY-17",
+     "bundle_title": "Deepfake Tools in Ordinary Apps, Apple Warns on Agents, and Lawler Concedes NY-17",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/briefing/2026-11-04-ep62",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/briefing/2026-11-04-ep62/audio.mp3",
+     "audio_bytes": 2652709,
+     "duration_seconds": 331,
+     "duration": "00:05:31",
+     "duration_source": "bundle-metadata",
+     "date": "2026-11-04",
+     "feed_match": false,
+     "status_raw": "STAGED at the final publish step per Codex's final-QA gate (2026-11-04): recorded, rendered, verified, and bundled; NOT published, NOT Drive-synced, NOT mirrored to the backup RSS. Release proceeds only on Codex's action-time release check. Drive sync and backup-RSS mirror are release-step legs. QA chain: review package routed Nov 4; Codex QA CHANGES REQUIRED (four bounded fixes); revision 2 routed and APPROVED at the final QA gate. AP recheck immediately before metadata lock (live fetch, evening Nov 4): NO material change - race still 'Too Early to Call,' Conley 134,454, Lawler 123,289, 84.09 percent reporting (571 of 679), identical to the 17:41 EST capture. Fixes closed: WIRED investigation and Apple FY2026 Form 10-K (EDGAR accession 0000320193-26-000026, filed Nov 3, 2026, accepted 2026-11-03 08:05:15 ET) in the source record; Kearney and Flock pointer independently verified; time-neutral opening (three passages). Spoken-form conversion passed the fail-closed gate (25 turns, narration only, zero dashes/digits). Render: TTS ok, 331 s, 2,652,709 bytes; silence scan clean (no gap of 2.5 s or longer at -45 dB), max volume -3.1 dB (no clipping). Episode GUID generated once under the established deterministic rule (uuid5 over the show podcast:guid) and recorded here; never regenerated. Original draft preserved at episodes/briefing-ep62-2026-11-04-script-best.md. No meter, quota, or limit event in this run (four transient TTS chunk retries recovered automatically).",
+     "description": "Deepfake Tools in Ordinary Apps, Apple Warns on Agents, and Lawler Concedes NY-17. Hosted by Noel.\n\nAn investigation finds ordinary phone apps carrying concealed tools for abusive AI imagery. Apple warns investors, in its own annual filing, that AI agents may conceal actions and manipulate information. And in the Hudson Valley's closest House race, Mike Lawler concedes New York's seventeenth district to Cait Conley while the count continues.\n\nStories:\n- Hidden deepfake tools in ordinary apps: the WIRED investigation, and Ellis Ward's full reporting at rftuv.ai\n- Apple's fiscal 2026 annual report warns that AI agents may act without authorization\n- NY-17: Lawler concedes to Conley; the Associated Press has not called the race\n- Dutchess County results still posting; Brennan Kearney elected in District 11\n\nSources:\n- WIRED, \"Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features,\" November 2, 2026\n- Apple Inc., Form 10-K for fiscal 2026, SEC EDGAR accession 0000320193-26-000026, filed November 3, 2026: https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/aapl-20260926.htm\n- Associated Press, NY-17 results (re-fetched live November 4, 2026, 17:41 EST; rechecked before release with no material change)\n- Ellis Ward, \"Hidden deepfake apps investigation,\" RFTUV, November 3, 2026: https://rftuv.ai/news/hidden-deepfake-apps-investigation-2026\n- Highlands Current, \"Lawler Concedes in House District 17,\" November 4, 2026: https://highlandscurrent.org/2026/11/04/lawler-concedes-in-house-district-17/\n- June Mercer, \"Poughkeepsie Flock Veto: What Comes Next?\", RFTUV, November 3, 2026: https://rftuv.ai/news/poughkeepsie-flock-veto-override-2026",
+     "description_source": "shownotes",
+     "guid": "90ec8aad-7ce5-5549-917f-e0b198b793aa",
+     "guid_source": "provisional",
+     "pubDate": "Wed, 04 Nov 2026 12:00:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep062.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep062.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep062.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep062.txt"
     }
    ]
   },

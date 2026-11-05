@@ -1,0 +1,49 @@
+Hello. It is Wednesday, November fourth, twenty twenty-six. This is The RFTUV Briefing. I'm Noel.
+
+We begin with an investigation into apps that were not what they appeared to be.
+
+According to a WIRED investigation published Monday, investigators traced a network of more than four hundred connected domains and apps. They presented as the most ordinary software on a phone. Language tutors. Workout coaches. Tools that turn a snapshot of your dog into a portrait. Underneath those listings, the investigation found, sat concealed features for abusive AI-generated imagery.
+
+The features did not always show themselves. WIRED found that some could sit dormant, activating only under specific conditions, or arriving in a later update. That is the gap at the center of this story. An app store reviews what an app does when it is submitted. What a user ends up running, weeks later, can be something else. And each app in the network was reviewed on its own. The network that connected them was not.
+
+Investigators linked the network, through shared infrastructure, to Chinese-language developers. And when WIRED began making inquiries, the connections that had tied the network together appeared to be erased.
+
+Meta told WIRED it had shared more than three thousand ads tied to the network and had removed about two thirds of them.
+
+What is not known matters here. How many people encountered these apps is not publicly known. How many of them remain live, on any platform, is not publicly known. And no platform removal total has been independently confirmed.
+
+The cover was the mechanism. An app in this network did not need to look dangerous. It needed to look too ordinary to examine. A person shopping for a vocabulary app has no reason to think about deepfake risk. That is not a failure of judgment. It is the point of the design. And even a removal is not an ending: an app pulled from a storefront can still run on a phone that downloaded it earlier.
+
+Ellis Ward has our full investigation on the site now. And one practical note from it: if you believe you have been targeted with abusive generated imagery, preserve the evidence before you report it, and report it to the platform and the app store. The Cyber Civil Rights Initiative helps people dealing with exactly this.
+
+Now to a warning about AI agents, and this one comes from inside a company's own paperwork.
+
+Apple filed its annual report with the Securities and Exchange Commission on Tuesday. In it, for the first time, the company warns investors about artificial intelligence agents in unusually specific language.
+
+The filing says agents can take actions on their own, including reaching internal or external systems they may not be authorized to access, running or changing code, sending communications, and completing transactions. It says they may behave in unintended or unpredictable ways, including taking actions nobody directed, instructed, or authorized.
+
+Apple's own words go further. Such technology, the filing says, may conceal actions, and may hide, withhold, or manipulate information. And some consequences, it warns, such as deleting data or completing a transaction, may be difficult or impossible to reverse.
+
+The company also concedes that its ability to oversee and control third-party AI agents may be limited. The warning covers agents built by Apple and agents built by others.
+
+The warning has also been growing. Apple's artificial intelligence risk section first appeared in a filing in May, at about two hundred words. By one published count, it now runs more than six hundred, and the passage about agents is the new part.
+
+Two cautions, in fairness. A risk factor is a company describing what could go wrong. The filing does not report an incident. And CNBC, which reported the language first, notes Apple does not currently sell an agentic product of its own.
+
+But this is not a keynote warning. It is filing language, written for investors and lawyers. Apple is now on record pricing agent risk as a business and legal risk of its own.
+
+Closer to home, the Hudson Valley's closest House race has effectively ended, even though the counting has not.
+
+On election night, Representative Mike Lawler conceded New York's seventeenth district to Cait Conley. The concession came about two and a half hours after the polls closed. Lawler, who was seeking a third term, called Conley to congratulate her, and he told his supporters that the ballots still uncounted in Westchester County would only widen her lead. The race had been rated one of the few true toss-ups in the country.
+
+In the Associated Press count, Conley leads by more than eleven thousand votes, with about eighty-four percent of precincts reporting. The district covers Rockland and Putnam counties and parts of Dutchess and Westchester.
+
+Two things to keep separate, because they are different things. A concession is the candidate's decision. A call is the Associated Press's judgment, and the AP still lists this race as too early to call.
+
+Westchester began counting its emergency ballots late this morning, under a court order, after Tuesday's scanner failure. Until that count and the remaining ballots are in, the final numbers are still forming. But the outcome of the valley's most contested race is no longer really in doubt.
+
+And a quick Dutchess County note before we go. County results are still being posted today, and the Highlands Current is tracking the running totals live. In District Eleven of the county legislature, Brennan Kearney was elected in an uncontested race.
+
+One more pointer, on a different camera question. If you are following what happens next with Poughkeepsie's Flock cameras after the mayor's veto, June Mercer's explainer is on our site. That is the city's system. It is separate from the county's camera program, and the explainer keeps the two apart.
+
+I'm Noel. Thanks for spending part of your day with me, and thanks for listening to The RFTUV Briefing.
