@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>The RFTUV Briefing is a short AI news and tech news podcast from Reporting from the Uncanny Valley (RFTUV), built from reporting and analysis at rftuv.ai. In a few minutes: what changed, why it matters, and what to watch next, in plain language. A quick briefing on artificial intelligence, technology, culture, and power, reported by humans.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 02:25:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 02:26:10 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/briefing.xml" rel="self" type="application/rss+xml" />
     <itunes:author>The RFTUV Briefing</itunes:author>
@@ -20,6 +20,36 @@
     <podcast:guid>dd1b915a-98c8-59c0-a2ce-b5f61f5255a9</podcast:guid>
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
+    <item>
+      <title>Synthetic Ads, an Off Switch for Rogue Agents, and the Count That Is Still Running</title>
+      <description>Synthetic Ads, an Off Switch for Rogue Agents, and the Count That Is Still Running. Hosted by Noel.
+
+Election Day brought the count that is still running in Westchester, a Hudson Valley state Senate seat changing hands on unofficial numbers, and two stories about the machinery underneath the vote: the latest count of AI-made political advertising in this election cycle, and a security company selling an off switch for AI agents that go wrong.
+
+Stories:
+- The Wesleyan Media Project's latest count of AI-made political advertising: more than $187 million counted through October 29
+- CrowdStrike buys an off switch for rogue AI agents, and buys the companies around it
+- Westchester's emergency ballots, still being counted; House control called overnight
+- State Senate District 39: Lisa Kaul defeats Rob Rolison on unofficial totals
+
+Sources:
+- Wesleyan Media Project, 2026 cycle releases (May 28, September 4, October 15, October 29, 2026)
+- USA Today, "Slopaganda: AI campaign ads skyrocket in 2026," October 30, 2026: https://www.usatoday.com/story/news/politics/elections/2026/10/30/slopaganda-ai-campaign-ads-skyrocket-2026/92368828007/
+- CrowdStrike press releases, November 3, 2026 (AI Kill Switch; Fiddler and Dreadnode acquisitions): https://www.crowdstrike.com/en-us/press-releases/crowdstrike-introduces-ai-kill-switch-for-ai-safety/
+- Wall Street Journal, "CrowdStrike to Buy Two AI Security Startups for $495 Million," November 3, 2026 (prices as reported by the Journal)
+- Associated Press, Westchester County scanner-malfunction report, November 3, 2026
+- Black Westchester, election updates, November 4, 2026 (County Legislature District 15 officially incomplete)
+- Associated Press race calls (Senate, late November 3; House, early November 4); New York State Board of Elections unofficial totals via the Times Herald-Record</description>
+      <pubDate>Wed, 04 Nov 2026 12:10:00 +0000</pubDate>
+      <guid isPermaLink="false">b0b8bd8e-4ba2-5bd9-9016-ad389faab447</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep063.mp3" length="2624677" type="audio/mpeg" />
+      <itunes:duration>00:05:28</itunes:duration>
+      <itunes:episode>63</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep063.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep063.txt" type="text/plain" />
+    </item>
     <item>
       <title>Deepfake Tools in Ordinary Apps, Apple Warns on Agents, and Lawler Concedes NY-17</title>
       <description>Deepfake Tools in Ordinary Apps, Apple Warns on Agents, and Lawler Concedes NY-17. Hosted by Noel.

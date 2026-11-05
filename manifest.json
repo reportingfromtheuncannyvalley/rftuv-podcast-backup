@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-05T02:25:34.101183+00:00",
+ "generated": "2026-11-05T02:26:04.134456+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -1759,6 +1759,33 @@
      "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep062.mp3",
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep062.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep062.txt"
+    },
+    {
+     "episode_number": 63,
+     "production_episode_number": 63,
+     "title": "Synthetic Ads, an Off Switch for Rogue Agents, and the Count That Is Still Running",
+     "bundle_title": "Synthetic Ads, an Off Switch for Rogue Agents, and the Count That Is Still Running",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/briefing/2026-11-04-ep63",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/briefing/2026-11-04-ep63/audio.mp3",
+     "audio_bytes": 2624677,
+     "duration_seconds": 328,
+     "duration": "00:05:28",
+     "duration_source": "bundle-metadata",
+     "date": "2026-11-04",
+     "feed_match": false,
+     "status_raw": "STAGED at the final publish step per Codex's final-QA gate (2026-11-04): recorded, rendered, verified, and bundled; NOT published, NOT Drive-synced, NOT mirrored to the backup RSS. Release proceeds only on Codex's action-time release check. Drive sync and backup-RSS mirror are release-step legs. QA chain: review package routed Nov 4; Codex QA CHANGES REQUIRED (six fixes); revision 2 routed; at the final QA gate one exact correction was ordered and applied as revision 3 (preserved separately): 'the final update of the count' becomes 'the latest update of the count' in the narration, with the description's two 'final count' phrases conformed to 'latest count.' All other rev2 revisions preserved (Wesleyan final-cycle framing, CNBC fallback removals, CrowdStrike Nov 3 primaries, AP Westchester report, county-legislature line verified via Black Westchester, superlative removed). Relative-time copy revalidated at recording (evening, Nov 4): 'Good evening,' the Nov 4 dateline, 'yesterday,' 'late last night,' 'early this morning,' 'late this afternoon,' and the still-counting Westchester state are all accurate for a Nov 4 release. Spoken-form conversion passed the fail-closed gate (14 turns, narration only). Render: TTS ok, 328 s, 2,624,677 bytes; silence scan clean, max volume -5.0 dB (no clipping). Episode GUID generated once under the established deterministic rule; never regenerated. Original draft preserved at episodes/briefing-ep63-2026-11-04-script-best.md. No meter, quota, or limit event in this run.",
+     "description": "Synthetic Ads, an Off Switch for Rogue Agents, and the Count That Is Still Running. Hosted by Noel.\n\nElection Day brought the count that is still running in Westchester, a Hudson Valley state Senate seat changing hands on unofficial numbers, and two stories about the machinery underneath the vote: the latest count of AI-made political advertising in this election cycle, and a security company selling an off switch for AI agents that go wrong.\n\nStories:\n- The Wesleyan Media Project's latest count of AI-made political advertising: more than $187 million counted through October 29\n- CrowdStrike buys an off switch for rogue AI agents, and buys the companies around it\n- Westchester's emergency ballots, still being counted; House control called overnight\n- State Senate District 39: Lisa Kaul defeats Rob Rolison on unofficial totals\n\nSources:\n- Wesleyan Media Project, 2026 cycle releases (May 28, September 4, October 15, October 29, 2026)\n- USA Today, \"Slopaganda: AI campaign ads skyrocket in 2026,\" October 30, 2026: https://www.usatoday.com/story/news/politics/elections/2026/10/30/slopaganda-ai-campaign-ads-skyrocket-2026/92368828007/\n- CrowdStrike press releases, November 3, 2026 (AI Kill Switch; Fiddler and Dreadnode acquisitions): https://www.crowdstrike.com/en-us/press-releases/crowdstrike-introduces-ai-kill-switch-for-ai-safety/\n- Wall Street Journal, \"CrowdStrike to Buy Two AI Security Startups for $495 Million,\" November 3, 2026 (prices as reported by the Journal)\n- Associated Press, Westchester County scanner-malfunction report, November 3, 2026\n- Black Westchester, election updates, November 4, 2026 (County Legislature District 15 officially incomplete)\n- Associated Press race calls (Senate, late November 3; House, early November 4); New York State Board of Elections unofficial totals via the Times Herald-Record",
+     "description_source": "shownotes",
+     "guid": "b0b8bd8e-4ba2-5bd9-9016-ad389faab447",
+     "guid_source": "provisional",
+     "pubDate": "Wed, 04 Nov 2026 12:10:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep063.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep063.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep063.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep063.txt"
     }
    ]
   },
