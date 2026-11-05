@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>Reporting from the Uncanny Valley is a technology and culture podcast hosted by Noel Brown from New York's Hudson Valley. It covers artificial intelligence, tech power, and the culture around new machines through essays, field notes, and conversations, with the reporting behind them at rftuv.ai. Plainspoken and curious, with no hype and no tribal politics. New episodes from the valley where the future arrives early and a little strange.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 02:26:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 02:27:09 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/reporting.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Reporting from the Uncanny Valley</itunes:author>
@@ -21,6 +21,34 @@
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
     <podcast:location>Hudson Valley, New York, USA</podcast:location>
+    <item>
+      <title>Australia Tells Its Highest Court the Ban Protects Children's Brains</title>
+      <description>Australia Tells Its Highest Court the Ban Protects Children's Brains. Hosted by Noel.
+
+Australia's social media ban for children under sixteen is a year old, and this week it reached the country's highest court, where the government defended it as protection for developing brains. A year in, about 4.7 million accounts were restricted in the initial implementation period, and by the regulator's own evaluation, four in ten children who were on the platforms are still there. Mara Quinn's lens frames the episode: a state that sets an age floor for public life has to say what a year buys, and what it costs to be wrong in either direction. And in New York, the attorney general's final rules for a similar law are now published, with the technical bar written into the rule itself.
+
+Stories:
+- The constitutional challenge: the Digital Freedom Project and Reddit against the Commonwealth, High Court of Australia, heard November 3 and 4
+- The outcome numbers, a year in: accounts restricted, and the regulator's own evaluation
+- What New York wrote into its final SAFE for Kids Act rule
+
+Sources:
+- High Court of Australia, Case S163/2025 (The Digital Freedom Project Incorporated v Commonwealth &amp; Ors) and joined Case S166/2025 (Reddit, Inc. v Commonwealth &amp; Anor), filings on hcourt.gov.au
+- eSafety Commissioner, regulatory guidance and compliance pages (platform list; penalty ceiling of 300,000 penalty units, about A$109.2 million): esafety.gov.au
+- eSafety Commissioner, "Early days, early insights: Understanding experiences of social media age restrictions at the three-month follow-up" (evaluation report, July 2026): https://www.esafety.gov.au/sites/default/files/2026-08/Early-days-Early-Insights-SMMA-Evaluation-Understanding-experiences-of-social-media-age-restrictions-August2026.pdf
+- Online Safety Amendment (Strengthening Enforcement for the Social Media Minimum Age) Act 2026 (assent September 11, 2026)
+- New York Attorney General, SAFE for Kids Act final rule (Part 700) and July 2026 release: https://ag.ny.gov/safe-for-kids-act-final-rule
+- Hearing reporting: Associated Press, Australian Associated Press, Reuters (courtroom color only)</description>
+      <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">f2a810dd-6a1f-5459-959e-9e8628130d97</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-reporting/ep033.mp3" length="7869541" type="audio/mpeg" />
+      <itunes:duration>00:16:23</itunes:duration>
+      <itunes:episode>33</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/reporting/ep033.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/reporting/ep033.txt" type="text/plain" />
+    </item>
     <item>
       <title>The Agent in the Cockpit: Saab Flies Its Own AI on Gripen E</title>
       <description>The Agent in the Cockpit: Saab Flies Its Own AI on Gripen E. Hosted by Noel.

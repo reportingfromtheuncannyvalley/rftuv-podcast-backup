@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-05T02:26:04.134456+00:00",
+ "generated": "2026-11-05T02:26:30.811015+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -2722,6 +2722,33 @@
      "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-reporting/ep032.mp3",
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/reporting/ep032.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/reporting/ep032.txt"
+    },
+    {
+     "episode_number": 33,
+     "production_episode_number": 33,
+     "title": "Australia Tells Its Highest Court the Ban Protects Children's Brains",
+     "bundle_title": "Australia Tells Its Highest Court the Ban Protects Children's Brains",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/reporting/2026-11-04-ep33",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/reporting/2026-11-04-ep33/audio.mp3",
+     "audio_bytes": 7869541,
+     "duration_seconds": 983,
+     "duration": "00:16:23",
+     "duration_source": "bundle-metadata",
+     "date": "2026-11-04",
+     "feed_match": false,
+     "status_raw": "STAGED at the final publish step per Codex's final-QA gate (2026-11-04): recorded, rendered, verified, and bundled; NOT published, NOT Drive-synced, NOT mirrored to the backup RSS. Release proceeds only on Codex's action-time release check. Drive sync and backup-RSS mirror are release-step legs. QA chain: review package routed Nov 4; Codex QA CHANGES REQUIRED; revision 2 routed; at the final QA gate a documentary correction was ordered and applied as revision 3 (preserved separately): (1) the source record's dependency for the evaluation outcomes is now eSafety's direct evaluation report, 'Early days, early insights: Understanding experiences of social media age restrictions at the three-month follow-up' (eSafety Commissioner, July 2026; longitudinal study of more than 4,000 children and families; surveyed account-holding among 10-to-15-year-olds fell from 52.4 percent at baseline to 42.1 percent at the three-month follow-up; PDF on esafety.gov.au) - the Medical Daily secondary account is no longer the record's basis; (2) the narration's 'running total ... has since passed five million' clause is REMOVED (no direct current eSafety record for the figure was cited); (3) the description now reads 'about 4.7 million accounts were restricted in the initial implementation period.' The material A$ correction stands: corporate ceiling 300,000 penalty units, about A$109.2 million per current eSafety guidance (Online Safety Amendment (Strengthening Enforcement for the Social Media Minimum Age) Act 2026, assent Sep 11, 2026), superseding AP's A$49.5 million, conflict documented in the revision package. Spoken-form conversion passed the fail-closed gate (15 turns, narration only). Render: TTS ok, 983 s, 7,869,541 bytes; silence scan clean, max volume -3.7 dB (no clipping). Episode GUID generated once under the established deterministic rule; never regenerated. Original draft preserved at episodes/reporting-ep33-2026-11-04-script-best.md. No meter, quota, or limit event in this run.",
+     "description": "Australia Tells Its Highest Court the Ban Protects Children's Brains. Hosted by Noel.\n\nAustralia's social media ban for children under sixteen is a year old, and this week it reached the country's highest court, where the government defended it as protection for developing brains. A year in, about 4.7 million accounts were restricted in the initial implementation period, and by the regulator's own evaluation, four in ten children who were on the platforms are still there. Mara Quinn's lens frames the episode: a state that sets an age floor for public life has to say what a year buys, and what it costs to be wrong in either direction. And in New York, the attorney general's final rules for a similar law are now published, with the technical bar written into the rule itself.\n\nStories:\n- The constitutional challenge: the Digital Freedom Project and Reddit against the Commonwealth, High Court of Australia, heard November 3 and 4\n- The outcome numbers, a year in: accounts restricted, and the regulator's own evaluation\n- What New York wrote into its final SAFE for Kids Act rule\n\nSources:\n- High Court of Australia, Case S163/2025 (The Digital Freedom Project Incorporated v Commonwealth & Ors) and joined Case S166/2025 (Reddit, Inc. v Commonwealth & Anor), filings on hcourt.gov.au\n- eSafety Commissioner, regulatory guidance and compliance pages (platform list; penalty ceiling of 300,000 penalty units, about A$109.2 million): esafety.gov.au\n- eSafety Commissioner, \"Early days, early insights: Understanding experiences of social media age restrictions at the three-month follow-up\" (evaluation report, July 2026): https://www.esafety.gov.au/sites/default/files/2026-08/Early-days-Early-Insights-SMMA-Evaluation-Understanding-experiences-of-social-media-age-restrictions-August2026.pdf\n- Online Safety Amendment (Strengthening Enforcement for the Social Media Minimum Age) Act 2026 (assent September 11, 2026)\n- New York Attorney General, SAFE for Kids Act final rule (Part 700) and July 2026 release: https://ag.ny.gov/safe-for-kids-act-final-rule\n- Hearing reporting: Associated Press, Australian Associated Press, Reuters (courtroom color only)",
+     "description_source": "shownotes",
+     "guid": "f2a810dd-6a1f-5459-959e-9e8628130d97",
+     "guid_source": "provisional",
+     "pubDate": "Wed, 04 Nov 2026 12:00:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep033.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-reporting/ep033.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/reporting/ep033.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/reporting/ep033.txt"
     }
    ]
   },
