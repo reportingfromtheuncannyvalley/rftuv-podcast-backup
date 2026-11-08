@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-05T02:43:06.744790+00:00",
+ "generated": "2026-11-08T23:00:02.409602+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -1786,6 +1786,33 @@
      "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep063.mp3",
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep063.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep063.txt"
+    },
+    {
+     "episode_number": 64,
+     "production_episode_number": 64,
+     "title": "Move Over Enforcement, Dutchess Flips, and AI Agents",
+     "bundle_title": "Move Over Enforcement, Dutchess Flips, and AI Agents",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/briefing/2026-11-05-ep64",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/briefing/2026-11-05-ep64/audio.mp3",
+     "audio_bytes": 1982053,
+     "duration_seconds": 247,
+     "duration": "00:04:07",
+     "duration_source": "bundle-metadata",
+     "date": "2026-11-05",
+     "feed_match": false,
+     "status_raw": "CORRECTED AND RE-BUNDLED Nov 7, 2026: the Nov 5 script carried two stale lines for a later release (opener dated Thursday, November fifth; closer said Crash Responder Safety Week 'closes out tomorrow'). Under Noel's Nov 7 order, QA moved to the ChatGPT side (Codex capped until 2:51 PM ET): it approved five exact replacements (opener date + spoken episode number removed; 'This was the week...' / 'ran from' past-tense pair; closer 'That's the Midday Briefing' + 'concluded yesterday') and the title above. Desk applied the replacements verbatim to the bundle script (asserted one occurrence each; 693 -> 686 words; zero em/en dashes); re-rendered with the same voice (247.752 s, 1,982,053 bytes; silence scan clean; max -4.7 dB). GUID derived once from the approved title and locked here. HELD FOR RELEASE: publication awaits the release-sequence decision and Noel's per-instance word.",
+     "description": "## Description\n\nMove Over Enforcement, Dutchess Flips, and AI Agents\n\nMidday Briefing Ep64 covers Crash Responder Safety Week, New York's Move Over enforcement numbers, a fatal crash in Southeast, unofficial Dutchess supervisor results, and Uber's early measurements of AI-agent activity.\n\n## Shownotes\n\n- Crash Responder Safety Week runs November 2 through November 6.\n- Troop K issued 158 citations during an eight-hour detail in Dutchess and Putnam counties.\n- New York State reported 6,241 tickets during the October 17 National Move Over Day campaign, including 105 Move Over violations.\n- The episode discusses the fatal Southeast crash reported in the November 4 RFTUV blotter.\n- Dutchess supervisor results remain unofficial and include three Democratic flips.\n- Uber reported separate early measures for AI-agent activity: four ride bookings in one report, and 504 combined orders and rides against 320 million weekly transactions in another.\n\n## Sources\n\n1. RFTUV, \u201cBlotter: Wednesday, November 4, 2026\u201d\n   https://rftuv.ai/news/blotter-wednesday-november-4-2026\n2. Mid Hudson News, \u201cDems pick up supervisor seats in Dutchess\u201d\n   https://news.google.com/rss/articles/CBMihgFBVV95cUxNbkVlUllvMmdld0tWX3loUkVYMTdFN2RLV2I0V2VXTmpOYXBPOFU2RURfMGtiRGFQSnZlOXE3YUt4MDlhMFlJaDdCOF9YTEFLY043b2lRNXg2YTJveFhVODJnU1luZnQ5SjdGeVpiZzlGZHVwaTVWN3ZqWGxJbHplNHh2eTZDZw?oc=5\n3. Unite.AI, \u201cUber Says AI Agents Booked Just Four Rides During Halloween Week\u201d\n   https://news.google.com/rss/articles/CBMijwFBVV95cUxQUEdhWGdZV1NjMy1pNEl3blFsRFBPTWx4RnNuU0ktOF9XejVicXB0NVJwOWxHVktLWlVyaHVHUUU2bktYUVhoYS1FLXhYV3FjOUZSeVdGSlNFZE1oWVVXSFhYZXpBSWNXRVF4Z1RvMGxpMUVPVS00a1BpdDIwdWE3WDE0ZGxnNnUzQ3hjZ3dmMA?oc=5\n4. Benzinga, \u201cUber Reveals AI Agents Barely Make a Dent: Just 504 Orders and Rides Against 320 Million Weekly Transactions\u201d\n   https://news.google.com/rss/articles/CBMiqgJBVV95cUxQN0g0WFR2RmI4TUh4ZkwzWm9JaVJUZnpUQk51OXVtcnJ0M2RoRTJvUXFja1IzVE9nVS01QnF4NkY0b01RcVRuRUYzR1BxcWhCNFcxTWpMb3pkS1d5cHcwdFgzMFFaclpLNU5zdnpiRVlnQnhpejBkM1VRejhyTzdESzlqbmN4WWplUHhFMmIxSHVzYlF3STRZb2FTZ0syYjQwMVZoREhXa0NJVGtIX2EzY2M0eVFucV9kb2ZCVmJHT3ZVczkwLTI1RDdJMklXYlY4VmVBRUVnb0NYSExWN2ZEc2VsdWpTSlNFQ2ltMlRJLVZHUG8yWmkybmdBUXN0OGN4amVzQUJvY1NtdFRSZzM4bDhIWkhjR0lRNXRvZnRaNm1VclRRUTktU2pB?oc=5\n\n---\n\nINTERNAL RECORD - DO NOT PUBLISH\n- Package: PODCAST QA REVISION - Midday Briefing Ep64 - 2026-11-05.md (Handoffs), status QA-PASSED FOR RECORDING AND BUNDLING. This revision supersedes PODCAST PACKAGE - Midday Briefing Ep64 - 2026-11-05.md.\n- Artwork: show-cover fallback per package instruction (existing Midday Briefing artwork).\n- YouTube episode number: TBD by platform reconciliation (Blocker 5).\n- Publishing: NOT performed in this step. The package carries no episode title; the backup feed requires a title and the episode GUID derives from it. Title requested from Codex; release follows the publish gate.\n\n- CORRECTION AND RE-RENDER, Nov 7, 2026: freshness correction via the ChatGPT-side QA (Job A, PODCAST QA PACKAGE - Midday Briefing Ep64 CORRECTION - 2026-11-07): five exact replacements applied to the script (opener re-dated to Saturday, November seventh, spoken episode number removed; traffic paragraph past-tensed; closer re-dated, week 'concluded yesterday'). Title approved: \"Move Over Enforcement, Dutchess Flips, and AI Agents\". Re-rendered 247.752 s / 1,982,053 bytes, silence clean, max -4.7 dB. GUID locked in metadata. The Nov 5 render (249.84 s) is superseded.",
+     "description_source": "shownotes",
+     "guid": "e2b95a75-c39b-50ec-95d9-63dba4038093",
+     "guid_source": "provisional",
+     "pubDate": "Thu, 05 Nov 2026 12:00:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep064.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep064.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep064.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep064.txt"
     }
    ]
   },
