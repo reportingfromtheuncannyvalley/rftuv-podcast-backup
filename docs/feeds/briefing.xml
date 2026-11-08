@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>The RFTUV Briefing is a short AI news and tech news podcast from Reporting from the Uncanny Valley (RFTUV), built from reporting and analysis at rftuv.ai. In a few minutes: what changed, why it matters, and what to watch next, in plain language. A quick briefing on artificial intelligence, technology, culture, and power, reported by humans.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 23:03:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 23:03:34 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/briefing.xml" rel="self" type="application/rss+xml" />
     <itunes:author>The RFTUV Briefing</itunes:author>
@@ -20,6 +20,35 @@
     <podcast:guid>dd1b915a-98c8-59c0-a2ce-b5f61f5255a9</podcast:guid>
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
+    <item>
+      <title>California Drops Ballot Case, Anthropic IPO Reset, Newburgh Sewer Funding</title>
+      <description>Title: California Drops Ballot Case, Anthropic IPO Reset, Newburgh Sewer Funding
+Date: Sunday, November 8, 2026
+Host: Noel
+
+The Justice Department drops its California ballot-segregation lawsuit after four unsuccessful emergency court requests, leaving the underlying legal question unresolved. Anthropic faces reported downward pressure on IPO valuation expectations as its filing reveals customer concentration, infrastructure expenses, and long-term commitments. The City of Newburgh receives $10 million for a sewer replacement project designed to reduce Hudson River overflows. Plus, Beacon advances to face Port Jervis in the Section 9 Class B football final.
+
+## Stories and Sources
+
+- RFTUV, Callahan Blackwood, reporting on the California ballot-segregation lawsuit, including Associated Press reporting cited therein.
+- RFTUV, Ellis Ward, reporting on Anthropic's IPO valuation expectations and regulatory filing, including Axios reporting cited therein.
+- RFTUV, June Mercer, reporting on Newburgh's South Interceptor Sewer funding.
+- RFTUV, June Mercer, reporting on Beacon's victory over Marlboro and the upcoming Section 9 Class B final.
+
+---
+INTERNAL RECORD — NOT FOR PUBLICATION
+
+- Feed episode: 67. Backup GUID (derived by the feed formula, locked pre-release): a916e9ab-725f-5764-bb73-e6086da2ec37</description>
+      <pubDate>Sun, 08 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">a916e9ab-725f-5764-bb73-e6086da2ec37</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep067.mp3" length="3219109" type="audio/mpeg" />
+      <itunes:duration>00:06:42</itunes:duration>
+      <itunes:episode>67</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep067.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep067.txt" type="text/plain" />
+    </item>
     <item>
       <title>Synthetic Ads, an Off Switch for Rogue Agents, and the Count That Is Still Running</title>
       <description>Synthetic Ads, an Off Switch for Rogue Agents, and the Count That Is Still Running. Hosted by Noel.

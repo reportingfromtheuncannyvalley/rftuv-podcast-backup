@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-08T23:03:15.293288+00:00",
+ "generated": "2026-11-08T23:03:28.613041+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -1814,6 +1814,33 @@
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep064.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep064.txt",
      "status_note": "Published 2026-11-08 ~18:00 ET under Noel's initial release order, then removed from feed minutes later under his superseding instruction not to post stale news (Nov 5 edition). GUID and record preserved; bundle intact."
+    },
+    {
+     "episode_number": 67,
+     "production_episode_number": 67,
+     "title": "California Drops Ballot Case, Anthropic IPO Reset, Newburgh Sewer Funding",
+     "bundle_title": "California Drops Ballot Case, Anthropic IPO Reset, Newburgh Sewer Funding",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/briefing/2026-11-08-ep67",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/briefing/2026-11-08-ep67/audio.mp3",
+     "audio_bytes": 3219109,
+     "duration_seconds": 402,
+     "duration": "00:06:42",
+     "duration_source": "bundle-metadata",
+     "date": "2026-11-08",
+     "feed_match": false,
+     "status_raw": "HELD FOR RELEASE \u2014 awaiting Noel's per-instance word",
+     "description": "Title: California Drops Ballot Case, Anthropic IPO Reset, Newburgh Sewer Funding\nDate: Sunday, November 8, 2026\nHost: Noel\n\nThe Justice Department drops its California ballot-segregation lawsuit after four unsuccessful emergency court requests, leaving the underlying legal question unresolved. Anthropic faces reported downward pressure on IPO valuation expectations as its filing reveals customer concentration, infrastructure expenses, and long-term commitments. The City of Newburgh receives $10 million for a sewer replacement project designed to reduce Hudson River overflows. Plus, Beacon advances to face Port Jervis in the Section 9 Class B football final.\n\n## Stories and Sources\n\n- RFTUV, Callahan Blackwood, reporting on the California ballot-segregation lawsuit, including Associated Press reporting cited therein.\n- RFTUV, Ellis Ward, reporting on Anthropic's IPO valuation expectations and regulatory filing, including Axios reporting cited therein.\n- RFTUV, June Mercer, reporting on Newburgh's South Interceptor Sewer funding.\n- RFTUV, June Mercer, reporting on Beacon's victory over Marlboro and the upcoming Section 9 Class B final.\n\n---\nINTERNAL RECORD \u2014 NOT FOR PUBLICATION\n\n- Feed episode: 67. Backup GUID (derived by the feed formula, locked pre-release): a916e9ab-725f-5764-bb73-e6086da2ec37",
+     "description_source": "shownotes",
+     "guid": "a916e9ab-725f-5764-bb73-e6086da2ec37",
+     "guid_source": "provisional",
+     "pubDate": "Sun, 08 Nov 2026 12:00:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep067.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep067.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep067.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep067.txt"
     }
    ]
   },
