@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-08T23:03:50.491330+00:00",
+ "generated": "2026-11-08T23:04:00.372107+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -3872,6 +3872,33 @@
      "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep034.mp3",
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep034.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep034.txt"
+    },
+    {
+     "episode_number": 35,
+     "production_episode_number": 35,
+     "title": "Eggbert Returns: The Hudson Valley's Christmas Egg Turns Patriotic",
+     "bundle_title": "Eggbert Returns: The Hudson Valley's Christmas Egg Turns Patriotic",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/dead-air-valley/2026-11-08-ep35",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/dead-air-valley/2026-11-08-ep35/audio.mp3",
+     "audio_bytes": 10262821,
+     "duration_seconds": 1282,
+     "duration": "00:21:22",
+     "duration_source": "bundle-metadata",
+     "date": "2026-11-08",
+     "feed_match": false,
+     "status_raw": "HELD FOR RELEASE \u2014 awaiting Noel's per-instance word",
+     "description": "Title: Eggbert Returns: The Hudson Valley's Christmas Egg Turns Patriotic\nDate: Sunday, November 8, 2026\nNarrator: Silas Van Wyck\n\nThe Hudson Valley's strangest Christmas celebrity is returning to New Windsor. Eggbert, the talking animatronic egg who began life promoting New York's poultry industry, is back for Christmas on the Farm at Devitt's Nursery. This year, the celebration takes on America's two hundred fiftieth birthday. Silas Van Wyck traces Eggbert's unlikely journey from the New York State Fair to a wooden throne in Orange County, through disappearance, rumors, resurrection, and the arrival of his companion, Eggclair. Plus, the return of Angry Eggbert beer and a December brewery celebration.\nSources:\n\t\u2022\t101.5 WPDH and Townsquare Media, including 94.3 Lite FM and Hudson Valley Country, November 6, 2026.\n\t\u2022\tWikipedia, Eggbert (New York).\n\t\u2022\tChronogram, December 2025.\n\t\u2022\tThe Takeout, 2019.\n\n---\nINTERNAL RECORD \u2014 NOT FOR PUBLICATION\n\n- Feed episode: 35. Backup GUID (derived by the feed formula, locked pre-release): dc4e01c5-3770-5efb-8919-16edea637f4d",
+     "description_source": "shownotes",
+     "guid": "dc4e01c5-3770-5efb-8919-16edea637f4d",
+     "guid_source": "provisional",
+     "pubDate": "Sun, 08 Nov 2026 12:00:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep035.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep035.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep035.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep035.txt"
     }
    ]
   }

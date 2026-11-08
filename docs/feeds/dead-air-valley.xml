@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>Dead Air Valley explores the strange history, local legends, forgotten places, and unsettling stories of the Hudson Valley and the regions around it. From Sleepy Hollow and old river towns to neighboring valleys, back roads, abandoned landmarks, and the people who shaped them, each episode finds something worth bringing back into the light. Hosted by a rotating group of voices, with occasional noir-style narration, Dead Air Valley moves between atmospheric storytelling, local history, conversation, and timely discoveries. Episodes may be short, long, solo, or roundtable, but each begins with one question: what's still waiting in the dead air?</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 23:03:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 23:04:06 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/dead-air-valley.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Dead Air Valley</itunes:author>
@@ -21,6 +21,33 @@
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
     <podcast:location>Hudson Valley, New York, USA</podcast:location>
+    <item>
+      <title>Eggbert Returns: The Hudson Valley's Christmas Egg Turns Patriotic</title>
+      <description>Title: Eggbert Returns: The Hudson Valley's Christmas Egg Turns Patriotic
+Date: Sunday, November 8, 2026
+Narrator: Silas Van Wyck
+
+The Hudson Valley's strangest Christmas celebrity is returning to New Windsor. Eggbert, the talking animatronic egg who began life promoting New York's poultry industry, is back for Christmas on the Farm at Devitt's Nursery. This year, the celebration takes on America's two hundred fiftieth birthday. Silas Van Wyck traces Eggbert's unlikely journey from the New York State Fair to a wooden throne in Orange County, through disappearance, rumors, resurrection, and the arrival of his companion, Eggclair. Plus, the return of Angry Eggbert beer and a December brewery celebration.
+Sources:
+	•	101.5 WPDH and Townsquare Media, including 94.3 Lite FM and Hudson Valley Country, November 6, 2026.
+	•	Wikipedia, Eggbert (New York).
+	•	Chronogram, December 2025.
+	•	The Takeout, 2019.
+
+---
+INTERNAL RECORD — NOT FOR PUBLICATION
+
+- Feed episode: 35. Backup GUID (derived by the feed formula, locked pre-release): dc4e01c5-3770-5efb-8919-16edea637f4d</description>
+      <pubDate>Sun, 08 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">dc4e01c5-3770-5efb-8919-16edea637f4d</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep035.mp3" length="10262821" type="audio/mpeg" />
+      <itunes:duration>00:21:22</itunes:duration>
+      <itunes:episode>35</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep035.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep035.txt" type="text/plain" />
+    </item>
     <item>
       <title>The Store That Died on Halloween and Came Back as Christmas</title>
       <description>Title: The Store That Died on Halloween and Came Back as Christmas
