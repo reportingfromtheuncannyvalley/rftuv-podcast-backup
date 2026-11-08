@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>Dead Air Valley explores the strange history, local legends, forgotten places, and unsettling stories of the Hudson Valley and the regions around it. From Sleepy Hollow and old river towns to neighboring valleys, back roads, abandoned landmarks, and the people who shaped them, each episode finds something worth bringing back into the light. Hosted by a rotating group of voices, with occasional noir-style narration, Dead Air Valley moves between atmospheric storytelling, local history, conversation, and timely discoveries. Episodes may be short, long, solo, or roundtable, but each begins with one question: what's still waiting in the dead air?</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 23:03:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 23:03:23 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/dead-air-valley.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Dead Air Valley</itunes:author>
@@ -21,6 +21,35 @@
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
     <podcast:location>Hudson Valley, New York, USA</podcast:location>
+    <item>
+      <title>The Store That Died on Halloween and Came Back as Christmas</title>
+      <description>Title: The Store That Died on Halloween and Came Back as Christmas
+Date: Saturday, November 7, 2026
+Host: Silas Van Wyck
+
+Silas Van Wyck on the store at 39 North Plank Road in Newburgh that closed as Spirit Halloween on October 31 and reopened six days later as Spirit Christmas, and on what it means when a building can change holidays faster than the rest of us can change our minds.
+
+## Stories and Sources
+
+- Spirit Halloween, 39 North Plank Road, Newburgh, New York (beside Dollar Tree), closed October 31, 2026 and reopened as Spirit Christmas on November 6, 2026. Spencer Spirit Holdings operates both seasonal chains. Third year for the Spirit Christmas concept: 44 locations announced, 43 listed on Spirit's store locator as of November 3, across 15 states; 38 former Halloween stores converted, plus five Christmas-only stores that opened October 17. New York locations: Albany (131 Colonie Center), Buffalo (4090 Maple Road), Newburgh (39 North Plank Road), Scarsdale (965 Central Park Avenue). Stores sell decor, gifts, and apparel; hours and closing dates were not posted at the time of recording.
+  - Times Herald-Record, November 6, 2026 (retrieved November 7, 2026)
+  - Spirit store locator, as tracked by the Haunted Attraction Network (retrieved November 7, 2026)
+  - Corroboration: USA Today; WOUR; Democrat and Chronicle (retrieved November 7, 2026)
+
+---
+INTERNAL RECORD — NOT FOR PUBLICATION
+
+- Feed episode: 34. Backup GUID (derived by the feed formula, locked pre-release): 05aba544-829d-5f27-8a70-12718675c302</description>
+      <pubDate>Sat, 07 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">05aba544-829d-5f27-8a70-12718675c302</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep034.mp3" length="10326373" type="audio/mpeg" />
+      <itunes:duration>00:21:30</itunes:duration>
+      <itunes:episode>34</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep034.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep034.txt" type="text/plain" />
+    </item>
     <item>
       <title>The Meeting That a Facebook Comment Stopped</title>
       <description>Dead Air Valley, Episode 33. Friday, November 6, 2026.
