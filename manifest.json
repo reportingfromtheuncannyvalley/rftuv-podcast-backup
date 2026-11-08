@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-08T23:03:41.189622+00:00",
+ "generated": "2026-11-08T23:03:50.491330+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -2831,6 +2831,33 @@
      "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-reporting/ep033.mp3",
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/reporting/ep033.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/reporting/ep033.txt"
+    },
+    {
+     "episode_number": 35,
+     "production_episode_number": 35,
+     "title": "Anthropic's Trillion-Dollar Question: What the IPO Filing Really Reveals",
+     "bundle_title": "Anthropic's Trillion-Dollar Question: What the IPO Filing Really Reveals",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/reporting/2026-11-08-ep35",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/reporting/2026-11-08-ep35/audio.mp3",
+     "audio_bytes": 9344101,
+     "duration_seconds": 1168,
+     "duration": "00:19:28",
+     "duration_source": "bundle-metadata",
+     "date": "2026-11-08",
+     "feed_match": false,
+     "status_raw": "HELD FOR RELEASE \u2014 awaiting Noel's per-instance word",
+     "description": "Title: Anthropic's Trillion-Dollar Question: What the IPO Filing Really Reveals\nDate: Sunday, November 8, 2026\nHost: Noel\n\nAnthropic's prospective public offering has become a test of how investors value the artificial intelligence economy. Following Axios reporting of a downward reset in valuation expectations, Noel examines Anthropic's SEC filing through four interconnected risks: consumption-based revenue, customer and cloud-partner concentration, long-term infrastructure commitments, and concentrated corporate governance.\n\nDrawing on the media and technology analysis framework of Mara Quinn, this long-form edition separates financial disclosures from market speculation and explores the tension between extraordinary growth and durable economic value.\n\nSources\n\n- Anthropic, Form S-1 and November 2, 2026 amendment, U.S. Securities and Exchange Commission.\n- Axios, November 6, 2026, reporting on Anthropic IPO valuation expectations.\n- IT Pro, October 28, 2026, reporting on valuation discussions and enterprise supplier dependence.\n- Reporting from the Uncanny Valley, Ellis Ward, November 7, 2026.\n\n---\nINTERNAL RECORD \u2014 NOT FOR PUBLICATION\n\n- Feed episode: 35. Backup GUID (derived by the feed formula, locked pre-release): b773a77a-6f7b-5533-97e2-c854f94506ed",
+     "description_source": "shownotes",
+     "guid": "b773a77a-6f7b-5533-97e2-c854f94506ed",
+     "guid_source": "provisional",
+     "pubDate": "Sun, 08 Nov 2026 12:00:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep035.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-reporting/ep035.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/reporting/ep035.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/reporting/ep035.txt"
     }
    ]
   },
