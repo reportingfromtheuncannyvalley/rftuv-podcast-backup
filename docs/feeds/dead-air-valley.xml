@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>Dead Air Valley explores the strange history, local legends, forgotten places, and unsettling stories of the Hudson Valley and the regions around it. From Sleepy Hollow and old river towns to neighboring valleys, back roads, abandoned landmarks, and the people who shaped them, each episode finds something worth bringing back into the light. Hosted by a rotating group of voices, with occasional noir-style narration, Dead Air Valley moves between atmospheric storytelling, local history, conversation, and timely discoveries. Episodes may be short, long, solo, or roundtable, but each begins with one question: what's still waiting in the dead air?</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 23:02:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 23:03:10 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/dead-air-valley.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Dead Air Valley</itunes:author>
@@ -21,6 +21,31 @@
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
     <podcast:location>Hudson Valley, New York, USA</podcast:location>
+    <item>
+      <title>The Meeting That a Facebook Comment Stopped</title>
+      <description>Dead Air Valley, Episode 33. Friday, November 6, 2026.
+
+A Facebook comment of four words, posted under a criticism of three Town of Lloyd officials, led board members to stay home from the October 28 special meeting, leaving the board without a quorum and canceling the town's preliminary budget discussion. Silas Van Wyck tells the story from the public record: the meeting that did happen a week earlier, the constituent who carried the warning, the councilman who says he reported it, the State Police who say they have no record of a report, and the one flat sentence with which a small town canceled its own government for an evening.
+
+- The Town of Lloyd's own notice (October 28, 2026) is the primary record of the cancellation and its stated reason.
+- The comment at the center of the story is quoted as reported; the comment itself has been deleted, and the commenter is not identified in any source used.
+- No arrest or charge connected to the comment has been reported as of this recording.
+
+## Sources
+- Hudson Valley Country (Townsquare), Lloyd Town Board Meeting Canceled After Facebook Threat, November 5, 2026: http://hudsonvalleycountry.com/facebook-threat-cancels-lloyd-ny-meeting/?trackback=fbshare_mobile
+- Town of Lloyd, official site news (meeting cancellation notice, October 28, 2026): https://www.townoflloyd.gov/news/?page=3
+- Town of Lloyd, official Facebook page (meeting notice marked canceled, October 28, 2026): https://www.facebook.com/townoflloyd/posts/pfbid035VEVPgvZqogrSwknrNsEUhxkor4J2Ju1MM8pM6bpFxQecpQwVAWNmq7rdANvcunul
+- Times Union reporting (Maria M. Silva), as carried and excerpted in the sources above.</description>
+      <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">b538e6f9-af34-5dc6-83ce-6367ee48d8cd</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep033.mp3" length="7435045" type="audio/mpeg" />
+      <itunes:duration>00:15:29</itunes:duration>
+      <itunes:episode>33</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep033.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep033.txt" type="text/plain" />
+    </item>
     <item>
       <title>The Film Crew That Never Comes to White Plains</title>
       <description>The Film Crew That Never Comes to White Plains. Told by Silas Van Wyck.

@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-08T23:00:02.409602+00:00",
+ "generated": "2026-11-08T23:03:02.602142+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -3737,6 +3737,33 @@
      "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep032.mp3",
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep032.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep032.txt"
+    },
+    {
+     "episode_number": 33,
+     "production_episode_number": 33,
+     "title": "The Meeting That a Facebook Comment Stopped",
+     "bundle_title": "The Meeting That a Facebook Comment Stopped",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/dead-air-valley/2026-11-06-ep33",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/dead-air-valley/2026-11-06-ep33/audio.mp3",
+     "audio_bytes": 7435045,
+     "duration_seconds": 929,
+     "duration": "00:15:29",
+     "duration_source": "bundle-metadata",
+     "date": "2026-11-06",
+     "feed_match": false,
+     "status_raw": "Recorded and bundled Nov 6, 2026 under Codex's QA pass (PODCAST QA PASS - Dead Air Valley Ep33 - 2026-11-06.md) on the 20,771-byte clean revision v2, recorded exactly. Spoken-form conversion passed the fail-closed gate (18 turns, 2,413 words, narration only). Render: TTS ok, 929.376 s, 7,435,045 bytes (one chunk hit a transient backend failure and succeeded on its automatic retry; final render complete). Silence scan clean (no gap of 2.5 s or longer at -45 dB); max volume -5.1 dB, no clipping; first and last lines match the approved script. RELEASE HELD: no feed, YouTube, or platform action taken or authorized. A playable audio copy and this manifest's QA return are filed in Handoffs. No meter, quota, or limit event in this run.",
+     "description": "Dead Air Valley, Episode 33. Friday, November 6, 2026.\n\nA Facebook comment of four words, posted under a criticism of three Town of Lloyd officials, led board members to stay home from the October 28 special meeting, leaving the board without a quorum and canceling the town's preliminary budget discussion. Silas Van Wyck tells the story from the public record: the meeting that did happen a week earlier, the constituent who carried the warning, the councilman who says he reported it, the State Police who say they have no record of a report, and the one flat sentence with which a small town canceled its own government for an evening.\n\n- The Town of Lloyd's own notice (October 28, 2026) is the primary record of the cancellation and its stated reason.\n- The comment at the center of the story is quoted as reported; the comment itself has been deleted, and the commenter is not identified in any source used.\n- No arrest or charge connected to the comment has been reported as of this recording.\n\n## Sources\n- Hudson Valley Country (Townsquare), Lloyd Town Board Meeting Canceled After Facebook Threat, November 5, 2026: http://hudsonvalleycountry.com/facebook-threat-cancels-lloyd-ny-meeting/?trackback=fbshare_mobile\n- Town of Lloyd, official site news (meeting cancellation notice, October 28, 2026): https://www.townoflloyd.gov/news/?page=3\n- Town of Lloyd, official Facebook page (meeting notice marked canceled, October 28, 2026): https://www.facebook.com/townoflloyd/posts/pfbid035VEVPgvZqogrSwknrNsEUhxkor4J2Ju1MM8pM6bpFxQecpQwVAWNmq7rdANvcunul\n- Times Union reporting (Maria M. Silva), as carried and excerpted in the sources above.",
+     "description_source": "shownotes",
+     "guid": "b538e6f9-af34-5dc6-83ce-6367ee48d8cd",
+     "guid_source": "provisional",
+     "pubDate": "Fri, 06 Nov 2026 12:00:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep033.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep033.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep033.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep033.txt"
     }
    ]
   }
