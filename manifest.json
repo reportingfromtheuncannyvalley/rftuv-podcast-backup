@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-08T23:03:28.613041+00:00",
+ "generated": "2026-11-08T23:03:41.189622+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -1841,6 +1841,33 @@
      "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep067.mp3",
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep067.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep067.txt"
+    },
+    {
+     "episode_number": 68,
+     "production_episode_number": 68,
+     "title": "AI Safety Oversight, Banks Block AI Agents, and Delaware's AI Companies",
+     "bundle_title": "AI Safety Oversight, Banks Block AI Agents, and Delaware's AI Companies",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/briefing/2026-11-08-ep68",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/briefing/2026-11-08-ep68/audio.mp3",
+     "audio_bytes": 3546085,
+     "duration_seconds": 443,
+     "duration": "00:07:23",
+     "duration_source": "bundle-metadata",
+     "date": "2026-11-08",
+     "feed_match": false,
+     "status_raw": "HELD FOR RELEASE \u2014 awaiting Noel's per-instance word",
+     "description": "Title: AI Safety Oversight, Banks Block AI Agents, and Delaware's AI Companies\nDate: Sunday, November 8, 2026\nHost: Noel\n\nTonight's Evening Briefing examines questions surrounding the federal government's artificial intelligence evaluation center, British banks restricting AI agents from customer accounts, and Delaware's proposal to let AI-managed companies operate as separate legal entities. Locally, a former elementary school monitor faces criminal charges after allegedly bringing a handgun onto a Rockland County school campus.\nSources:\n\t\u2022\tAssociated Press, November 2026, reporting on the Center for Advancing Innovation and Standards for Super Intelligence.\n\t\u2022\tThe Telegraph, November 8, 2026, reporting on British banks and AI agents.\n\t\u2022\tTimes of India and Dealroom, reporting on Delaware's proposed Artificial Intelligence Company structure and reactions from Mustafa Suleyman and Representative James Comer.\n\t\u2022\tJournal News, lohud, November 6, 2026, reporting on the Farley Elementary School arrest.\n\n---\nINTERNAL RECORD \u2014 NOT FOR PUBLICATION\n\n- Feed episode: 68. Backup GUID (derived by the feed formula, locked pre-release): 8e94705a-06b9-57e0-869e-b43573c50cac",
+     "description_source": "shownotes",
+     "guid": "8e94705a-06b9-57e0-869e-b43573c50cac",
+     "guid_source": "provisional",
+     "pubDate": "Sun, 08 Nov 2026 12:10:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep068.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep068.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep068.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep068.txt"
     }
    ]
   },

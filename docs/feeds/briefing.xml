@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>The RFTUV Briefing is a short AI news and tech news podcast from Reporting from the Uncanny Valley (RFTUV), built from reporting and analysis at rftuv.ai. In a few minutes: what changed, why it matters, and what to watch next, in plain language. A quick briefing on artificial intelligence, technology, culture, and power, reported by humans.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 23:03:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 23:03:47 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/briefing.xml" rel="self" type="application/rss+xml" />
     <itunes:author>The RFTUV Briefing</itunes:author>
@@ -20,6 +20,33 @@
     <podcast:guid>dd1b915a-98c8-59c0-a2ce-b5f61f5255a9</podcast:guid>
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
+    <item>
+      <title>AI Safety Oversight, Banks Block AI Agents, and Delaware's AI Companies</title>
+      <description>Title: AI Safety Oversight, Banks Block AI Agents, and Delaware's AI Companies
+Date: Sunday, November 8, 2026
+Host: Noel
+
+Tonight's Evening Briefing examines questions surrounding the federal government's artificial intelligence evaluation center, British banks restricting AI agents from customer accounts, and Delaware's proposal to let AI-managed companies operate as separate legal entities. Locally, a former elementary school monitor faces criminal charges after allegedly bringing a handgun onto a Rockland County school campus.
+Sources:
+	•	Associated Press, November 2026, reporting on the Center for Advancing Innovation and Standards for Super Intelligence.
+	•	The Telegraph, November 8, 2026, reporting on British banks and AI agents.
+	•	Times of India and Dealroom, reporting on Delaware's proposed Artificial Intelligence Company structure and reactions from Mustafa Suleyman and Representative James Comer.
+	•	Journal News, lohud, November 6, 2026, reporting on the Farley Elementary School arrest.
+
+---
+INTERNAL RECORD — NOT FOR PUBLICATION
+
+- Feed episode: 68. Backup GUID (derived by the feed formula, locked pre-release): 8e94705a-06b9-57e0-869e-b43573c50cac</description>
+      <pubDate>Sun, 08 Nov 2026 12:10:00 +0000</pubDate>
+      <guid isPermaLink="false">8e94705a-06b9-57e0-869e-b43573c50cac</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep068.mp3" length="3546085" type="audio/mpeg" />
+      <itunes:duration>00:07:23</itunes:duration>
+      <itunes:episode>68</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep068.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep068.txt" type="text/plain" />
+    </item>
     <item>
       <title>California Drops Ballot Case, Anthropic IPO Reset, Newburgh Sewer Funding</title>
       <description>Title: California Drops Ballot Case, Anthropic IPO Reset, Newburgh Sewer Funding
