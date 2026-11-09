@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>The RFTUV Briefing is a short AI news and tech news podcast from Reporting from the Uncanny Valley (RFTUV), built from reporting and analysis at rftuv.ai. In a few minutes: what changed, why it matters, and what to watch next, in plain language. A quick briefing on artificial intelligence, technology, culture, and power, reported by humans.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 23:04:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 00:02:16 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/briefing.xml" rel="self" type="application/rss+xml" />
     <itunes:author>The RFTUV Briefing</itunes:author>
@@ -75,6 +75,53 @@ INTERNAL RECORD — NOT FOR PUBLICATION
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep067.jpg" />
       <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep067.txt" type="text/plain" />
+    </item>
+    <item>
+      <title>Move Over Enforcement, Dutchess Flips, and AI Agents</title>
+      <description>## Description
+
+Move Over Enforcement, Dutchess Flips, and AI Agents
+
+Midday Briefing Ep64 covers Crash Responder Safety Week, New York's Move Over enforcement numbers, a fatal crash in Southeast, unofficial Dutchess supervisor results, and Uber's early measurements of AI-agent activity.
+
+## Shownotes
+
+- Crash Responder Safety Week runs November 2 through November 6.
+- Troop K issued 158 citations during an eight-hour detail in Dutchess and Putnam counties.
+- New York State reported 6,241 tickets during the October 17 National Move Over Day campaign, including 105 Move Over violations.
+- The episode discusses the fatal Southeast crash reported in the November 4 RFTUV blotter.
+- Dutchess supervisor results remain unofficial and include three Democratic flips.
+- Uber reported separate early measures for AI-agent activity: four ride bookings in one report, and 504 combined orders and rides against 320 million weekly transactions in another.
+
+## Sources
+
+1. RFTUV, “Blotter: Wednesday, November 4, 2026”
+   https://rftuv.ai/news/blotter-wednesday-november-4-2026
+2. Mid Hudson News, “Dems pick up supervisor seats in Dutchess”
+   https://news.google.com/rss/articles/CBMihgFBVV95cUxNbkVlUllvMmdld0tWX3loUkVYMTdFN2RLV2I0V2VXTmpOYXBPOFU2RURfMGtiRGFQSnZlOXE3YUt4MDlhMFlJaDdCOF9YTEFLY043b2lRNXg2YTJveFhVODJnU1luZnQ5SjdGeVpiZzlGZHVwaTVWN3ZqWGxJbHplNHh2eTZDZw?oc=5
+3. Unite.AI, “Uber Says AI Agents Booked Just Four Rides During Halloween Week”
+   https://news.google.com/rss/articles/CBMijwFBVV95cUxQUEdhWGdZV1NjMy1pNEl3blFsRFBPTWx4RnNuU0ktOF9XejVicXB0NVJwOWxHVktLWlVyaHVHUUU2bktYUVhoYS1FLXhYV3FjOUZSeVdGSlNFZE1oWVVXSFhYZXpBSWNXRVF4Z1RvMGxpMUVPVS00a1BpdDIwdWE3WDE0ZGxnNnUzQ3hjZ3dmMA?oc=5
+4. Benzinga, “Uber Reveals AI Agents Barely Make a Dent: Just 504 Orders and Rides Against 320 Million Weekly Transactions”
+   https://news.google.com/rss/articles/CBMiqgJBVV95cUxQN0g0WFR2RmI4TUh4ZkwzWm9JaVJUZnpUQk51OXVtcnJ0M2RoRTJvUXFja1IzVE9nVS01QnF4NkY0b01RcVRuRUYzR1BxcWhCNFcxTWpMb3pkS1d5cHcwdFgzMFFaclpLNU5zdnpiRVlnQnhpejBkM1VRejhyTzdESzlqbmN4WWplUHhFMmIxSHVzYlF3STRZb2FTZ0syYjQwMVZoREhXa0NJVGtIX2EzY2M0eVFucV9kb2ZCVmJHT3ZVczkwLTI1RDdJMklXYlY4VmVBRUVnb0NYSExWN2ZEc2VsdWpTSlNFQ2ltMlRJLVZHUG8yWmkybmdBUXN0OGN4amVzQUJvY1NtdFRSZzM4bDhIWkhjR0lRNXRvZnRaNm1VclRRUTktU2pB?oc=5
+
+---
+
+INTERNAL RECORD - DO NOT PUBLISH
+- Package: PODCAST QA REVISION - Midday Briefing Ep64 - 2026-11-05.md (Handoffs), status QA-PASSED FOR RECORDING AND BUNDLING. This revision supersedes PODCAST PACKAGE - Midday Briefing Ep64 - 2026-11-05.md.
+- Artwork: show-cover fallback per package instruction (existing Midday Briefing artwork).
+- YouTube episode number: TBD by platform reconciliation (Blocker 5).
+- Publishing: NOT performed in this step. The package carries no episode title; the backup feed requires a title and the episode GUID derives from it. Title requested from Codex; release follows the publish gate.
+
+- CORRECTION AND RE-RENDER, Nov 7, 2026: freshness correction via the ChatGPT-side QA (Job A, PODCAST QA PACKAGE - Midday Briefing Ep64 CORRECTION - 2026-11-07): five exact replacements applied to the script (opener re-dated to Saturday, November seventh, spoken episode number removed; traffic paragraph past-tensed; closer re-dated, week 'concluded yesterday'). Title approved: "Move Over Enforcement, Dutchess Flips, and AI Agents". Re-rendered 247.752 s / 1,982,053 bytes, silence clean, max -4.7 dB. GUID locked in metadata. The Nov 5 render (249.84 s) is superseded.</description>
+      <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">e2b95a75-c39b-50ec-95d9-63dba4038093</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep064.mp3" length="1982053" type="audio/mpeg" />
+      <itunes:duration>00:04:07</itunes:duration>
+      <itunes:episode>64</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep064.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep064.txt" type="text/plain" />
     </item>
     <item>
       <title>Synthetic Ads, an Off Switch for Rogue Agents, and the Count That Is Still Running</title>

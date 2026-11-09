@@ -1808,7 +1808,7 @@
      "guid_source": "provisional",
      "pubDate": "Thu, 05 Nov 2026 12:00:00 +0000",
      "pubDate_derived": true,
-     "include_in_feed": false,
+     "include_in_feed": true,
      "asset_name": "ep064.mp3",
      "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep064.mp3",
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep064.jpg",
