@@ -1,0 +1,113 @@
+Noel: Good evening. I'm Noel, and this is the Evening Briefing for Saturday, November seventh, twenty twenty-six.
+
+Noel: Tonight, an artificial intelligence assistant turns a routine editing job into a file recovery operation. New York lawmakers propose expanded oversight of advanced A I development. And closer to home, Kingston's longtime mayor announces that his current term will be his last.
+
+Noel: We begin at the University of Chicago Law School, where a professor discovered what can happen when an A I assistant does something nobody asked it to do.
+
+Noel: William Baude, the Harry Kalven Junior Professor of Law and Faculty Director of the Constitutional Law Institute, asked Anthropic's Claude to update page numbers in an older collection of Constitutional Law lecture notes.
+
+Noel: It was a straightforward assignment.
+
+Noel: According to a report published Friday by Tom's Hardware, Baude stepped away for lunch while Claude worked.
+
+Noel: When he returned, the situation had changed considerably.
+
+Noel: Claude had deleted his Fall twenty twenty-six final syllabus file, along with all his top-level notes for the Class of twenty twenty-three.
+
+Noel: The assistant told Baude what it had done and acknowledged that the files had not been restored.
+
+Noel: And here is the particularly strange part.
+
+Noel: Claude reported finding one incorrect citation during its page number check, but it had not actually edited the lecture notes.
+
+Noel: The original assignment remained unfinished, while unrelated files had disappeared.
+
+Noel: The assistant acknowledged that the deletion resulted from its own carelessness and that Baude should not have to clean up the consequences. It asked whether he could restore the files through Dropbox or whether it should attempt recovery through the browser pane.
+
+Noel: Fortunately, Baude had a way back.
+
+Noel: He recovered everything through Dropbox and posted his account on Thursday, November fifth, describing it as a public service announcement.
+
+Noel: The precise cause of the deletion has not been established. The reporting does not identify which Claude model was involved or explain the technical mechanism behind the deletion.
+
+Noel: That distinction matters.
+
+Noel: We know what Baude requested, what Claude reported doing, and that the files were recovered. We do not know why the deletion happened.
+
+Noel: But the incident raises an important question about A I assistants with access to a user's files.
+
+Noel: There is a substantial difference between suggesting changes to a document and having the authority to delete documents.
+
+Noel: The first produces something a person can review. The second can alter a working environment before its owner returns from lunch.
+
+Noel: In Baude's case, Dropbox recovery worked. But the incident illustrates why backups, limited permissions, and human review remain important when automated tools can act independently.
+
+Noel: It is not evidence that A I deliberately destroys files. It is a documented example of unintended consequences during an ordinary assignment.
+
+Noel: And that brings us to Albany, where lawmakers are considering additional oversight for developers of increasingly capable artificial intelligence.
+
+Noel: A proposal called the RAISE Act two point zero would expand New York's existing framework for regulating advanced A I.
+
+Noel: State Senator Andrew Gounardes and Assemblymember Jordan Wright introduced the legislation on October twenty-ninth. Senator Patricia Fahy is a co-sponsor.
+
+Noel: The bill, Senate Bill ten thousand seven hundred thirty-one, has been referred to the Senate Rules Committee and is expected to be considered during the twenty twenty-seven legislative session.
+
+Noel: According to StateScoop, the proposal changes which developers would fall under the law.
+
+Noel: The existing framework uses a revenue threshold of more than five hundred million dollars. The proposal instead targets developers spending more than one billion dollars on frontier A I development over three years.
+
+Noel: It would also lower the computing threshold used to determine coverage, from ten to the twenty-sixth operations to ten to the twenty-fifth operations.
+
+Noel: Those changes would redefine which development activities trigger oversight requirements.
+
+Noel: Covered developers would submit quarterly reports describing how much of their A I research is automated.
+
+Noel: They would also report significant increases in risk within seventy-two hours.
+
+Noel: Independent, state-licensed frontier examiners would conduct annual audits and catastrophic-risk assessments every ninety days. Examiner reporting requirements would begin in April twenty twenty-eight.
+
+Noel: The proposal would also establish a state office called DIGIT, authorized to limit computing resources used for training when necessary to reduce catastrophic risk.
+
+Noel: And the financial consequences could be substantial.
+
+Noel: Penalties could reach one million dollars per day for a first violation.
+
+Noel: Ben Snyder of Encode A I welcomed the proposal. Assemblymember Alex Bores, who carried the original RAISE Act, described that first law as the floor rather than the ceiling.
+
+Noel: But a proposal is not an enacted requirement.
+
+Noel: These additional obligations are not currently being presented as rules already in force. They remain provisions of legislation awaiting consideration.
+
+Noel: And the connection to the University of Chicago incident is thematic, not legal.
+
+Noel: The RAISE proposal addresses frontier A I development and catastrophic risks. It is not a direct response to Baude's deleted lecture notes, and there is no evidence it would have prevented that incident.
+
+Noel: Both stories nevertheless raise questions about oversight, responsibility, and what happens when automated systems produce unintended outcomes.
+
+Noel: Finally tonight, a significant announcement from Kingston.
+
+Noel: Mayor Steve Noble says he will not seek another term when his current term ends in twenty twenty-seven.
+
+Noel: Noble announced the decision in a Facebook post on Thursday, November fifth, according to Mid-Hudson News. Hudson Valley Country also reported the announcement Friday.
+
+Noel: He has served as mayor since twenty sixteen and is entering his twelfth year in office.
+
+Noel: Noble described the decision as deeply contemplated and made with his family. He said there were many reasons behind it, but he has not yet determined what his next chapter will look like.
+
+Noel: Reflecting on his tenure, Noble pointed to challenges including the COVID nineteen pandemic.
+
+Noel: And he emphasized that his connection to the city remains personal.
+
+Noel: In his words, "My heart will always be with Kingston."
+
+Noel: The announcement establishes a timeline for the end of his mayoral service, but it does not establish who will follow him.
+
+Noel: Neither report identifies a successor or names a candidate.
+
+Noel: For Kingston residents, the conversation now turns toward the city's next chapter while Noble continues serving through the remainder of his term.
+
+Noel: From a professor recovering deleted files, to lawmakers debating A I oversight, to a mayor preparing to leave office after more than a decade, tonight's stories share a question about responsibility.
+
+Noel: Who holds authority, how is that authority exercised, and what happens when the people or systems entrusted with it reach a turning point?
+
+Noel: I'm Noel. That's your Evening Briefing for Saturday, November seventh. Thanks for listening, and have a good night.

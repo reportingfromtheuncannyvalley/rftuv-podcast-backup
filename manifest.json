@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-09T00:02:27.992501+00:00",
+ "generated": "2026-11-09T00:02:46.104318+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -1895,6 +1895,33 @@
      "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep065.mp3",
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep065.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep065.txt"
+    },
+    {
+     "episode_number": 66,
+     "production_episode_number": 66,
+     "title": "When AI Deletes the Syllabus, New York Tightens Oversight, and Kingston Looks Ahead",
+     "bundle_title": "When AI Deletes the Syllabus, New York Tightens Oversight, and Kingston Looks Ahead",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/briefing/2026-11-07-ep66",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/briefing/2026-11-07-ep66/audio.mp3",
+     "audio_bytes": 3159397,
+     "duration_seconds": 394,
+     "duration": "00:06:34",
+     "duration_source": "bundle-metadata",
+     "date": "2026-11-07",
+     "feed_match": false,
+     "status_raw": "STALE \u2014 NOT RELEASED. Dated news edition held during the Nov 5-8 release-gate failure; its news day has passed. Marked stale Nov 8, 2026 under Noel's freshness instruction. Bundle retained as archive record; do not release. Prior status record: HELD FOR RELEASE \u2014 awaiting Noel's per-instance word",
+     "description": "Title: When AI Deletes the Syllabus, New York Tightens Oversight, and Kingston Looks Ahead\nDate: Saturday, November 7, 2026\nHost: Noel\n\nTonight: an AI assistant deletes a law professor's syllabus and lecture notes during a routine editing job; New York lawmakers propose the RAISE Act 2.0 to expand oversight of frontier AI developers; and Kingston Mayor Steve Noble announces he will not seek another term.\n\n## Stories and Sources\n\n- University of Chicago Law School professor William Baude asked Anthropic's Claude to update page numbers in Constitutional Law lecture notes; Claude deleted his Fall 2026 final syllabus and top-level Class of 2023 notes, acknowledged the deletion and its own carelessness, and did not restore the files; Baude recovered everything through Dropbox and posted the account on November 5 as a public service announcement. The cause has not been established and the model was not identified.\n  - Tom's Hardware, November 6, 2026 (retrieved November 7, 2026)\n- RAISE Act 2.0 (S.10731), introduced October 29, 2026 by Senator Andrew Gounardes and Assemblymember Jordan Wright, co-sponsored by Senator Patricia Fahy, referred to the Senate Rules Committee: coverage shifts from a $500 million revenue test to $1 billion in frontier AI spending over three years; compute threshold lowered from 10^26 to 10^25 operations; quarterly automated-research reports; 72-hour significant-risk reporting; state-licensed frontier examiners with annual audits and 90-day risk assessments from April 2028; a new office, DIGIT, may limit training compute; penalties up to $1 million per day for a first violation. Ben Snyder of Encode welcomed the proposal; Assemblymember Alex Bores called the original RAISE Act \"the floor, not the ceiling.\" The bill is a proposal, not enacted law.\n  - StateScoop, November 6, 2026 (retrieved November 7, 2026); corroboration: PYMNTS; Senate introduction announcement\n- Kingston Mayor Steve Noble announced in a Facebook post on Thursday, November 5, 2026 that he will not seek another term when his current term ends in 2027. He has served since 2016 and is entering his twelfth year; he described the decision as deeply contemplated and made with his family, has not determined his next chapter, and said, \"My heart will always be with Kingston.\" No successor or candidate was named in either report.\n  - Mid-Hudson News, November 2026 (retrieved November 7, 2026)\n  - Hudson Valley Country (hudsonvalleycountry.com), November 6, 2026 (retrieved November 7, 2026)\n\n---\nINTERNAL RECORD \u2014 NOT FOR PUBLICATION\n\n- Feed episode: 66. Backup GUID (derived by the feed formula, locked pre-release): 7b859891-f200-584e-9923-df2f378a8c44",
+     "description_source": "shownotes",
+     "guid": "7b859891-f200-584e-9923-df2f378a8c44",
+     "guid_source": "provisional",
+     "pubDate": "Sat, 07 Nov 2026 12:00:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep066.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep066.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep066.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep066.txt"
     }
    ]
   },

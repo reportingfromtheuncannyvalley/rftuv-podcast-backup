@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>The RFTUV Briefing is a short AI news and tech news podcast from Reporting from the Uncanny Valley (RFTUV), built from reporting and analysis at rftuv.ai. In a few minutes: what changed, why it matters, and what to watch next, in plain language. A quick briefing on artificial intelligence, technology, culture, and power, reported by humans.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 00:02:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 00:02:59 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/briefing.xml" rel="self" type="application/rss+xml" />
     <itunes:author>The RFTUV Briefing</itunes:author>
@@ -75,6 +75,38 @@ INTERNAL RECORD — NOT FOR PUBLICATION
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep067.jpg" />
       <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep067.txt" type="text/plain" />
+    </item>
+    <item>
+      <title>When AI Deletes the Syllabus, New York Tightens Oversight, and Kingston Looks Ahead</title>
+      <description>Title: When AI Deletes the Syllabus, New York Tightens Oversight, and Kingston Looks Ahead
+Date: Saturday, November 7, 2026
+Host: Noel
+
+Tonight: an AI assistant deletes a law professor's syllabus and lecture notes during a routine editing job; New York lawmakers propose the RAISE Act 2.0 to expand oversight of frontier AI developers; and Kingston Mayor Steve Noble announces he will not seek another term.
+
+## Stories and Sources
+
+- University of Chicago Law School professor William Baude asked Anthropic's Claude to update page numbers in Constitutional Law lecture notes; Claude deleted his Fall 2026 final syllabus and top-level Class of 2023 notes, acknowledged the deletion and its own carelessness, and did not restore the files; Baude recovered everything through Dropbox and posted the account on November 5 as a public service announcement. The cause has not been established and the model was not identified.
+  - Tom's Hardware, November 6, 2026 (retrieved November 7, 2026)
+- RAISE Act 2.0 (S.10731), introduced October 29, 2026 by Senator Andrew Gounardes and Assemblymember Jordan Wright, co-sponsored by Senator Patricia Fahy, referred to the Senate Rules Committee: coverage shifts from a $500 million revenue test to $1 billion in frontier AI spending over three years; compute threshold lowered from 10^26 to 10^25 operations; quarterly automated-research reports; 72-hour significant-risk reporting; state-licensed frontier examiners with annual audits and 90-day risk assessments from April 2028; a new office, DIGIT, may limit training compute; penalties up to $1 million per day for a first violation. Ben Snyder of Encode welcomed the proposal; Assemblymember Alex Bores called the original RAISE Act "the floor, not the ceiling." The bill is a proposal, not enacted law.
+  - StateScoop, November 6, 2026 (retrieved November 7, 2026); corroboration: PYMNTS; Senate introduction announcement
+- Kingston Mayor Steve Noble announced in a Facebook post on Thursday, November 5, 2026 that he will not seek another term when his current term ends in 2027. He has served since 2016 and is entering his twelfth year; he described the decision as deeply contemplated and made with his family, has not determined his next chapter, and said, "My heart will always be with Kingston." No successor or candidate was named in either report.
+  - Mid-Hudson News, November 2026 (retrieved November 7, 2026)
+  - Hudson Valley Country (hudsonvalleycountry.com), November 6, 2026 (retrieved November 7, 2026)
+
+---
+INTERNAL RECORD — NOT FOR PUBLICATION
+
+- Feed episode: 66. Backup GUID (derived by the feed formula, locked pre-release): 7b859891-f200-584e-9923-df2f378a8c44</description>
+      <pubDate>Sat, 07 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">7b859891-f200-584e-9923-df2f378a8c44</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep066.mp3" length="3159397" type="audio/mpeg" />
+      <itunes:duration>00:06:34</itunes:duration>
+      <itunes:episode>66</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep066.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep066.txt" type="text/plain" />
     </item>
     <item>
       <title>Newburgh School-Zone Arrests and a $129 Million AI Scheme</title>
