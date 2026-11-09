@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>The RFTUV Briefing is a short AI news and tech news podcast from Reporting from the Uncanny Valley (RFTUV), built from reporting and analysis at rftuv.ai. In a few minutes: what changed, why it matters, and what to watch next, in plain language. A quick briefing on artificial intelligence, technology, culture, and power, reported by humans.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 00:02:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 00:02:41 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/briefing.xml" rel="self" type="application/rss+xml" />
     <itunes:author>The RFTUV Briefing</itunes:author>
@@ -75,6 +75,30 @@ INTERNAL RECORD — NOT FOR PUBLICATION
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep067.jpg" />
       <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep067.txt" type="text/plain" />
+    </item>
+    <item>
+      <title>Newburgh School-Zone Arrests and a $129 Million AI Scheme</title>
+      <description>The RFTUV Briefing, Evening Edition, Episode 65. Friday, November 6, 2026.
+
+Evening Briefing for Friday, November 6, 2026: Newburgh police announce the shutdown of an alleged brothel inside a school zone, with two Flushing residents charged; and federal prosecutors in Manhattan unseal an indictment accusing three men of using artificial intelligence to impersonate executives and attorneys and steal more than one hundred twenty-nine million dollars.
+
+- Both stories are charging stories. Every fact drawn from a police release or an indictment is an allegation; all defendants are presumed innocent unless proven guilty, and the script says so on air in both segments.
+- The Newburgh warrant was executed on October 28, 2026; the police release announcing it is dated November 4, 2026.
+
+## Sources
+- U.S. Attorney's Office, Southern District of New York, press release, November 5, 2026: https://www.justice.gov/usao-sdny/pr/three-foreign-nationals-arrested-and-charged-scheme-use-super-intelligence-defraud
+- Associated Press, 3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million (as published by SecurityWeek), November 6, 2026: https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/
+- Urban Updatez, Newburgh Police Shut Down Alleged Brothel Near Schools (full-text restatement of the City of Newburgh PD release), November 4, 2026: https://www.urbanupdatez.com/post/newburgh-police-alleged-brothel-schools-arrests-20000
+- News 12 video report, Brothel operating near Newburgh schools shut down, two arrested: https://www.youtube.com/watch?v=qjAEQAxC7ZE</description>
+      <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">45c6deec-223a-50d8-83f5-48ce5bb4bf11</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep065.mp3" length="2777893" type="audio/mpeg" />
+      <itunes:duration>00:05:47</itunes:duration>
+      <itunes:episode>65</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep065.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep065.txt" type="text/plain" />
     </item>
     <item>
       <title>Move Over Enforcement, Dutchess Flips, and AI Agents</title>

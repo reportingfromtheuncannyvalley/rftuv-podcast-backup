@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-08T23:04:00.372107+00:00",
+ "generated": "2026-11-09T00:02:27.992501+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -1868,6 +1868,33 @@
      "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep068.mp3",
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep068.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep068.txt"
+    },
+    {
+     "episode_number": 65,
+     "production_episode_number": 65,
+     "title": "Newburgh School-Zone Arrests and a $129 Million AI Scheme",
+     "bundle_title": "Newburgh School-Zone Arrests and a $129 Million AI Scheme",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/briefing/2026-11-06-ep65",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/briefing/2026-11-06-ep65/audio.mp3",
+     "audio_bytes": 2777893,
+     "duration_seconds": 347,
+     "duration": "00:05:47",
+     "duration_source": "bundle-metadata",
+     "date": "2026-11-06",
+     "feed_match": false,
+     "status_raw": "STALE \u2014 NOT RELEASED. Dated news edition held during the Nov 5-8 release-gate failure; its news day has passed. Marked stale Nov 8, 2026 under Noel's freshness instruction. Bundle retained as archive record; do not release. Prior status record: Recorded and bundled Nov 6, 2026 under Codex's QA-passed direction (QA-PASSED FOR RECORDING AND BUNDLING; not release approval). Spoken-form conversion passed the fail-closed gate (9 turns, 984 words, narration only). Render: TTS ok, 347.232 s, 2,777,893 bytes; silence scan clean (no gap of 2.5 s or longer at -45 dB); max volume -4.8 dB, no clipping; first and last lines match the approved script.",
+     "description": "The RFTUV Briefing, Evening Edition, Episode 65. Friday, November 6, 2026.\n\nEvening Briefing for Friday, November 6, 2026: Newburgh police announce the shutdown of an alleged brothel inside a school zone, with two Flushing residents charged; and federal prosecutors in Manhattan unseal an indictment accusing three men of using artificial intelligence to impersonate executives and attorneys and steal more than one hundred twenty-nine million dollars.\n\n- Both stories are charging stories. Every fact drawn from a police release or an indictment is an allegation; all defendants are presumed innocent unless proven guilty, and the script says so on air in both segments.\n- The Newburgh warrant was executed on October 28, 2026; the police release announcing it is dated November 4, 2026.\n\n## Sources\n- U.S. Attorney's Office, Southern District of New York, press release, November 5, 2026: https://www.justice.gov/usao-sdny/pr/three-foreign-nationals-arrested-and-charged-scheme-use-super-intelligence-defraud\n- Associated Press, 3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million (as published by SecurityWeek), November 6, 2026: https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/\n- Urban Updatez, Newburgh Police Shut Down Alleged Brothel Near Schools (full-text restatement of the City of Newburgh PD release), November 4, 2026: https://www.urbanupdatez.com/post/newburgh-police-alleged-brothel-schools-arrests-20000\n- News 12 video report, Brothel operating near Newburgh schools shut down, two arrested: https://www.youtube.com/watch?v=qjAEQAxC7ZE",
+     "description_source": "shownotes",
+     "guid": "45c6deec-223a-50d8-83f5-48ce5bb4bf11",
+     "guid_source": "provisional",
+     "pubDate": "Fri, 06 Nov 2026 12:00:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep065.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep065.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep065.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep065.txt"
     }
    ]
   },
