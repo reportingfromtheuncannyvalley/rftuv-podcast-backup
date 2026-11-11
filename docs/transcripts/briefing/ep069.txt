@@ -1,0 +1,45 @@
+Noel: Good midday. I'm Noel Brown, and this is the R F T U V Midday Briefing for Tuesday, November tenth.
+
+Noel: Three stories this hour. Researchers have linked a sweeping A I-driven cyber campaign to China and say it hit more than two hundred organizations in at least fourteen countries with minimal human involvement. Dutchess County Executive Sue Serino has proposed a budget for twenty twenty-seven that the county says closes a nearly ninety-million-dollar gap without cuts or layoffs. White Plains police have made an arrest after a customer found a hidden recording device in a restaurant bathroom.
+
+Noel: We start with the cyber campaign. CrowdStrike, the cybersecurity firm, published its findings Monday. The company attributes the operation to a group it tracks as VAPOR PANDA, believed to be linked to China. The campaign used an A I tool called ARTEX to conduct what CrowdStrike calls autonomous agent-to-agent attacks.
+
+Noel: The speed and degree of automation set this apart from past campaigns. Human operators typically issue around forty commands per hour. The ARTEX system ran approximately fifteen hundred commands per hour. That is roughly thirty-seven times the rate of a human working the same operation. The campaign began around October seventeenth and ran for about eleven days. During that time, it touched more than two hundred organizations in at least fourteen countries.
+
+Noel: CrowdStrike confirmed nine post-exploitation cases. Separately, researchers placed approximately one hundred forty additional organizations in a moderate-confidence assessment category. Those are two distinct findings: nine confirmed, one hundred forty assessed at moderate confidence, but not confirmed. The entry points were consistent: stale credentials, unpatched systems, and misconfigured cloud environments.
+
+Noel: One case drew particular attention. In a Greek government incident, login credentials traced back to twenty twenty-two, years past their useful life. VPN access data turned up sitting in the organization's sent mail folder.
+
+Noel: Check Point, working separately, found two thousand five hundred fifty-seven systems actively hosting ARTEX. Researchers at both firms watched operators switch between A I models when content filters triggered, an apparent attempt to stay ahead of automated defenses.
+
+Noel: On October twentieth, the Department of Homeland Security ordered DeepSeek removed from federal civilian systems. CrowdStrike reviewed the available evidence and found no indication the company DeepSeek participated in this campaign. The apparent link is the ARTEX tool itself, not the developer. No victim organizations have been publicly named. No government has officially confirmed a breach.
+
+Noel: This campaign differs from an earlier operation researchers labeled BOSSAI. In that case, a human manually moved material between A I agents. ARTEX eliminated that step. The agents handed off work to each other on their own, with no human involved in between. That matters because attackers no longer need a person monitoring each handoff. The system runs itself.
+
+Noel: Turning to Dutchess County, County Executive Sue Serino unveiled her proposed budget for twenty twenty-seven on Tuesday.
+
+Noel: The proposal totals seven hundred twenty-two million dollars. County officials say the plan includes no service cuts, no layoffs, and stays under the state property-tax cap.
+
+Noel: If adopted, the average county property-tax rate would fall by four-point-five percent, dropping from two dollars and eleven cents to two dollars and two cents per one thousand dollars of assessed value. Those figures come from county officials and apply to a budget proposal that has not yet been voted on. Legislative hearings and line-by-line review still stand between the executive's description and an adopted county budget.
+
+Noel: The proposal started with a nearly ninety-million-dollar gap. County officials say state and federal mandates consume seventy percent of the total budget. A new federal formula for administering the SNAP food-assistance program adds one-point-eight million dollars in costs for the coming year.
+
+Noel: According to county plans, stated priorities include a community paramedicine program, a First Three childcare pilot, three million dollars for a drug task force, one million dollars for a Housing Trust Fund, three new street-outreach positions, funding for the HOPE Center emergency shelter, and forty-five thousand dollars earmarked for food access programs.
+
+Noel: The county legislature will review the proposal in the coming weeks. No vote has been scheduled as of today.
+
+Noel: In White Plains, officers responded early Sunday to Brazen Fox restaurant on Mamaroneck Avenue after a customer discovered a concealed cellphone recording device inside a unisex bathroom.
+
+Noel: Police arrested a twenty-seven-year-old man from Suffern shortly after one-thirty in the morning. He is charged with second-degree unlawful surveillance, a class E felony under New York State law. That charge is an allegation. He has not been convicted.
+
+Noel: The restaurant said the man was not an employee or credited staff member and that the business is cooperating with the investigation. The case remains open.
+
+Noel: Anyone with information is asked to contact White Plains police at nine-one-four, four-two-two, six-one-one-one. Police say additional victims may exist and are asking anyone who believes they may have been recorded to come forward.
+
+Noel: Before we go, a few notes to close out the hour and look ahead to tomorrow.
+
+Noel: Veterans Day is Wednesday. Dutchess County will hold a ceremony at eleven in the morning at the Dutchess County War Memorial, located at Raymond Avenue and Main Street in the Town of Poughkeepsie.
+
+Noel: Tonight, the Red Hook town board holds its regular meeting. No agenda details have been released ahead of the session. Mild weather is expected across the area, and Dutchess County has no active alerts at this time.
+
+Noel: That is the R F T U V Midday Briefing for Tuesday, November tenth, twenty twenty-six. I'm Noel Brown. Thank you for being with us, and we will be back with more throughout the day.

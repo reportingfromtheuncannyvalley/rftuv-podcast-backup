@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-09T00:02:46.104318+00:00",
+ "generated": "2026-11-11T00:39:34.409469+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -1922,6 +1922,33 @@
      "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep066.mp3",
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep066.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep066.txt"
+    },
+    {
+     "episode_number": 69,
+     "production_episode_number": 69,
+     "title": "AI Agent Campaign Hits Two Hundred Organizations; Dutchess Budget, White Plains Arrest",
+     "bundle_title": "AI Agent Campaign Hits Two Hundred Organizations; Dutchess Budget, White Plains Arrest",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/briefing/2026-11-10-ep69",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/briefing/2026-11-10-ep69/audio.mp3",
+     "audio_bytes": 2723173,
+     "duration_seconds": 340,
+     "duration": "00:05:40",
+     "duration_source": "bundle-metadata",
+     "date": "2026-11-10",
+     "feed_match": false,
+     "status_raw": "Produced Nov 10, 2026; release in progress (backup RSS).",
+     "description": "Title: AI Agent Campaign Hits Two Hundred Organizations; Dutchess Budget, White Plains Arrest\nDate: Tuesday, November 10, 2026\nHost: Noel\n\nCrowdStrike says an AI tool called ARTEX ran an autonomous agent-to-agent cyber campaign that touched more than 200 organizations in at least 14 countries: nine confirmed post-exploitation cases, and about 140 more organizations assessed at moderate confidence. Plus: Dutchess County Executive Sue Serino's proposed 722 million dollar budget for 2027, and a White Plains arrest after a hidden recording device was found in a restaurant bathroom.\nSources:\n\t\u2022\tRFTUV, \"The Attack Ran Itself,\" November 9, 2026. https://rftuv.ai/news\n\t\u2022\tDutchess County, 2027 Executive Budget release. https://dutchessny.gov/Departments/County-Executive/2027-Executive-Budget-Release.htm\n\t\u2022\tNews 12, November 6, 2026, reporting on the concealed phone at Brazen Fox in White Plains. https://hudsonvalley.news12.com/2026/11/06/man-accused-of-recording-people-with-hidden-phone-inside-white-plains-restaurant-bathroom/6de6MfqZ5UAtHiYiRIy4U6\n\t\u2022\tHudson Valley Post, reporting on the White Plains arrest. https://hudsonvalleypost.com/hudson-valley-man-arrested-after-hidden-phone-found-in-bar/",
+     "description_source": "shownotes",
+     "guid": "3ceab9c3-ab0e-5c31-a119-34a9379f0969",
+     "guid_source": "provisional",
+     "pubDate": "Tue, 10 Nov 2026 12:00:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep069.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep069.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep069.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep069.txt"
     }
    ]
   },

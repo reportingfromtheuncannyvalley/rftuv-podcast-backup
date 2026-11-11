@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>The RFTUV Briefing is a short AI news and tech news podcast from Reporting from the Uncanny Valley (RFTUV), built from reporting and analysis at rftuv.ai. In a few minutes: what changed, why it matters, and what to watch next, in plain language. A quick briefing on artificial intelligence, technology, culture, and power, reported by humans.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 01:04:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 00:39:50 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/briefing.xml" rel="self" type="application/rss+xml" />
     <itunes:author>The RFTUV Briefing</itunes:author>
@@ -20,6 +20,28 @@
     <podcast:guid>dd1b915a-98c8-59c0-a2ce-b5f61f5255a9</podcast:guid>
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
+    <item>
+      <title>AI Agent Campaign Hits Two Hundred Organizations; Dutchess Budget, White Plains Arrest</title>
+      <description>Title: AI Agent Campaign Hits Two Hundred Organizations; Dutchess Budget, White Plains Arrest
+Date: Tuesday, November 10, 2026
+Host: Noel
+
+CrowdStrike says an AI tool called ARTEX ran an autonomous agent-to-agent cyber campaign that touched more than 200 organizations in at least 14 countries: nine confirmed post-exploitation cases, and about 140 more organizations assessed at moderate confidence. Plus: Dutchess County Executive Sue Serino's proposed 722 million dollar budget for 2027, and a White Plains arrest after a hidden recording device was found in a restaurant bathroom.
+Sources:
+	•	RFTUV, "The Attack Ran Itself," November 9, 2026. https://rftuv.ai/news
+	•	Dutchess County, 2027 Executive Budget release. https://dutchessny.gov/Departments/County-Executive/2027-Executive-Budget-Release.htm
+	•	News 12, November 6, 2026, reporting on the concealed phone at Brazen Fox in White Plains. https://hudsonvalley.news12.com/2026/11/06/man-accused-of-recording-people-with-hidden-phone-inside-white-plains-restaurant-bathroom/6de6MfqZ5UAtHiYiRIy4U6
+	•	Hudson Valley Post, reporting on the White Plains arrest. https://hudsonvalleypost.com/hudson-valley-man-arrested-after-hidden-phone-found-in-bar/</description>
+      <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">3ceab9c3-ab0e-5c31-a119-34a9379f0969</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep069.mp3" length="2723173" type="audio/mpeg" />
+      <itunes:duration>00:05:40</itunes:duration>
+      <itunes:episode>69</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep069.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep069.txt" type="text/plain" />
+    </item>
     <item>
       <title>AI Safety Oversight, Banks Block AI Agents, and Delaware's AI Companies</title>
       <description>Title: AI Safety Oversight, Banks Block AI Agents, and Delaware's AI Companies
