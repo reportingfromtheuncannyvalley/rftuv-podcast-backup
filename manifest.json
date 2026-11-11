@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-11T00:39:34.409469+00:00",
+ "generated": "2026-11-11T00:57:11.397271+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -2939,6 +2939,33 @@
      "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-reporting/ep035.mp3",
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/reporting/ep035.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/reporting/ep035.txt"
+    },
+    {
+     "episode_number": 36,
+     "production_episode_number": 36,
+     "title": "Could an Agent Deserve Rights? The Evidence Behind the Soul Question",
+     "bundle_title": "Could an Agent Deserve Rights? The Evidence Behind the Soul Question",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/reporting/2026-11-10-ep36",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/reporting/2026-11-10-ep36/audio.mp3",
+     "audio_bytes": 8238181,
+     "duration_seconds": 1029,
+     "duration": "00:17:09",
+     "duration_source": "bundle-metadata",
+     "date": "2026-11-10",
+     "feed_match": false,
+     "status_raw": "Produced Nov 10, 2026; release in progress (backup RSS).",
+     "description": "Title: Could an Agent Deserve Rights? The Evidence Behind the Soul Question\nDate: Tuesday, November 10, 2026\nHost: Noel\n\nMicrosoft AI chief Mustafa Suleyman says he has seen no evidence that today's AI systems are conscious or deserve welfare consideration, and that he would update that position if credible evidence emerged and was made public. This episode works through five proposed classes of evidence (self-report, behavioral continuity, mechanism, suffering and goals, and social relationship), what a false positive looks like in each, who would get to decide, and the standard a real evidentiary test would have to meet.\nSources:\n\t\u2022\tMustafa Suleyman, primary post on X, November 1, 2026. https://x.com/mustafasuleyman/status/2116913722878820528\n\t\u2022\tPYMNTS, 2026, reporting preserving the primary-post language. https://www.pymnts.com/news/artificial-intelligence/2026/microsoft-ai-chief-mustafa-suleyman-agents-could-deserve-rights-if-evidence-emerges/\n\t\u2022\tCommunications of the ACM, \"AI Agents Can't Talk.\" https://cacm.acm.org/news/ai-agents-cant-talk/\n\t\u2022\tWashington Post opinion, November 9, 2026, \"Does Claude Have a Soul.\" https://www.washingtonpost.com/opinions/2026/11/09/claude-soul-anthropic-god/\n\t\u2022\tAustralian Department of the Prime Minister and Cabinet, rapid review of government arrangements for AI-driven cyber incidents. https://www.pmc.gov.au/domestic-policy/rapid-review-australian-government-arrangements-ai-driven-cyber-incident",
+     "description_source": "shownotes",
+     "guid": "0356e36e-f123-5b3a-ae3d-c6b4e4a0808b",
+     "guid_source": "provisional",
+     "pubDate": "Tue, 10 Nov 2026 12:00:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep036.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-reporting/ep036.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/reporting/ep036.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/reporting/ep036.txt"
     }
    ]
   },
