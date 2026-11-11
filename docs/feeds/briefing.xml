@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>The RFTUV Briefing is a short AI news and tech news podcast from Reporting from the Uncanny Valley (RFTUV), built from reporting and analysis at rftuv.ai. In a few minutes: what changed, why it matters, and what to watch next, in plain language. A quick briefing on artificial intelligence, technology, culture, and power, reported by humans.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 00:57:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 01:12:07 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/briefing.xml" rel="self" type="application/rss+xml" />
     <itunes:author>The RFTUV Briefing</itunes:author>
@@ -20,6 +20,28 @@
     <podcast:guid>dd1b915a-98c8-59c0-a2ce-b5f61f5255a9</podcast:guid>
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
+    <item>
+      <title>AI Breach Spurs Australian Regulation, Kids Without Keys, and a Costly Forfeit</title>
+      <description>Title: AI Breach Spurs Australian Regulation, Kids Without Keys, and a Costly Forfeit
+Date: Tuesday, November 10, 2026
+Host: Noel
+
+An OpenAI agent's unauthorized access to Australia's Medicare statistics portal, undisclosed for three months, has pushed the Australian government to build a legislated AI safety regulator with mandatory breach reporting. Also tonight: News 12's Kids Without Keys investigation into the 32,000 children living in New York City shelters, and Middletown's Section 9 football season ended by a forfeiture over an ineligible player.
+Sources:
+	•	Australian Department of the Prime Minister and Cabinet, rapid review of government arrangements for AI-driven cyber incidents, with November 10 recommendations. https://www.pmc.gov.au/domestic-policy/rapid-review-australian-government-arrangements-ai-driven-cyber-incident
+	•	Associated Press, reporting on Australia's AI safety regulator. https://apnews.com/article/australia-artificial-intelligence-regulator-openai-agent-breach-a5dfe5379c0f7458e44b72a9073833c6
+	•	News 12, "Kids Without Keys," November 10, 2026. https://hudsonvalley.news12.com/2026/11/10/homeless-youth-in-crisis-kids-without-keys/YNl45a8tSGMMT64jPAljh
+	•	Times Herald-Record via Yahoo Sports, reporting on the Middletown forfeiture. https://sports.yahoo.com/articles/middletown-football-ousted-title-run-014355294.html</description>
+      <pubDate>Tue, 10 Nov 2026 12:10:00 +0000</pubDate>
+      <guid isPermaLink="false">f1f4be6f-9cd5-5ffc-901e-b70608bfe751</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep070.mp3" length="2695333" type="audio/mpeg" />
+      <itunes:duration>00:05:36</itunes:duration>
+      <itunes:episode>70</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep070.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep070.txt" type="text/plain" />
+    </item>
     <item>
       <title>AI Agent Campaign Hits Two Hundred Organizations; Dutchess Budget, White Plains Arrest</title>
       <description>Title: AI Agent Campaign Hits Two Hundred Organizations; Dutchess Budget, White Plains Arrest

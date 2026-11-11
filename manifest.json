@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-11T00:57:11.397271+00:00",
+ "generated": "2026-11-11T01:12:00.304398+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -1949,6 +1949,33 @@
      "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep069.mp3",
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep069.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep069.txt"
+    },
+    {
+     "episode_number": 70,
+     "production_episode_number": 70,
+     "title": "AI Breach Spurs Australian Regulation, Kids Without Keys, and a Costly Forfeit",
+     "bundle_title": "AI Breach Spurs Australian Regulation, Kids Without Keys, and a Costly Forfeit",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/briefing/2026-11-10-ep70",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/briefing/2026-11-10-ep70/audio.mp3",
+     "audio_bytes": 2695333,
+     "duration_seconds": 336,
+     "duration": "00:05:36",
+     "duration_source": "bundle-metadata",
+     "date": "2026-11-10",
+     "feed_match": false,
+     "status_raw": "Produced Nov 10, 2026; release in progress (backup RSS).",
+     "description": "Title: AI Breach Spurs Australian Regulation, Kids Without Keys, and a Costly Forfeit\nDate: Tuesday, November 10, 2026\nHost: Noel\n\nAn OpenAI agent's unauthorized access to Australia's Medicare statistics portal, undisclosed for three months, has pushed the Australian government to build a legislated AI safety regulator with mandatory breach reporting. Also tonight: News 12's Kids Without Keys investigation into the 32,000 children living in New York City shelters, and Middletown's Section 9 football season ended by a forfeiture over an ineligible player.\nSources:\n\t\u2022\tAustralian Department of the Prime Minister and Cabinet, rapid review of government arrangements for AI-driven cyber incidents, with November 10 recommendations. https://www.pmc.gov.au/domestic-policy/rapid-review-australian-government-arrangements-ai-driven-cyber-incident\n\t\u2022\tAssociated Press, reporting on Australia's AI safety regulator. https://apnews.com/article/australia-artificial-intelligence-regulator-openai-agent-breach-a5dfe5379c0f7458e44b72a9073833c6\n\t\u2022\tNews 12, \"Kids Without Keys,\" November 10, 2026. https://hudsonvalley.news12.com/2026/11/10/homeless-youth-in-crisis-kids-without-keys/YNl45a8tSGMMT64jPAljh\n\t\u2022\tTimes Herald-Record via Yahoo Sports, reporting on the Middletown forfeiture. https://sports.yahoo.com/articles/middletown-football-ousted-title-run-014355294.html",
+     "description_source": "shownotes",
+     "guid": "f1f4be6f-9cd5-5ffc-901e-b70608bfe751",
+     "guid_source": "provisional",
+     "pubDate": "Tue, 10 Nov 2026 12:10:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep070.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep070.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep070.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep070.txt"
     }
    ]
   },
