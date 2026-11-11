@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-11T01:12:00.304398+00:00",
+ "generated": "2026-11-11T01:27:59.728622+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -4034,6 +4034,33 @@
      "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep035.mp3",
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep035.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep035.txt"
+    },
+    {
+     "episode_number": 36,
+     "production_episode_number": 36,
+     "title": "What the Neighborhood Heard",
+     "bundle_title": "What the Neighborhood Heard",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/dead-air-valley/2026-11-10-ep36",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/dead-air-valley/2026-11-10-ep36/audio.mp3",
+     "audio_bytes": 7936165,
+     "duration_seconds": 992,
+     "duration": "00:16:32",
+     "duration_source": "bundle-metadata",
+     "date": "2026-11-10",
+     "feed_match": false,
+     "status_raw": "Produced Nov 10, 2026; release in progress (backup RSS).",
+     "description": "Title: What the Neighborhood Heard\nDate: Tuesday, November 10, 2026\nHost: Silas Van Wyck\n\nOn October 24, someone recorded an animal crying near woods and wetlands in the Hudson Valley and posted it with a simple question: what is this? Online listeners suggested a raccoon; no expert has verified it. Silas Van Wyck sits with the sound, the local animals whose voices do not match their pictures (raccoons, foxes, owls, fishers), and how a recording, a gap, and a neighborhood become local folklore.\nSources:\n\t\u2022\tWPDH/WRRV, \"Mysterious Animal Screaming in Hudson Valley Neighborhoods,\" November 9, 2026. https://wrrv.com/ixp/705/p/animal-screaming-hudson-valley/\n\t\u2022\tUnderlying public recording discussion, Hudson Valley near wetlands and woods, October 24, 2026. https://www.reddit.com/r/animalid/comments/1xe78f3/whats_this_crying_animal_hudson_valley_ny/",
+     "description_source": "shownotes",
+     "guid": "ede8776b-180e-5525-93f8-0e9c47624ad3",
+     "guid_source": "provisional",
+     "pubDate": "Tue, 10 Nov 2026 12:00:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep036.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep036.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep036.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep036.txt"
     }
    ]
   }

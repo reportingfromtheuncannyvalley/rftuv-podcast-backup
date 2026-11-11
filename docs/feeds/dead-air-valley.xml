@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>Dead Air Valley explores the strange history, local legends, forgotten places, and unsettling stories of the Hudson Valley and the regions around it. From Sleepy Hollow and old river towns to neighboring valleys, back roads, abandoned landmarks, and the people who shaped them, each episode finds something worth bringing back into the light. Hosted by a rotating group of voices, with occasional noir-style narration, Dead Air Valley moves between atmospheric storytelling, local history, conversation, and timely discoveries. Episodes may be short, long, solo, or roundtable, but each begins with one question: what's still waiting in the dead air?</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 01:12:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 01:28:15 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/dead-air-valley.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Dead Air Valley</itunes:author>
@@ -21,6 +21,26 @@
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
     <podcast:location>Hudson Valley, New York, USA</podcast:location>
+    <item>
+      <title>What the Neighborhood Heard</title>
+      <description>Title: What the Neighborhood Heard
+Date: Tuesday, November 10, 2026
+Host: Silas Van Wyck
+
+On October 24, someone recorded an animal crying near woods and wetlands in the Hudson Valley and posted it with a simple question: what is this? Online listeners suggested a raccoon; no expert has verified it. Silas Van Wyck sits with the sound, the local animals whose voices do not match their pictures (raccoons, foxes, owls, fishers), and how a recording, a gap, and a neighborhood become local folklore.
+Sources:
+	•	WPDH/WRRV, "Mysterious Animal Screaming in Hudson Valley Neighborhoods," November 9, 2026. https://wrrv.com/ixp/705/p/animal-screaming-hudson-valley/
+	•	Underlying public recording discussion, Hudson Valley near wetlands and woods, October 24, 2026. https://www.reddit.com/r/animalid/comments/1xe78f3/whats_this_crying_animal_hudson_valley_ny/</description>
+      <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ede8776b-180e-5525-93f8-0e9c47624ad3</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep036.mp3" length="7936165" type="audio/mpeg" />
+      <itunes:duration>00:16:32</itunes:duration>
+      <itunes:episode>36</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep036.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep036.txt" type="text/plain" />
+    </item>
     <item>
       <title>Eggbert Returns: The Hudson Valley's Christmas Egg Turns Patriotic</title>
       <description>Title: Eggbert Returns: The Hudson Valley's Christmas Egg Turns Patriotic
