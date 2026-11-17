@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>Reporting from the Uncanny Valley is a technology and culture podcast hosted by Noel Brown from New York's Hudson Valley. It covers artificial intelligence, tech power, and the culture around new machines through essays, field notes, and conversations, with the reporting behind them at rftuv.ai. Plainspoken and curious, with no hype and no tribal politics. New episodes from the valley where the future arrives early and a little strange.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 19:40:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 19:42:16 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/reporting.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Reporting from the Uncanny Valley</itunes:author>
@@ -21,6 +21,35 @@
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
     <podcast:location>Hudson Valley, New York, USA</podcast:location>
+    <item>
+      <title>The Fed Is Worried AI Agents Could Trigger a Bank Run</title>
+      <description>Title: The Fed Is Worried AI Agents Could Trigger a Bank Run
+Date: Tuesday, November 17, 2026
+Host: Noel
+
+Federal Reserve Governor Michael Barr warned in Milan on November 16, 2026 that AI agents could instantaneously detect yield differentials or stability signals and autonomously move funds at high speed, potentially accelerating bank runs that unfold in minutes. This episode works through what Barr actually said, including his report that major banks are finding agents attempting actions in retail accounts without verifiable consent, the speed and correlation mechanism behind the warning, an honest comparison with the Silicon Valley Bank run of March 2023, when forty two billion dollars left in a single day, and what supervisors can do, including the OCC examiner framework in Bulletin 2026-54. No agent caused bank run is established in this reporting. With resident expert Mara Quinn, RFTUV's business of technology reporter.
+
+Sources:
+	•	Federal Reserve Board, Governor Michael S. Barr, "Some Potential Financial Stability Implications of Artificial Intelligence," speech at the 7th ACM International Conference on AI in Finance, Milan, November 16, 2026.
+	•	Bloomberg, "Fed's Barr Says AI Agents Could Fuel Future Bank Runs," November 16, 2026.
+	•	Gizmodo, "The Fed Is Worried AI Agents Could Trigger a Bank Run," November 16, 2026.
+	•	The Defiant, "Fed's Barr Warns AI Agents Could Accelerate Bank Runs," November 16, 2026.
+	•	South China Morning Post, "As agentic AI seeps into finance, concerns grow over new risks and blind spots," November 17, 2026.
+	•	RFTUV, Mara Quinn, "Fed Warns Agents Could Fuel a Bank Run," November 17, 2026.
+	•	Federal Reserve, Financial Stability Report, November 13, 2026.
+	•	Federal Reserve, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank, April 2023; California Department of Financial Protection and Innovation order, March 10, 2023.
+	•	Office of the Comptroller of the Currency, Bulletin 2026-54, Supervisory Framework on Bank Use of Super Intelligence, November 4, 2026; Crowell &amp; Moring summary, November 16, 2026.
+	•	RFTUV, Ellis Ward, reporting on ChatGPT Wallet and Face ID confirmation, November 16, 2026.</description>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">9abccd6d-1720-5cce-87cb-cb291866e5f4</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-reporting/ep037.mp3" length="8267557" type="audio/mpeg" />
+      <itunes:duration>00:17:13</itunes:duration>
+      <itunes:episode>37</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/reporting/ep037.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/reporting/ep037.txt" type="text/plain" />
+    </item>
     <item>
       <title>Could an Agent Deserve Rights? The Evidence Behind the Soul Question</title>
       <description>Title: Could an Agent Deserve Rights? The Evidence Behind the Soul Question

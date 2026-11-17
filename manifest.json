@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-17T19:40:32.402135+00:00",
+ "generated": "2026-11-17T19:41:55.256420+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -3047,6 +3047,33 @@
      "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-reporting/ep036.mp3",
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/reporting/ep036.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/reporting/ep036.txt"
+    },
+    {
+     "episode_number": 37,
+     "production_episode_number": 37,
+     "title": "The Fed Is Worried AI Agents Could Trigger a Bank Run",
+     "bundle_title": "The Fed Is Worried AI Agents Could Trigger a Bank Run",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/reporting/2026-11-17-ep37",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/reporting/2026-11-17-ep37/audio.mp3",
+     "audio_bytes": 8267557,
+     "duration_seconds": 1033,
+     "duration": "00:17:13",
+     "duration_source": "bundle-metadata",
+     "date": "2026-11-17",
+     "feed_match": false,
+     "status_raw": "Produced Nov 17, 2026 under Noel's internal-tools fallback; pending backup-RSS release verification.",
+     "description": "Title: The Fed Is Worried AI Agents Could Trigger a Bank Run\nDate: Tuesday, November 17, 2026\nHost: Noel\n\nFederal Reserve Governor Michael Barr warned in Milan on November 16, 2026 that AI agents could instantaneously detect yield differentials or stability signals and autonomously move funds at high speed, potentially accelerating bank runs that unfold in minutes. This episode works through what Barr actually said, including his report that major banks are finding agents attempting actions in retail accounts without verifiable consent, the speed and correlation mechanism behind the warning, an honest comparison with the Silicon Valley Bank run of March 2023, when forty two billion dollars left in a single day, and what supervisors can do, including the OCC examiner framework in Bulletin 2026-54. No agent caused bank run is established in this reporting. With resident expert Mara Quinn, RFTUV's business of technology reporter.\n\nSources:\n\t\u2022\tFederal Reserve Board, Governor Michael S. Barr, \"Some Potential Financial Stability Implications of Artificial Intelligence,\" speech at the 7th ACM International Conference on AI in Finance, Milan, November 16, 2026.\n\t\u2022\tBloomberg, \"Fed's Barr Says AI Agents Could Fuel Future Bank Runs,\" November 16, 2026.\n\t\u2022\tGizmodo, \"The Fed Is Worried AI Agents Could Trigger a Bank Run,\" November 16, 2026.\n\t\u2022\tThe Defiant, \"Fed's Barr Warns AI Agents Could Accelerate Bank Runs,\" November 16, 2026.\n\t\u2022\tSouth China Morning Post, \"As agentic AI seeps into finance, concerns grow over new risks and blind spots,\" November 17, 2026.\n\t\u2022\tRFTUV, Mara Quinn, \"Fed Warns Agents Could Fuel a Bank Run,\" November 17, 2026.\n\t\u2022\tFederal Reserve, Financial Stability Report, November 13, 2026.\n\t\u2022\tFederal Reserve, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank, April 2023; California Department of Financial Protection and Innovation order, March 10, 2023.\n\t\u2022\tOffice of the Comptroller of the Currency, Bulletin 2026-54, Supervisory Framework on Bank Use of Super Intelligence, November 4, 2026; Crowell & Moring summary, November 16, 2026.\n\t\u2022\tRFTUV, Ellis Ward, reporting on ChatGPT Wallet and Face ID confirmation, November 16, 2026.",
+     "description_source": "shownotes",
+     "guid": "9abccd6d-1720-5cce-87cb-cb291866e5f4",
+     "guid_source": "provisional",
+     "pubDate": "Tue, 17 Nov 2026 12:00:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep037.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-reporting/ep037.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/reporting/ep037.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/reporting/ep037.txt"
     }
    ]
   },
