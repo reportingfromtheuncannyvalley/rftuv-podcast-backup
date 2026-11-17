@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>The RFTUV Briefing is a short AI news and tech news podcast from Reporting from the Uncanny Valley (RFTUV), built from reporting and analysis at rftuv.ai. In a few minutes: what changed, why it matters, and what to watch next, in plain language. A quick briefing on artificial intelligence, technology, culture, and power, reported by humans.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 19:11:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 19:36:36 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/briefing.xml" rel="self" type="application/rss+xml" />
     <itunes:author>The RFTUV Briefing</itunes:author>
@@ -18,8 +18,35 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <podcast:guid>dd1b915a-98c8-59c0-a2ce-b5f61f5255a9</podcast:guid>
-    <podcast:locked owner="willowbrookandmonarch@gmail.com">no</podcast:locked>
+    <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
+    <item>
+      <title>AI Agents Turn Patches Into Exploits, Census Count at Risk, and the Bridge Pattern</title>
+      <description>Title: AI Agents Turn Patches Into Exploits, Census Count at Risk, and the Bridge Pattern
+Date: Tuesday, November 17, 2026
+Host: Noel
+
+Google's Threat Intelligence Group reported on November 16 that a multi agent framework it calls exploit agent compared security patches to the code they fixed, drafted exploits, and executed them automatically without a human in the loop, a characterization Google and CyberScoop describe as the first fully automated AI cyberattack. Proposed changes to the 2030 census could remove more than one million people from the official apportionment count for New York and Connecticut combined, not because anyone leaves, but because non citizens without a green card would no longer be counted for that purpose. In the Hudson Valley, the Mid-Hudson Bridge winter traffic pattern is now in effect: eastbound traffic to Route 9 south uses the far right lane at all times, mornings run two eastbound and one westbound lane, afternoons run two westbound and one eastbound lane, and off peak is one lane each way.
+
+Sources:
+	•	Google Cloud, GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold, November 16, 2026. https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold
+	•	The Register, "Google: AI agent turned a security patch into a working exploit with no human help," November 16, 2026.
+	•	CyberScoop, "Google says Russian-speaking hackers ran the first fully automated AI cyberattack," November 16, 2026.
+	•	RFTUV, Ellis Ward, Google patch becomes exploit reporting, November 17, 2026.
+	•	News 12 Hudson Valley, "Census changes could cost NY and CT more than 1 million people. Why the Trump administration says it's necessary," November 16, 2026.
+	•	RFTUV, Mara Quinn, Census changes NY and CT reporting, November 17, 2026.
+	•	The Poughkeepsie Journal, "Mid-Hudson Bridge project wraps up Phase 1, new winter traffic pattern starts," November 16, 2026. https://www.poughkeepsiejournal.com/story/news/local/2026/11/16/mid-hudson-bridge-construction-update-winter-2026-2027/92807486007/
+	•	New York State Bridge Authority, Mid-Hudson Bridge East Approach Project.</description>
+      <pubDate>Tue, 17 Nov 2026 12:10:00 +0000</pubDate>
+      <guid isPermaLink="false">80a730db-f81e-50f6-88c6-33ab8f215d0b</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep072.mp3" length="3074149" type="audio/mpeg" />
+      <itunes:duration>00:06:24</itunes:duration>
+      <itunes:episode>72</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep072.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep072.txt" type="text/plain" />
+    </item>
     <item>
       <title>Mastercard Wants Agent Controls, California Sues OpenAI, and a Fatal Fire Day</title>
       <description>Title: Mastercard Wants Agent Controls, California Sues OpenAI, and a Fatal Fire Day
