@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-17T19:36:21.831569+00:00",
+ "generated": "2026-11-17T19:40:32.402135+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -4115,6 +4115,33 @@
      "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep036.mp3",
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep036.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep036.txt"
+    },
+    {
+     "episode_number": 37,
+     "production_episode_number": 37,
+     "title": "The Driver Had One Good Option: Dump the Burning Trash",
+     "bundle_title": "The Driver Had One Good Option: Dump the Burning Trash",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/dead-air-valley/2026-11-17-ep37",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/dead-air-valley/2026-11-17-ep37/audio.mp3",
+     "audio_bytes": 8330917,
+     "duration_seconds": 1041,
+     "duration": "00:17:21",
+     "duration_source": "bundle-metadata",
+     "date": "2026-11-17",
+     "feed_match": false,
+     "status_raw": "Produced Nov 17, 2026 under Noel's internal-tools fallback instruction; release in progress.",
+     "description": "Title: The Driver Had One Good Option: Dump the Burning Trash\nDate: Tuesday, November 17, 2026\nHost: Silas Van Wyck\n\nA garbage truck caught fire on College Road in Monsey on Thursday morning, November 12, and the driver did the one right thing: following standard emergency dump protocol, he ejected the burning load onto the pavement. Silas Van Wyck sits with the Interstate Waste Services truck, the Monsey firefighters and their hose lines, the Ramapo police directing traffic around a smoking pile of bags and cardboard, the unreleased cause, and the plain competence that saved the truck and hurt no one. Plus the October 2022 day in Union Vale when the same maneuver closed North Smith Road. Originated by June Mercer.\n\nSources:\n\t\u2022\tHudson Valley Post, \"Garbage Truck Fire Forces Driver To Dump Burning Trash In The Hudson Valley,\" November 16, 2026. https://hudsonvalleycountry.com/ixp/854/p/garbage-truck-fire-forces-driver-to-dump-burning-trash-in-hv/\n\t\u2022\tHudson Valley Country (WPDH), \"Hudson Valley Town Becomes a Literal 'Flaming Pile of Garbage',\" October 21, 2022. https://hudsonvalleycountry.com/hudson-valley-town-becomes-a-literal-flaming-pile-of-garbage/",
+     "description_source": "shownotes",
+     "guid": "01d95177-764d-511b-8561-4de63375f629",
+     "guid_source": "provisional",
+     "pubDate": "Tue, 17 Nov 2026 12:00:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep037.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep037.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep037.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep037.txt"
     }
    ]
   }
