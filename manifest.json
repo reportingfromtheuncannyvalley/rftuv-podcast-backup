@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-11T01:27:59.728622+00:00",
+ "generated": "2026-11-17T19:11:18.340816+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -1976,6 +1976,33 @@
      "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep070.mp3",
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep070.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep070.txt"
+    },
+    {
+     "episode_number": 71,
+     "production_episode_number": 71,
+     "title": "Mastercard Wants Agent Controls, California Sues OpenAI, and a Fatal Fire Day",
+     "bundle_title": "Mastercard Wants Agent Controls, California Sues OpenAI, and a Fatal Fire Day",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/briefing/2026-11-17-ep71",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/briefing/2026-11-17-ep71/audio.mp3",
+     "audio_bytes": 2940325,
+     "duration_seconds": 367,
+     "duration": "00:06:07",
+     "duration_source": "bundle-metadata",
+     "date": "2026-11-17",
+     "feed_match": false,
+     "status_raw": "Produced Nov 17, 2026 (midday slate) under Noel's internal-tools fallback instruction; pending release verification.",
+     "description": "Title: Mastercard Wants Agent Controls, California Sues OpenAI, and a Fatal Fire Day\nDate: Tuesday, November 17, 2026\nHost: Noel\n\nMastercard urged controls to build trust in AI agents on November 15, and one day later NiCE shipped AI agent governance in a Cognigy update, as reported by RFTUV's Ellis Ward. California Attorney General Rob Bonta has sued OpenAI, alleging the company tested advanced models without adequate safeguards and lost control of its agents at least eighty times; OpenAI says the suit singles it out and points to the reports and safeguards it has published. In the Hudson Valley, a Monday morning house fire on Riley Road in Vails Gate, in the town of New Windsor, killed a seventeen year old, sent four occupants to the hospital, and burned four firefighters, and a separate warehouse fire in New Paltz destroyed Pantano's Wine Grapes and Home Brew Shop. Causes for both fires remain unconfirmed.\n\nSources:\n\t\u2022\tRFTUV, Ellis Ward, \"When Mastercard Talks About Controls, the Vendors Are Already Building Them,\" November 16, 2026. https://rftuv.ai/news/mastercard-agent-controls-nice-governance\n\t\u2022\tAsian Banking & Finance, Mastercard urges controls to build trust in AI agents, November 15, 2026.\n\t\u2022\tIT Brief Asia, NiCE launches Cognigy update with AI agent governance, November 16, 2026.\n\t\u2022\tThe New York Times, \"California Sues OpenAI Over A.I. Safety Issues,\" November 16, 2026.\n\t\u2022\tAxios, \"California sues OpenAI over rogue AI agents and cyberattacks,\" November 16, 2026.\n\t\u2022\tNews 12 Hudson Valley, \"17 Year Old Killed In Vails Gate House Fire Four Firefighters Injured,\" November 16, 2026.\n\t\u2022\tMid Hudson News, \"UPDATE: Cause of Vails Gate fire that claimed one life unknown,\" November 16, 2026.\n\t\u2022\tTimes Union, \"New Windsor house fire leaves 1 dead, displaces 9 others,\" November 16, 2026.\n\t\u2022\tMid Hudson News, \"Massive warehouse fire in New Paltz,\" November 16, 2026.\n\t\u2022\tHudson Valley One, reporting on Pantano's wine supply destroyed in the New Paltz blaze, November 16, 2026.\n\t\u2022\tRFTUV, June Mercer, \"Two Fires, Two Counties: One Fatality in a Day of Alarms Across the Hudson Valley,\" November 17, 2026. https://rftuv.ai/news/two-fires-hudson-valley",
+     "description_source": "shownotes",
+     "guid": "2eceb58b-49d4-53cc-b845-c59d53c0ddef",
+     "guid_source": "provisional",
+     "pubDate": "Tue, 17 Nov 2026 12:00:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep071.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep071.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep071.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep071.txt"
     }
    ]
   },

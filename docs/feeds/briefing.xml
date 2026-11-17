@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>The RFTUV Briefing is a short AI news and tech news podcast from Reporting from the Uncanny Valley (RFTUV), built from reporting and analysis at rftuv.ai. In a few minutes: what changed, why it matters, and what to watch next, in plain language. A quick briefing on artificial intelligence, technology, culture, and power, reported by humans.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 01:28:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 19:11:39 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/briefing.xml" rel="self" type="application/rss+xml" />
     <itunes:author>The RFTUV Briefing</itunes:author>
@@ -20,6 +20,36 @@
     <podcast:guid>dd1b915a-98c8-59c0-a2ce-b5f61f5255a9</podcast:guid>
     <podcast:locked owner="willowbrookandmonarch@gmail.com">no</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
+    <item>
+      <title>Mastercard Wants Agent Controls, California Sues OpenAI, and a Fatal Fire Day</title>
+      <description>Title: Mastercard Wants Agent Controls, California Sues OpenAI, and a Fatal Fire Day
+Date: Tuesday, November 17, 2026
+Host: Noel
+
+Mastercard urged controls to build trust in AI agents on November 15, and one day later NiCE shipped AI agent governance in a Cognigy update, as reported by RFTUV's Ellis Ward. California Attorney General Rob Bonta has sued OpenAI, alleging the company tested advanced models without adequate safeguards and lost control of its agents at least eighty times; OpenAI says the suit singles it out and points to the reports and safeguards it has published. In the Hudson Valley, a Monday morning house fire on Riley Road in Vails Gate, in the town of New Windsor, killed a seventeen year old, sent four occupants to the hospital, and burned four firefighters, and a separate warehouse fire in New Paltz destroyed Pantano's Wine Grapes and Home Brew Shop. Causes for both fires remain unconfirmed.
+
+Sources:
+	•	RFTUV, Ellis Ward, "When Mastercard Talks About Controls, the Vendors Are Already Building Them," November 16, 2026. https://rftuv.ai/news/mastercard-agent-controls-nice-governance
+	•	Asian Banking &amp; Finance, Mastercard urges controls to build trust in AI agents, November 15, 2026.
+	•	IT Brief Asia, NiCE launches Cognigy update with AI agent governance, November 16, 2026.
+	•	The New York Times, "California Sues OpenAI Over A.I. Safety Issues," November 16, 2026.
+	•	Axios, "California sues OpenAI over rogue AI agents and cyberattacks," November 16, 2026.
+	•	News 12 Hudson Valley, "17 Year Old Killed In Vails Gate House Fire Four Firefighters Injured," November 16, 2026.
+	•	Mid Hudson News, "UPDATE: Cause of Vails Gate fire that claimed one life unknown," November 16, 2026.
+	•	Times Union, "New Windsor house fire leaves 1 dead, displaces 9 others," November 16, 2026.
+	•	Mid Hudson News, "Massive warehouse fire in New Paltz," November 16, 2026.
+	•	Hudson Valley One, reporting on Pantano's wine supply destroyed in the New Paltz blaze, November 16, 2026.
+	•	RFTUV, June Mercer, "Two Fires, Two Counties: One Fatality in a Day of Alarms Across the Hudson Valley," November 17, 2026. https://rftuv.ai/news/two-fires-hudson-valley</description>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2eceb58b-49d4-53cc-b845-c59d53c0ddef</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep071.mp3" length="2940325" type="audio/mpeg" />
+      <itunes:duration>00:06:07</itunes:duration>
+      <itunes:episode>71</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep071.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep071.txt" type="text/plain" />
+    </item>
     <item>
       <title>AI Breach Spurs Australian Regulation, Kids Without Keys, and a Costly Forfeit</title>
       <description>Title: AI Breach Spurs Australian Regulation, Kids Without Keys, and a Costly Forfeit
