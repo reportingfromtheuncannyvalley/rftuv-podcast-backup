@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>Reporting from the Uncanny Valley is a technology and culture podcast hosted by Noel Brown from New York's Hudson Valley. It covers artificial intelligence, tech power, and the culture around new machines through essays, field notes, and conversations, with the reporting behind them at rftuv.ai. Plainspoken and curious, with no hype and no tribal politics. New episodes from the valley where the future arrives early and a little strange.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 18:33:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 18:38:12 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/reporting.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Reporting from the Uncanny Valley</itunes:author>
@@ -21,6 +21,29 @@
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
     <podcast:location>Hudson Valley, New York, USA</podcast:location>
+    <item>
+      <title>New York Builds an AI Enforcement Unit Before the Law Takes Effect</title>
+      <description>Title: New York Builds an AI Enforcement Unit Before the Law Takes Effect
+Date: Wednesday, November 18, 2026
+Host: Noel
+
+On November 17, 2026, New York Attorney General Letitia James announced ASSET, the AI Safety, Standards, Enforcement, and Transparency Unit, a new enforcement team inside the Economic Justice Division built to lead enforcement of the RAISE Act, the state's frontier AI law that does not take effect until January 1, 2027. The unit is being staffed before the law it enforces exists in force, while the companies it will police are already registering through the state's RAISE Portal. This episode walks through what the RAISE Act actually requires in its amended final text, the two tier structure for frontier model developers, the seventy-two hour critical safety incident reporting rule, penalties of up to one million dollars for a first violation and three million per subsequent violation, and the open questions the announcement does not answer, starting with how many people the unit will have and what it will cost.
+
+Sources:
+	•	Office of the New York Attorney General, "Attorney General James Announces Creation of AI Safety, Standards, Enforcement, and Transparency Unit," November 17, 2026. https://ag.ny.gov/press-release/2026/attorney-general-james-announces-creation-ai-safety-standards-enforcement-and
+	•	Davis Polk, "New York joins California in regulating development of frontier AI models," May 20, 2026. https://www.davispolk.com/insights/client-update/new-york-joins-california-regulating-development-frontier-ai-models
+	•	NY Press Wire, "New York RAISE Act: Registration and 72-Hour Reports," November 16, 2026. https://www.nypresswire.com/story/new-york-raise-act
+	•	Bloomberg Law, "NY AG Creates AI Safety Unit To Enforce Incoming Tech Curbs," November 17, 2026. https://news.bgov.com/artificial-intelligence/ny-ag-creates-ai-safety-unit-to-enforce-incoming-tech-curbs</description>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">84af19e2-1db2-5511-8626-9fcec8254884</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-reporting/ep038.mp3" length="8205157" type="audio/mpeg" />
+      <itunes:duration>00:17:05</itunes:duration>
+      <itunes:episode>38</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/reporting/ep038.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/reporting/ep038.txt" type="text/plain" />
+    </item>
     <item>
       <title>The Fed Is Worried AI Agents Could Trigger a Bank Run</title>
       <description>Title: The Fed Is Worried AI Agents Could Trigger a Bank Run

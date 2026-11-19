@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-19T18:32:54.809042+00:00",
+ "generated": "2026-11-19T18:38:00.020799+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -3101,6 +3101,33 @@
      "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-reporting/ep037.mp3",
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/reporting/ep037.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/reporting/ep037.txt"
+    },
+    {
+     "episode_number": 38,
+     "production_episode_number": 38,
+     "title": "New York Builds an AI Enforcement Unit Before the Law Takes Effect",
+     "bundle_title": "New York Builds an AI Enforcement Unit Before the Law Takes Effect",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/reporting/2026-11-18-ep38",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/reporting/2026-11-18-ep38/audio.mp3",
+     "audio_bytes": 8205157,
+     "duration_seconds": 1025,
+     "duration": "00:17:05",
+     "duration_source": "bundle-metadata",
+     "date": "2026-11-18",
+     "feed_match": false,
+     "status_raw": "Produced Nov 18-19, 2026 under Noel's internal-tools fallback instruction. Pending backup RSS release in this run.",
+     "description": "Title: New York Builds an AI Enforcement Unit Before the Law Takes Effect\nDate: Wednesday, November 18, 2026\nHost: Noel\n\nOn November 17, 2026, New York Attorney General Letitia James announced ASSET, the AI Safety, Standards, Enforcement, and Transparency Unit, a new enforcement team inside the Economic Justice Division built to lead enforcement of the RAISE Act, the state's frontier AI law that does not take effect until January 1, 2027. The unit is being staffed before the law it enforces exists in force, while the companies it will police are already registering through the state's RAISE Portal. This episode walks through what the RAISE Act actually requires in its amended final text, the two tier structure for frontier model developers, the seventy-two hour critical safety incident reporting rule, penalties of up to one million dollars for a first violation and three million per subsequent violation, and the open questions the announcement does not answer, starting with how many people the unit will have and what it will cost.\n\nSources:\n\t\u2022\tOffice of the New York Attorney General, \"Attorney General James Announces Creation of AI Safety, Standards, Enforcement, and Transparency Unit,\" November 17, 2026. https://ag.ny.gov/press-release/2026/attorney-general-james-announces-creation-ai-safety-standards-enforcement-and\n\t\u2022\tDavis Polk, \"New York joins California in regulating development of frontier AI models,\" May 20, 2026. https://www.davispolk.com/insights/client-update/new-york-joins-california-regulating-development-frontier-ai-models\n\t\u2022\tNY Press Wire, \"New York RAISE Act: Registration and 72-Hour Reports,\" November 16, 2026. https://www.nypresswire.com/story/new-york-raise-act\n\t\u2022\tBloomberg Law, \"NY AG Creates AI Safety Unit To Enforce Incoming Tech Curbs,\" November 17, 2026. https://news.bgov.com/artificial-intelligence/ny-ag-creates-ai-safety-unit-to-enforce-incoming-tech-curbs",
+     "description_source": "shownotes",
+     "guid": "84af19e2-1db2-5511-8626-9fcec8254884",
+     "guid_source": "provisional",
+     "pubDate": "Wed, 18 Nov 2026 12:00:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep038.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-reporting/ep038.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/reporting/ep038.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/reporting/ep038.txt"
     }
    ]
   },
