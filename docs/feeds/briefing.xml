@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>The RFTUV Briefing is a short AI news and tech news podcast from Reporting from the Uncanny Valley (RFTUV), built from reporting and analysis at rftuv.ai. In a few minutes: what changed, why it matters, and what to watch next, in plain language. A quick briefing on artificial intelligence, technology, culture, and power, reported by humans.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 19:42:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 18:33:03 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/briefing.xml" rel="self" type="application/rss+xml" />
     <itunes:author>The RFTUV Briefing</itunes:author>
@@ -20,6 +20,29 @@
     <podcast:guid>dd1b915a-98c8-59c0-a2ce-b5f61f5255a9</podcast:guid>
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
+    <item>
+      <title>The Agents Nobody Can Find, an Outage Cascade, and Trouble at Riverview Condos</title>
+      <description>Title: The Agents Nobody Can Find, an Outage Cascade, and Trouble at Riverview Condos
+Date: Wednesday, November 18, 2026
+Host: Noel
+
+A report from Palo Alto Networks, covered by SiliconANGLE on November 16, found that organizations broadly struggle to track and secure the AI agents running in their cloud infrastructure; RFTUV's own Ellis Ward reported the story in The Agents You Forgot You Deployed. A cascade of American outages, a Microsoft failure, the longest FAA ground stop since September 11, bank access problems, and an NSA internal network outage, drew a public statement from Secretary of State Marco Rubio that there is zero information any of it was caused by a malign actor. In Poughkeepsie, residents of the Riverview Condos describe substandard conditions, months without water or heat, and a lawsuit against the HOA board of managers and J and J Management Services.
+
+Sources:
+	•	RFTUV, Ellis Ward, "The Agents You Forgot You Deployed," November 17, 2026. https://rftuv.ai/news/agents-nobody-can-find-palo-alto
+	•	SiliconANGLE, Palo Alto Networks report on tracking and securing AI agents in the cloud, November 16, 2026. https://siliconangle.com/2026/11/16/palo-alto-networks-report-finds-organizations-struggle-to-track-and-secure-ai-agents-in-the-cloud/
+	•	Associated Press, "Rubio says there's 'zero' information that U.S. outages are caused by a malign actor," November 18, 2026. https://www.wcmu.org/national-world-news/2026-11-18/rubio-says-theres-zero-information-that-u-s-outages-are-caused-by-a-malign-actor
+	•	WAMC, "Poughkeepsie condo residents complain of substandard conditions," November 17, 2026. https://www.wamc.org/news/2026-11-17/poughkeepsie-condo-residents-complain-of-substandard-conditions</description>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">457370cb-d5a7-5a45-b56d-f5a1e761c924</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep073.mp3" length="3010981" type="audio/mpeg" />
+      <itunes:duration>00:06:16</itunes:duration>
+      <itunes:episode>73</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep073.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep073.txt" type="text/plain" />
+    </item>
     <item>
       <title>AI Agents Turn Patches Into Exploits, Census Count at Risk, and the Bridge Pattern</title>
       <description>Title: AI Agents Turn Patches Into Exploits, Census Count at Risk, and the Bridge Pattern

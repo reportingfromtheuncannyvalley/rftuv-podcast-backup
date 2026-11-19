@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-17T19:41:55.256420+00:00",
+ "generated": "2026-11-19T18:32:54.809042+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -2030,6 +2030,33 @@
      "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep072.mp3",
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep072.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep072.txt"
+    },
+    {
+     "episode_number": 73,
+     "production_episode_number": 73,
+     "title": "The Agents Nobody Can Find, an Outage Cascade, and Trouble at Riverview Condos",
+     "bundle_title": "The Agents Nobody Can Find, an Outage Cascade, and Trouble at Riverview Condos",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/briefing/2026-11-18-ep73",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/briefing/2026-11-18-ep73/audio.mp3",
+     "audio_bytes": 3010981,
+     "duration_seconds": 376,
+     "duration": "00:06:16",
+     "duration_source": "bundle-metadata",
+     "date": "2026-11-18",
+     "feed_match": false,
+     "status_raw": "Produced Nov 18-19, 2026 under Noel's internal-tools fallback instruction. Pending backup RSS release in this run.",
+     "description": "Title: The Agents Nobody Can Find, an Outage Cascade, and Trouble at Riverview Condos\nDate: Wednesday, November 18, 2026\nHost: Noel\n\nA report from Palo Alto Networks, covered by SiliconANGLE on November 16, found that organizations broadly struggle to track and secure the AI agents running in their cloud infrastructure; RFTUV's own Ellis Ward reported the story in The Agents You Forgot You Deployed. A cascade of American outages, a Microsoft failure, the longest FAA ground stop since September 11, bank access problems, and an NSA internal network outage, drew a public statement from Secretary of State Marco Rubio that there is zero information any of it was caused by a malign actor. In Poughkeepsie, residents of the Riverview Condos describe substandard conditions, months without water or heat, and a lawsuit against the HOA board of managers and J and J Management Services.\n\nSources:\n\t\u2022\tRFTUV, Ellis Ward, \"The Agents You Forgot You Deployed,\" November 17, 2026. https://rftuv.ai/news/agents-nobody-can-find-palo-alto\n\t\u2022\tSiliconANGLE, Palo Alto Networks report on tracking and securing AI agents in the cloud, November 16, 2026. https://siliconangle.com/2026/11/16/palo-alto-networks-report-finds-organizations-struggle-to-track-and-secure-ai-agents-in-the-cloud/\n\t\u2022\tAssociated Press, \"Rubio says there's 'zero' information that U.S. outages are caused by a malign actor,\" November 18, 2026. https://www.wcmu.org/national-world-news/2026-11-18/rubio-says-theres-zero-information-that-u-s-outages-are-caused-by-a-malign-actor\n\t\u2022\tWAMC, \"Poughkeepsie condo residents complain of substandard conditions,\" November 17, 2026. https://www.wamc.org/news/2026-11-17/poughkeepsie-condo-residents-complain-of-substandard-conditions",
+     "description_source": "shownotes",
+     "guid": "457370cb-d5a7-5a45-b56d-f5a1e761c924",
+     "guid_source": "provisional",
+     "pubDate": "Wed, 18 Nov 2026 12:00:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep073.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep073.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep073.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep073.txt"
     }
    ]
   },
