@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-21T00:37:41.772227+00:00",
+ "generated": "2026-11-21T00:50:35.273855+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -3155,6 +3155,33 @@
      "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-reporting/ep038.mp3",
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/reporting/ep038.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/reporting/ep038.txt"
+    },
+    {
+     "episode_number": 39,
+     "production_episode_number": 39,
+     "title": "The Agents Go on Call: AI Systems Take the Incident Shift",
+     "bundle_title": "The Agents Go on Call: AI Systems Take the Incident Shift",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/reporting/2026-11-20-ep39",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/reporting/2026-11-20-ep39/audio.mp3",
+     "audio_bytes": 7333861,
+     "duration_seconds": 916,
+     "duration": "00:15:16",
+     "duration_source": "bundle-metadata",
+     "date": "2026-11-20",
+     "feed_match": false,
+     "status_raw": "Pending release in this run; update after backup RSS verification.",
+     "description": "Title: The Agents Go on Call: AI Systems Take the Incident Shift\nDate: Friday, November 20, 2026\nHost: Noel\n\nThe pager goes off at three in the morning, and this week it started going off for software. Resolve AI's SRE-1 model is built to find the root causes of production alerts; Groundcover's Agent Investigations opens a shared workspace where AI agents and human engineers work the same incident; and Google says, as Quartz reported it, that autonomous agents are outpacing human response. This episode works the story in order: what an on-call agent actually does, what the speed claim measures and what it leaves out, the recursive problem of agents investigating systems that fail because of other agents, the agentic security operations center as the parallel case, and the accountability question waiting in the first serious postmortem: when the agent's root cause call is wrong, whose postmortem is it? Vendor claims are attributed to the vendors throughout and tested, never adopted as findings.\n\nSources:\n\t\u2022\tSiliconANGLE, \"Resolve AI's SRE-1 model finds root causes of production alerts as AI agents go on call,\" November 19, 2026.\n\t\u2022\tSiliconANGLE, \"Groundcover launches Agent Investigations, a shared workspace for AI agents and engineers,\" November 19, 2026.\n\t\u2022\tQuartz (qz.com), \"Google says autonomous A.I. agents are outpacing human response,\" November 19, 2026.\n\t\u2022\tBizTech Magazine, \"Building an Agentic SOC: When AI Agents Join Your Security Team,\" November 19, 2026.\n\t\u2022\tWIRED, \"Mirror Dimension\" (Google's test internet for Chrome agents), November 2026, context only.",
+     "description_source": "shownotes",
+     "guid": "111b0d23-2137-559e-9b69-21270d58dc72",
+     "guid_source": "provisional",
+     "pubDate": "Fri, 20 Nov 2026 12:00:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep039.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-reporting/ep039.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/reporting/ep039.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/reporting/ep039.txt"
     }
    ]
   },
