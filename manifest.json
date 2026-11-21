@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-19T18:38:00.020799+00:00",
+ "generated": "2026-11-21T00:37:41.772227+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -2057,6 +2057,33 @@
      "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep073.mp3",
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep073.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep073.txt"
+    },
+    {
+     "episode_number": 74,
+     "production_episode_number": 74,
+     "title": "Child Care Seats Are Coming to Dutchess, a Foie Gras Farm Burns, and a Threat at Haviland",
+     "bundle_title": "Child Care Seats Are Coming to Dutchess, a Foie Gras Farm Burns, and a Threat at Haviland",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/briefing/2026-11-20-ep74",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/briefing/2026-11-20-ep74/audio.mp3",
+     "audio_bytes": 2714149,
+     "duration_seconds": 339,
+     "duration": "00:05:39",
+     "duration_source": "bundle-metadata",
+     "date": "2026-11-20",
+     "feed_match": false,
+     "status_raw": "Pending release in this run; update after backup RSS verification.",
+     "description": "Title: Child Care Seats Are Coming to Dutchess, a Foie Gras Farm Burns, and a Threat at Haviland\nDate: Friday, November 20, 2026\nHost: Noel\n\nA how-to for Dutchess County from RFTUV's Ellis Ward: First 3 NY child care providers apply through the county now, while families prepare for enrollment in spring 2027, with more than sixty million dollars committed statewide, more than twenty million per county, and up to one thousand seats in Dutchess; more than thirty five Dutchess providers have already committed to creating more than two hundred new spots by 2027. In Sullivan County, a fire early Thursday destroyed most of Hudson Valley Foie Gras, one of only two major foie gras producers left in the United States, killing an unknown number of ducks and geese; no people were injured, and the cause is under investigation. And Hyde Park police say a thirteen year old from Poughkeepsie admitted writing the threatening message found inside Haviland Middle School; she was taken for a mental health evaluation, and police have not released the message's contents.\n\nSources:\n\t\u2022\tRFTUV, Ellis Ward, First 3 NY / Dutchess child care how-to, November 19, 2026 (live on rftuv.ai).\n\t\u2022\tOffice of Governor Kathy Hochul, \"Governor Hochul Unveils Major Step in Delivering Affordable Child Care to New York Families Regardless of Income,\" November 18, 2026. https://www.governor.ny.gov/news/governor-hochul-unveils-major-step-delivering-affordable-child-care-new-york-families\n\t\u2022\tRadio Catskill, \"Fire Destroys Most of Hudson Valley Foie Gras Facility,\" November 19, 2026. https://radiocatskill.org/multi-alarm-fire-erupts-at-hudson-valley-foie-gras-factory/\n\t\u2022\tGothamist, \"Hudson Valley duck farm suing over NYC foie gras ban destroyed in fire,\" November 19, 2026.\n\t\u2022\tNews 12 Westchester, \"Massive fire kills ducks and geese, destroys buildings at one of nation's only two major foie gras producers,\" November 19, 2026.\n\t\u2022\tTown of Hyde Park Police Department update, via Hudson Valley Country / 94.3 Lite FM, \"Hyde Park Police Identify 13-Year-Old In Middle School Threat,\" November 2026. https://hudsonvalleycountry.com/hyde-park-middle-school-threat-update/",
+     "description_source": "shownotes",
+     "guid": "c218c75f-69d4-575b-b935-8c1b775ae0ec",
+     "guid_source": "provisional",
+     "pubDate": "Fri, 20 Nov 2026 12:00:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep074.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep074.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep074.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep074.txt"
     }
    ]
   },

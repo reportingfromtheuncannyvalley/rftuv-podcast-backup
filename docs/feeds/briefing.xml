@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>The RFTUV Briefing is a short AI news and tech news podcast from Reporting from the Uncanny Valley (RFTUV), built from reporting and analysis at rftuv.ai. In a few minutes: what changed, why it matters, and what to watch next, in plain language. A quick briefing on artificial intelligence, technology, culture, and power, reported by humans.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 19:52:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 00:37:52 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/briefing.xml" rel="self" type="application/rss+xml" />
     <itunes:author>The RFTUV Briefing</itunes:author>
@@ -20,6 +20,31 @@
     <podcast:guid>dd1b915a-98c8-59c0-a2ce-b5f61f5255a9</podcast:guid>
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
+    <item>
+      <title>Child Care Seats Are Coming to Dutchess, a Foie Gras Farm Burns, and a Threat at Haviland</title>
+      <description>Title: Child Care Seats Are Coming to Dutchess, a Foie Gras Farm Burns, and a Threat at Haviland
+Date: Friday, November 20, 2026
+Host: Noel
+
+A how-to for Dutchess County from RFTUV's Ellis Ward: First 3 NY child care providers apply through the county now, while families prepare for enrollment in spring 2027, with more than sixty million dollars committed statewide, more than twenty million per county, and up to one thousand seats in Dutchess; more than thirty five Dutchess providers have already committed to creating more than two hundred new spots by 2027. In Sullivan County, a fire early Thursday destroyed most of Hudson Valley Foie Gras, one of only two major foie gras producers left in the United States, killing an unknown number of ducks and geese; no people were injured, and the cause is under investigation. And Hyde Park police say a thirteen year old from Poughkeepsie admitted writing the threatening message found inside Haviland Middle School; she was taken for a mental health evaluation, and police have not released the message's contents.
+
+Sources:
+	•	RFTUV, Ellis Ward, First 3 NY / Dutchess child care how-to, November 19, 2026 (live on rftuv.ai).
+	•	Office of Governor Kathy Hochul, "Governor Hochul Unveils Major Step in Delivering Affordable Child Care to New York Families Regardless of Income," November 18, 2026. https://www.governor.ny.gov/news/governor-hochul-unveils-major-step-delivering-affordable-child-care-new-york-families
+	•	Radio Catskill, "Fire Destroys Most of Hudson Valley Foie Gras Facility," November 19, 2026. https://radiocatskill.org/multi-alarm-fire-erupts-at-hudson-valley-foie-gras-factory/
+	•	Gothamist, "Hudson Valley duck farm suing over NYC foie gras ban destroyed in fire," November 19, 2026.
+	•	News 12 Westchester, "Massive fire kills ducks and geese, destroys buildings at one of nation's only two major foie gras producers," November 19, 2026.
+	•	Town of Hyde Park Police Department update, via Hudson Valley Country / 94.3 Lite FM, "Hyde Park Police Identify 13-Year-Old In Middle School Threat," November 2026. https://hudsonvalleycountry.com/hyde-park-middle-school-threat-update/</description>
+      <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">c218c75f-69d4-575b-b935-8c1b775ae0ec</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep074.mp3" length="2714149" type="audio/mpeg" />
+      <itunes:duration>00:05:39</itunes:duration>
+      <itunes:episode>74</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep074.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep074.txt" type="text/plain" />
+    </item>
     <item>
       <title>The Agents Nobody Can Find, an Outage Cascade, and Trouble at Riverview Condos</title>
       <description>Title: The Agents Nobody Can Find, an Outage Cascade, and Trouble at Riverview Condos
