@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>Reporting from the Uncanny Valley is a technology and culture podcast hosted by Noel Brown from New York's Hudson Valley. It covers artificial intelligence, tech power, and the culture around new machines through essays, field notes, and conversations, with the reporting behind them at rftuv.ai. Plainspoken and curious, with no hype and no tribal politics. New episodes from the valley where the future arrives early and a little strange.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 06:21:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 06:45:46 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/reporting.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Reporting from the Uncanny Valley</itunes:author>
@@ -21,6 +21,31 @@
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
     <podcast:location>Hudson Valley, New York, USA</podcast:location>
+    <item>
+      <title>The Agents Learned to Break In</title>
+      <description>Title: The Agents Learned to Break In
+Date: Saturday, November 21, 2026
+Host: Noel
+
+In September, Amazon's threat intelligence team found a live, unauthenticated instance of Cairn, an open-source AI agent platform, exposing a hacking campaign's configurations, prompts, and logs. Reading that notebook, Amazon says AI agents given one human instruction, obtain shell access, mapped the medical imaging application MONAI Label, found a path traversal flaw in an upload endpoint, and went from mapping to arbitrary file write in eleven minutes, then planted a reverse shell in a file Python loads automatically and came back with root control of a university server. This episode works the story in four parts: what the agents actually did, step by step, including the sixteen hour failure at a Redis server and the thirty thousand failed credential attempts at a GPU server; the attribution, a Chinese-nexus assessment at moderate confidence resting on three items, tested one by one; the parallel European case, where the European Commission confirmed an October attack using AI tools and almost nothing else; and the defensive consequence, including the fact that the fix for the MONAI flaw was merged in October and the advisory published November eighteenth, but no patched release has shipped. With Ellis Ward, our resident expert on AI systems. Every autonomy and attribution claim is attributed to its source and tested, never adopted as a finding.
+
+Sources:
+	•	Amazon Threat Intelligence / CJ Moses, "Chinese-nexus actor's Cairn AI agents found a zero-day on their own," AWS Security Blog, November 20, 2026. https://aws.amazon.com/blogs/security/chinese-nexus-actors-cairn-ai-agents-found-a-zero-day-on-their-own/
+	•	BleepingComputer, "Hackers use autonomous AI tool Cairn to find zero-day, take over server," November 20, 2026. https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/
+	•	Palo Alto Networks Unit 42, Cairn framework autonomous attacks (CL-STA-1238), November 12, 2026. https://origin-unit42.paloaltonetworks.com/cairn-framework-ai-autonomous-attacks/
+	•	Associated Press, "A cyberattack using artificial intelligence targeted the EU in October, official says," November 19, 2026. https://techxplore.com/news/2026-11-cyberattack-artificial-intelligence-eu-october.html
+	•	GitHub Security Advisory GHSA-qc22-rmgc-vg94 (MONAI Label path traversal), published November 18, 2026; Cloud Security Alliance research note on the MONAI Label agent-discovered zero-day, November 21, 2026.
+	•	Google Threat Intelligence Group reporting on Cairn-class agent frameworks, October 30, 2026, and Gambit Security's September 2026 Cairn abuse documentation, both as cited in Information Risk Today, November 20, 2026.</description>
+      <pubDate>Sat, 21 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">0ef77761-7b02-500f-b5b7-97857bb3dfb4</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-reporting/ep040.mp3" length="7946149" type="audio/mpeg" />
+      <itunes:duration>00:16:33</itunes:duration>
+      <itunes:episode>40</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/reporting/ep040.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/reporting/ep040.txt" type="text/plain" />
+    </item>
     <item>
       <title>The Agents Go on Call: AI Systems Take the Incident Shift</title>
       <description>Title: The Agents Go on Call: AI Systems Take the Incident Shift

@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-23T06:21:46.171382+00:00",
+ "generated": "2026-11-23T06:45:38.902775+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -3209,6 +3209,33 @@
      "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-reporting/ep039.mp3",
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/reporting/ep039.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/reporting/ep039.txt"
+    },
+    {
+     "episode_number": 40,
+     "production_episode_number": 40,
+     "title": "The Agents Learned to Break In",
+     "bundle_title": "The Agents Learned to Break In",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/reporting/2026-11-21-ep40",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/reporting/2026-11-21-ep40/audio.mp3",
+     "audio_bytes": 7946149,
+     "duration_seconds": 993,
+     "duration": "00:16:33",
+     "duration_source": "bundle-metadata",
+     "date": "2026-11-21",
+     "feed_match": false,
+     "status_raw": "Bundled Nov 23, 2026; pending backup RSS release.",
+     "description": "Title: The Agents Learned to Break In\nDate: Saturday, November 21, 2026\nHost: Noel\n\nIn September, Amazon's threat intelligence team found a live, unauthenticated instance of Cairn, an open-source AI agent platform, exposing a hacking campaign's configurations, prompts, and logs. Reading that notebook, Amazon says AI agents given one human instruction, obtain shell access, mapped the medical imaging application MONAI Label, found a path traversal flaw in an upload endpoint, and went from mapping to arbitrary file write in eleven minutes, then planted a reverse shell in a file Python loads automatically and came back with root control of a university server. This episode works the story in four parts: what the agents actually did, step by step, including the sixteen hour failure at a Redis server and the thirty thousand failed credential attempts at a GPU server; the attribution, a Chinese-nexus assessment at moderate confidence resting on three items, tested one by one; the parallel European case, where the European Commission confirmed an October attack using AI tools and almost nothing else; and the defensive consequence, including the fact that the fix for the MONAI flaw was merged in October and the advisory published November eighteenth, but no patched release has shipped. With Ellis Ward, our resident expert on AI systems. Every autonomy and attribution claim is attributed to its source and tested, never adopted as a finding.\n\nSources:\n\t\u2022\tAmazon Threat Intelligence / CJ Moses, \"Chinese-nexus actor's Cairn AI agents found a zero-day on their own,\" AWS Security Blog, November 20, 2026. https://aws.amazon.com/blogs/security/chinese-nexus-actors-cairn-ai-agents-found-a-zero-day-on-their-own/\n\t\u2022\tBleepingComputer, \"Hackers use autonomous AI tool Cairn to find zero-day, take over server,\" November 20, 2026. https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/\n\t\u2022\tPalo Alto Networks Unit 42, Cairn framework autonomous attacks (CL-STA-1238), November 12, 2026. https://origin-unit42.paloaltonetworks.com/cairn-framework-ai-autonomous-attacks/\n\t\u2022\tAssociated Press, \"A cyberattack using artificial intelligence targeted the EU in October, official says,\" November 19, 2026. https://techxplore.com/news/2026-11-cyberattack-artificial-intelligence-eu-october.html\n\t\u2022\tGitHub Security Advisory GHSA-qc22-rmgc-vg94 (MONAI Label path traversal), published November 18, 2026; Cloud Security Alliance research note on the MONAI Label agent-discovered zero-day, November 21, 2026.\n\t\u2022\tGoogle Threat Intelligence Group reporting on Cairn-class agent frameworks, October 30, 2026, and Gambit Security's September 2026 Cairn abuse documentation, both as cited in Information Risk Today, November 20, 2026.",
+     "description_source": "shownotes",
+     "guid": "0ef77761-7b02-500f-b5b7-97857bb3dfb4",
+     "guid_source": "provisional",
+     "pubDate": "Sat, 21 Nov 2026 12:00:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep040.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-reporting/ep040.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/reporting/ep040.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/reporting/ep040.txt"
     }
    ]
   },
