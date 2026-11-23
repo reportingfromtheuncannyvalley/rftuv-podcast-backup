@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>Dead Air Valley explores the strange history, local legends, forgotten places, and unsettling stories of the Hudson Valley and the regions around it. From Sleepy Hollow and old river towns to neighboring valleys, back roads, abandoned landmarks, and the people who shaped them, each episode finds something worth bringing back into the light. Hosted by a rotating group of voices, with occasional noir-style narration, Dead Air Valley moves between atmospheric storytelling, local history, conversation, and timely discoveries. Episodes may be short, long, solo, or roundtable, but each begins with one question: what's still waiting in the dead air?</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 07:43:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 09:27:45 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/dead-air-valley.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Dead Air Valley</itunes:author>
@@ -21,6 +21,26 @@
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
     <podcast:location>Hudson Valley, New York, USA</podcast:location>
+    <item>
+      <title>Pumpkin or Apple? The Valley Already Voted on Thanksgiving Pie</title>
+      <description>Title: Pumpkin or Apple? The Valley Already Voted on Thanksgiving Pie
+Date: Sunday, November 22, 2026
+Host: Silas Van Wyck
+
+The Times Herald-Record opened its weekly reader poll, the Orange County Showdown, to the whole mid-Hudson Valley this week, and the question was the best Thanksgiving pie. The Valley answered in three days: pumpkin won with forty three point one percent, apple took a close second at thirty two point three, pecan third at ten point eight, sweet potato and coconut cream tied at four point four apiece, chocolate cream three point three, and cherry last at two point two. Silas Van Wyck walks the whole table slowly, pie by pie, sits with what a reader poll can and cannot tell you (the paper published percentages, no vote counts), and gives the rounding its due: the seven numbers add up to one hundred point five percent, and that extra half percent belongs to nobody. Next up in the series: the best Thanksgiving side dish on Tuesday, then the best holiday light displays. Originated by June Mercer.
+
+Sources:
+	•	Mike Randall, Times Herald-Record (recordonline.com), Orange County Showdown voting piece, November 17, 2026, and results piece, "Pumpkin or apple? The Valley already voted on Thanksgiving pie," November 20, 2026.</description>
+      <pubDate>Sun, 22 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">e8f076ef-9edd-5ebf-a508-49b996b12443</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep038.mp3" length="8393509" type="audio/mpeg" />
+      <itunes:duration>00:17:29</itunes:duration>
+      <itunes:episode>38</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep038.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep038.txt" type="text/plain" />
+    </item>
     <item>
       <title>The Driver Had One Good Option: Dump the Burning Trash</title>
       <description>Title: The Driver Had One Good Option: Dump the Burning Trash

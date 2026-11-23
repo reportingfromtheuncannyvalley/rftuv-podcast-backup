@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-23T07:43:35.200504+00:00",
+ "generated": "2026-11-23T09:27:36.188035+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -4358,6 +4358,33 @@
      "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep037.mp3",
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep037.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep037.txt"
+    },
+    {
+     "episode_number": 38,
+     "production_episode_number": 38,
+     "title": "Pumpkin or Apple? The Valley Already Voted on Thanksgiving Pie",
+     "bundle_title": "Pumpkin or Apple? The Valley Already Voted on Thanksgiving Pie",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/dead-air-valley/2026-11-22-ep38",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/dead-air-valley/2026-11-22-ep38/audio.mp3",
+     "audio_bytes": 8393509,
+     "duration_seconds": 1049,
+     "duration": "00:17:29",
+     "duration_source": "bundle-metadata",
+     "date": "2026-11-22",
+     "feed_match": false,
+     "status_raw": "Bundled Nov 23, 2026; pending backup RSS release.",
+     "description": "Title: Pumpkin or Apple? The Valley Already Voted on Thanksgiving Pie\nDate: Sunday, November 22, 2026\nHost: Silas Van Wyck\n\nThe Times Herald-Record opened its weekly reader poll, the Orange County Showdown, to the whole mid-Hudson Valley this week, and the question was the best Thanksgiving pie. The Valley answered in three days: pumpkin won with forty three point one percent, apple took a close second at thirty two point three, pecan third at ten point eight, sweet potato and coconut cream tied at four point four apiece, chocolate cream three point three, and cherry last at two point two. Silas Van Wyck walks the whole table slowly, pie by pie, sits with what a reader poll can and cannot tell you (the paper published percentages, no vote counts), and gives the rounding its due: the seven numbers add up to one hundred point five percent, and that extra half percent belongs to nobody. Next up in the series: the best Thanksgiving side dish on Tuesday, then the best holiday light displays. Originated by June Mercer.\n\nSources:\n\t\u2022\tMike Randall, Times Herald-Record (recordonline.com), Orange County Showdown voting piece, November 17, 2026, and results piece, \"Pumpkin or apple? The Valley already voted on Thanksgiving pie,\" November 20, 2026.",
+     "description_source": "shownotes",
+     "guid": "e8f076ef-9edd-5ebf-a508-49b996b12443",
+     "guid_source": "provisional",
+     "pubDate": "Sun, 22 Nov 2026 12:00:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep038.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep038.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep038.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep038.txt"
     }
    ]
   }
