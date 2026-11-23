@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>The RFTUV Briefing is a short AI news and tech news podcast from Reporting from the Uncanny Valley (RFTUV), built from reporting and analysis at rftuv.ai. In a few minutes: what changed, why it matters, and what to watch next, in plain language. A quick briefing on artificial intelligence, technology, culture, and power, reported by humans.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Nov 2026 00:50:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 06:21:53 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/briefing.xml" rel="self" type="application/rss+xml" />
     <itunes:author>The RFTUV Briefing</itunes:author>
@@ -20,6 +20,30 @@
     <podcast:guid>dd1b915a-98c8-59c0-a2ce-b5f61f5255a9</podcast:guid>
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
+    <item>
+      <title>Deer Season Opens, a Fight Over the Copper Lines, and a School Evacuation</title>
+      <description>Title: Deer Season Opens, a Fight Over the Copper Lines, and a School Evacuation
+Date: Saturday, November 21, 2026
+Host: Noel
+
+The Southern Zone firearms deer season opened Saturday, and Ellis Ward's RFTUV guide has the opening day checklist: fluorescent orange or pink for every hunter and every companion, legal hours from thirty minutes before sunrise to thirty minutes after sunset, the antler rules for the restricted Wildlife Management Units, and the new twenty twenty six tag rules, including a second antlered tag earned with a legal antlerless harvest. Congressman Pat Ryan is urging the FCC to reject Verizon's application to discontinue copper landline service in portions of nine states and Washington DC, including New York, where about seven hundred fifty thousand locations still subscribe; the FCC takes objections through December fourth in WC Docket 26-252. And in Carmel, firefighters evacuated St. James the Apostle School on Monday morning after carbon monoxide readings above one hundred parts per million were found in the boiler room; several people were evaluated at the scene, nobody was transported, and officials have not publicly identified the cause.
+
+Sources:
+	•	RFTUV, Ellis Ward, "Gun Season Opens Saturday in the Hudson Valley: How to Hunt the Southern Zone Firearms Deer Season Legally and Safely," November 20, 2026 (live on rftuv.ai).
+	•	NYSDEC, Deer and Bear Regulations. http://dec.ny.gov/things-to-do/hunting/deer-bear/regulations
+	•	Congressman Pat Ryan, "Congressman Pat Ryan Blasts Verizon Proposal to End Landline Service and Disconnect the Hudson Valley," November 20, 2026. https://patryan.house.gov/media/press-releases/congressman-pat-ryan-blasts-verizon-proposal-end-landline-service-and
+	•	The Highlands Current, "FCC Seeks Input on Landlines," November 20, 2026. https://highlandscurrent.org/2026/11/20/fcc-seeks-input-on-landlines/
+	•	101.5 WPDH / Townsquare Media, "Hudson Valley School Evacuated Over Dangerous Carbon Monoxide Levels," November 20, 2026; Carmel Fire Department incident post, November 19, 2026.</description>
+      <pubDate>Sat, 21 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">cf6232d2-eb7b-54cb-abf7-c5ac66ed97c5</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep075.mp3" length="2918245" type="audio/mpeg" />
+      <itunes:duration>00:06:04</itunes:duration>
+      <itunes:episode>75</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep075.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep075.txt" type="text/plain" />
+    </item>
     <item>
       <title>Child Care Seats Are Coming to Dutchess, a Foie Gras Farm Burns, and a Threat at Haviland</title>
       <description>Title: Child Care Seats Are Coming to Dutchess, a Foie Gras Farm Burns, and a Threat at Haviland

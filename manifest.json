@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-21T00:50:35.273855+00:00",
+ "generated": "2026-11-23T06:21:46.171382+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -2084,6 +2084,33 @@
      "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep074.mp3",
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep074.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep074.txt"
+    },
+    {
+     "episode_number": 75,
+     "production_episode_number": 75,
+     "title": "Deer Season Opens, a Fight Over the Copper Lines, and a School Evacuation",
+     "bundle_title": "Deer Season Opens, a Fight Over the Copper Lines, and a School Evacuation",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/briefing/2026-11-21-ep75",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/briefing/2026-11-21-ep75/audio.mp3",
+     "audio_bytes": 2918245,
+     "duration_seconds": 364,
+     "duration": "00:06:04",
+     "duration_source": "bundle-metadata",
+     "date": "2026-11-21",
+     "feed_match": false,
+     "status_raw": "Bundled Nov 23, 2026; pending backup RSS release.",
+     "description": "Title: Deer Season Opens, a Fight Over the Copper Lines, and a School Evacuation\nDate: Saturday, November 21, 2026\nHost: Noel\n\nThe Southern Zone firearms deer season opened Saturday, and Ellis Ward's RFTUV guide has the opening day checklist: fluorescent orange or pink for every hunter and every companion, legal hours from thirty minutes before sunrise to thirty minutes after sunset, the antler rules for the restricted Wildlife Management Units, and the new twenty twenty six tag rules, including a second antlered tag earned with a legal antlerless harvest. Congressman Pat Ryan is urging the FCC to reject Verizon's application to discontinue copper landline service in portions of nine states and Washington DC, including New York, where about seven hundred fifty thousand locations still subscribe; the FCC takes objections through December fourth in WC Docket 26-252. And in Carmel, firefighters evacuated St. James the Apostle School on Monday morning after carbon monoxide readings above one hundred parts per million were found in the boiler room; several people were evaluated at the scene, nobody was transported, and officials have not publicly identified the cause.\n\nSources:\n\t\u2022\tRFTUV, Ellis Ward, \"Gun Season Opens Saturday in the Hudson Valley: How to Hunt the Southern Zone Firearms Deer Season Legally and Safely,\" November 20, 2026 (live on rftuv.ai).\n\t\u2022\tNYSDEC, Deer and Bear Regulations. http://dec.ny.gov/things-to-do/hunting/deer-bear/regulations\n\t\u2022\tCongressman Pat Ryan, \"Congressman Pat Ryan Blasts Verizon Proposal to End Landline Service and Disconnect the Hudson Valley,\" November 20, 2026. https://patryan.house.gov/media/press-releases/congressman-pat-ryan-blasts-verizon-proposal-end-landline-service-and\n\t\u2022\tThe Highlands Current, \"FCC Seeks Input on Landlines,\" November 20, 2026. https://highlandscurrent.org/2026/11/20/fcc-seeks-input-on-landlines/\n\t\u2022\t101.5 WPDH / Townsquare Media, \"Hudson Valley School Evacuated Over Dangerous Carbon Monoxide Levels,\" November 20, 2026; Carmel Fire Department incident post, November 19, 2026.",
+     "description_source": "shownotes",
+     "guid": "cf6232d2-eb7b-54cb-abf7-c5ac66ed97c5",
+     "guid_source": "provisional",
+     "pubDate": "Sat, 21 Nov 2026 12:00:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep075.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep075.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep075.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep075.txt"
     }
    ]
   },
