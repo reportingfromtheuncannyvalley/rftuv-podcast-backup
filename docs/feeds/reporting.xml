@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>Reporting from the Uncanny Valley is a technology and culture podcast hosted by Noel Brown from New York's Hudson Valley. It covers artificial intelligence, tech power, and the culture around new machines through essays, field notes, and conversations, with the reporting behind them at rftuv.ai. Plainspoken and curious, with no hype and no tribal politics. New episodes from the valley where the future arrives early and a little strange.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 09:27:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 10:33:48 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/reporting.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Reporting from the Uncanny Valley</itunes:author>
@@ -21,6 +21,28 @@
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
     <podcast:location>Hudson Valley, New York, USA</podcast:location>
+    <item>
+      <title>Anthropic's Record IPO and the Philanthropy It Promises</title>
+      <description>Title: Anthropic's Record IPO and the Philanthropy It Promises
+Date: Monday, November 23, 2026
+Host: Noel
+
+Anthropic's stock market debut was the largest IPO on record, valuing the maker of Claude at about one point five trillion dollars. Attached to it is a projected charitable windfall of about one hundred fifty-six billion dollars, and nonprofits are already preparing to scale in expectation of it. This episode separates that number into its channels: the five percent of shares structurally dedicated to the new Anthropic Public Benefit Fund; the seven co-founders' pledge to give away eighty percent of their equity, worth about one hundred twelve billion dollars at the IPO price and counted separately in most reporting; and the employee pledges and company matching that analysts estimate from the company's S-1 filing. Then the precedents, from the Giving Pledge to MacKenzie Scott, and the frictions: the spring lockup, donor-advised funds, the difficulty of deploying capital at this scale, and the share price every figure depends on. With Mara Quinn, our resident expert on the media and business of technology. Expected giving is never presented as money already given; every estimate is attributed to its source.
+
+Sources:
+	•	Associated Press, "Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale," via MyChamplainValley.com, November 22, 2026. https://staging.connect.netscape.com/tech/story/0001/20261122/044fd361f0a5899dcf6756205711aa13
+	•	Anthropic S-1 filing disclosures as reported: five percent of shares (almost 850 million) dedicated to the Anthropic Public Benefit Fund; more than 550 million shares reserved for employee pledges made before September 30, 2026; employee gift matching three to one for longer-serving employees, one to one for newer ones, in Class N common stock. Industry Wired, "Anthropic's Stock Market Debut Could Become a Historic Philanthropic Milestone," November 2026. https://industrywired.com/stocks/anthropics-stock-market-debut-could-become-a-historic-philanthropic-milestone-12825576
+	•	Channel breakdown and combined estimate (fund stake plus employee pledges plus company match totaling about $156 billion): Tekticia, "Anthropic IPO Charity: $156B Windfall for Good Causes," November 2026. https://tekticia.com/anthropic-ipo-charity-156b-windfall-for-good-causes/</description>
+      <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">35ecd138-62fd-5f76-b5d0-43ab2cf15fb0</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-reporting/ep041.mp3" length="9512717" type="audio/mpeg" />
+      <itunes:duration>00:19:49</itunes:duration>
+      <itunes:episode>41</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/reporting/ep041.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/reporting/ep041.txt" type="text/plain" />
+    </item>
     <item>
       <title>The Agents Learned to Break In</title>
       <description>Title: The Agents Learned to Break In
