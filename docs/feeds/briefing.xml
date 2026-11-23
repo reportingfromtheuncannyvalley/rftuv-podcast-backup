@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>The RFTUV Briefing is a short AI news and tech news podcast from Reporting from the Uncanny Valley (RFTUV), built from reporting and analysis at rftuv.ai. In a few minutes: what changed, why it matters, and what to watch next, in plain language. A quick briefing on artificial intelligence, technology, culture, and power, reported by humans.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 10:33:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 11:16:15 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/briefing.xml" rel="self" type="application/rss+xml" />
     <itunes:author>The RFTUV Briefing</itunes:author>
@@ -20,6 +20,28 @@
     <podcast:guid>dd1b915a-98c8-59c0-a2ce-b5f61f5255a9</podcast:guid>
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
+    <item>
+      <title>Zero Data Retention Meant Nothing, Signal Blocks the Agents, and Rockland Adds Jobs</title>
+      <description>Title: Zero Data Retention Meant Nothing, Signal Blocks the Agents, and Rockland Adds Jobs
+Date: Monday, November 23, 2026
+Host: Noel
+
+Researchers at Dragos seeded about two million AI prompts with canary links and fake credentials and found attackers inside three AI inference providers, stealing customer prompts for months, including prompts marked Zero Data Retention and even requests the systems rejected. A planted fake AWS key was used within hours for tens of thousands of API calls. OpenRouter has removed three providers and pulled one hundred twenty-five endpoints from Zero Data Retention eligibility, and Phala, Together AI, and Novita have disclosed related incidents of their own. Signal is now blocking AI agents from reading its chats, with screenshot blocking on by default on iPhone and automatic screen security on Android, after Reuters tests showed an agent reading Signal messages through notifications and screenshots; Signal concedes the remedy is incomplete and cannot be built at all on Macs yet. And Rockland County leads the Hudson Valley in private-sector job growth: federal County Business Patterns data shows thirteen point four percent growth from twenty eighteen to twenty twenty-three, fourth fastest in New York State, while Dutchess County shrank five point seven percent on the same measure.
+
+Stories and sources:
+	•	Prompt theft at AI inference providers: Callahan Blackwood, "Zero Data Retention Meant Nothing: Attackers Stole AI Prompts for Months and Nobody Noticed," Reporting from the Uncanny Valley (rftuv.ai), November 22, 2026, https://rftuv.ai/news/openrouter-prompt-theft-zero-data-retention (verified live, HTTP 200, during production); Dragos research as reported by The Hacker News, November 22, 2026; follow-on confirmation: Dataconomy, November 23, 2026, and SC Media, November 23, 2026; incident notices from Phala, Together AI, and Novita as reported.
+	•	Signal blocks AI agents: Signal announcement by Meredith Whittaker, November 20, 2026, as reported by The Hacker News, Engadget, Gizmodo, and Notebookcheck, November 2026; Reuters tests of Meta's Muse agent reading Signal content, published November 18, 2026.
+	•	Rockland County job growth: Monsey Scoop, "Rockland County Leads Hudson Valley in Private-Sector Job Growth, New State Report Shows," November 22, 2026; U.S. Census Bureau, County Business Patterns (private-sector employment change 2018 to 2023: Rockland +13.4 percent, Orange +7.0 percent, Westchester flat, Dutchess -5.7 percent).</description>
+      <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">80895e97-cb5d-522b-a511-b04a500797dd</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep077.mp3" length="3064741" type="audio/mpeg" />
+      <itunes:duration>00:06:23</itunes:duration>
+      <itunes:episode>77</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep077.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep077.txt" type="text/plain" />
+    </item>
     <item>
       <title>The Data Center Gap, 200,000 Thanksgiving Meals, and a Hack at the FBI</title>
       <description>Title: The Data Center Gap, 200,000 Thanksgiving Meals, and a Hack at the FBI

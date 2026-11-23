@@ -1,0 +1,53 @@
+Noel: From R F T U V, this is The Daily Brief. I am Noel. It is Monday, November twenty third, twenty twenty six, and this is the midday edition. Up next: Dragos researchers uncover attackers inside A I inference providers stealing customer prompts, Signal starts blocking A I agents from reading private chats, and new federal data shows Rockland County leading the Hudson Valley in private-sector job growth.
+
+Noel: Dragos researchers spent four months seeding A I systems with traps, and what they found was not a theoretical risk. Attackers were already inside.
+
+Noel: According to Dragos, researchers sent two million A I prompts through inference providers between July and November of this year. Each prompt carried canary links and fake credentials. Dragos then tracked where those secrets surfaced.
+
+Noel: They found attackers operating inside three A I inference providers, copying customer prompts as they arrived. The scope of the theft ran wider than expected.
+
+Noel: Some of those prompts carried Zero Data Retention flags. Zero Data Retention is a privacy commitment certain providers offer: prompt data will never be logged or stored after processing completes. According to Dragos, the attackers did not honor the flag. They copied prompts before any processing took place. Even requests the system rejected were stolen. The theft happened at arrival, before the A I touched the data at all.
+
+Noel: To test one provider directly, Dragos planted a fake AWS key inside a single prompt in late October. Within hours, an attacker used that key. According to Dragos, the attacker ran S3 bucket listings, searched Secrets Manager and Parameter Store, tried to create Bedrock keys and to add IAM users, and made tens of thousands of A P I calls in total.
+
+Noel: HD Moore of Dragos described the problem plainly. "A privacy flag doesn't help when the attacker is already inside." That matters because Zero Data Retention is often marketed as a solution to exactly this kind of threat.
+
+Noel: OpenRouter responded by removing three providers from its network and pulling one hundred twenty five endpoints from Zero Data Retention eligibility. OpenRouter confirmed its own infrastructure was not breached. The three removed providers were not publicly named.
+
+Noel: Three other companies disclosed related incidents. Phala reported that an attacker read live requests passing through its system. Phala said any DeepSeek V four Flash traffic routed through OpenRouter between October twenty first and November eighth should be treated as exposed, and any secret in it rotated.
+
+Noel: Together A I disclosed that an A I coding agent committed credentials to a public GitHub repository. An unauthorized party then downloaded stored customer prompt samples from Together's systems.
+
+Noel: Novita reported a routing misconfiguration that sent some MiniMax requests beyond their intended scope. That window ran from May twenty eighth to November eleventh.
+
+Noel: R F T U V's Callahan Blackwood reported the full story at rftuv.ai, published November twenty second. Dataconomy and SC Media confirmed the Dragos findings in follow-on reporting this morning.
+
+Noel: Dragos offered three direct takeaways. Rotate any secret that passed through affected services, and treat any credential that touched these systems as compromised even if you have not seen it misused yet. Privacy labels bind only the first receiver in the chain, not every system the data touches afterward. Self-hosting is the only route where no third party reads your prompts.
+
+Noel: Signal announced on November twentieth that it is blocking A I agents from reading its chats. Signal president Meredith Whittaker made the announcement.
+
+Noel: On iOS twenty seven with the latest Signal update, a setting called Block Siri A I is on by default. It prevents screenshots and screen recordings inside the app. Users can pause the block for ten minutes or turn it off entirely.
+
+Noel: On Android, Signal's existing Screen security feature now switches on automatically when it detects an A I assistant trying to read the screen. According to Signal, detection does not work on every Android version.
+
+Noel: The concern is concrete. A I agents built into phone operating systems, Siri A I on Apple devices and Gemini on Android, scan what is on screen. That scanning can capture Signal messages and move them outside Signal's control, stored on remote servers. Signal said the exposure covers everyone in the conversation, not just the phone's owner. A person who shares their screen data with an A I agent shares it on behalf of everyone they message.
+
+Noel: Reuters tested this on November eighteenth and found Meta's Muse reading Signal messages through Android notifications and through accessibility features and screenshots on Mac. Apple said it issued an update that closed the specific Mac route Reuters tested.
+
+Noel: On Mac, Signal says the developer tools needed to build equivalent protections do not exist. Signal recommends adding Signal to Excluded Apps in System Settings under Siri.
+
+Noel: Signal acknowledges the fix is incomplete. Agents can still reach data stored on the device. And if the other person in a conversation has protection turned off, their phone is still a readable window into the chat.
+
+Noel: This is not Signal's first time raising this objection. Last May, Signal made the same argument against Microsoft's Recall feature on Windows eleven.
+
+Noel: Rockland County leads the Hudson Valley in private-sector job growth, according to federal data reported by Monsey Scoop.
+
+Noel: Federal County Business Patterns figures show Rockland private-sector employment grew thirteen point four percent between twenty eighteen and twenty twenty three. The county reached about one hundred twenty eight thousand private-sector jobs by twenty twenty three. That ranked Rockland fourth fastest among New York's sixty two counties and first in the Hudson Valley.
+
+Noel: County Business Patterns is an annual Census Bureau series tracking employment and payroll by county and industry. The twenty eighteen to twenty twenty three span is the most recent five-year window with complete data available.
+
+Noel: The rest of the valley tells a different story. Orange County grew seven percent over the same period. Westchester County came in flat. Dutchess County lost five point seven percent of its private-sector jobs over those five years.
+
+Noel: Rockland sits at the southern edge of the Hudson Valley, inside the New York City metro area. The numbers in the federal data suggest the valley's job growth concentrates near the city. Mid-valley and northern counties flatten or shrink.
+
+Noel: That is The Daily Brief for Monday, November twenty third, twenty twenty six. I am Noel. The sources for everything in this episode are listed in the show notes.
