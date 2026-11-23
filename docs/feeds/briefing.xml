@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>The RFTUV Briefing is a short AI news and tech news podcast from Reporting from the Uncanny Valley (RFTUV), built from reporting and analysis at rftuv.ai. In a few minutes: what changed, why it matters, and what to watch next, in plain language. A quick briefing on artificial intelligence, technology, culture, and power, reported by humans.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 06:45:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 07:43:43 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/briefing.xml" rel="self" type="application/rss+xml" />
     <itunes:author>The RFTUV Briefing</itunes:author>
@@ -20,6 +20,29 @@
     <podcast:guid>dd1b915a-98c8-59c0-a2ce-b5f61f5255a9</podcast:guid>
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
+    <item>
+      <title>The Data Center Gap, 200,000 Thanksgiving Meals, and a Hack at the FBI</title>
+      <description>Title: The Data Center Gap, 200,000 Thanksgiving Meals, and a Hack at the FBI
+Date: Sunday, November 22, 2026
+Host: Noel
+
+Dutchess County's legislature has passed Resolution 2026163, asking Governor Hochul to sign the Responsible Data Center Development Act and close the gap her executive order left: the state pause covers data centers at fifty megawatts or more, while projects between twenty and forty nine megawatts face no state pause at all. The resolution also urges Dutchess towns and villages to adopt their own moratoriums at twenty megawatts, with East Fishkill's three year pause over a proposed one thousand megawatt project as the standing example. The Regional Food Bank distributed an unprecedented two hundred thousand Thanksgiving meals to more than fifty thousand people across six Hudson Valley counties on Saturday, double last year's effort, with senior meals still to come Monday and Tuesday. And the FBI is investigating an apparent hack of the National Crime Information Center, its criminal justice database; the bureau has declined to comment, the scope is unknown, and the Director of National Intelligence said Sunday morning he could not yet give details. Plus a service line: applications are open for New York's nursing faculty and young farmers student loan forgiveness programs, closing December sixteenth.
+
+Stories and sources:
+	•	Dutchess County data center resolution: Mara Quinn, "Dutchess County Legislators Ask Albany to Close the Gap in the State's Data Center Pause," Reporting from the Uncanny Valley (rftuv.ai), November 21, 2026, reporting Resolution 2026163, the Responsible Data Center Development Act (S.10642/A.11560), the East Fishkill moratorium, and NYISO's November 16 Large Load Integration Procedures filing.
+	•	Thanksgiving meals: Mike Randall, "Regional Food Bank distributes 200,000 Thanksgiving meals across Hudson Valley," Times Herald-Record (recordonline.com), November 21, 2026; RFTUV's own update on the distribution, November 22, 2026.
+	•	FBI database investigation: CNN's first report (Friday, November 20, 2026) and Associated Press confirmation (November 21, 2026) of the investigation into an apparent hack of the National Crime Information Center; President Trump's November 21 comment; Director of National Intelligence Jay Clayton's remarks on Fox News Sunday, November 22, 2026; Mara Quinn, "FBI Investigating Apparent Hack of the National Crime Information Center Database," Reporting from the Uncanny Valley (rftuv.ai), November 22, 2026.
+	•	Service line: New York State Higher Education Services Corporation (hesc.ny.gov), Nursing Faculty Loan Forgiveness Program and Young Farmers Loan Forgiveness Program, applications opened November 20, 2026, closing December 16, 2026; Ellis Ward's how-to on both programs at rftuv.ai, November 22, 2026.</description>
+      <pubDate>Sun, 22 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">24e578e9-e880-5dd5-8a17-c986059c0012</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep076.mp3" length="3425701" type="audio/mpeg" />
+      <itunes:duration>00:07:08</itunes:duration>
+      <itunes:episode>76</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep076.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep076.txt" type="text/plain" />
+    </item>
     <item>
       <title>Deer Season Opens, a Fight Over the Copper Lines, and a School Evacuation</title>
       <description>Title: Deer Season Opens, a Fight Over the Copper Lines, and a School Evacuation
