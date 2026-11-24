@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>The RFTUV Briefing is a short AI news and tech news podcast from Reporting from the Uncanny Valley (RFTUV), built from reporting and analysis at rftuv.ai. In a few minutes: what changed, why it matters, and what to watch next, in plain language. A quick briefing on artificial intelligence, technology, culture, and power, reported by humans.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 16:04:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 16:20:00 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/briefing.xml" rel="self" type="application/rss+xml" />
     <itunes:author>The RFTUV Briefing</itunes:author>
@@ -20,6 +20,28 @@
     <podcast:guid>dd1b915a-98c8-59c0-a2ce-b5f61f5255a9</podcast:guid>
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
+    <item>
+      <title>A School Director Arrested and a School Silent, a Food Safety Veto, and Car Fees Banned</title>
+      <description>Title: A School Director Arrested and a School Silent, a Food Safety Veto, and Car Fees Banned
+Date: Tuesday, November 24, 2026
+Host: Noel
+
+The director of Blooming Grove Academy, a small school for autistic students in New Windsor, was arrested last week on felony charges, and five days later the school had published no statement: Lisa Rinaldo, fifty four, of Newburgh, the school's director and chief executive since twenty eighteen, and employee Brian M. Smith, thirty four, face endangering charges after an investigation that began with a November eleventh complaint; both were arraigned and released without bail, and whether they remain employed, and whether the school remains open, are unstated in the public record. Governor Hochul has vetoed the Food Safety and Chemical Disclosure Act, which would have banned Red 3, potassium bromate, and propylparaben and forced public disclosure of GRAS safety files, after a cost fight in which estimates ran from twenty eight dollars to six hundred twenty dollars per household. And New York's new law bans subscription fees for car features that run on hardware already installed in the vehicle, effective February twenty seventh, twenty twenty seven.
+
+Stories and sources:
+	•	New Windsor school arrests: Callahan Blackwood, Reporting from the Uncanny Valley (rftuv.ai), November 23, 2026, https://rftuv.ai/news/new-windsor-school-abuse-arrests (verified live, HTTP 200, during production); New Windsor Police Department press release, November 20, 2026, via News 12 Hudson Valley.
+	•	Hochul food safety veto: Mara Quinn, Reporting from the Uncanny Valley (rftuv.ai), November 23, 2026; Lohud, WAMC, and the Times Herald-Record, November 20, 2026; Center for Science in the Public Interest fact sheet and statement.
+	•	New York vehicle subscription fee law: Office of Governor Kathy Hochul, "Governor Hochul Signs Bill Restricting Exploitative Vehicle Subscription Fees," November 23, 2026; S.9348A/A.10411A, New York State Senate legislation text (General Business Law section 198-d); News 12 Hudson Valley, November 23, 2026.</description>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ab99c2f7-9f8c-5990-9368-af7f3008b4cd</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep079.mp3" length="2684389" type="audio/mpeg" />
+      <itunes:duration>00:05:35</itunes:duration>
+      <itunes:episode>79</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep079.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep079.txt" type="text/plain" />
+    </item>
     <item>
       <title>AI Rivals Share Protocols, United Bans Booking Agents, and a Thanksgiving Storm</title>
       <description>Title: AI Rivals Share Protocols, United Bans Booking Agents, and a Thanksgiving Storm

@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-24T16:04:11.352070+00:00",
+ "generated": "2026-11-24T16:19:52.015358+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -2192,6 +2192,33 @@
      "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep078.mp3",
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep078.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep078.txt"
+    },
+    {
+     "episode_number": 79,
+     "production_episode_number": 79,
+     "title": "A School Director Arrested and a School Silent, a Food Safety Veto, and Car Fees Banned",
+     "bundle_title": "A School Director Arrested and a School Silent, a Food Safety Veto, and Car Fees Banned",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/briefing/2026-11-24-ep79",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/briefing/2026-11-24-ep79/audio.mp3",
+     "audio_bytes": 2684389,
+     "duration_seconds": 335,
+     "duration": "00:05:35",
+     "duration_source": "bundle-metadata",
+     "date": "2026-11-24",
+     "feed_match": false,
+     "status_raw": "Produced Nov 24, 2026; pending backup RSS release.",
+     "description": "Title: A School Director Arrested and a School Silent, a Food Safety Veto, and Car Fees Banned\nDate: Tuesday, November 24, 2026\nHost: Noel\n\nThe director of Blooming Grove Academy, a small school for autistic students in New Windsor, was arrested last week on felony charges, and five days later the school had published no statement: Lisa Rinaldo, fifty four, of Newburgh, the school's director and chief executive since twenty eighteen, and employee Brian M. Smith, thirty four, face endangering charges after an investigation that began with a November eleventh complaint; both were arraigned and released without bail, and whether they remain employed, and whether the school remains open, are unstated in the public record. Governor Hochul has vetoed the Food Safety and Chemical Disclosure Act, which would have banned Red 3, potassium bromate, and propylparaben and forced public disclosure of GRAS safety files, after a cost fight in which estimates ran from twenty eight dollars to six hundred twenty dollars per household. And New York's new law bans subscription fees for car features that run on hardware already installed in the vehicle, effective February twenty seventh, twenty twenty seven.\n\nStories and sources:\n\t\u2022\tNew Windsor school arrests: Callahan Blackwood, Reporting from the Uncanny Valley (rftuv.ai), November 23, 2026, https://rftuv.ai/news/new-windsor-school-abuse-arrests (verified live, HTTP 200, during production); New Windsor Police Department press release, November 20, 2026, via News 12 Hudson Valley.\n\t\u2022\tHochul food safety veto: Mara Quinn, Reporting from the Uncanny Valley (rftuv.ai), November 23, 2026; Lohud, WAMC, and the Times Herald-Record, November 20, 2026; Center for Science in the Public Interest fact sheet and statement.\n\t\u2022\tNew York vehicle subscription fee law: Office of Governor Kathy Hochul, \"Governor Hochul Signs Bill Restricting Exploitative Vehicle Subscription Fees,\" November 23, 2026; S.9348A/A.10411A, New York State Senate legislation text (General Business Law section 198-d); News 12 Hudson Valley, November 23, 2026.",
+     "description_source": "shownotes",
+     "guid": "ab99c2f7-9f8c-5990-9368-af7f3008b4cd",
+     "guid_source": "provisional",
+     "pubDate": "Tue, 24 Nov 2026 12:00:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep079.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep079.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep079.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep079.txt"
     }
    ]
   },
