@@ -1,0 +1,37 @@
+Noel: From R F T U V, this is The Daily Brief. I am Noel. It is Tuesday, November twenty fourth, twenty twenty six, and this is the evening edition. Tonight: PayPal strips seller protection from A I-driven purchases four days before Black Friday; Optum agrees to sell Hudson Valley medical practices to two regional health systems; and Dutchess County gets a clear, quiet Tuesday ahead of the holiday.
+
+Noel: PayPal announced new merchant terms on November tenth for a payment type it calls the Agentic Virtual Card. The terms took effect Monday, November twenty third, twenty twenty six, and they apply to eligible U S business accounts. When a buyer pays with PayPal through an A I shopping agent, and the merchant's checkout needs a card number to settle the order, PayPal may give the agent a single use virtual card that is different from the funding source in the buyer's wallet.
+
+Noel: Merchants need to understand this. When an order settles this way, the merchant is paid through its own card processor, not through its PayPal balance, and the merchant pays the card network fees. And those transactions are not eligible for PayPal Seller Protection.
+
+Noel: That matters this week. Unauthorized payment claims and item-not-received claims now run through card chargeback, not PayPal's own dispute handling. Each virtual card works exactly once. If a refund is owed, it goes back to that specific card.
+
+Noel: The friction point is real. PayPal markets agentic commerce as a growth opportunity for merchants and names Seller Protection as a feature. But the virtual card route does not qualify for it. PayPal also decides, on its end, whether to issue a virtual card or charge through the standard method. Merchants do not get a say. As of Tuesday evening, no other major payment network has announced a matching exclusion. The card networks are instead promoting their own agent payment programs.
+
+Noel: Across the Atlantic, the European Commission presented a proposal on November eleventh called the Digital Fairness Act. Reporting on the Commission proposal describes Article twenty six, which governs software that concludes contracts on behalf of consumers. On first use of a shopping agent, the consumer must expressly choose one of three options: the agent confirms every purchase before it goes through; the agent confirms only purchases that meet consumer-set criteria, such as a maximum price; or the agent buys without any confirmation at all. The consumer can change that choice at any time.
+
+Noel: If an agent is paid to recommend a product, that must be disclosed. Any purchase following a paid recommendation then requires consumer confirmation, regardless of the setting they chose at setup.
+
+Noel: This is not law yet. Parliament and Council must still negotiate the final text. If adopted, it takes effect twelve months after entry into force.
+
+Noel: The same week PayPal removed a protection for merchants, Brussels proposed requiring that consumers be asked how much control they want over their A I agents. Those two developments, four days before Black Friday, show where agentic commerce actually stands right now.
+
+Noel: Optum is selling some of its Hudson Valley medical practices to two regional health systems, with both deals expected to close in early December.
+
+Noel: The first involves Northwell Health. Under a purchase agreement, Northwell would acquire select Optum Medical Care practices in New York, with as many as eighty seven physicians and forty seven advanced practice providers included. Dutchess County operations are part of the agreement. That deal is expected to close December seventh.
+
+Noel: The second deal goes to Westchester Medical Center Health Network, known as WMCHealth. It covers certain Optum locations including leased sites in Lake Katrine, Middletown, and Warwick. Specialties in that group include orthopedics, obstetrics and gynecology, pediatrics, ophthalmology, and physical rehabilitation. The transaction covers about twenty five physicians, eleven advanced practice providers, and eighty four additional staff members. That close is scheduled for December fourth.
+
+Noel: Optum confirmed it is in discussions to sell Hudson Valley practices, and says it is working with health systems to preserve local access to care.
+
+Noel: The transition is already affecting patients. Optum notified pediatric and orthopedic patients on November thirteenth that those services will move from Rhinebeck to Lake Katrine on December first. Ulster County Executive Jen Metzger's office received reports from parents about pediatric care ending at both Rhinebeck and Lake Katrine. Optum spokesperson Dave Trausneck told WAMC that the company is committed to ensuring families around Kingston, Rhinebeck, and Lake Katrine continue to have access to pediatric care close to home. WAMC reported that Optum denies any intent to end Hudson Valley pediatric services.
+
+Noel: These deals follow a disclosure Optum made in June that it was in negotiations with New York health systems. Five months later, the December close dates make the timeline concrete, and the November patient notices make the change immediate for some families. According to WAMC, state filings reported this week, and Wisevoter, both transactions are moving forward.
+
+Noel: The local close tonight is a short one. Tuesday in Dutchess County is sunny, with highs in the mid to upper forties. No active weather alerts are in effect for the area.
+
+Noel: The only new document in the county government watch overnight is from the Town of Milan. Milan has posted its twenty twenty seven final budget. On most nights that would be a minor footnote. Tonight it is the whole of the local story: one posted budget, one clear day, two days before Thanksgiving.
+
+Noel: Holiday weather arrives Thursday. Dutchess County gets this clear Tuesday before it does. A quiet evening is sometimes worth noting on its own.
+
+Noel: That is The Daily Brief for Tuesday, November twenty fourth, twenty twenty six. I am Noel. The sources for everything in this episode are listed in the show notes.

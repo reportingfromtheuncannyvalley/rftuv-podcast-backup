@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-24T16:19:52.015358+00:00",
+ "generated": "2026-11-24T17:59:10.905067+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -2219,6 +2219,33 @@
      "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep079.mp3",
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep079.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep079.txt"
+    },
+    {
+     "episode_number": 80,
+     "production_episode_number": 80,
+     "title": "PayPal Pulls Seller Protection From Agent Payments, and Optum Sells Valley Practices",
+     "bundle_title": "PayPal Pulls Seller Protection From Agent Payments, and Optum Sells Valley Practices",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/briefing/2026-11-24-ep80",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/briefing/2026-11-24-ep80/audio.mp3",
+     "audio_bytes": 3202213,
+     "duration_seconds": 400,
+     "duration": "00:06:40",
+     "duration_source": "bundle-metadata",
+     "date": "2026-11-24",
+     "feed_match": false,
+     "status_raw": "Produced November 24, 2026; release in progress.",
+     "description": "Title: PayPal Pulls Seller Protection From Agent Payments, and Optum Sells Valley Practices\nDate: Tuesday, November 24, 2026\nHost: Noel\n\nPayPal's new Agentic Virtual Card terms took effect Monday, November twenty third, four days before Black Friday: when an AI shopping agent settles an order with a single use virtual card PayPal provides, the payment is not eligible for PayPal Seller Protection, and disputes move to the card network chargeback process. In Europe, the European Commission's proposed Digital Fairness Act would make consumers choose how much buying authority an agent gets. Optum is selling some of its Hudson Valley practices: Northwell Health has signed a purchase agreement for a select group of Optum Medical Care practices, expected to close December seventh, and the Westchester Medical Center Health Network would take locations including Lake Katrine, Middletown, and Warwick, scheduled to close December fourth, while Optum says pediatric care around Kingston, Rhinebeck, and Lake Katrine continues. And the Town of Milan has posted its twenty twenty seven final budget on a quiet, sunny Tuesday in Dutchess County.\n\nStories and sources:\n\t\u2022\tPayPal Agentic Virtual Card terms: Tech Times, \"PayPal Excludes AI Agent Virtual Card Payments From Seller Protection Before Black Friday,\" November 24, 2026; PYMNTS, \"PayPal Sets Virtual Card Rules for Agentic Commerce,\" November 2026; PayPal Policy Updates page (notice issued November 10, 2026, effective November 23, 2026); Weverve merchant guide to the Agentic Commerce Merchant Virtual Card Terms.\n\t\u2022\tEU Digital Fairness Act proposal: PYMNTS, \"EU Targets AI Shopping Agents in Digital Consumer Overhaul,\" November 23, 2026; European Commission proposal presented November 11, 2026 (Articles 26 and 27), as analyzed by Legal 500 and the Digital Watch Observatory.\n\t\u2022\tOptum Hudson Valley practice sales: Wisevoter, \"Optum Moves to Sell Some Hudson Valley Practices,\" November 24, 2026; WAMC, \"Healthcare company Optum says pediatric care in Hudson Valley will continue despite reports,\" November 20, 2026; Radio Catskill, November 2026; New York State Department of Health filings as reported by brief.news and Distil Info, November 18, 2026.\n\t\u2022\tTown of Milan 2027 final budget and Dutchess County weather: RFTUV local government digest, November 24, 2026 (Town of Milan, 2027 Town of Milan Final Budget, milan-ny.gov); National Weather Service forecast for Dutchess County, November 24, 2026.",
+     "description_source": "shownotes",
+     "guid": "aec6f8d6-6dc3-58d6-8877-4e8bf5ffccd4",
+     "guid_source": "provisional",
+     "pubDate": "Tue, 24 Nov 2026 12:10:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep080.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep080.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep080.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep080.txt"
     }
    ]
   },
