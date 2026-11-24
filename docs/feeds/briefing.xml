@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>The RFTUV Briefing is a short AI news and tech news podcast from Reporting from the Uncanny Valley (RFTUV), built from reporting and analysis at rftuv.ai. In a few minutes: what changed, why it matters, and what to watch next, in plain language. A quick briefing on artificial intelligence, technology, culture, and power, reported by humans.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 11:16:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 16:04:18 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/briefing.xml" rel="self" type="application/rss+xml" />
     <itunes:author>The RFTUV Briefing</itunes:author>
@@ -20,6 +20,28 @@
     <podcast:guid>dd1b915a-98c8-59c0-a2ce-b5f61f5255a9</podcast:guid>
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
+    <item>
+      <title>AI Rivals Share Protocols, United Bans Booking Agents, and a Thanksgiving Storm</title>
+      <description>Title: AI Rivals Share Protocols, United Bans Booking Agents, and a Thanksgiving Storm
+Date: Monday, November 23, 2026
+Host: Noel
+
+AI rivals are cooperating on open, shared protocols for agent commerce, because fragmented transactions that cannot be trusted or completed help no one. United Airlines has become the first major United States airline to formally ban unauthorized third-party AI agents from its booking systems, writing the prohibition into its Contract of Carriage: agents may still show United flights and prices, but they cannot make, modify, or service a ticket, and United may cancel an agent-made reservation without notice. And a Thanksgiving nor'easter is aimed at the Hudson Valley: rain developing Thursday morning to early afternoon, moderate to heavy through the evening, three quarters of an inch to two inches in the Valley, gusts of twenty five to thirty five miles per hour, and possible power outages, with the clean travel window running through Wednesday morning.
+
+Stories and sources:
+	•	AI rivals team up on open agentic protocols: CoinDesk, November 21, 2026; PYMNTS, November 23, 2026.
+	•	United Airlines bans third-party AI booking agents: United Airlines announcement and Contract of Carriage changes, November 11, 2026, first reported by The Wall Street Journal; TechCrunch, November 12, 2026; USA Today, November 11, 2026; Simple Flying, November 12, 2026.
+	•	Thanksgiving storm: National Weather Service New York area forecast discussion, Tuesday morning, November 24, 2026 (high wind watch, Long Island and New York City metro, Thursday 10 AM to Friday 1 AM); Hudson Valley Weather forecast, November 24, 2026 (Hudson Valley rain timing and totals); Patch, November 23, 2026 (gusts and possible power outages); Ellis Ward, "Thanksgiving travel how-to," Reporting from the Uncanny Valley (rftuv.ai), November 23, 2026.</description>
+      <pubDate>Mon, 23 Nov 2026 12:10:00 +0000</pubDate>
+      <guid isPermaLink="false">2a28d545-7ca0-572d-ab6c-d19aedf1fa73</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep078.mp3" length="2716261" type="audio/mpeg" />
+      <itunes:duration>00:05:39</itunes:duration>
+      <itunes:episode>78</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep078.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep078.txt" type="text/plain" />
+    </item>
     <item>
       <title>Zero Data Retention Meant Nothing, Signal Blocks the Agents, and Rockland Adds Jobs</title>
       <description>Title: Zero Data Retention Meant Nothing, Signal Blocks the Agents, and Rockland Adds Jobs

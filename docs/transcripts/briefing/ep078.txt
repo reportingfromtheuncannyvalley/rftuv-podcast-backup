@@ -1,0 +1,33 @@
+Noel: From R F T U V, this is The Daily Brief. I am Noel. It is Monday, November twenty third, twenty twenty six, and this is the evening edition. Up next: A I rivals set aside their competition to build shared commerce protocols, United Airlines becomes the first major carrier to ban third-party A I booking agents, and a nor'easter lines up a direct hit on Hudson Valley Thanksgiving travel.
+
+Noel: We start with a development that runs against what you might expect from the A I industry. Companies that compete fiercely over artificial intelligence products are cooperating on something none of them can afford to get wrong. CoinDesk reported Saturday and payments followed up today: A I rivals are working together on open, shared protocols for agent commerce. The goal is to give A I agents a common language for completing transactions across the internet, regardless of who built the agent or what platform it runs on.
+
+Noel: The reason is math. Right now, every company building an A I agent also has to solve how that agent pays for things, confirms purchases, and closes transactions with systems run by other companies. Without a common standard, those interactions fail. An agent trying to complete a purchase hits a wall if the other side does not speak the same protocol. Multiply that across thousands of competing systems and agent commerce becomes a fragmented mess before it ever gets going.
+
+Noel: The rivals are building the foundation together. Fragmented transactions that cannot be trusted or completed help no one. A shared, open protocol benefits every company building on top of it. The alternative is a pile of incompatible systems that neither humans nor machines can navigate reliably, and that outcome serves no one at the table.
+
+Noel: This pattern has shown up before in technology. When competing companies conclude that the infrastructure layer is too important to fragment, they cooperate on the base and compete on everything above it. That is what appears to be happening here. If it holds, any A I agent would be able to complete a commerce transaction on the same standard, no matter who built it.
+
+Noel: Now to our second story. United Airlines made history of a certain kind earlier this month. On Wednesday, November eleventh, it became the first major United States airline to formally prohibit unauthorized third-party personal A I agents from its booking systems. The restrictions do not appear in a press release. They are written directly into United's Contract of Carriage, which makes them binding policy.
+
+Noel: Two rules matter. The first says no A I agent may make, modify, or service a ticket, or purchase any product or service on United's platform. The second says United can cancel any reservation made or managed by an A I agent, and it can do so without notice. Those restrictions apply to United's own website and app, and they reach indirectly through travel agencies and aggregators connected to United's systems.
+
+Noel: There is a clear line worth drawing here. Agents can still show you United flight options and prices. You can still use an A I tool to research routes, compare fares, and plan an itinerary. You cannot let an A I agent complete the purchase. When it comes time to book, a human has to do it.
+
+Noel: United offered two explanations. One is security. Sharing account credentials with a third-party A I assistant can expose personal information, lead to unintended purchases, generate unauthorized account changes, or trigger the unexpected use of MileagePlus miles. The other is federal regulation. Certain steps in the booking process carry legal weight. The check-in acknowledgment that your checked bags contain no hazardous materials, for example, requires a human to complete it. United says an A I agent cannot satisfy that requirement under current federal rules.
+
+Noel: Reservations made by A I agents before November eleventh will be honored. The Wall Street Journal first reported the move. TechCrunch and USA Today also covered it.
+
+Noel: United is the first major carrier to formalize this restriction. The question it raises, about where human responsibility begins and A I assistance ends in a regulated transaction, is one the broader travel industry will have to answer.
+
+Noel: Now to our third story, and this one has a deadline. A coastal storm is tracking toward the Hudson Valley, and it arrives on Thanksgiving Day.
+
+Noel: The latest forecast from the National Weather Service and Hudson Valley Weather calls for a nor'easter reaching the area on Thursday, November twenty sixth. Rain develops between eight in the morning and two in the afternoon. It runs moderate to heavy at times through the afternoon and evening, then tapers off overnight.
+
+Noel: Rainfall totals across the Valley are expected at roughly three quarters of an inch to two inches. Higher elevations could see two to three inches. Valley wind gusts of twenty five to thirty five miles per hour are likely, with the strongest winds running from noon through ten at night. Near the coast, gusts up to sixty miles per hour are possible. A high wind watch is in effect for Long Island and the New York City metro area, running from Thursday morning into early Friday. Power outages are possible.
+
+Noel: R F T U V's Ellis Ward published a full travel guide at rftuv.ai. The core advice is this: Travel through Wednesday morning if you can. That is the clean window. Do not drive on Thanksgiving afternoon or evening. The storm reaches full strength by then and conditions on the roads will be poor. If you have to make a Thanksgiving Day drive, go early in the morning before the storm arrives in force. Rain begins to ease early Friday, so the return window opens Friday afternoon and runs through Saturday.
+
+Noel: The storm is not avoidable, but the worst of it is. Plan around it.
+
+Noel: That is The Daily Brief for Monday, November twenty third, twenty twenty six. I am Noel. The sources for everything in this episode are listed in the show notes.
