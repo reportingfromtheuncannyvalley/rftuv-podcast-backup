@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>Reporting from the Uncanny Valley is a technology and culture podcast hosted by Noel Brown from New York's Hudson Valley. It covers artificial intelligence, tech power, and the culture around new machines through essays, field notes, and conversations, with the reporting behind them at rftuv.ai. Plainspoken and curious, with no hype and no tribal politics. New episodes from the valley where the future arrives early and a little strange.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 17:59:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 14:17:29 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/reporting.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Reporting from the Uncanny Valley</itunes:author>
@@ -21,6 +21,28 @@
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
     <podcast:location>Hudson Valley, New York, USA</podcast:location>
+    <item>
+      <title>The Lower Hudson Valley's 2032 Shortfall and the Gigawatt in the Queue</title>
+      <description>Title: The Lower Hudson Valley's 2032 Shortfall and the Gigawatt in the Queue
+Date: Wednesday, November 25, 2026
+Host: Noel
+
+The New York Independent System Operator has put a date and a number on the Lower Hudson Valley's power future. Its 2026 Reliability Needs Assessment, the first ever to identify a statewide resource deficiency, finds this region short by one hundred thirty megawatts for two hours in the summer of 2032, worsening to roughly one thousand nine hundred fifty megawatts by 2036, with rising demand from industrial facilities and data centers among the drivers. In East Fishkill, a new Data Center Task Force has held its first meeting inside a three-year town moratorium, lost its iPark representative to a conflict-of-interest resignation before any vote, and works on paper alongside an interconnection queue request, Q1738, for a full gigawatt of capacity proposed in two five-hundred-megawatt phases. This episode holds the three clocks apart: the grid operator's reliability clock, the town's moratorium clock, and the queue's paper clock, and states the caution the queue data itself carries: a queued request is a request, not a commitment to build. With Mara Quinn, our resident expert on the media and business of technology, on grid economics, queue incentives, and who pays for new capacity.
+
+Sources:
+	•	Thomas C. Zambito, "Lower Hudson Valley heading for energy crisis in 2032. What comes next," The Journal News / lohud.com, November 24, 2026. https://www.lohud.com/story/news/ny-news/2026/11/24/lower-hudson-valley-faces-energy-crisis-in-six-years-what-it-means/92945437007/
+	•	New York Independent System Operator, "NYISO Report Identifies First-Ever Statewide Resource Deficiency," press release, November 18, 2026, and the 2026 Reliability Needs Assessment: Lower Hudson Valley deficient by approximately 130 MW for 2 hours in summer 2032, increasing to approximately 1,950 MW for 7 hours in summer 2036; statewide deficiency beginning at approximately 225 MW in 2033 and growing to more than 1,850 MW by 2036. https://www.nyiso.com/-/press-release-nyiso-report-identifies-first-ever-statewide-resource-deficiency
+	•	June Mercer, "East Fishkill Data Center Task Force Holds First Meeting," Reporting from the Uncanny Valley, November 24, 2026: task force chaired by Marianne Flores; Town of East Fishkill Local Law No. 3 of 2026 (three-year moratorium through July 1, 2029); the Responsible Data Center Development Act, S10642/A11560; the Governor's one-year hyperscale moratorium executive order and Generic Environmental Impact Statement; Watt Street queue data (Dutchess County seven requests / 1.1 GW queued; the East Fishkill 1.0 GW request still active; a queued project is a request, not a commitment). https://rftuv.ai/news/east-fishkill-task-force-first-meeting-update</description>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">05355b37-d74f-51b2-ab90-4028c988435c</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-reporting/ep042.mp3" length="7963518" type="audio/mpeg" />
+      <itunes:duration>00:16:33</itunes:duration>
+      <itunes:episode>42</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/reporting/ep042.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/reporting/ep042.txt" type="text/plain" />
+    </item>
     <item>
       <title>Anthropic's Record IPO and the Philanthropy It Promises</title>
       <description>Title: Anthropic's Record IPO and the Philanthropy It Promises

@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-24T17:59:10.905067+00:00",
+ "generated": "2026-11-25T14:17:16.324858+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -3398,6 +3398,33 @@
      "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-reporting/ep041.mp3",
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/reporting/ep041.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/reporting/ep041.txt"
+    },
+    {
+     "episode_number": 42,
+     "production_episode_number": 42,
+     "title": "The Lower Hudson Valley's 2032 Shortfall and the Gigawatt in the Queue",
+     "bundle_title": "The Lower Hudson Valley's 2032 Shortfall and the Gigawatt in the Queue",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/reporting/2026-11-25-ep42",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/reporting/2026-11-25-ep42/audio.mp3",
+     "audio_bytes": 7963518,
+     "duration_seconds": 993,
+     "duration": "00:16:33",
+     "duration_source": "bundle-metadata",
+     "date": "2026-11-25",
+     "feed_match": false,
+     "status_raw": "Produced and bundled Nov 25, 2026; release pending.",
+     "description": "Title: The Lower Hudson Valley's 2032 Shortfall and the Gigawatt in the Queue\nDate: Wednesday, November 25, 2026\nHost: Noel\n\nThe New York Independent System Operator has put a date and a number on the Lower Hudson Valley's power future. Its 2026 Reliability Needs Assessment, the first ever to identify a statewide resource deficiency, finds this region short by one hundred thirty megawatts for two hours in the summer of 2032, worsening to roughly one thousand nine hundred fifty megawatts by 2036, with rising demand from industrial facilities and data centers among the drivers. In East Fishkill, a new Data Center Task Force has held its first meeting inside a three-year town moratorium, lost its iPark representative to a conflict-of-interest resignation before any vote, and works on paper alongside an interconnection queue request, Q1738, for a full gigawatt of capacity proposed in two five-hundred-megawatt phases. This episode holds the three clocks apart: the grid operator's reliability clock, the town's moratorium clock, and the queue's paper clock, and states the caution the queue data itself carries: a queued request is a request, not a commitment to build. With Mara Quinn, our resident expert on the media and business of technology, on grid economics, queue incentives, and who pays for new capacity.\n\nSources:\n\t\u2022\tThomas C. Zambito, \"Lower Hudson Valley heading for energy crisis in 2032. What comes next,\" The Journal News / lohud.com, November 24, 2026. https://www.lohud.com/story/news/ny-news/2026/11/24/lower-hudson-valley-faces-energy-crisis-in-six-years-what-it-means/92945437007/\n\t\u2022\tNew York Independent System Operator, \"NYISO Report Identifies First-Ever Statewide Resource Deficiency,\" press release, November 18, 2026, and the 2026 Reliability Needs Assessment: Lower Hudson Valley deficient by approximately 130 MW for 2 hours in summer 2032, increasing to approximately 1,950 MW for 7 hours in summer 2036; statewide deficiency beginning at approximately 225 MW in 2033 and growing to more than 1,850 MW by 2036. https://www.nyiso.com/-/press-release-nyiso-report-identifies-first-ever-statewide-resource-deficiency\n\t\u2022\tJune Mercer, \"East Fishkill Data Center Task Force Holds First Meeting,\" Reporting from the Uncanny Valley, November 24, 2026: task force chaired by Marianne Flores; Town of East Fishkill Local Law No. 3 of 2026 (three-year moratorium through July 1, 2029); the Responsible Data Center Development Act, S10642/A11560; the Governor's one-year hyperscale moratorium executive order and Generic Environmental Impact Statement; Watt Street queue data (Dutchess County seven requests / 1.1 GW queued; the East Fishkill 1.0 GW request still active; a queued project is a request, not a commitment). https://rftuv.ai/news/east-fishkill-task-force-first-meeting-update",
+     "description_source": "shownotes",
+     "guid": "05355b37-d74f-51b2-ab90-4028c988435c",
+     "guid_source": "provisional",
+     "pubDate": "Wed, 25 Nov 2026 12:00:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep042.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-reporting/ep042.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/reporting/ep042.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/reporting/ep042.txt"
     }
    ]
   },
