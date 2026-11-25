@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-25T14:17:16.324858+00:00",
+ "generated": "2026-11-25T14:37:55.354659+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -2246,6 +2246,33 @@
      "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep080.mp3",
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep080.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep080.txt"
+    },
+    {
+     "episode_number": 81,
+     "production_episode_number": 81,
+     "title": "Two Fell From a Rhinebeck Roof, a Jury Convicts Huawei, and Child Care Expands",
+     "bundle_title": "Two Fell From a Rhinebeck Roof, a Jury Convicts Huawei, and Child Care Expands",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/briefing/2026-11-25-ep81",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/briefing/2026-11-25-ep81/audio.mp3",
+     "audio_bytes": 2962494,
+     "duration_seconds": 367,
+     "duration": "00:06:07",
+     "duration_source": "bundle-metadata",
+     "date": "2026-11-25",
+     "feed_match": false,
+     "status_raw": "Produced and bundled Nov 25, 2026; pending backup RSS release.",
+     "description": "Title: Two Fell From a Rhinebeck Roof, a Jury Convicts Huawei, and Child Care Expands\nDate: Wednesday, November 25, 2026\nHost: Noel\n\nTwo construction workers fell from the same roof at the Locust Hill job site in Rhinebeck on Thursday, November nineteenth, minutes apart. Kilmar Quintanilla Sanchez, twenty, of Newburgh, died, and a twenty one year old worker remains in critical condition. Nearly a week later, no employer, contractor, or subcontractor has been named in any official communication, and no cause has been released. In Brooklyn, a federal jury convicted Huawei Technologies and three of its subsidiaries on ten of twelve counts, including bank fraud, wire fraud, and conspiracy to steal trade secrets, while acquitting the company of racketeering conspiracy. And Dutchess County is advancing First 3 NY, a state child care pilot for children from birth to age three regardless of family income, with up to one thousand seats planned in the county and family enrollment expected in early twenty twenty seven.\n\nStories and sources:\n\t\u2022\tRhinebeck roof falls: RFTUV, Callahan Blackwood, \"Two Workers Fell in Rhinebeck; One Dead, Employer Unnamed,\" November 24, 2026, verified live at rftuv.ai/news/rhinebeck-roof-falls-locust-hill on November 25, 2026. Scripted strictly from the RFTUV report; its underlying sources are the New York State Police news release of November 19, 2026, The Daily Catch (single source anonymous EMT account, presented on air with that attribution and its limits), lohud, Hard Hat Report, and the OSHA construction fall protection standard, 29 CFR 1926.501(b)(1). No employer is named and no cause is stated, because no official communication names one or states one. Kearney Realty is the developer of the planned eighty unit Locust Hill project, not the employer.\n\t\u2022\tHuawei verdict: Associated Press, \"Chinese tech giant Huawei is guilty of conspiracy to steal trade secrets, US jury finds,\" November 24, 2026 (AP via PBS NewsHour and AP syndication); corroborated by CNN, Reuters, Fox Business, and the Wall Street Journal, November 24, 2026. United States District Court for the Eastern District of New York, Brooklyn: guilty on ten of twelve counts including bank fraud, wire fraud, conspiracy to steal trade secrets, sanctions violations, and money laundering conspiracy; acquitted of racketeering conspiracy and conspiracy to obstruct justice; sentencing September 14, 2027, before Judge Ann Donnelly; Justice Department statement and Huawei response (attorney Brian Heberlig) as reported by AP and the Wall Street Journal.\n\t\u2022\tFirst 3 NY child care: Dutchess County Government, \"Dutchess County Advances First 3 NY Child Care Initiative,\" November 24, 2026; Governor's Office, \"Governor Hochul Unveils Major Step in Delivering Affordable Child Care to New York Families, Regardless of Income,\" November 18, 2026 (three pilot counties: Dutchess, Monroe, Broome; more than sixty million dollars in the fiscal 2027 budget, more than twenty million per county, up to one thousand seats per county, first seats as soon as spring 2027); Child Care Council of Dutchess and Putnam provider guidance (fifteen dollars per week for full time care; family enrollment expected early 2027).\n\t\u2022\tLocal close: RFTUV local government digest, November 25, 2026 (Town of Hyde Park agenda for December 2 posted; no active Dutchess alerts); National Weather Service forecast for Dutchess County, November 25, 2026 (cold and clear, highs in the mid forties).",
+     "description_source": "shownotes",
+     "guid": "fc43896b-a079-5901-b97d-1ebe31c13d48",
+     "guid_source": "provisional",
+     "pubDate": "Wed, 25 Nov 2026 12:00:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep081.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep081.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep081.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep081.txt"
     }
    ]
   },
