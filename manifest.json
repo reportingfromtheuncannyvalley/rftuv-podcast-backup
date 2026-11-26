@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-26T18:24:17.116046+00:00",
+ "generated": "2026-11-26T18:30:50.599177+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -4628,6 +4628,33 @@
      "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep039.mp3",
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep039.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep039.txt"
+    },
+    {
+     "episode_number": 40,
+     "production_episode_number": 40,
+     "title": "Postponed, Not Canceled",
+     "bundle_title": "Postponed, Not Canceled",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/dead-air-valley/2026-11-26-ep40",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/dead-air-valley/2026-11-26-ep40/audio.mp3",
+     "audio_bytes": 1657189,
+     "duration_seconds": 207,
+     "duration": "00:03:27",
+     "duration_source": "bundle-metadata",
+     "date": "2026-11-26",
+     "feed_match": false,
+     "status_raw": "Produced Nov 26, 2026; release in progress.",
+     "description": "Title: Postponed, Not Canceled\nDate: Thursday, November 26, 2026\nHost: Silas Van Wyck\n\nA Dead Air Valley Thanksgiving special. The word that reached Silas Van Wyck on Thanksgiving morning, through his mom and her friend, was that the Macy's parade had been canceled for the first time in a hundred years. The word in the New York Times was different: first postponement. A small mystery the listener solves alongside him, in two dates, Thursday, November twenty-sixth and Saturday, November twenty-eighth, and in what happens to a precise word as a story travels. The parade was postponed, not canceled, and Saturday was on the calendar the whole time.\n\nSources:\n\t\u2022\tAssociated Press, \"Bad weather postpones Macy's Thanksgiving Day Parade for first time ever,\" November 2026 (apnews.com).\n\t\u2022\tNBC News, \"Macy's Thanksgiving Day Parade is pushed back to Saturday due to weather,\" November 2026 (nbcnews.com).\n\t\u2022\tArizona Republic (azcentral.com), \"Macy's Thanksgiving Day Parade postponed for 4th time in 100 years,\" November 25, 2026.",
+     "description_source": "shownotes",
+     "guid": "04d145bc-8094-5214-ba1e-8cce2c80edb2",
+     "guid_source": "provisional",
+     "pubDate": "Thu, 26 Nov 2026 12:10:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep040.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep040.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep040.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep040.txt"
     }
    ]
   }
