@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>Dead Air Valley explores the strange history, local legends, forgotten places, and unsettling stories of the Hudson Valley and the regions around it. From Sleepy Hollow and old river towns to neighboring valleys, back roads, abandoned landmarks, and the people who shaped them, each episode finds something worth bringing back into the light. Hosted by a rotating group of voices, with occasional noir-style narration, Dead Air Valley moves between atmospheric storytelling, local history, conversation, and timely discoveries. Episodes may be short, long, solo, or roundtable, but each begins with one question: what's still waiting in the dead air?</description>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Nov 2026 05:03:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 18:24:33 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/dead-air-valley.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Dead Air Valley</itunes:author>
@@ -21,6 +21,33 @@
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
     <podcast:location>Hudson Valley, New York, USA</podcast:location>
+    <item>
+      <title>The First Thanksgiving Was a Footnote</title>
+      <description>Title: The First Thanksgiving Was a Footnote
+Date: Thursday, November 26, 2026
+Host: Silas Van Wyck
+
+Silas Van Wyck starts with the news of the morning: the 2026 Macy's Thanksgiving Day Parade was postponed, not canceled — moved from Thursday to Saturday because of weather, the first postponement in its history, after outright cancellations in 1942, 1943 and 1944. Then he goes looking for the first Thanksgiving and finds it was a footnote. Edward Winslow's account of the 1621 harvest celebration at Patuxet never called it a thanksgiving and never gave it a date; Alexander Young added the name in a footnote in 1841. Along the way: the Continental Congress's day of thanksgiving in December 1777 after Saratoga, Washington's November 1789 proclamation, Sarah Josepha Hale's September 1863 letter and Lincoln's proclamation five days later, Roosevelt's 1939 move and the year of two Thanksgivings, the 1941 law fixing the fourth Thursday, and Wamsutta Frank James and the first National Day of Mourning in 1970. A Dead Air Valley Thanksgiving special.
+
+Sources:
+	•	Associated Press, "Bad weather postpones Macy's Thanksgiving Day Parade for first time ever," November 2026 (apnews.com).
+	•	Plimoth Patuxet Museums, "Eye-Witness Account of the 1621 Harvest Celebration" and "Sarah Josepha Hale" (plimoth.org).
+	•	National Museum of the American Indian, "Timeline — The First Thanksgiving" (americanindian.si.edu).
+	•	National Archives, "Congress Establishes Thanksgiving" (archives.gov).
+	•	Transcript of President Abraham Lincoln's Thanksgiving Proclamation, October 3, 1863 (obamawhitehouse.archives.gov).
+	•	Sarah J. Hale to Abraham Lincoln, September 28, 1863, Library of Congress.
+	•	Franklin D. Roosevelt Presidential Library, "The Year Of Two Thanksgivings," 2022 (fdr.blogs.archives.gov).
+	•	United American Indians of New England (uaine.org).</description>
+      <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">70a324a4-c373-5cf0-a6f9-4704ef38dd68</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-dead-air-valley/ep039.mp3" length="2314878" type="audio/mpeg" />
+      <itunes:duration>00:04:46</itunes:duration>
+      <itunes:episode>39</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/dead-air-valley/ep039.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/dead-air-valley/ep039.txt" type="text/plain" />
+    </item>
     <item>
       <title>Pumpkin or Apple? The Valley Already Voted on Thanksgiving Pie</title>
       <description>Title: Pumpkin or Apple? The Valley Already Voted on Thanksgiving Pie
