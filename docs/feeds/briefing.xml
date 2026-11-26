@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>The RFTUV Briefing is a short AI news and tech news podcast from Reporting from the Uncanny Valley (RFTUV), built from reporting and analysis at rftuv.ai. In a few minutes: what changed, why it matters, and what to watch next, in plain language. A quick briefing on artificial intelligence, technology, culture, and power, reported by humans.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Nov 2026 18:53:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 20:04:24 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/briefing.xml" rel="self" type="application/rss+xml" />
     <itunes:author>The RFTUV Briefing</itunes:author>
@@ -80,8 +80,8 @@ Stories and sources:
 	•	Town of Milan 2027 final budget and Dutchess County weather: RFTUV local government digest, November 24, 2026 (Town of Milan, 2027 Town of Milan Final Budget, milan-ny.gov); National Weather Service forecast for Dutchess County, November 24, 2026.</description>
       <pubDate>Tue, 24 Nov 2026 12:10:00 +0000</pubDate>
       <guid isPermaLink="false">aec6f8d6-6dc3-58d6-8877-4e8bf5ffccd4</guid>
-      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep080.mp3" length="2729933" type="audio/mpeg" />
-      <itunes:duration>00:05:41</itunes:duration>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep080.mp3" length="2734541" type="audio/mpeg" />
+      <itunes:duration>00:05:42</itunes:duration>
       <itunes:episode>80</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
