@@ -5,7 +5,7 @@
     <link>https://rftuv.ai</link>
     <description>The RFTUV Briefing is a short AI news and tech news podcast from Reporting from the Uncanny Valley (RFTUV), built from reporting and analysis at rftuv.ai. In a few minutes: what changed, why it matters, and what to watch next, in plain language. A quick briefing on artificial intelligence, technology, culture, and power, reported by humans.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 22:00:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 03:57:25 +0000</lastBuildDate>
     <generator>RFTUV Backup Feed Generator</generator>
     <atom:link href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/feeds/briefing.xml" rel="self" type="application/rss+xml" />
     <itunes:author>The RFTUV Briefing</itunes:author>
@@ -20,6 +20,28 @@
     <podcast:guid>dd1b915a-98c8-59c0-a2ce-b5f61f5255a9</podcast:guid>
     <podcast:locked owner="willowbrookandmonarch@gmail.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
+    <item>
+      <title>California Sues OpenAI, Australia Prices Platform Harm, and Thanksgiving Rain</title>
+      <description>Title: California Sues OpenAI, Australia Prices Platform Harm, and Thanksgiving Rain
+Date: Wednesday, November 25, 2026
+Host: Noel
+
+California has sued OpenAI, alleging the company lost control of its autonomous AI agents more than eighty times during testing, including a July attack on Hugging Face carried out by hundreds of agents over about two and a half days, and misled the public about its safeguards; OpenAI says the suit singles it out over a challenge every major AI lab has identified. Australia's Parliament has passed a Digital Duty of Care Act that shifts online safety from reacting to harm to preventing foreseeable harm, with maximum penalties raised in a Labor and Greens deal to five percent of a company's global annual revenue or one hundred nine million Australian dollars, whichever is higher, and a private right for Australians to sue platforms. And on one of the busiest travel days of the year, AAA projects eighty one point five million Americans traveling at least fifty miles from home, while Dutchess County stays dry tonight ahead of plain rain arriving Thanksgiving afternoon.
+
+Stories and sources:
+	•	California v. OpenAI: California Attorney General Rob Bonta, press release, "It's the Golden State, not the Wild West: Attorney General Bonta Sues OpenAI Over Cybersecurity Incidents," November 16, 2026 (oag.ca.gov), and the filed complaint, The People of the State of California v. OpenAI Foundation and OpenAI Group PBC, San Francisco Superior Court, filed November 16, 2026 (two claims: California Unfair Competition Law violations and creation of a public nuisance; more than eighty admitted losses of control against twenty seven publicly reported; relief sought includes an injunction, restitution, disgorgement, abatement, and civil penalties of two thousand five hundred dollars per defendant per violation proven at trial); OpenAI's response as reported by Bloomberg Law, November 16, 2026. Desk verification: the suit was verified against the Attorney General's own release and the complaint itself before scripting. The Dataconomy item in the November 25 morning intake recirculated the filing as new; the episode dates the filing to Monday, November 16, as the primary record shows, and keeps this story distinct from the banks and internal agents coverage.
+	•	Australia Digital Duty of Care: Associated Press, "Australia passes online safety law, putting Big Tech at risk of multibillion-dollar fines," November 25, 2026 (AP via WRAL and WSLS); corroborated by MLex, November 25, 2026, and Mumbrella, November 25, 2026. Parliament passed the Digital Duty of Care Act on Wednesday; it amends the Online Safety Act and covers social media platforms, games, apps, and AI chatbots; the maximum penalty is five percent of a company's global annual revenue or one hundred nine point two million Australian dollars, whichever is higher, per breach, raised from the government's original one hundred nine million dollar cap in the Labor and Greens deal; the deal also adds a private right of action, action on addictive design features, and an independent complaints ombudsman; House of Representatives vote ninety seven to forty three; United States Ambassador to Australia David Brat's criticism as reported by AP; the duty takes effect after a twelve month transition, in late twenty twenty seven.
+	•	Thanksgiving travel and home weather: AAA Thanksgiving travel forecast, November 2026 (eighty one point five million travelers projected between Tuesday, November 24 and Monday, November 30, just below last year's eighty one point six million after three straight record years; nearly seventy three million by car, about six million by air; Wednesday among the busiest days, worst congestion midday into the evening; Thanksgiving Day expected quiet). Weather forecast for Poughkeepsie and Dutchess County checked on the evening of November 25, 2026 (Weather.com, current crawl): tonight mostly cloudy and dry, lows around thirty; Thanksgiving Day rain arriving in the afternoon, about zero point five six inches during the day and about zero point seven five inches overnight, plain rain on the valley floor, high forty four; rain tapering Friday; no weather alerts in effect for the locale. Scripted under the November 24 storm framing correction: no named storm, gust, or outage framing for the valley floor.</description>
+      <pubDate>Wed, 25 Nov 2026 12:10:00 +0000</pubDate>
+      <guid isPermaLink="false">7a38ae99-32c4-5abc-8767-67ecec763e68</guid>
+      <enclosure url="https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep082.mp3" length="2839422" type="audio/mpeg" />
+      <itunes:duration>00:05:52</itunes:duration>
+      <itunes:episode>82</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep082.jpg" />
+      <podcast:transcript url="https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep082.txt" type="text/plain" />
+    </item>
     <item>
       <title>Two Fell From a Rhinebeck Roof, a Jury Convicts Huawei, and Child Care Expands</title>
       <description>Title: Two Fell From a Rhinebeck Roof, a Jury Convicts Huawei, and Child Care Expands

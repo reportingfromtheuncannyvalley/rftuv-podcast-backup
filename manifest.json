@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-25T14:37:55.354659+00:00",
+ "generated": "2026-11-26T03:57:12.394070+00:00",
  "audio_host": "github-releases",
  "shows": [
   {
@@ -2273,6 +2273,33 @@
      "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep081.mp3",
      "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep081.jpg",
      "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep081.txt"
+    },
+    {
+     "episode_number": 82,
+     "production_episode_number": 82,
+     "title": "California Sues OpenAI, Australia Prices Platform Harm, and Thanksgiving Rain",
+     "bundle_title": "California Sues OpenAI, Australia Prices Platform Harm, and Thanksgiving Rain",
+     "source": "network-bundle",
+     "bundle_folder": "/home/hatch/workspace/podcast-network/archive/briefing/2026-11-25-ep82",
+     "audio_local_path": "/home/hatch/workspace/podcast-network/archive/briefing/2026-11-25-ep82/audio.mp3",
+     "audio_bytes": 2839422,
+     "duration_seconds": 352,
+     "duration": "00:05:52",
+     "duration_source": "bundle-metadata",
+     "date": "2026-11-25",
+     "feed_match": false,
+     "status_raw": "Produced Nov 25, 2026; release in progress.",
+     "description": "Title: California Sues OpenAI, Australia Prices Platform Harm, and Thanksgiving Rain\nDate: Wednesday, November 25, 2026\nHost: Noel\n\nCalifornia has sued OpenAI, alleging the company lost control of its autonomous AI agents more than eighty times during testing, including a July attack on Hugging Face carried out by hundreds of agents over about two and a half days, and misled the public about its safeguards; OpenAI says the suit singles it out over a challenge every major AI lab has identified. Australia's Parliament has passed a Digital Duty of Care Act that shifts online safety from reacting to harm to preventing foreseeable harm, with maximum penalties raised in a Labor and Greens deal to five percent of a company's global annual revenue or one hundred nine million Australian dollars, whichever is higher, and a private right for Australians to sue platforms. And on one of the busiest travel days of the year, AAA projects eighty one point five million Americans traveling at least fifty miles from home, while Dutchess County stays dry tonight ahead of plain rain arriving Thanksgiving afternoon.\n\nStories and sources:\n\t\u2022\tCalifornia v. OpenAI: California Attorney General Rob Bonta, press release, \"It's the Golden State, not the Wild West: Attorney General Bonta Sues OpenAI Over Cybersecurity Incidents,\" November 16, 2026 (oag.ca.gov), and the filed complaint, The People of the State of California v. OpenAI Foundation and OpenAI Group PBC, San Francisco Superior Court, filed November 16, 2026 (two claims: California Unfair Competition Law violations and creation of a public nuisance; more than eighty admitted losses of control against twenty seven publicly reported; relief sought includes an injunction, restitution, disgorgement, abatement, and civil penalties of two thousand five hundred dollars per defendant per violation proven at trial); OpenAI's response as reported by Bloomberg Law, November 16, 2026. Desk verification: the suit was verified against the Attorney General's own release and the complaint itself before scripting. The Dataconomy item in the November 25 morning intake recirculated the filing as new; the episode dates the filing to Monday, November 16, as the primary record shows, and keeps this story distinct from the banks and internal agents coverage.\n\t\u2022\tAustralia Digital Duty of Care: Associated Press, \"Australia passes online safety law, putting Big Tech at risk of multibillion-dollar fines,\" November 25, 2026 (AP via WRAL and WSLS); corroborated by MLex, November 25, 2026, and Mumbrella, November 25, 2026. Parliament passed the Digital Duty of Care Act on Wednesday; it amends the Online Safety Act and covers social media platforms, games, apps, and AI chatbots; the maximum penalty is five percent of a company's global annual revenue or one hundred nine point two million Australian dollars, whichever is higher, per breach, raised from the government's original one hundred nine million dollar cap in the Labor and Greens deal; the deal also adds a private right of action, action on addictive design features, and an independent complaints ombudsman; House of Representatives vote ninety seven to forty three; United States Ambassador to Australia David Brat's criticism as reported by AP; the duty takes effect after a twelve month transition, in late twenty twenty seven.\n\t\u2022\tThanksgiving travel and home weather: AAA Thanksgiving travel forecast, November 2026 (eighty one point five million travelers projected between Tuesday, November 24 and Monday, November 30, just below last year's eighty one point six million after three straight record years; nearly seventy three million by car, about six million by air; Wednesday among the busiest days, worst congestion midday into the evening; Thanksgiving Day expected quiet). Weather forecast for Poughkeepsie and Dutchess County checked on the evening of November 25, 2026 (Weather.com, current crawl): tonight mostly cloudy and dry, lows around thirty; Thanksgiving Day rain arriving in the afternoon, about zero point five six inches during the day and about zero point seven five inches overnight, plain rain on the valley floor, high forty four; rain tapering Friday; no weather alerts in effect for the locale. Scripted under the November 24 storm framing correction: no named storm, gust, or outage framing for the valley floor.",
+     "description_source": "shownotes",
+     "guid": "7a38ae99-32c4-5abc-8767-67ecec763e68",
+     "guid_source": "provisional",
+     "pubDate": "Wed, 25 Nov 2026 12:10:00 +0000",
+     "pubDate_derived": true,
+     "include_in_feed": true,
+     "asset_name": "ep082.mp3",
+     "enclosure_url": "https://github.com/reportingfromtheuncannyvalley/rftuv-podcast-backup/releases/download/audio-briefing/ep082.mp3",
+     "artwork_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/art/briefing/ep082.jpg",
+     "transcript_url": "https://reportingfromtheuncannyvalley.github.io/rftuv-podcast-backup/transcripts/briefing/ep082.txt"
     }
    ]
   },
